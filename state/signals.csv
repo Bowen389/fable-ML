@@ -1,0 +1,37 @@
+﻿signal_date,rule_id,name,cat,H,price_signal,mkt_ok,ml_pct,entry_date,entry_price,exit_date,exit_price,net_ret,status,logged_at
+2026-09-22,M3,AWP | Atheris (Factory New),gun_FN,14,193.9900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,AWP | Phobos (Factory New),gun_FN,14,35.8000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,CZ75-Auto | Pole Position (Factory New),gun_FN,14,22.8400,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Desert Eagle | Blue Ply (Factory New),gun_FN,14,22.0700,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Desert Eagle | The Bronze (Factory New),gun_FN,14,143.5000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,FAMAS | CaliCamo (Factory New),gun_FN,14,18.7900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,FAMAS | Crypsis (Factory New),gun_FN,14,8.6500,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,FAMAS | Night Borre (Factory New),gun_FN,14,69.6000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,FAMAS | ZX Spectron (Factory New),gun_FN,14,152.9900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Five-SeveN | Boost Protocol (Factory New),gun_FN,14,66.5000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Galil AR | Black Sand (Factory New),gun_FN,14,83.4500,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Galil AR | Crimson Tsunami (Factory New),gun_FN,14,40.5000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Galil AR | Signal (Factory New),gun_FN,14,13.6900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Glock-18 | Glockingbird (Factory New),gun_FN,14,20.4900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Glock-18 | Green Line (Factory New),gun_FN,14,42.5000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Glock-18 | Nuclear Garden (Factory New),gun_FN,14,258.5000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,M4A1-S | Fizzy POP (Factory New),gun_FN,14,78.0000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,MAC-10 | Button Masher (Factory New),gun_FN,14,20.9000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,MAC-10 | Last Dive (Factory New),gun_FN,14,20.9500,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,MAC-10 | Malachite (Factory New),gun_FN,14,41.2700,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,MP7 | Cirrus (Factory New),gun_FN,14,61.9900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,MP7 | Urban Hazard (Factory New),gun_FN,14,8.3100,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,MP9 | Sand Scale (Factory New),gun_FN,14,32.6800,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,P250 | Cyber Shell (Factory New),gun_FN,14,25.7100,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,P250 | Nevermore (Factory New),gun_FN,14,13.0000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,P250 | Ripple (Factory New),gun_FN,14,5.2500,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,P90 | Elite Build (Factory New),gun_FN,14,10.3800,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,PP-Bizon | Photic Zone (Factory New),gun_FN,14,15.6800,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,R8 Revolver | Survivalist (Factory New),gun_FN,14,9.1600,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Tec-9 | Blast From the Past (Factory New),gun_FN,14,46.4600,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Tec-9 | Flash Out (Factory New),gun_FN,14,23.5600,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Tec-9 | Ice Cap (Factory New),gun_FN,14,7.4800,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Tec-9 | Rust Leaf (Factory New),gun_FN,14,85.0000,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,Tec-9 | Urban DDPAT (Factory New),gun_FN,14,9.5300,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,USP-S | Cyrex (Factory New),gun_FN,14,222.4900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
+2026-09-22,M3,USP-S | Night Ops (Factory New),gun_FN,14,12.8900,True,,2026-09-23,,2026-10-07,,,pending,2026-09-27 12:57:44
