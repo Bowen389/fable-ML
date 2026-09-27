@@ -1,0 +1,80 @@
+name: daily-scan
+
+on:
+  schedule:
+    - cron: '30 1 * * *'        # 每天 UTC 01:30 = 北京时间 09:30（GitHub 定时可能延迟几十分钟）
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: '取数模式'
+        type: choice
+        options: [auto, full, none]
+        default: auto
+      notify:
+        description: '发送推送'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cs2-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Scan
+        env:
+          STEAMDT_API_KEY: ${{ secrets.STEAMDT_API_KEY }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          REFRESH_MODE: ${{ github.event.inputs.refresh || 'auto' }}
+          PLATFORM: ${{ vars.PLATFORM || 'ALL' }}
+          MAX_FETCH_MINUTES: '60'
+        run: |
+          EXTRA=""
+          if [ "${{ github.event.inputs.notify }}" = "false" ]; then EXTRA="--no-notify"; fi
+          python run.py scan $EXTRA
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data state output
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "scan $(TZ=Asia/Shanghai date +%F)"
+            git pull --rebase origin ${{ github.ref_name }}
+            git push
+          fi
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-report
+          path: |
+            output/latest.md
+            output/screen_latest.csv
+          if-no-files-found: ignore
+          retention-days: 30
