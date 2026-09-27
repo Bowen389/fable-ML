@@ -1,0 +1,89 @@
+name: monthly-learn
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'         # 每月 1 日 UTC 03:00（北京 11:00），在当天 daily-scan 之后
+  workflow_dispatch:
+    inputs:
+      retune:
+        description: '① 重新调参（给建议）'
+        type: boolean
+        default: true
+      apply_retune:
+        description: '  ↳ 自动应用通过检验的调参建议'
+        type: boolean
+        default: false
+      mine:
+        description: '② 重新挖掘规则'
+        type: boolean
+        default: true
+      mine_h:
+        description: '  ↳ 挖掘的持有周期（逗号分隔）'
+        type: string
+        default: '10,14,30'
+      add_mined:
+        description: '  ↳ 把通过时序外测试的候选加入规则库（probation）'
+        type: boolean
+        default: false
+      ml:
+        description: '③ 训练 LightGBM 排序模型'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cs2-scanner
+  cancel-in-progress: false
+
+jobs:
+  learn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Learn
+        env:
+          STEAMDT_API_KEY: ${{ secrets.STEAMDT_API_KEY }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          PLATFORM: ${{ vars.PLATFORM || 'ALL' }}
+          REFRESH_MODE: auto
+          MAX_FETCH_MINUTES: '60'
+        run: |
+          # 定时触发时 inputs 为空 → 默认 调参+挖掘+训练，都只给建议不自动改
+          RETUNE="${{ github.event.inputs.retune }}"; MINE="${{ github.event.inputs.mine }}"; ML="${{ github.event.inputs.ml }}"
+          FLAGS=""
+          [ "${RETUNE:-true}" = "true" ] && FLAGS="$FLAGS --retune"
+          [ "${{ github.event.inputs.apply_retune }}" = "true" ] && FLAGS="$FLAGS --apply-retune"
+          [ "${MINE:-true}" = "true" ] && FLAGS="$FLAGS --mine --mine-h ${{ github.event.inputs.mine_h || '10,14,30' }}"
+          [ "${{ github.event.inputs.add_mined }}" = "true" ] && FLAGS="$FLAGS --add-mined"
+          [ "${ML:-true}" = "true" ] && FLAGS="$FLAGS --ml"
+          echo "python run.py learn $FLAGS"
+          python run.py learn $FLAGS
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data state output
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "learn $(TZ=Asia/Shanghai date +%F)"
+            git pull --rebase origin ${{ github.ref_name }}
+            git push
+          fi
