@@ -1,6 +1,6 @@
 {
- "trained": "2026-09-27 13:04:08",
- "data_end": "2026-09-22",
+ "trained": "2026-10-01 11:11:02",
+ "data_end": "2026-09-30",
  "features": [
   "lr1",
   "r_1",
@@ -81,25 +81,25 @@
  ],
  "val": {
   "10": {
-   "rank_ic": 0.1989,
-   "top_win": 0.141,
-   "bottom_win": 0.233,
-   "top_beat": 0.651,
-   "n_test": 100962
+   "rank_ic": 0.189,
+   "top_win": 0.136,
+   "bottom_win": 0.185,
+   "top_beat": 0.626,
+   "n_test": 100883
   },
   "14": {
-   "rank_ic": 0.2181,
-   "top_win": 0.16,
-   "bottom_win": 0.192,
-   "top_beat": 0.639,
-   "n_test": 95850
+   "rank_ic": 0.1923,
+   "top_win": 0.13,
+   "bottom_win": 0.154,
+   "top_beat": 0.618,
+   "n_test": 95775
   },
   "30": {
-   "rank_ic": -0.1814,
-   "top_win": 0.153,
-   "bottom_win": 0.071,
-   "top_beat": 0.402,
-   "n_test": 75402
+   "rank_ic": -0.1955,
+   "top_win": 0.105,
+   "bottom_win": 0.077,
+   "top_beat": 0.39,
+   "n_test": 75343
   }
  }
 }
