@@ -16,16 +16,13 @@ def market_snapshot(feat, date):
     s = {k: float(row[k]) for k in ['above_ma30', 'breadth7', 'mkt_r_7', 'mkt_r_14', 'mkt_r_30', 'mkt_ma30_dev', 'mkt_dd_90', 'mkt_vol_14']}
     notes = []
     a = s['above_ma30']
-    if a < 0.10: notes.append(f'站上MA30占比 {a:.0%} → 投降区：历史上之后 10~14 天中位 +2~5%，但 30 天仍为负；2026 年 6 次投降只有 2 次反弹成功，不能重仓')
-    elif a < 0.35: notes.append(f'站上MA30占比 {a:.0%} → 阴跌中段：历史上最差区间（10 日胜率 18~27%）')
+    if a < 0.10: notes.append(f'站上MA30占比 {a:.0%} → 极弱市场，反弹尚未确认')
+    elif a < 0.35: notes.append(f'站上MA30占比 {a:.0%} → 弱势市场')
     elif a < 0.70: notes.append(f'站上MA30占比 {a:.0%} → 中性')
     else: notes.append(f'站上MA30占比 {a:.0%} → 普涨/强势')
     dd = s['mkt_dd_90']
-    if dd >= -0.15: notes.append(f'指数距90日高点 {dd:+.1%} → 长线择时 ✓（历史上 30 天胜率 44~55%）')
-    elif dd >= -0.30: notes.append(f'指数距90日高点 {dd:+.1%} → 长线择时 ✗（中间区，谨慎）')
-    else: notes.append(f'指数距90日高点 {dd:+.1%} → 长线择时 ✗（深跌区：历史上 30 天胜率仅 18%，长线规则失效）')
-    if s['mkt_r_14'] < -0.20: notes.append(f'指数 14 日 {s["mkt_r_14"]:+.1%} → 急跌：历史上之后 10 日中位 +20.8%、胜率 82%（仅 10 天样本）')
-    if s['mkt_ma30_dev'] < -0.15: notes.append(f'指数偏离MA30 {s["mkt_ma30_dev"]:+.1%} → 深度偏离：历史上之后 10 日中位 +18%、胜率 69%（18 天样本）')
+    notes.append(f'指数距90日高点 {dd:+.1%} → 长线择时 ' + ('✓' if dd >= -0.15 else '✗'))
+    if s['mkt_r_14'] < -0.20: notes.append('近期急跌，不能仅凭历史反弹叙述确认买点')
     return s, notes
 
 
@@ -41,16 +38,17 @@ def _fmt_row(sub):
 
 def scan_rules(feat, rules, date, ml_scores=None):
     """返回 (hits, near)。ml_scores: 函数 day -> DataFrame(ML分位H 列) 或 None"""
-    day = feat[(feat.date == date) & (feat.flat_14 <= 0.5)].copy()
+    day = feat[(feat.date == date) & feat.eligible & (feat.flat_14 <= 0.5)].copy()
     if day.empty:
         return pd.DataFrame(), pd.DataFrame()
     ml = ml_scores(day) if ml_scores is not None else None
     mrow = day.iloc[0]
     hits, near = [], []
     for r in rules:
-        if r['status'] == 'disabled': continue
+        if r['status'] != 'active': continue
         mk_ok = all(cond_mask(day.iloc[[0]], c)[0] for c in r.get('mkt_filter', [])) if r.get('mkt_filter') else True
         mk_txt = '—' if not r.get('mkt_filter') else ('✓' if mk_ok else '✗ ' + '；'.join(f'{NICE.get(c[0], c[0])} {mrow[c[0]]:+.1%}' for c in r['mkt_filter']))
+        if not mk_ok: continue
         masks = np.array([cond_mask(day, c) for c in r['conds']])
         full = masks.all(axis=0)
         if full.any():
@@ -76,12 +74,13 @@ def scan_rules(feat, rules, date, ml_scores=None):
 
 # ---------------- 信号日志 ----------------
 SIG_PATH = C.P('state', 'signals.csv')
-SIG_COLS = ['signal_date', 'rule_id', 'name', 'cat', 'H', 'price_signal', 'mkt_ok', 'ml_pct', 'entry_date', 'entry_price', 'exit_date', 'exit_price', 'net_ret', 'status', 'logged_at']
+SIG_COLS = ['signal_date', 'rule_id', 'name', 'cat', 'H', 'price_signal', 'mkt_ok', 'ml_pct', 'entry_date', 'entry_price', 'exit_date', 'exit_price', 'net_ret', 'status', 'logged_at', 'pipeline_version']
 
 def load_signals():
     if os.path.exists(SIG_PATH):
         s = pd.read_csv(SIG_PATH, encoding='utf-8-sig')
         for c in ['signal_date', 'entry_date', 'exit_date']: s[c] = pd.to_datetime(s[c])
+        if 'pipeline_version' not in s: s['pipeline_version'] = 'legacy-v1'
         return s
     return pd.DataFrame(columns=SIG_COLS)
 
@@ -97,9 +96,24 @@ def log_signals(hits, last):
                         'ml_pct': [row.get(f'ML分位{int(row["_H"])}', np.nan) for _, row in hits.iterrows()],
                         'entry_date': last + pd.Timedelta(days=1), 'entry_price': np.nan,
                         'exit_date': last + pd.to_timedelta(hits['_H'].astype(int) + 1, unit='D'), 'exit_price': np.nan, 'net_ret': np.nan,
-                        'status': 'pending', 'logged_at': str(C.now_cst())[:19]})
+                        'pipeline_version': C.PIPELINE_VERSION, 'status': 'pending', 'logged_at': str(C.now_cst())[:19]})
     key = lambda d: d['signal_date'].astype(str) + '|' + d['rule_id'].astype(str) + '|' + d['name'].astype(str)
     if len(sig): new = new[~key(new).isin(set(key(sig)))]
+    # One outstanding simulated position per item, across all rules.
+    if len(sig):
+        busy = set(sig.loc[sig.status.isin(['pending', 'open', 'missing_exit']) & (sig.pipeline_version == C.PIPELINE_VERSION), 'name'].astype(str))
+        new = new[~new.name.isin(busy)]
+    new = sort_hits(new.rename(columns={'name': '饰品'}), signal_rows=True).rename(columns={'饰品': 'name'}).drop_duplicates('name')
+    n_added = len(new)
     sig = pd.concat([sig, new], ignore_index=True)
     save_signals(sig)
-    return len(new)
+    return n_added
+
+
+def sort_hits(hits, signal_rows=False):
+    if hits.empty: return hits.copy()
+    out = hits.copy()
+    if signal_rows:
+        return out.sort_values('ml_pct', ascending=False, na_position='last', kind='stable')
+    out['_score'] = [row.get(f'ML分位{int(row["_H"])}', np.nan) for _, row in out.iterrows()]
+    return out.sort_values(['规则', '_score', '距60日高%', '饰品'], ascending=[True, False, True, True], na_position='last', kind='stable').drop(columns='_score')

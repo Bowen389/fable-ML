@@ -33,7 +33,10 @@ def load_all():
     t0 = time.time()
     clean = features.clean_bars(use, log=log); del use
     feat, mk = features.build_features(clean)
-    last = feat['date'].max()
+    last = feat.loc[feat.eligible, 'date'].max()
+    if pd.isna(last): raise SystemExit('没有满足历史长度及报价质量要求的饰品')
+    if last < C.TODAY - pd.Timedelta(days=1) and C.DATA_SOURCE == 'api':
+        raise SystemExit(f'数据陈旧：最新可用日期 {last.date()}，停止发送买点')
     log(f'特征表 {feat.shape}，最新日期 {last.date()}，用时 {time.time() - t0:.0f}s')
     return universe, clean, feat, last, info, broad
 
@@ -41,13 +44,21 @@ def load_all():
 def cmd_scan(args):
     universe, clean, feat, last, info, broad = load_all()
     rules = R.load_rules()
+    health, new_status = M.Health(feat).table(rules, last)
+    if C.AUTO_UPDATE_STATUS:
+        M.apply_status(rules, new_status, last)
+    else:
+        for r in rules:
+            if r['id'] in new_status: r['status'] = new_status[r['id']][1]
+    sig = M.settle_signals(clean, last)
     snap, notes = S.market_snapshot(feat, last)
     log(f'\n===== 市场状态 @ {last.date()} =====')
     for n in notes: log(' •', n)
     broad_line = ''
     if broad is not None and len(broad) > 31:
-        b = broad.set_index('date')['close']
-        broad_line = f'SteamDT 官方大盘指数 {b.iloc[-1]:.2f}（{b.index[-1].date()}），7日 {b.iloc[-1] / b.iloc[-8] - 1:+.1%}，30日 {b.iloc[-1] / b.iloc[-31] - 1:+.1%}'
+        b = broad[broad.date <= last].set_index('date')['close']
+        if len(b) < 31: b = None
+        if b is not None: broad_line = f'SteamDT 官方大盘指数 {b.iloc[-1]:.2f}（{b.index[-1].date()}），7日 {b.iloc[-1] / b.iloc[-8] - 1:+.1%}，30日 {b.iloc[-1] / b.iloc[-31] - 1:+.1%}'
     # ML
     ml_note = ''
     try:
@@ -58,14 +69,18 @@ def cmd_scan(args):
     except Exception as e:
         log('ML 模型加载失败（忽略）:', e); scorer = None
     hits, near = S.scan_rules(feat, rules, last, ml_scores=scorer)
-    n_items = int((feat.date == last).sum())
+    n_items = int(((feat.date == last) & feat.eligible).sum())
+    show = S.sort_hits(hits).drop(columns=['_H', '_rid', '_mk'], errors='ignore')
+    if show.empty: show = pd.DataFrame(columns=['规则', '状态', '饰品', '价格'])
+    show.to_csv(C.P('output', 'history', f'screen_{last.date()}_{C.PIPELINE_VERSION}.csv'), index=False, encoding='utf-8-sig')
+    show.to_csv(C.P('output', 'screen_latest.csv'), index=False, encoding='utf-8-sig')
     log(f'\n===== 买点扫描 @ {last.date()}（{n_items} 个饰品）=====')
     if hits.empty:
         log('没有饰品满足任何规则')
     else:
         log(hits.groupby('规则').size().to_string())
-        show = hits.drop(columns=['_H', '_rid', '_mk']).sort_values(['规则', '距60日高%'])
-        show.to_csv(C.P('output', 'history', f'screen_{last.date()}.csv'), index=False, encoding='utf-8-sig')
+        show = S.sort_hits(hits).drop(columns=['_H', '_rid', '_mk'])
+        show.to_csv(C.P('output', 'history', f'screen_{last.date()}_{C.PIPELINE_VERSION}.csv'), index=False, encoding='utf-8-sig')
         show.to_csv(C.P('output', 'screen_latest.csv'), index=False, encoding='utf-8-sig')
         log(show.to_string(index=False))
     if not near.empty:
@@ -74,18 +89,15 @@ def cmd_scan(args):
     if n_new: log(f'信号日志新增 {n_new} 条')
     # 结算 + 健康度
     sig = M.settle_signals(clean, last)
-    health, new_status = M.Health(feat).table(rules, last)
     log('\n===== 规则健康度 ====='); log(health.to_string(index=False))
     if new_status:
         for rid, (old, ns, s90, s180) in new_status.items():
             log(f'  → {rid}: {old} → {ns}（90日 n={s90["n"]} 跑赢中位 {s90["beat"]:.0%}）')
-        if C.AUTO_UPDATE_STATUS:
-            M.apply_status(rules, new_status, last); log('已更新规则状态')
     ctx = dict(last=last, snap=snap, notes=notes, hits=hits, near=near, sig=sig, health=health, new_status=new_status if C.AUTO_UPDATE_STATUS else {},
                fetch_info=info, n_items=n_items, broad_line=broad_line, ml_note=ml_note)
     md = report.build_markdown(ctx)
     with open(C.P('output', 'latest.md'), 'w', encoding='utf-8') as f: f.write(md)
-    with open(C.P('output', 'history', f'report_{last.date()}.md'), 'w', encoding='utf-8') as f: f.write(md)
+    with open(C.P('output', 'history', f'report_{last.date()}_{C.PIPELINE_VERSION}.md'), 'w', encoding='utf-8') as f: f.write(md)
     short = report.build_short(ctx)
     if not args.no_notify:
         sent = notify.send(f'CS2 买点 {last.date()}', short, md=md)
@@ -120,7 +132,7 @@ def cmd_learn(args):
         lines = ml.train(feat, rules, last, val_days=args.val_days, rounds=args.rounds, log=log)
         L.append('## ③ LightGBM 排序模型'); L += [f'- {x}' for x in lines]
     md = '\n'.join(L) + '\n'
-    with open(C.P('output', f'learn_{last.date()}.md'), 'w', encoding='utf-8') as f: f.write(md)
+    with open(C.P('output', f'learn_{last.date()}_{C.PIPELINE_VERSION}.md'), 'w', encoding='utf-8') as f: f.write(md)
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as f: f.write(md)
     if not args.no_notify:

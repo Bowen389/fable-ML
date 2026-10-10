@@ -8,38 +8,39 @@ LAG_H = [10, 14, 30]
 
 
 def clean_bars(df, min_days=120, max_flat=0.25, max_same=0.35, min_price=2.0, log=print):
-    df = df[['name', 'cat', 'date', 'open', 'close', 'high', 'low']].copy()
-    df = df.sort_values(['name', 'date']).reset_index(drop=True)
-    for c in ['open', 'close', 'high', 'low']:
-        df.loc[(df[c] >= 1e6) | (df[c] <= 0), c] = np.nan
-    med = df.groupby('name')['close'].transform(lambda s: s.rolling(15, center=True, min_periods=5).median())
-    ratio = df['close'] / med
-    spike = (ratio > 3) | (ratio < 1 / 3)
-    for c in ['open', 'close', 'high', 'low']:
-        df.loc[spike, c] = np.nan
-    for c in ['open', 'close', 'high', 'low']:
-        df[c] = df.groupby('name')[c].transform(lambda s: s.interpolate(limit_direction='both'))
-    df = df.dropna(subset=['close'])
-    df['high'] = df[['high', 'open', 'close']].max(axis=1)
-    df['low'] = df[['low', 'open', 'close']].min(axis=1)
-    df['flat'] = (df.high == df.low)
-    df['same'] = (df.close == df.groupby('name')['close'].shift(1))
-    stat = df.groupby('name').agg(days=('date', 'size'), flat=('flat', 'mean'), same=('same', 'mean'), med_price=('close', 'median'))
-    keep = stat[(stat.days >= min_days) & (stat.flat < max_flat) & (stat.same < max_same) & (stat.med_price >= min_price)].index
-    df = df[df.name.isin(keep)].drop(columns=['flat', 'same'])
+    # Point-in-time universe: future rows must not alter past eligibility/prices.
+    cols = ['open', 'close', 'high', 'low']
+    df = df[['name', 'cat', 'date'] + cols].copy()
+    df = df.sort_values(['name', 'date']).drop_duplicates(['name', 'date'], keep='last')
     full = []
-    for name, g in df.groupby('name', sort=False):
-        idx = pd.date_range(g.date.min(), g.date.max(), freq='D')
-        g2 = g.set_index('date').reindex(idx)
-        g2['name'] = name; g2['cat'] = g['cat'].iloc[0]
-        g2[['open', 'close', 'high', 'low']] = g2[['open', 'close', 'high', 'low']].ffill()
-        g2.index.name = 'date'
-        full.append(g2.reset_index())
+    for name, g in df.groupby('name', sort=False, observed=True):
+        g = g.set_index('date').reindex(pd.date_range(g.date.min(), g.date.max(), freq='D'))
+        g['name'] = name
+        g['cat'] = g['cat'].ffill()
+        for col in cols:
+            g[col] = pd.to_numeric(g[col], errors='coerce')
+            g.loc[(g[col] <= 0) | (g[col] >= 1e6), col] = np.nan
+        # Flag extreme changes against trailing observations; never interpolate.
+        med = g.close.shift(1).rolling(15, min_periods=5).median()
+        bad = (g.close / med > 3) | (g.close / med < 1 / 3)
+        coherent = (g.high >= g[['open', 'close']].max(axis=1)) & (g.low <= g[['open', 'close']].min(axis=1))
+        g['observed'] = g[cols].notna().all(axis=1) & ~bad & coherent
+        g.loc[~g.observed, cols] = np.nan
+        g['raw_close'] = g.close
+        count = g.observed.cumsum()
+        flat = ((g.high == g.low) & g.observed).cumsum() / count.replace(0, np.nan)
+        same = ((g.close == g.close.shift(1)) & g.observed).cumsum() / count.replace(0, np.nan)
+        price = g.close.expanding(min_periods=1).median()
+        g['eligible'] = g.observed & (count >= min_days) & (flat < max_flat) & (same < max_same) & (price >= min_price)
+        # Carry only for indicators, never for entry/exit labels or settlement.
+        g[cols] = g[cols].ffill()
+        g.index.name = 'date'
+        full.append(g.reset_index())
+    if not full:
+        raise ValueError('没有可清洗的日K数据')
     out = pd.concat(full, ignore_index=True)
     out['name'] = out['name'].astype('category'); out['cat'] = out['cat'].astype('category')
-    for c in ['open', 'close', 'high', 'low']:
-        out[c] = out[c].astype('float64')
-    log(f'清洗：{stat.shape[0]} → {len(keep)} 个流动性合格饰品，{len(out):,} 行')
+    log(f'因果清洗：{out.name.nunique()} 个饰品，{len(out):,} 行；仅真实报价可入场/结算')
     return out
 
 
@@ -79,12 +80,12 @@ def build_features(df):
     key = df['name']
     c, o, h, l = df['close'], df['open'], df['high'], df['low']
     F = _F()
-    def gshift(s, k): return s.groupby(key).shift(k)
+    def gshift(s, k): return s.groupby(key, observed=True).shift(k)
     def groll(s, k, fn, mp=None):
         mp = mp or max(2, k // 2)
-        r = s.groupby(key).rolling(k, min_periods=mp)
+        r = s.groupby(key, observed=True).rolling(k, min_periods=mp)
         return getattr(r, fn)().reset_index(level=0, drop=True)
-    lr1 = np.log(c).groupby(key).diff(); F['lr1'] = lr1
+    lr1 = np.log(c).groupby(key, observed=True).diff(); F['lr1'] = lr1
     for k in [1, 3, 5, 7, 10, 14, 21, 30, 45, 60, 90]:
         F[f'r_{k}'] = c / gshift(c, k) - 1
     for k in [7, 14, 30, 60, 90]:
@@ -97,13 +98,13 @@ def build_features(df):
         F[f'dd_{k}'] = c / hi - 1
         F[f'up_{k}'] = c / lo - 1
         F[f'pos_{k}'] = (c - lo) / (hi - lo).replace(0, np.nan)
-    d = c.groupby(key).diff()
+    d = c.groupby(key, observed=True).diff()
     for k in [7, 14]:
         gain = groll(d.clip(lower=0), k, 'mean'); loss = groll((-d).clip(lower=0), k, 'mean')
         rsi = 100 - 100 / (1 + gain / loss.replace(0, np.nan))
         F[f'rsi_{k}'] = rsi.fillna(100 * (gain > 0))
     ma20 = groll(c, 20, 'mean'); sd20 = groll(c, 20, 'std')
-    F['bb_pctb'] = (c - ma20) / (2 * sd20).replace(0, np.nan)
+    F['bb_pctb'] = 0.5 + (c - ma20) / (4 * sd20).replace(0, np.nan)
     F['bb_width'] = 4 * sd20 / ma20
     for k in [7, 14, 30]:
         F[f'vol_{k}'] = groll(lr1, k, 'std')
@@ -111,9 +112,9 @@ def build_features(df):
     F['atr14'] = groll(tr, 14, 'mean') / c
     F['vol_ratio'] = F['vol_7'] / F['vol_30'].replace(0, np.nan)
     sign = np.sign(d).fillna(0)
-    F['streak'] = sign.groupby(key).transform(lambda s: pd.Series(_streak(s.values), index=s.index))
-    F['dsh_30'] = c.groupby(key).transform(lambda s: pd.Series(_days_since_ext(s.values, 30, 'max'), index=s.index))
-    F['dsl_30'] = c.groupby(key).transform(lambda s: pd.Series(_days_since_ext(s.values, 30, 'min'), index=s.index))
+    F['streak'] = sign.groupby(key, observed=True).transform(lambda s: pd.Series(_streak(s.values), index=s.index))
+    F['dsh_30'] = c.groupby(key, observed=True).transform(lambda s: pd.Series(_days_since_ext(s.values, 30, 'max'), index=s.index))
+    F['dsl_30'] = c.groupby(key, observed=True).transform(lambda s: pd.Series(_days_since_ext(s.values, 30, 'min'), index=s.index))
     F['body'] = (c - o) / o
     F['range'] = (h - l) / c
     F['lower_shadow'] = (np.minimum(o, c) - l) / c
@@ -125,8 +126,8 @@ def build_features(df):
     F['cat_code'] = df['cat'].astype(str).map(CAT_CODE).fillna(3).astype('float32')
     F['dow'] = df['date'].dt.dayofweek
     feat = pd.DataFrame(F); del F
-    out = pd.concat([df[['name', 'cat', 'date', 'close']], feat], axis=1); del feat
-    mk = out.assign(lrc=out['lr1'].clip(-0.2, 0.2)).groupby('date').agg(
+    out = pd.concat([df[['name', 'cat', 'date', 'close', 'raw_close', 'observed', 'eligible']], feat], axis=1); del feat
+    mk = out[out.eligible].assign(lrc=lambda d: d['lr1'].clip(-0.2, 0.2)).groupby('date').agg(
         mkt_lr=('lrc', 'mean'), breadth7=('r_7', lambda s: (s > 0).mean()),
         above_ma30=('ma30_dev', lambda s: (s > 0).mean()), mkt_med_r7=('r_7', 'median'), mkt_med_r30=('r_30', 'median'),
         n_items=('name', 'size'))
@@ -142,12 +143,12 @@ def build_features(df):
         out[col] = out['date'].map(mkt[col]).astype('float32')
     out['rs_7'] = out['r_7'] - out['mkt_med_r7']; out['rs_30'] = out['r_30'] - out['mkt_med_r30']
     for col in ['r_30', 'r_7', 'dd_60', 'vol_30']:
-        out[f'{col}_rank'] = out.groupby('date')[col].rank(pct=True).astype('float32')
-    g = out.groupby('name', sort=False)['close']
+        out[f'{col}_rank'] = out[col].where(out.eligible).groupby(out.date).rank(pct=True).astype('float32')
+    g = out.groupby('name', sort=False, observed=True)['raw_close']
     for H in LABEL_H:
-        out[f'fwd_{H}'] = (g.shift(-H) / out['close'] - 1).astype('float32')
+        out[f'fwd_{H}'] = (g.shift(-H) / out['raw_close'] - 1).astype('float32')
     for H in LAG_H:
-        out[f'fwdL_{H}'] = (g.shift(-(H + 1)) / g.shift(-1) - 1).astype('float32')
+        out[f'fwdL_{H}'] = (g.shift(-(H + 1)) / g.shift(-1) - 1).where(out.eligible).astype('float32')
     mi = mk['mkt_idx']
     for H in LAG_H:
         out[f'ex_{H}'] = (out[f'fwd_{H}'] - out['date'].map(mi.shift(-H) / mi - 1)).astype('float32')
@@ -156,5 +157,5 @@ def build_features(df):
 
 
 def feature_cols(feat):
-    return [c for c in feat.columns if c not in ('name', 'cat', 'date', 'close', 'mkt_idx')
+    return [c for c in feat.columns if c not in ('name', 'cat', 'date', 'close', 'mkt_idx', 'raw_close', 'observed', 'eligible')
             and not c.startswith(('fwd', 'ex_', 'exL_', 'mkt_fwd'))]

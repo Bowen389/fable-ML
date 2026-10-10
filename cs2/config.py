@@ -13,6 +13,10 @@ REFRESH_MODE = os.environ.get('REFRESH_MODE', 'auto')          # auto / full / n
 MAX_FETCH_MINUTES = float(os.environ.get('MAX_FETCH_MINUTES', '40'))
 RATE_PER_MINUTE = int(os.environ.get('RATE_PER_MINUTE', '110'))
 FEE = float(os.environ.get('FEE', '0.025'))
+SLIPPAGE = float(os.environ.get('SLIPPAGE', '0.005'))
+PIPELINE_VERSION = 'causal-v2'
+def net_return(gross):
+    return (1 + gross) * (1 - SLIPPAGE) / (1 + SLIPPAGE) * (1 - FEE) - 1
 DROP_TODAY_BAR = os.environ.get('DROP_TODAY_BAR', '1') == '1'
 SAVE_SIGNALS = os.environ.get('SAVE_SIGNALS', '1') == '1'
 AUTO_UPDATE_STATUS = os.environ.get('AUTO_UPDATE_STATUS', '1') == '1'

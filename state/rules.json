@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 09:59:43",
+ "updated": "2026-10-10 23:02:21",
  "fee": 0.025,
  "rules": [
   {
@@ -62,7 +62,7 @@
    "name": "远离MA90+止跌(抗熊市)",
    "H": 14,
    "hold": "14天",
-   "status": "watch",
+   "status": "probation",
    "conds": [
     [
      "ma90_dev",
@@ -99,6 +99,22 @@
      "beat90": 0.545,
      "win90": 0.35,
      "n90": 1489
+    },
+    {
+     "date": "2026-10-09",
+     "from": "watch",
+     "to": "probation",
+     "beat90": 0.517,
+     "win90": 0.333,
+     "n90": 447
+    },
+    {
+     "date": "2026-10-09",
+     "from": "watch",
+     "to": "probation",
+     "beat90": 0.517,
+     "win90": 0.333,
+     "n90": 447
     }
    ]
   },
@@ -237,7 +253,7 @@
    "name": "深跌筑底+低价≤20元",
    "H": 30,
    "hold": "30~60天",
-   "status": "active",
+   "status": "probation",
    "conds": [
     [
      "dd_60_rank",
@@ -266,7 +282,24 @@
    "note": "低价饰品买卖价差比例大，实际收益再打折",
    "created": "2026-09-27",
    "data_end_at_creation": "2026-09-22",
-   "history": []
+   "history": [
+    {
+     "date": "2026-10-09",
+     "from": "active",
+     "to": "probation",
+     "beat90": 0.661,
+     "win90": 0.413,
+     "n90": 109
+    },
+    {
+     "date": "2026-10-09",
+     "from": "active",
+     "to": "probation",
+     "beat90": 0.661,
+     "win90": 0.413,
+     "n90": 109
+    }
+   ]
   }
  ]
 }

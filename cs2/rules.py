@@ -43,8 +43,14 @@ def cond_mask(df, c):
     f, op, t = c; x = df[f].values
     return (x <= t) if op == '<=' else (x >= t)
 
+def eligible_mask(df):
+    return df['eligible'].fillna(False).to_numpy(bool) if 'eligible' in df else np.ones(len(df), bool)
+
+def strategy_mask(df, rule):
+    return rule_mask(df, rule['conds']) & rule_mask(df, rule.get('mkt_filter', []))
+
 def rule_mask(df, conds):
-    m = np.ones(len(df), bool)
+    m = eligible_mask(df)
     for c in conds: m &= cond_mask(df, c)
     return m
 

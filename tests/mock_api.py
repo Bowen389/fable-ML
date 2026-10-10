@@ -12,8 +12,14 @@ shutil.copytree(os.path.join(ROOT, 'data'), os.path.join(TMP, 'data'))
 import requests
 from cs2 import config as C, data
 
-seed = pd.concat([pd.read_csv(f, encoding='utf-8-sig') for f in glob.glob('/home/user/uploads/steamdt_daily_1y_cleaned_part*.csv')])
-seed = seed.rename(columns={'饰品名称': 'name', '更新时间': 'ts', '开盘指数': 'open', '收盘指数': 'close', '最高指数': 'high', '最低指数': 'low'})
+# Self-contained fixtures from repository history; no private upload path.
+seed = data.load_bars()
+seed = seed[seed.date <= pd.Timestamp('2026-09-22')].copy()
+seed['日期'] = seed.date
+seed['ts'] = seed.date.dt.tz_localize('Asia/Shanghai').astype('int64') // 10**9
+for path in glob.glob(os.path.join(TMP, 'data', 'bars', '*')): os.remove(path)
+C.TODAY = pd.Timestamp('2026-09-23')
+data.save_bars(seed[data.BAR_COLS])
 by = {n: g for n, g in seed.groupby('name')}
 SIM = {'today': None}
 

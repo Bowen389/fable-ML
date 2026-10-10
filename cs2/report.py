@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """生成 Markdown 报告（output/latest.md + GitHub Step Summary）和推送用短消息"""
 import pandas as pd
+import json, os
+from .scan import sort_hits
+from . import config as C
 
 
 def md_table(df, max_rows=60):
@@ -27,23 +30,34 @@ def build_markdown(ctx):
     for n in ctx['notes']: L.append(f'- {n}')
     if ctx.get('broad_line'): L.append(f"- {ctx['broad_line']}")
     if ctx.get('ml_note'): L.append(f"- {ctx['ml_note']}")
+    meta_path = C.P('state', 'ml_meta.json')
+    if os.path.exists(meta_path):
+        with open(meta_path, encoding='utf-8') as f: meta = json.load(f)
+        if meta.get('pipeline_version') != C.PIPELINE_VERSION:
+            L.append('- ML旧口径已停用，等待因果清洗重训。')
+        elif not any(v.get('validated', False) for v in meta.get('val', {}).values()):
+            L.append('- ML已重训，所有周期未通过滚动验证或绝对净收益要求，均不启用。')
     L.append('')
     hits = ctx['hits']
     L.append(f"## 买点（{ctx['n_items']} 个饰品中）")
     if hits is None or hits.empty:
-        L.append('没有饰品满足任何规则。规则要求"30 日低点在 21~25 天前"（先筑底再买），市场持续创新低时就是没有买点。')
+        L.append('当前没有通过报价质量、规则健康度、形态及择时条件的买点。')
     else:
         cnt = hits.groupby('规则').size()
         L.append('、'.join(f'{k}：{v}' for k, v in cnt.items()))
         L.append('')
-        show = hits.drop(columns=[c for c in ['_H', '_rid', '_mk'] if c in hits]).sort_values(['规则', '距60日高%'])
+        show = sort_hits(hits).drop(columns=[c for c in ['_H', '_rid', '_mk'] if c in hits])
         L.append(md_table(show, 80))
     near = ctx['near']
     if near is not None and not near.empty:
         L.append(f'## 接近满足（只差一个条件）{len(near)} 条')
         L.append(md_table(near.drop(columns=[c for c in ['距14日低反弹%', 'RSI14', '短/长波动比'] if c in near]), 40))
     sig = ctx['sig']
-    L.append('## 信号日志（真实前瞻记录）')
+    if sig is not None and len(sig) and 'pipeline_version' in sig:
+        legacy_n = int((sig.pipeline_version != C.PIPELINE_VERSION).sum())
+        if legacy_n: L.append(f'旧口径记录 {legacy_n} 条保留在 signals.csv，不计入新口径战绩。')
+        sig = sig[sig.pipeline_version == C.PIPELINE_VERSION]
+    L.append('## 信号日志（前瞻模拟记录；非真实成交/账户收益）')
     if sig is None or sig.empty:
         L.append('尚无记录。')
     else:
@@ -56,12 +70,13 @@ def build_markdown(ctx):
             L.append(''); L.append(md_table(g))
         op = sig[sig.status == 'open']
         if len(op):
-            L.append(f"持仓中 {len(op)} 笔，浮动净收益中位 {op.net_ret.median():+.1%}")
+            L.append(f"模拟未到期 {len(op)} 条，浮动净收益中位 {op.net_ret.median():+.1%}")
             o = op[['signal_date', 'rule_id', 'name', 'entry_price', 'exit_date', 'net_ret']].sort_values('exit_date').copy()
             o['signal_date'] = o['signal_date'].dt.date; o['exit_date'] = o['exit_date'].dt.date; o['net_ret'] = o['net_ret'].map('{:+.1%}'.format)
             L.append(''); L.append(md_table(o, 30))
-    L.append('## 规则健康度（次日入场、扣费）')
-    L.append('"跑赢中位" = 跑赢当日全市场中位数的比例（相对优势）；基准 = 同期随便买的胜率。判定：90 日跑赢中位 ≥55% 正常 / 50~55% watch / <50% probation / 180 日 <45% disabled')
+    L.append('模拟口径：次日真实日K收盘指数入场，固定H天退出；扣手续费和双边滑点。缺报价不填造成交；跨规则同饰品不重复开仓。未模拟订单簿、交易限制和账户资金。')
+    L.append('## 规则健康度（次日入场、扣费及滑点）')
+    L.append('"跑赢中位" = 跑赢当日全市场中位数的比例（相对优势）；基准 = 同期随便买的胜率。判定：90 日跑赢中位 ≥55% 正常 / 50~55% watch / <50% probation / 180 日 <45% disabled；90日或有足够样本的30日中位净收益≤0则 probation，只有active且择时通过才发买点。健康度按同饰品H+1日间隔去重；仍有共同市场风险，不是账户收益。')
     L.append('')
     L.append(md_table(ctx['health']))
     ns = ctx.get('new_status') or {}
@@ -85,11 +100,15 @@ def build_short(ctx, max_len=1800):
         cnt = hits.groupby('_rid').size()
         L.append('买点：' + '，'.join(f'{k} {v} 个' for k, v in cnt.items()))
         for rid, sub in hits.groupby('_rid'):
-            names = sub.sort_values('距60日高%')['饰品'].head(5).tolist()
+            names = sort_hits(sub)['饰品'].head(5).tolist()
             L.append(f'[{rid}] ' + '；'.join(n.replace(' (Factory New)', ' FN') for n in names) + ('…' if len(sub) > 5 else ''))
     ns = ctx.get('new_status') or {}
     if ns: L.append('规则状态变更：' + '，'.join(f'{k} {v[0]}→{v[1]}' for k, v in ns.items()))
     sig = ctx['sig']
+    if sig is not None and len(sig) and 'pipeline_version' in sig:
+        legacy_n = int((sig.pipeline_version != C.PIPELINE_VERSION).sum())
+        if legacy_n: L.append(f'旧口径记录 {legacy_n} 条保留在 signals.csv，不计入新口径战绩。')
+        sig = sig[sig.pipeline_version == C.PIPELINE_VERSION]
     if sig is not None and len(sig):
         closed = sig[sig.status == 'closed']
         if len(closed): L.append(f"已结算 {len(closed)} 笔：胜率 {(closed.net_ret > 0).mean():.0%}，中位 {closed.net_ret.median():+.1%}")
