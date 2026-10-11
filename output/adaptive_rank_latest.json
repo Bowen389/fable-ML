@@ -1,0 +1,212 @@
+[
+  {
+    "name":"UMP-45 | Plastique (Factory New)",
+    "close":66.0,
+    "regime":-1,
+    "score":1.3918943075,
+    "T0_percentile":0.9702457956
+  },
+  {
+    "name":"Tec-9 | Cracked Opal (Factory New)",
+    "close":55.5,
+    "regime":-1,
+    "score":1.1384369638,
+    "T0_percentile":1.0
+  },
+  {
+    "name":"P90 | Schematic (Factory New)",
+    "close":42.0,
+    "regime":-1,
+    "score":0.9862370162,
+    "T0_percentile":0.8253557568
+  },
+  {
+    "name":"★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+    "close":557.0,
+    "regime":-1,
+    "score":0.7562862591,
+    "T0_percentile":0.9767141009
+  },
+  {
+    "name":"Desert Eagle | Light Rail (Factory New)",
+    "close":93.3,
+    "regime":-1,
+    "score":0.5689003861,
+    "T0_percentile":0.9275549806
+  },
+  {
+    "name":"MP9 | Music Box (Factory New)",
+    "close":43.5,
+    "regime":-1,
+    "score":0.5160509781,
+    "T0_percentile":0.9210866753
+  },
+  {
+    "name":"Glock-18 | Off World (Factory New)",
+    "close":47.0,
+    "regime":-1,
+    "score":0.3226180405,
+    "T0_percentile":0.9663648124
+  },
+  {
+    "name":"MP9 | Deadly Poison (Factory New)",
+    "close":54.4,
+    "regime":-1,
+    "score":0.1804886553,
+    "T0_percentile":0.9055627426
+  },
+  {
+    "name":"Glock-18 | Weasel (Factory New)",
+    "close":277.0,
+    "regime":-1,
+    "score":0.1342368404,
+    "T0_percentile":0.9443725744
+  },
+  {
+    "name":"AWP | Phobos (Factory New)",
+    "close":38.01,
+    "regime":-1,
+    "score":0.121431835,
+    "T0_percentile":0.9456662354
+  },
+  {
+    "name":"FAMAS | Styx (Factory New)",
+    "close":800.0,
+    "regime":-1,
+    "score":-0.1117998971,
+    "T0_percentile":0.9223803364
+  },
+  {
+    "name":"CZ75-Auto | Polymer (Factory New)",
+    "close":31.79,
+    "regime":-1,
+    "score":-0.1432597149,
+    "T0_percentile":0.979301423
+  },
+  {
+    "name":"Five-SeveN | Retrobution (Factory New)",
+    "close":77.0,
+    "regime":-1,
+    "score":-0.143955064,
+    "T0_percentile":0.9534282018
+  },
+  {
+    "name":"Desert Eagle | Sputnik (Factory New)",
+    "close":52.8,
+    "regime":-1,
+    "score":-0.1468249022,
+    "T0_percentile":0.9935316947
+  },
+  {
+    "name":"AWP | Acheron (Factory New)",
+    "close":51.9,
+    "regime":-1,
+    "score":-0.174713293,
+    "T0_percentile":0.9805950841
+  },
+  {
+    "name":"M4A1-S | Atomic Alloy (Factory New)",
+    "close":1229.5,
+    "regime":-1,
+    "score":-0.1955294438,
+    "T0_percentile":0.8473479948
+  },
+  {
+    "name":"MP9 | Sand Scale (Factory New)",
+    "close":35.57,
+    "regime":-1,
+    "score":-0.2058907056,
+    "T0_percentile":0.8848641656
+  },
+  {
+    "name":"Five-SeveN | Angry Mob (Factory New)",
+    "close":494.0,
+    "regime":-1,
+    "score":-0.2616662968,
+    "T0_percentile":0.8486416559
+  },
+  {
+    "name":"M4A1-S | Boreal Forest (Factory New)",
+    "close":58.49,
+    "regime":-1,
+    "score":-0.2690158261,
+    "T0_percentile":0.9547218629
+  },
+  {
+    "name":"AUG | Momentum (Factory New)",
+    "close":241.46,
+    "regime":-1,
+    "score":-0.2881753436,
+    "T0_percentile":0.5924967658
+  },
+  {
+    "name":"MP7 | Neon Ply (Factory New)",
+    "close":67.71,
+    "regime":-1,
+    "score":-0.2935690021,
+    "T0_percentile":0.5679172057
+  },
+  {
+    "name":"P250 | Vino Primo (Factory New)",
+    "close":81.68,
+    "regime":-1,
+    "score":-0.3117238194,
+    "T0_percentile":0.8615782665
+  },
+  {
+    "name":"MP7 | Asterion (Factory New)",
+    "close":47.95,
+    "regime":-1,
+    "score":-0.3354777076,
+    "T0_percentile":0.5756791721
+  },
+  {
+    "name":"M4A1-S | Fizzy POP (Factory New)",
+    "close":70.0,
+    "regime":-1,
+    "score":-0.3565036291,
+    "T0_percentile":0.9650711514
+  },
+  {
+    "name":"Glock-18 | Grinder (Factory New)",
+    "close":52.1,
+    "regime":-1,
+    "score":-0.3633242466,
+    "T0_percentile":0.9818887451
+  },
+  {
+    "name":"FAMAS | Hexane (Factory New)",
+    "close":41.82,
+    "regime":-1,
+    "score":-0.3747245484,
+    "T0_percentile":0.8887451488
+  },
+  {
+    "name":"P2000 | Turf (Factory New)",
+    "close":105.0,
+    "regime":-1,
+    "score":-0.3858839963,
+    "T0_percentile":0.9741267788
+  },
+  {
+    "name":"P250 | Contaminant (Factory New)",
+    "close":59.9,
+    "regime":-1,
+    "score":-0.4050932479,
+    "T0_percentile":0.935316947
+  },
+  {
+    "name":"AWP | Atheris (Factory New)",
+    "close":208.9,
+    "regime":-1,
+    "score":-0.4180656272,
+    "T0_percentile":0.8809831824
+  },
+  {
+    "name":"Galil AR | Blue Titanium (Factory New)",
+    "close":99.4,
+    "regime":-1,
+    "score":-0.4408711974,
+    "T0_percentile":0.8460543338
+  }
+]
