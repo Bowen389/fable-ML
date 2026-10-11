@@ -1,0 +1,74 @@
+name: daily-adaptive-rank
+on:
+  schedule:
+    - cron: '45 2 * * *' # Asia/Shanghai 10:45, GitHub schedules may be delayed
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/adaptive-rank.yml']
+permissions:
+  contents: write
+concurrency:
+  group: cs2-adaptive-research
+  cancel-in-progress: false
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout current main data
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: source
+      - name: Checkout research implementation
+        uses: actions/checkout@v4
+        with:
+          ref: research/peer-reversal-leaders
+          path: research
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: research/requirements-research.txt
+      - name: Install and verify
+        working-directory: research
+        run: |
+          pip install -r requirements-research.txt pytest
+          python -m pytest -q tests
+          python -m compileall -q cs2 tools
+          git rev-parse HEAD
+      - name: Use current archived quotes
+        run: |
+          rm -rf research/data
+          cp -a source/data research/data
+          cp source/universe.csv research/universe.csv
+      - name: Monthly walk-forward and daily Top30
+        working-directory: research
+        env:
+          DATA_SOURCE: offline
+          REFRESH_MODE: none
+        run: python tools/research_adaptive_rank.py
+      - name: Save research reports and models
+        working-directory: research
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/adaptive_rank output/adaptive_rank_latest.md output/adaptive_rank_latest.json output/history/adaptive_rank_*.md
+          if ! git diff --cached --quiet; then
+            git commit -m "daily adaptive rank $(TZ=Asia/Shanghai date +%F)"
+            git restore --worktree data universe.csv
+            git pull --rebase origin research/peer-reversal-leaders
+            git push origin HEAD:research/peer-reversal-leaders
+          fi
+      - name: Upload research artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: adaptive-rank-report
+          path: |
+            research/output/adaptive_rank_latest.md
+            research/output/adaptive_rank_latest.json
+            research/state/adaptive_rank/
+          if-no-files-found: ignore
+          retention-days: 30
