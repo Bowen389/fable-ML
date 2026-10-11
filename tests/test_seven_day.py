@@ -32,3 +32,18 @@ def test_exported_rule_tree_is_predictable_without_outcome_columns():
  s=predict(m,x)
  assert len(s)==len(x);assert np.isfinite(s).all()
  assert (s[y==1]>=m['threshold']).mean()>=.85
+
+
+def test_truth_top30_and_prediction_cap_ignore_future_returns():
+ from tools.research_seven_day import cap_candidates
+ a=pd.concat([panel().assign(name=f'item{i:02}') for i in range(40)],ignore_index=True)
+ f,_=labels(a)
+ assert f.loc[f.date=='2026-02-01','T1'].sum()==30
+ assert f.groupby('date').T1.sum().max()<=30
+ x=f[f.date=='2026-02-01'].copy()
+ x['T1_score']=np.arange(40);x['T0_score']=np.arange(40);x['peer_rs7']=0
+ picked=cap_candidates(x)
+ assert len(picked)==30
+ assert x.loc[picked.index,'name'].tolist()==[f'item{i:02}' for i in range(39,9,-1)]
+ x['net7']=-x.net7;x['T1']=0;x['T0']=0
+ pd.testing.assert_frame_equal(picked,cap_candidates(x))

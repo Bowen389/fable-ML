@@ -19,10 +19,22 @@ def labels(f):
  out['net7']=config.net_return(g.shift(-8)/g.shift(-1)-1)
  out['net_next7']=config.net_return(g.shift(-15)/g.shift(-8)-1)
  pool=out.eligible&(out.flat_14<=.5)&(out.close>30)
- rank=out.net7.where(pool).groupby(out.date).rank(pct=True)
- out['T1']=(pool&(((rank>=.90)&(out.net7>0))|(out.net7>=.10))).astype(int)
+ ordered=out.loc[pool&out.net7.notna()].assign(_name=lambda a:a.name.astype(str)).sort_values(['date','net7','_name'],ascending=[True,False,True])
+ rank=ordered.groupby('date').cumcount()+1
+ out['T1']=0
+ out.loc[ordered.index,'T1']=((rank<=30)&(ordered.net7>0)).astype(int)
  out['T0']=(out.T1.astype(bool)&(out.net_next7>=.05)).astype(int)
  return out,pool
+
+
+def cap_candidates(f,n=30):
+ """Rank with causal model scores only; outcomes never enter selection."""
+ a=f.copy()
+ a['potential_score']=.6*a.groupby('date').T1_score.rank(pct=True)+.4*a.groupby('date').T0_score.rank(pct=True)
+ a['_name']=a.name.astype(str)
+ a=a.sort_values(['date','potential_score','peer_rs7','_name'],ascending=[True,False,False,True],na_position='last')
+ a['candidate_rank']=a.groupby('date').cumcount()+1
+ return a.loc[a.candidate_rank<=n,['potential_score','candidate_rank']]
 
 
 def learn(x,y):
@@ -73,7 +85,7 @@ def main():
   '7月以后时序检验':mature&(f.date>=pd.Timestamp('2026-07-01'))}
  models={};lines=['# 30元以上：7日利润T1 / 连续两段7日利润T0研究','',
  '信号日t，次日收盘入场t+1，t+8退出；第二段t+8入场、t+15退出。每段均扣现有手续费和双边滑点。',
- 'T1：同日30元以上合格单品中，第一段净收益前10%且>0，或第一段净收益≥10%；T0：T1且第二段净收益≥5%。这是事后研究标签，不是当日可知的身份。',
+ 'T1：同日30元以上合格单品中，第一段净收益同日前30且>0；T0：T1且第二段净收益≥5%。这是事后研究标签，不是当日可知的身份。',
  '仅用2—4月且15日标签在5月1日前到期的样本学习；宽候选阈值以训练T1/T0召回率至少95%设定。5—6月和7月以后不调参。此前已查看部分日期，因此后段也不能声称完全独立外测。',
  '树深最多4、每叶至少300条样本；叶内条件取交集，各选中叶取并集。没有目标单品/日期白名单。', '',
  '| 标签 | 时段 | 样本 | 真目标 | 召回率 | 候选占比 | 候选命中率 | 候选7日中位净收益 |',
@@ -117,9 +129,15 @@ def main():
    row=[target,stage,tp/n if n else 0,len(z)/len(a),tp/len(z) if len(z) else 0,float(z.net7.median())];structural.append(row)
    lines.append(f'| {target} | {stage} | {row[2]:.1%} | {row[3]:.1%} | {row[4]:.1%} | {row[5]:+.1%} |')
  print('STRUCTURAL',structural,flush=True)
- f['T1_proposed']=f.T1_candidate|f.structural_candidate
- f['T0_proposed']=f.T0_candidate|f.structural_candidate
- lines+=['','## 新设计：浅树与双结构取并集（宽候选，非买点）','','| 标签 | 时段 | 大涨目标覆盖率 | 候选占比 | 命中率 | 候选7日中位净收益 |','|---|---|---:|---:|---:|---:|']
+ picked=cap_candidates(f)
+ f['potential_score']=picked.potential_score.reindex(f.index)
+ f['candidate_rank']=picked.candidate_rank.reindex(f.index)
+ f['T1_proposed']=f.index.isin(picked.index)
+ f['T0_proposed']=f.T1_proposed&f.T0_candidate
+ assert f.groupby('date').T1_proposed.sum().max()<=30
+ lines+=['','## 新设计：每日最多30个候选（非自动买点）','']
+ lines+=['','候选排序：0.6×当日T1浅树评分百分位 + 0.4×当日T0浅树评分百分位；同分依次按当日peer_rs7降序、名称升序。只取前30名；T0潜力是这30名中达到T0训练阈值的子集。未来收益不参与排序，双结构仅作对照。','']
+ lines+=['| 标签 | 时段 | 大涨目标覆盖率 | 候选占比 | 命中率 | 候选7日中位净收益 |','|---|---|---:|---:|---:|---:|']
  combined=[]
  for target in ['T1','T0']:
   for stage,mask in stages.items():
@@ -137,7 +155,7 @@ def main():
   for cond,rate in leaf_rules(m):lines.append(f'- {cond}；训练目标比例{rate:.1%}。')
  lines+=['','## T0第二段阈值敏感性','','| 第二段净收益下限 | 目标样本数 |','|---|---:|']
  for cut in [0,.03,.05,.10]:lines.append(f'| {cut:.0%} | {int((mature&(f.T1==1)&(f.net_next7>=cut)).sum())} |')
- lines+=['','## 重点单品事后标签与当前并集规则覆盖','','| 日期 | 饰品 | 第一段净收益 | 第二段净收益 | 真实标签 | 当时T1候选 | 当时T0候选 |','|---|---|---:|---:|---|---|---|']
+ lines+=['','## 重点单品事后标签与Top30覆盖','','| 日期 | 饰品 | 第一段净收益 | 第二段净收益 | 真实标签 | 当时T1候选 | 当时T0候选 |','|---|---|---:|---:|---|---|---|']
  targets=['The Coalition','USP-S | Neo-Noir','Glock-18 | Nuclear Garden']
  focus=f[f.date.between('2026-05-24','2026-05-31')&f.name.astype(str).apply(lambda n:any(k in n for k in targets))]
  for _,a in focus.iterrows():
@@ -147,7 +165,12 @@ def main():
  for day,a in f.groupby('date'):
   done=a.net7.notna()&a.net_next7.notna()
   lines.append(f'| {day.date()} | {int(a.T1_proposed.sum())} | {int(a.T0_proposed.sum())} | {int(a.loc[done,"T1"].sum())} | {int(a.loc[done,"T0"].sum())} |')
- models['meta']=dict(price_min_exclusive=30,signal_to_entry_days=1,first_hold=7,second_hold=7,T1_daily_percentile=.90,T1_absolute_net_min=.10,T0_second_net_min=.05,train_label_deadline='2026-05-01',status='research_only')
+ lines+=['','## 最新日期候选Top30','','| 排名 | 饰品 | 潜力评分 | T0潜力 |','|---|---|---:|---|']
+ latest=f[f.date==f.date.max()]
+ for _,a in latest[latest.T1_proposed].sort_values('candidate_rank').iterrows():
+  name=str(a['name']).replace('|',r'\|')
+  lines.append(f'| {int(a.candidate_rank)} | {name} | {a.potential_score:.4f} | {bool(a.T0_proposed)} |')
+ models['meta']=dict(price_min_exclusive=30,signal_to_entry_days=1,first_hold=7,second_hold=7,T1_daily_top_n=30,candidate_daily_max=30,ranking_weights=dict(T1=.6,T0=.4),ranking_tiebreak=['peer_rs7_desc','name_asc'],T0_second_net_min=.05,train_label_deadline='2026-05-01',status='research_only')
  models['structural']=dict(conds_or=[[['dd_60','<=',-.30],['up_14','>=',.03]],[['r_30','>=',0],['ma90_dev','>=',0],['up_14','>=',.03]]],status='research_only')
  Path(config.P('state','seven_day_research.json')).write_text(json.dumps(models,ensure_ascii=False,indent=2))
  Path(config.P('output','seven_day_research_2026.md')).write_text('\n'.join(lines)+'\n')
