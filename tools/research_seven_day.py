@@ -7,6 +7,7 @@ from sklearn.tree import DecisionTreeClassifier
 from lightgbm import LGBMClassifier
 from cs2 import data,features,config
 from cs2.leaders import add_peer_features
+from cs2.research_universe import allowed_products,EXCLUDED_WEAPONS
 
 COLS=['r_1','r_3','r_7','r_14','r_30','ma7_dev','ma30_dev','ma90_dev','dd_60',
  'dsl_30','up_7','up_14','pos_60','vol_ratio','vol_7','rsi_14','peer_breadth1',
@@ -18,7 +19,7 @@ def labels(f):
  out=f.copy()
  out['net7']=config.net_return(g.shift(-8)/g.shift(-1)-1)
  out['net_next7']=config.net_return(g.shift(-15)/g.shift(-8)-1)
- pool=out.eligible&(out.flat_14<=.5)&(out.close>30)
+ pool=out.eligible&(out.flat_14<=.5)&(out.close>30)&allowed_products(out.name)
  ordered=out.loc[pool&out.net7.notna()].assign(_name=lambda a:a.name.astype(str)).sort_values(['date','net7','_name'],ascending=[True,False,True])
  rank=ordered.groupby('date').cumcount()+1
  out['T1']=0
@@ -87,6 +88,7 @@ def main():
  '信号日t，次日收盘入场t+1，t+8退出；第二段t+8入场、t+15退出。每段均扣现有手续费和双边滑点。',
  'T1：同日30元以上合格单品中，第一段净收益同日前30且>0；T0：T1且第二段净收益≥5%。这是事后研究标签，不是当日可知的身份。',
  '仅用2—4月且15日标签在5月1日前到期的样本学习；宽候选阈值以训练T1/T0召回率至少95%设定。5—6月和7月以后不调参。此前已查看部分日期，因此后段也不能声称完全独立外测。',
+ '排除全部霰弹枪（Nova、XM1014、MAG-7、Sawed-Off）、Negev、M249、R8 Revolver，再排名及训练。',
  '树深最多4、每叶至少300条样本；叶内条件取交集，各选中叶取并集。没有目标单品/日期白名单。', '',
  '| 标签 | 时段 | 样本 | 真目标 | 召回率 | 候选占比 | 候选命中率 | 候选7日中位净收益 |',
  '|---|---|---:|---:|---:|---:|---:|---:|']
@@ -170,7 +172,7 @@ def main():
  for _,a in latest[latest.T1_proposed].sort_values('candidate_rank').iterrows():
   name=str(a['name']).replace('|',r'\|')
   lines.append(f'| {int(a.candidate_rank)} | {name} | {a.potential_score:.4f} | {bool(a.T0_proposed)} |')
- models['meta']=dict(price_min_exclusive=30,signal_to_entry_days=1,first_hold=7,second_hold=7,T1_daily_top_n=30,candidate_daily_max=30,ranking_weights=dict(T1=.6,T0=.4),ranking_tiebreak=['peer_rs7_desc','name_asc'],T0_second_net_min=.05,train_label_deadline='2026-05-01',status='research_only')
+ models['meta']=dict(excluded_weapons=sorted(EXCLUDED_WEAPONS),price_min_exclusive=30,signal_to_entry_days=1,first_hold=7,second_hold=7,T1_daily_top_n=30,candidate_daily_max=30,ranking_weights=dict(T1=.6,T0=.4),ranking_tiebreak=['peer_rs7_desc','name_asc'],T0_second_net_min=.05,train_label_deadline='2026-05-01',status='research_only')
  models['structural']=dict(conds_or=[[['dd_60','<=',-.30],['up_14','>=',.03]],[['r_30','>=',0],['ma90_dev','>=',0],['up_14','>=',.03]]],status='research_only')
  Path(config.P('state','seven_day_research.json')).write_text(json.dumps(models,ensure_ascii=False,indent=2))
  Path(config.P('output','seven_day_research_2026.md')).write_text('\n'.join(lines)+'\n')

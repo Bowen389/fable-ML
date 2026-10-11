@@ -28,3 +28,16 @@ def test_unverifiable_selection_is_reported():
  a=panel();f=audited_panel(a);z=f[f.date=='2026-03-10']
  r=evaluate(z,np.ones(len(z)),30)
  assert r['selected']==1;assert r['verifiable']==0
+
+
+def test_exclusions_apply_before_truth_ranking_and_training():
+ from cs2.research_universe import EXCLUDED_WEAPONS,allowed_products
+ names=pd.Series([f'{w} | Test (Factory New)' for w in EXCLUDED_WEAPONS]+['AK-47 | Test (Factory New)','Buckshot | NSWC SEAL','StatTrak™ Nova | Test','Souvenir M249 | Test'])
+ allowed=allowed_products(names)
+ assert not allowed.iloc[:7].any()
+ assert allowed.iloc[7:9].all()
+ assert not allowed.iloc[9:].any()
+ a=pd.concat([panel().assign(name='Nova | Test'),panel().assign(name='AK-47 | Test')],ignore_index=True)
+ f=audited_panel(a)
+ assert set(f.name)=={'AK-47 | Test'}
+ assert f.loc[f.date=='2026-02-09','truth_rank'].iloc[0]==1

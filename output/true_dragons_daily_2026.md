@@ -6,36 +6,36 @@
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 254.68 | +164.2% | -67.7% | T1 | True |
-| 2 | SSG 08 \| Necropos (Factory New) | 34.50 | +66.2% | -47.1% | T1 | True |
-| 3 | FAMAS \| Afterimage (Factory New) | 720.00 | +64.0% | +4.3% | T1 | False |
-| 4 | AK-47 \| Rat Rod (Factory New) | 900.00 | +36.3% | +23.4% | T0 | False |
-| 5 | USP-S \| Pathfinder (Factory New) | 304.90 | +25.6% | +14.1% | T0 | False |
-| 6 | P2000 \| Turf (Factory New) | 38.50 | +23.6% | -7.3% | T1 | False |
-| 7 | Glock-18 \| Brass (Factory New) | 2484.00 | +22.7% | -7.2% | T1 | False |
-| 8 | G3SG1 \| Black Sand (Factory New) | 30.02 | +22.2% | +1.6% | T1 | False |
-| 9 | PP-Bizon \| Antique (Factory New) | 110.61 | +22.1% | -18.3% | T1 | False |
-| 10 | MP7 \| Powercore (Factory New) | 140.00 | +19.0% | -4.0% | T1 | False |
-| 11 | MP7 \| Neon Ply (Factory New) | 171.25 | +17.9% | -1.9% | T1 | False |
-| 12 | MP7 \| Tall Grass (Factory New) | 63.80 | +17.5% | +9.9% | T0 | False |
-| 13 | Five-SeveN \| Fowl Play (Factory New) | 475.00 | +16.7% | +5.6% | T0 | False |
-| 14 | Dual Berettas \| Anodized Navy (Factory New) | 101.00 | +16.5% | -26.1% | T1 | False |
-| 15 | Desert Eagle \| Mudder (Factory New) | 42.00 | +15.4% | -4.9% | T1 | False |
-| 16 | Tec-9 \| Decimator (Factory New) | 1090.00 | +13.0% | +29.6% | T0 | False |
-| 17 | SG 553 \| Tiger Moth (Factory New) | 68.00 | +12.9% | -2.2% | T1 | False |
-| 18 | Tec-9 \| Whiteout (Factory New) | 2143.00 | +12.4% | -2.3% | T1 | False |
-| 19 | MAC-10 \| Stalker (Factory New) | 1599.50 | +11.8% | +50.6% | T0 | False |
-| 20 | AWP \| Black Nile (Factory New) | 156.00 | +11.8% | -11.5% | T1 | False |
-| 21 | PP-Bizon \| Fuel Rod (Factory New) | 78.00 | +11.4% | -17.9% | T1 | False |
-| 22 | PP-Bizon \| Embargo (Factory New) | 186.80 | +11.0% | -2.1% | T1 | False |
-| 23 | MP7 \| Impire (Factory New) | 124.00 | +8.0% | -17.2% | T1 | False |
-| 24 | R8 Revolver \| Memento (Factory New) | 34.90 | +7.9% | +1.6% | T1 | False |
-| 25 | Galil AR \| Vandal (Factory New) | 70.00 | +7.5% | +17.9% | T0 | False |
-| 26 | MP7 \| Ocean Foam (Factory New) | 127.00 | +7.4% | -17.6% | T1 | False |
-| 27 | R8 Revolver \| Llama Cannon (Factory New) | 259.98 | +7.4% | -6.4% | T1 | False |
-| 28 | MP7 \| Special Delivery (Factory New) | 77.00 | +7.4% | -12.3% | T1 | False |
-| 29 | R8 Revolver \| Crimson Web (Factory New) | 70.99 | +6.9% | -8.8% | T1 | False |
-| 30 | MAC-10 \| Surfwood (Factory New) | 54.93 | +6.6% | -5.8% | T1 | False |
+| 1 | SSG 08 \| Necropos (Factory New) | 34.50 | +66.2% | -47.1% | T1 | True |
+| 2 | FAMAS \| Afterimage (Factory New) | 720.00 | +64.0% | +4.3% | T1 | False |
+| 3 | AK-47 \| Rat Rod (Factory New) | 900.00 | +36.3% | +23.4% | T0 | False |
+| 4 | USP-S \| Pathfinder (Factory New) | 304.90 | +25.6% | +14.1% | T0 | False |
+| 5 | P2000 \| Turf (Factory New) | 38.50 | +23.6% | -7.3% | T1 | False |
+| 6 | Glock-18 \| Brass (Factory New) | 2484.00 | +22.7% | -7.2% | T1 | False |
+| 7 | G3SG1 \| Black Sand (Factory New) | 30.02 | +22.2% | +1.6% | T1 | False |
+| 8 | PP-Bizon \| Antique (Factory New) | 110.61 | +22.1% | -18.3% | T1 | False |
+| 9 | MP7 \| Powercore (Factory New) | 140.00 | +19.0% | -4.0% | T1 | False |
+| 10 | MP7 \| Neon Ply (Factory New) | 171.25 | +17.9% | -1.9% | T1 | False |
+| 11 | MP7 \| Tall Grass (Factory New) | 63.80 | +17.5% | +9.9% | T0 | False |
+| 12 | Five-SeveN \| Fowl Play (Factory New) | 475.00 | +16.7% | +5.6% | T0 | False |
+| 13 | Dual Berettas \| Anodized Navy (Factory New) | 101.00 | +16.5% | -26.1% | T1 | False |
+| 14 | Desert Eagle \| Mudder (Factory New) | 42.00 | +15.4% | -4.9% | T1 | False |
+| 15 | Tec-9 \| Decimator (Factory New) | 1090.00 | +13.0% | +29.6% | T0 | False |
+| 16 | SG 553 \| Tiger Moth (Factory New) | 68.00 | +12.9% | -2.2% | T1 | False |
+| 17 | Tec-9 \| Whiteout (Factory New) | 2143.00 | +12.4% | -2.3% | T1 | False |
+| 18 | MAC-10 \| Stalker (Factory New) | 1599.50 | +11.8% | +50.6% | T0 | False |
+| 19 | AWP \| Black Nile (Factory New) | 156.00 | +11.8% | -11.5% | T1 | False |
+| 20 | PP-Bizon \| Fuel Rod (Factory New) | 78.00 | +11.4% | -17.9% | T1 | False |
+| 21 | PP-Bizon \| Embargo (Factory New) | 186.80 | +11.0% | -2.1% | T1 | False |
+| 22 | MP7 \| Impire (Factory New) | 124.00 | +8.0% | -17.2% | T1 | False |
+| 23 | Galil AR \| Vandal (Factory New) | 70.00 | +7.5% | +17.9% | T0 | False |
+| 24 | MP7 \| Ocean Foam (Factory New) | 127.00 | +7.4% | -17.6% | T1 | False |
+| 25 | MP7 \| Special Delivery (Factory New) | 77.00 | +7.4% | -12.3% | T1 | False |
+| 26 | MAC-10 \| Surfwood (Factory New) | 54.93 | +6.6% | -5.8% | T1 | False |
+| 27 | G3SG1 \| Orange Kimono (Factory New) | 58.00 | +6.2% | -9.2% | T1 | False |
+| 28 | Rezan The Ready \| Sabre | 81.90 | +6.1% | -19.5% | T1 | False |
+| 29 | M4A4 \| Griffin (Factory New) | 390.00 | +6.1% | +19.3% | T0 | False |
+| 30 | M4A4 \| Urban DDPAT (Factory New) | 176.00 | +5.0% | +22.2% | T0 | False |
 
 ## 2026-02-02
 
@@ -49,28 +49,28 @@
 | 6 | MP7 \| Powercore (Factory New) | 137.49 | +24.3% | -1.2% | T1 | False |
 | 7 | P2000 \| Turf (Factory New) | 35.00 | +22.9% | -7.0% | T1 | False |
 | 8 | Desert Eagle \| Mudder (Factory New) | 38.88 | +22.8% | -3.4% | T1 | False |
-| 9 | R8 Revolver \| Memento (Factory New) | 34.00 | +22.3% | +11.2% | T0 | False |
-| 10 | MAC-10 \| Stalker (Factory New) | 1549.75 | +21.5% | +39.5% | T0 | False |
-| 11 | M4A4 \| Urban DDPAT (Factory New) | 172.90 | +20.4% | +7.8% | T0 | False |
-| 12 | MP7 \| Ocean Foam (Factory New) | 120.00 | +18.4% | -8.5% | T1 | False |
-| 13 | Galil AR \| Vandal (Factory New) | 63.95 | +15.0% | +25.9% | T0 | False |
-| 14 | MP7 \| Impire (Factory New) | 113.50 | +14.1% | -11.5% | T1 | False |
-| 15 | P2000 \| Panther Camo (Factory New) | 53.99 | +13.9% | +27.5% | T0 | False |
-| 16 | M4A4 \| Griffin (Factory New) | 445.00 | +10.3% | +8.3% | T0 | False |
-| 17 | R8 Revolver \| Crimson Web (Factory New) | 65.90 | +9.2% | -6.8% | T1 | False |
-| 18 | Galil AR \| Amber Fade (Factory New) | 308.00 | +9.1% | +4.9% | T1 | False |
-| 19 | Rezan The Ready \| Sabre | 82.90 | +9.0% | -20.8% | T1 | False |
-| 20 | AWP \| Black Nile (Factory New) | 155.00 | +8.8% | -6.4% | T1 | False |
-| 21 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1437.00 | +8.6% | +55.6% | T0 | False |
-| 22 | FAMAS \| Eye of Athena (Factory New) | 407.50 | +8.1% | -5.3% | T1 | False |
-| 23 | AK-47 \| Green Laminate (Factory New) | 647.00 | +7.9% | +11.2% | T0 | False |
-| 24 | MP9 \| Deadly Poison (Factory New) | 86.90 | +7.8% | -24.8% | T1 | False |
-| 25 | Desert Eagle \| Naga (Factory New) | 273.00 | +7.7% | -3.3% | T1 | False |
-| 26 | R8 Revolver \| Llama Cannon (Factory New) | 257.99 | +7.1% | -9.9% | T1 | False |
-| 27 | M4A1-S \| Basilisk (Factory New) | 281.00 | +7.0% | +5.0% | T1 | False |
-| 28 | SG 553 \| Tiger Moth (Factory New) | 65.00 | +7.0% | -4.7% | T1 | False |
-| 29 | MAC-10 \| Surfwood (Factory New) | 47.80 | +6.9% | -5.8% | T1 | False |
-| 30 | PP-Bizon \| Antique (Factory New) | 98.00 | +6.5% | -15.4% | T1 | False |
+| 9 | MAC-10 \| Stalker (Factory New) | 1549.75 | +21.5% | +39.5% | T0 | False |
+| 10 | M4A4 \| Urban DDPAT (Factory New) | 172.90 | +20.4% | +7.8% | T0 | False |
+| 11 | MP7 \| Ocean Foam (Factory New) | 120.00 | +18.4% | -8.5% | T1 | False |
+| 12 | Galil AR \| Vandal (Factory New) | 63.95 | +15.0% | +25.9% | T0 | False |
+| 13 | MP7 \| Impire (Factory New) | 113.50 | +14.1% | -11.5% | T1 | False |
+| 14 | P2000 \| Panther Camo (Factory New) | 53.99 | +13.9% | +27.5% | T0 | False |
+| 15 | M4A4 \| Griffin (Factory New) | 445.00 | +10.3% | +8.3% | T0 | False |
+| 16 | Galil AR \| Amber Fade (Factory New) | 308.00 | +9.1% | +4.9% | T1 | False |
+| 17 | Rezan The Ready \| Sabre | 82.90 | +9.0% | -20.8% | T1 | False |
+| 18 | AWP \| Black Nile (Factory New) | 155.00 | +8.8% | -6.4% | T1 | False |
+| 19 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1437.00 | +8.6% | +55.6% | T0 | False |
+| 20 | FAMAS \| Eye of Athena (Factory New) | 407.50 | +8.1% | -5.3% | T1 | False |
+| 21 | AK-47 \| Green Laminate (Factory New) | 647.00 | +7.9% | +11.2% | T0 | False |
+| 22 | MP9 \| Deadly Poison (Factory New) | 86.90 | +7.8% | -24.8% | T1 | False |
+| 23 | Desert Eagle \| Naga (Factory New) | 273.00 | +7.7% | -3.3% | T1 | False |
+| 24 | M4A1-S \| Basilisk (Factory New) | 281.00 | +7.0% | +5.0% | T1 | False |
+| 25 | SG 553 \| Tiger Moth (Factory New) | 65.00 | +7.0% | -4.7% | T1 | False |
+| 26 | MAC-10 \| Surfwood (Factory New) | 47.80 | +6.9% | -5.8% | T1 | False |
+| 27 | PP-Bizon \| Antique (Factory New) | 98.00 | +6.5% | -15.4% | T1 | False |
+| 28 | G3SG1 \| Orange Kimono (Factory New) | 58.00 | +6.0% | -9.1% | T1 | False |
+| 29 | Galil AR \| Stone Cold (Factory New) | 176.00 | +5.3% | +14.4% | T0 | False |
+| 30 | Five-SeveN \| Angry Mob (Factory New) | 898.00 | +5.2% | -8.4% | T1 | False |
 
 ## 2026-02-03
 
@@ -130,17 +130,17 @@
 | 17 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 11486.00 | +36.9% | +7.9% | T0 | False |
 | 18 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 11180.00 | +35.9% | +7.8% | T0 | False |
 | 19 | ★ Moto Gloves \| Boom! (Minimal Wear) | 4499.00 | +34.7% | +13.1% | T0 | False |
-| 20 | R8 Revolver \| Crimson Web (Factory New) | 70.00 | +32.1% | -22.1% | T1 | False |
-| 21 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3393.99 | +30.0% | +13.4% | T0 | False |
-| 22 | M4A4 \| Buzz Kill (Factory New) | 4940.00 | +29.1% | -5.9% | T1 | False |
-| 23 | ★ Driver Gloves \| Diamondback (Field-Tested) | 5350.00 | +27.6% | +15.7% | T0 | False |
-| 24 | MAC-10 \| Stalker (Factory New) | 1899.00 | +26.6% | +30.3% | T0 | False |
-| 25 | ★ Driver Gloves \| Crimson Weave (Field-Tested) | 15400.00 | +26.2% | +2.1% | T1 | False |
-| 26 | MP9 \| Deadly Poison (Factory New) | 68.97 | +25.5% | -28.8% | T1 | False |
-| 27 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7249.00 | +24.5% | +40.0% | T0 | False |
-| 28 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1300.00 | +24.2% | +1.3% | T1 | False |
-| 29 | AWP \| Containment Breach (Factory New) | 5188.00 | +24.1% | -10.6% | T1 | False |
-| 30 | Tec-9 \| Mummy's Rot (Factory New) | 108.10 | +24.0% | +27.5% | T0 | False |
+| 20 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3393.99 | +30.0% | +13.4% | T0 | False |
+| 21 | M4A4 \| Buzz Kill (Factory New) | 4940.00 | +29.1% | -5.9% | T1 | False |
+| 22 | ★ Driver Gloves \| Diamondback (Field-Tested) | 5350.00 | +27.6% | +15.7% | T0 | False |
+| 23 | MAC-10 \| Stalker (Factory New) | 1899.00 | +26.6% | +30.3% | T0 | False |
+| 24 | ★ Driver Gloves \| Crimson Weave (Field-Tested) | 15400.00 | +26.2% | +2.1% | T1 | False |
+| 25 | MP9 \| Deadly Poison (Factory New) | 68.97 | +25.5% | -28.8% | T1 | False |
+| 26 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7249.00 | +24.5% | +40.0% | T0 | False |
+| 27 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1300.00 | +24.2% | +1.3% | T1 | False |
+| 28 | AWP \| Containment Breach (Factory New) | 5188.00 | +24.1% | -10.6% | T1 | False |
+| 29 | Tec-9 \| Mummy's Rot (Factory New) | 108.10 | +24.0% | +27.5% | T0 | False |
+| 30 | M4A4 \| Hellfire (Factory New) | 4477.00 | +22.1% | +14.1% | T0 | False |
 
 ## 2026-02-05
 
@@ -209,8 +209,8 @@
 | 26 | ★ Driver Gloves \| Crimson Weave (Field-Tested) | 15100.00 | +24.5% | -8.6% | T1 | False |
 | 27 | M4A1-S \| Control Panel (Factory New) | 1948.50 | +24.0% | -7.2% | T1 | False |
 | 28 | ★ Hand Wraps \| Leather (Field-Tested) | 6198.00 | +23.8% | -10.6% | T1 | False |
-| 29 | R8 Revolver \| Memento (Factory New) | 34.39 | +22.9% | -0.8% | T1 | False |
-| 30 | P90 \| Wave Breaker (Factory New) | 43.00 | +22.9% | -6.0% | T1 | False |
+| 29 | P90 \| Wave Breaker (Factory New) | 43.00 | +22.9% | -6.0% | T1 | False |
+| 30 | Five-SeveN \| Fairy Tale (Factory New) | 2788.00 | +22.3% | +8.4% | T0 | False |
 
 ## 2026-02-07
 
@@ -286,246 +286,246 @@
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 697.14 | +186.4% | -22.8% | T1 | True |
-| 2 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 6700.00 | +119.9% | -21.1% | T1 | False |
-| 3 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1340.00 | +78.3% | -21.7% | T1 | False |
-| 4 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 6645.00 | +77.8% | -19.6% | T1 | False |
-| 5 | ★ Driver Gloves \| Diamondback (Minimal Wear) | 5198.00 | +77.8% | -22.1% | T1 | False |
-| 6 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1299.99 | +76.1% | -22.1% | T1 | False |
-| 7 | ★ Hand Wraps \| Badlands (Minimal Wear) | 3994.75 | +67.9% | -18.7% | T1 | False |
-| 8 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 3348.50 | +66.4% | -11.9% | T1 | False |
-| 9 | ★ Bloodhound Gloves \| Charred (Minimal Wear) | 2300.00 | +58.8% | -17.2% | T1 | False |
-| 10 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 2448.50 | +57.7% | -20.9% | T1 | False |
-| 11 | ★ Driver Gloves \| Convoy (Minimal Wear) | 2380.00 | +57.1% | -18.9% | T1 | False |
-| 12 | ★ Hand Wraps \| Leather (Minimal Wear) | 5997.00 | +56.4% | -17.3% | T1 | False |
-| 13 | M4A1-S \| Boreal Forest (Factory New) | 95.00 | +55.7% | -22.7% | T1 | False |
-| 14 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1316.50 | +55.6% | -24.0% | T1 | False |
-| 15 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3130.00 | +54.6% | -15.3% | T1 | False |
-| 16 | Galil AR \| Dusk Ruins (Factory New) | 1840.00 | +50.1% | -44.1% | T1 | False |
-| 17 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 10998.50 | +47.5% | -17.7% | T1 | False |
-| 18 | Glock-18 \| Weasel (Factory New) | 175.00 | +46.7% | +2.0% | T1 | False |
-| 19 | ★ Driver Gloves \| Diamondback (Field-Tested) | 4999.50 | +46.6% | -21.7% | T1 | False |
-| 20 | ★ Hand Wraps \| Slaughter (Minimal Wear) | 6598.50 | +45.8% | -18.5% | T1 | False |
-| 21 | ★ Sport Gloves \| Arid (Minimal Wear) | 15190.00 | +43.4% | -13.7% | T1 | False |
-| 22 | AK-47 \| Orbit Mk01 (Factory New) | 888.38 | +43.4% | -9.0% | T1 | False |
-| 23 | Tec-9 \| Mummy's Rot (Factory New) | 108.50 | +41.8% | -1.8% | T1 | False |
-| 24 | Desert Eagle \| Hypnotic (Factory New) | 1260.00 | +40.0% | +2.1% | T1 | False |
-| 25 | MAC-10 \| Stalker (Factory New) | 1795.00 | +39.5% | -7.1% | T1 | False |
-| 26 | ★ Driver Gloves \| Crimson Weave (Minimal Wear) | 15499.00 | +39.1% | -14.3% | T1 | False |
-| 27 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 10549.49 | +38.1% | -16.9% | T1 | False |
-| 28 | MAC-10 \| Propaganda (Factory New) | 865.02 | +38.1% | -11.4% | T1 | False |
-| 29 | ★ Moto Gloves \| Boom! (Minimal Wear) | 4118.48 | +38.0% | +13.1% | T0 | False |
-| 30 | ★ Driver Gloves \| Convoy (Field-Tested) | 2169.50 | +35.6% | -21.1% | T1 | False |
+| 1 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 6700.00 | +119.9% | -21.1% | T1 | False |
+| 2 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1340.00 | +78.3% | -21.7% | T1 | False |
+| 3 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 6645.00 | +77.8% | -19.6% | T1 | False |
+| 4 | ★ Driver Gloves \| Diamondback (Minimal Wear) | 5198.00 | +77.8% | -22.1% | T1 | False |
+| 5 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1299.99 | +76.1% | -22.1% | T1 | False |
+| 6 | ★ Hand Wraps \| Badlands (Minimal Wear) | 3994.75 | +67.9% | -18.7% | T1 | False |
+| 7 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 3348.50 | +66.4% | -11.9% | T1 | False |
+| 8 | ★ Bloodhound Gloves \| Charred (Minimal Wear) | 2300.00 | +58.8% | -17.2% | T1 | False |
+| 9 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 2448.50 | +57.7% | -20.9% | T1 | False |
+| 10 | ★ Driver Gloves \| Convoy (Minimal Wear) | 2380.00 | +57.1% | -18.9% | T1 | False |
+| 11 | ★ Hand Wraps \| Leather (Minimal Wear) | 5997.00 | +56.4% | -17.3% | T1 | False |
+| 12 | M4A1-S \| Boreal Forest (Factory New) | 95.00 | +55.7% | -22.7% | T1 | False |
+| 13 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1316.50 | +55.6% | -24.0% | T1 | False |
+| 14 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3130.00 | +54.6% | -15.3% | T1 | False |
+| 15 | Galil AR \| Dusk Ruins (Factory New) | 1840.00 | +50.1% | -44.1% | T1 | False |
+| 16 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 10998.50 | +47.5% | -17.7% | T1 | False |
+| 17 | Glock-18 \| Weasel (Factory New) | 175.00 | +46.7% | +2.0% | T1 | False |
+| 18 | ★ Driver Gloves \| Diamondback (Field-Tested) | 4999.50 | +46.6% | -21.7% | T1 | False |
+| 19 | ★ Hand Wraps \| Slaughter (Minimal Wear) | 6598.50 | +45.8% | -18.5% | T1 | False |
+| 20 | ★ Sport Gloves \| Arid (Minimal Wear) | 15190.00 | +43.4% | -13.7% | T1 | False |
+| 21 | AK-47 \| Orbit Mk01 (Factory New) | 888.38 | +43.4% | -9.0% | T1 | False |
+| 22 | Tec-9 \| Mummy's Rot (Factory New) | 108.50 | +41.8% | -1.8% | T1 | False |
+| 23 | Desert Eagle \| Hypnotic (Factory New) | 1260.00 | +40.0% | +2.1% | T1 | False |
+| 24 | MAC-10 \| Stalker (Factory New) | 1795.00 | +39.5% | -7.1% | T1 | False |
+| 25 | ★ Driver Gloves \| Crimson Weave (Minimal Wear) | 15499.00 | +39.1% | -14.3% | T1 | False |
+| 26 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 10549.49 | +38.1% | -16.9% | T1 | False |
+| 27 | MAC-10 \| Propaganda (Factory New) | 865.02 | +38.1% | -11.4% | T1 | False |
+| 28 | ★ Moto Gloves \| Boom! (Minimal Wear) | 4118.48 | +38.0% | +13.1% | T0 | False |
+| 29 | ★ Driver Gloves \| Convoy (Field-Tested) | 2169.50 | +35.6% | -21.1% | T1 | False |
+| 30 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1183.00 | +34.8% | -19.5% | T1 | False |
 
 ## 2026-02-10
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +186.4% | -22.8% | T1 | True |
-| 2 | FAMAS \| CaliCamo (Factory New) | 31.02 | +102.1% | -24.9% | T1 | False |
-| 3 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 7199.00 | +87.1% | -9.4% | T1 | False |
-| 4 | Desert Eagle \| Hypnotic (Factory New) | 1329.50 | +67.2% | -3.9% | T1 | False |
-| 5 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7165.00 | +63.4% | -6.1% | T1 | False |
-| 6 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1384.90 | +43.8% | -14.3% | T1 | False |
-| 7 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1389.00 | +43.1% | -11.1% | T1 | False |
-| 8 | ★ Hand Wraps \| Badlands (Minimal Wear) | 4299.50 | +42.6% | -7.7% | T1 | False |
-| 9 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1592.00 | +42.5% | -14.2% | T1 | False |
-| 10 | M4A1-S \| Boreal Forest (Factory New) | 99.80 | +42.5% | -11.2% | T1 | False |
-| 11 | ★ Driver Gloves \| Convoy (Minimal Wear) | 2549.00 | +38.6% | -8.2% | T1 | False |
-| 12 | AK-47 \| Orbit Mk01 (Factory New) | 909.99 | +37.5% | +1.0% | T1 | False |
-| 13 | ★ Driver Gloves \| Diamondback (Minimal Wear) | 5550.00 | +36.7% | -8.9% | T1 | False |
-| 14 | ★ Bloodhound Gloves \| Charred (Minimal Wear) | 2400.00 | +35.5% | -9.3% | T1 | False |
-| 15 | MP7 \| Neon Ply (Factory New) | 208.90 | +35.3% | +10.4% | T0 | False |
-| 16 | ★ Hand Wraps \| Leather (Minimal Wear) | 6480.00 | +34.9% | -13.1% | T1 | False |
-| 17 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 3587.50 | +34.4% | -0.0% | T1 | False |
-| 18 | Zeus x27 \| Charged Up (Factory New) | 242.50 | +34.0% | -7.2% | T1 | False |
-| 19 | Tec-9 \| Mummy's Rot (Factory New) | 114.00 | +32.8% | -0.3% | T1 | False |
-| 20 | Five-SeveN \| Fairy Tale (Factory New) | 2719.00 | +31.9% | -8.4% | T1 | False |
-| 21 | P2000 \| Silver (Factory New) | 610.00 | +31.6% | +14.7% | T0 | False |
-| 22 | Glock-18 \| Weasel (Factory New) | 179.00 | +31.5% | +6.2% | T0 | False |
-| 23 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3310.00 | +31.3% | +5.8% | T0 | False |
-| 24 | ★ Moto Gloves \| Boom! (Minimal Wear) | 4650.00 | +30.9% | +26.8% | T0 | False |
-| 25 | Desert Eagle \| Code Red (Factory New) | 2080.00 | +30.8% | -13.7% | T1 | False |
-| 26 | FAMAS \| Hexane (Factory New) | 32.45 | +30.2% | +15.0% | T0 | False |
-| 27 | ★ Driver Gloves \| Diamondback (Field-Tested) | 5424.50 | +30.0% | -10.4% | T1 | False |
-| 28 | MP9 \| Hypnotic (Factory New) | 141.97 | +27.6% | -8.9% | T1 | False |
-| 29 | Galil AR \| Urban Rubble (Factory New) | 162.39 | +27.3% | -7.6% | T1 | False |
-| 30 | ★ Hand Wraps \| Slaughter (Minimal Wear) | 7349.00 | +27.1% | -7.9% | T1 | False |
+| 1 | FAMAS \| CaliCamo (Factory New) | 31.02 | +102.1% | -24.9% | T1 | False |
+| 2 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 7199.00 | +87.1% | -9.4% | T1 | False |
+| 3 | Desert Eagle \| Hypnotic (Factory New) | 1329.50 | +67.2% | -3.9% | T1 | False |
+| 4 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7165.00 | +63.4% | -6.1% | T1 | False |
+| 5 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1384.90 | +43.8% | -14.3% | T1 | False |
+| 6 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1389.00 | +43.1% | -11.1% | T1 | False |
+| 7 | ★ Hand Wraps \| Badlands (Minimal Wear) | 4299.50 | +42.6% | -7.7% | T1 | False |
+| 8 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1592.00 | +42.5% | -14.2% | T1 | False |
+| 9 | M4A1-S \| Boreal Forest (Factory New) | 99.80 | +42.5% | -11.2% | T1 | False |
+| 10 | ★ Driver Gloves \| Convoy (Minimal Wear) | 2549.00 | +38.6% | -8.2% | T1 | False |
+| 11 | AK-47 \| Orbit Mk01 (Factory New) | 909.99 | +37.5% | +1.0% | T1 | False |
+| 12 | ★ Driver Gloves \| Diamondback (Minimal Wear) | 5550.00 | +36.7% | -8.9% | T1 | False |
+| 13 | ★ Bloodhound Gloves \| Charred (Minimal Wear) | 2400.00 | +35.5% | -9.3% | T1 | False |
+| 14 | MP7 \| Neon Ply (Factory New) | 208.90 | +35.3% | +10.4% | T0 | False |
+| 15 | ★ Hand Wraps \| Leather (Minimal Wear) | 6480.00 | +34.9% | -13.1% | T1 | False |
+| 16 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 3587.50 | +34.4% | -0.0% | T1 | False |
+| 17 | Zeus x27 \| Charged Up (Factory New) | 242.50 | +34.0% | -7.2% | T1 | False |
+| 18 | Tec-9 \| Mummy's Rot (Factory New) | 114.00 | +32.8% | -0.3% | T1 | False |
+| 19 | Five-SeveN \| Fairy Tale (Factory New) | 2719.00 | +31.9% | -8.4% | T1 | False |
+| 20 | P2000 \| Silver (Factory New) | 610.00 | +31.6% | +14.7% | T0 | False |
+| 21 | Glock-18 \| Weasel (Factory New) | 179.00 | +31.5% | +6.2% | T0 | False |
+| 22 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3310.00 | +31.3% | +5.8% | T0 | False |
+| 23 | ★ Moto Gloves \| Boom! (Minimal Wear) | 4650.00 | +30.9% | +26.8% | T0 | False |
+| 24 | Desert Eagle \| Code Red (Factory New) | 2080.00 | +30.8% | -13.7% | T1 | False |
+| 25 | FAMAS \| Hexane (Factory New) | 32.45 | +30.2% | +15.0% | T0 | False |
+| 26 | ★ Driver Gloves \| Diamondback (Field-Tested) | 5424.50 | +30.0% | -10.4% | T1 | False |
+| 27 | MP9 \| Hypnotic (Factory New) | 141.97 | +27.6% | -8.9% | T1 | False |
+| 28 | Galil AR \| Urban Rubble (Factory New) | 162.39 | +27.3% | -7.6% | T1 | False |
+| 29 | ★ Hand Wraps \| Slaughter (Minimal Wear) | 7349.00 | +27.1% | -7.9% | T1 | False |
+| 30 | AWP \| Safari Mesh (Factory New) | 54.90 | +25.8% | -8.9% | T1 | False |
 
 ## 2026-02-11
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +190.6% | -67.5% | T1 | True |
-| 2 | FAMAS \| CaliCamo (Factory New) | 31.00 | +98.9% | -28.6% | T1 | False |
-| 3 | Tec-9 \| Titanium Bit (Factory New) | 104.00 | +71.4% | -15.3% | T1 | False |
-| 4 | FAMAS \| Hexane (Factory New) | 32.30 | +67.0% | -11.5% | T1 | False |
-| 5 | P2000 \| Red FragCam (Factory New) | 44.90 | +61.1% | +22.4% | T0 | False |
-| 6 | Desert Eagle \| Hypnotic (Factory New) | 1308.50 | +60.7% | -10.0% | T1 | False |
-| 7 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 8600.00 | +44.1% | -11.4% | T1 | False |
-| 8 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7790.00 | +40.0% | -6.9% | T1 | False |
-| 9 | M4A1-S \| Boreal Forest (Factory New) | 106.00 | +38.7% | -12.6% | T1 | False |
-| 10 | M4A1-S \| Blood Tiger (Factory New) | 87.00 | +38.3% | -9.6% | T1 | False |
-| 11 | AK-47 \| Orbit Mk01 (Factory New) | 957.50 | +36.6% | -2.4% | T1 | False |
-| 12 | Glock-18 \| Weasel (Factory New) | 187.50 | +36.4% | +11.0% | T0 | False |
-| 13 | AWP \| Exoskeleton (Factory New) | 486.00 | +33.4% | -8.6% | T1 | False |
-| 14 | FAMAS \| Macabre (Factory New) | 64.20 | +32.3% | +3.6% | T1 | False |
-| 15 | Five-SeveN \| Case Hardened (Factory New) | 339.00 | +32.1% | -18.1% | T1 | False |
-| 16 | Dual Berettas \| Panther (Factory New) | 32.29 | +31.9% | -13.2% | T1 | False |
-| 17 | MAC-10 \| Stalker (Factory New) | 2198.00 | +30.3% | -15.9% | T1 | False |
-| 18 | Tec-9 \| Blue Titanium (Factory New) | 31.33 | +29.8% | -11.4% | T1 | False |
-| 19 | Five-SeveN \| Berries And Cherries (Factory New) | 946.50 | +28.4% | -16.2% | T1 | False |
-| 20 | Tec-9 \| Mummy's Rot (Factory New) | 121.00 | +27.5% | -6.3% | T1 | False |
-| 21 | AK-47 \| Point Disarray (Factory New) | 698.00 | +27.4% | -11.6% | T1 | False |
-| 22 | MP9 \| Hypnotic (Factory New) | 140.00 | +27.1% | -11.2% | T1 | False |
-| 23 | FAMAS \| ZX Spectron (Factory New) | 208.50 | +26.9% | +13.1% | T0 | False |
-| 24 | Zeus x27 \| Charged Up (Factory New) | 242.00 | +26.3% | +0.1% | T1 | False |
-| 25 | P2000 \| Obsidian (Factory New) | 153.00 | +25.8% | +21.2% | T0 | False |
-| 26 | P250 \| Dark Filigree (Factory New) | 78.79 | +25.7% | -15.3% | T1 | False |
-| 27 | SSG 08 \| Necropos (Factory New) | 59.80 | +24.6% | -24.2% | T1 | True |
-| 28 | P250 \| Undertow (Factory New) | 349.00 | +24.5% | +6.5% | T0 | False |
-| 29 | Five-SeveN \| Fowl Play (Factory New) | 524.00 | +23.0% | +6.3% | T0 | False |
-| 30 | MP7 \| Neon Ply (Factory New) | 213.00 | +22.4% | +25.3% | T0 | False |
+| 1 | FAMAS \| CaliCamo (Factory New) | 31.00 | +98.9% | -28.6% | T1 | False |
+| 2 | Tec-9 \| Titanium Bit (Factory New) | 104.00 | +71.4% | -15.3% | T1 | False |
+| 3 | FAMAS \| Hexane (Factory New) | 32.30 | +67.0% | -11.5% | T1 | False |
+| 4 | P2000 \| Red FragCam (Factory New) | 44.90 | +61.1% | +22.4% | T0 | False |
+| 5 | Desert Eagle \| Hypnotic (Factory New) | 1308.50 | +60.7% | -10.0% | T1 | False |
+| 6 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 8600.00 | +44.1% | -11.4% | T1 | False |
+| 7 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7790.00 | +40.0% | -6.9% | T1 | False |
+| 8 | M4A1-S \| Boreal Forest (Factory New) | 106.00 | +38.7% | -12.6% | T1 | False |
+| 9 | M4A1-S \| Blood Tiger (Factory New) | 87.00 | +38.3% | -9.6% | T1 | False |
+| 10 | AK-47 \| Orbit Mk01 (Factory New) | 957.50 | +36.6% | -2.4% | T1 | False |
+| 11 | Glock-18 \| Weasel (Factory New) | 187.50 | +36.4% | +11.0% | T0 | False |
+| 12 | AWP \| Exoskeleton (Factory New) | 486.00 | +33.4% | -8.6% | T1 | False |
+| 13 | FAMAS \| Macabre (Factory New) | 64.20 | +32.3% | +3.6% | T1 | False |
+| 14 | Five-SeveN \| Case Hardened (Factory New) | 339.00 | +32.1% | -18.1% | T1 | False |
+| 15 | Dual Berettas \| Panther (Factory New) | 32.29 | +31.9% | -13.2% | T1 | False |
+| 16 | MAC-10 \| Stalker (Factory New) | 2198.00 | +30.3% | -15.9% | T1 | False |
+| 17 | Tec-9 \| Blue Titanium (Factory New) | 31.33 | +29.8% | -11.4% | T1 | False |
+| 18 | Five-SeveN \| Berries And Cherries (Factory New) | 946.50 | +28.4% | -16.2% | T1 | False |
+| 19 | Tec-9 \| Mummy's Rot (Factory New) | 121.00 | +27.5% | -6.3% | T1 | False |
+| 20 | AK-47 \| Point Disarray (Factory New) | 698.00 | +27.4% | -11.6% | T1 | False |
+| 21 | MP9 \| Hypnotic (Factory New) | 140.00 | +27.1% | -11.2% | T1 | False |
+| 22 | FAMAS \| ZX Spectron (Factory New) | 208.50 | +26.9% | +13.1% | T0 | False |
+| 23 | Zeus x27 \| Charged Up (Factory New) | 242.00 | +26.3% | +0.1% | T1 | False |
+| 24 | P2000 \| Obsidian (Factory New) | 153.00 | +25.8% | +21.2% | T0 | False |
+| 25 | P250 \| Dark Filigree (Factory New) | 78.79 | +25.7% | -15.3% | T1 | False |
+| 26 | SSG 08 \| Necropos (Factory New) | 59.80 | +24.6% | -24.2% | T1 | True |
+| 27 | P250 \| Undertow (Factory New) | 349.00 | +24.5% | +6.5% | T0 | False |
+| 28 | Five-SeveN \| Fowl Play (Factory New) | 524.00 | +23.0% | +6.3% | T0 | False |
+| 29 | MP7 \| Neon Ply (Factory New) | 213.00 | +22.4% | +25.3% | T0 | False |
+| 30 | P2000 \| Silver (Factory New) | 608.00 | +22.4% | +17.7% | T0 | False |
 
 ## 2026-02-12
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 229.84 | +192.0% | -67.1% | T1 | True |
-| 2 | P2000 \| Red FragCam (Factory New) | 44.89 | +90.9% | -23.1% | T1 | False |
-| 3 | FAMAS \| CaliCamo (Factory New) | 31.30 | +79.1% | -22.9% | T1 | False |
-| 4 | Tec-9 \| Titanium Bit (Factory New) | 95.00 | +68.4% | -16.0% | T1 | False |
-| 5 | Desert Eagle \| Hypnotic (Factory New) | 1429.00 | +67.6% | -15.9% | T1 | False |
-| 6 | Glock-18 \| Weasel (Factory New) | 184.00 | +62.9% | -0.0% | T1 | False |
-| 7 | P2000 \| Obsidian (Factory New) | 149.50 | +58.7% | -7.8% | T1 | False |
-| 8 | FAMAS \| Hexane (Factory New) | 31.80 | +54.3% | -5.4% | T1 | False |
-| 9 | Five-SeveN \| Copper Galaxy (Factory New) | 206.00 | +51.5% | -20.1% | T1 | False |
-| 10 | MP7 \| Neon Ply (Factory New) | 235.00 | +50.2% | +34.9% | T0 | False |
-| 11 | Five-SeveN \| Fowl Play (Factory New) | 510.00 | +47.4% | -12.6% | T1 | False |
-| 12 | Tec-9 \| Mummy's Rot (Factory New) | 130.98 | +44.3% | -20.1% | T1 | False |
-| 13 | Five-SeveN \| Case Hardened (Factory New) | 320.00 | +40.8% | -17.6% | T1 | False |
-| 14 | AWP \| Exoskeleton (Factory New) | 419.00 | +40.0% | -21.9% | T1 | False |
-| 15 | Sawed-Off \| Irradiated Alert (Factory New) | 220.00 | +38.2% | +3.2% | T1 | False |
-| 16 | Galil AR \| Amber Fade (Factory New) | 349.50 | +37.5% | -14.6% | T1 | False |
-| 17 | FAMAS \| ZX Spectron (Factory New) | 191.00 | +37.5% | +0.3% | T1 | False |
-| 18 | M4A1-S \| Blood Tiger (Factory New) | 82.00 | +37.3% | -13.4% | T1 | False |
-| 19 | Tec-9 \| Blue Titanium (Factory New) | 32.80 | +34.6% | -11.8% | T1 | False |
-| 20 | MP9 \| Hypnotic (Factory New) | 142.00 | +34.2% | -18.0% | T1 | False |
-| 21 | AK-47 \| Emerald Pinstripe (Factory New) | 92.66 | +33.4% | -8.8% | T1 | False |
-| 22 | P90 \| Blind Spot (Factory New) | 95.00 | +32.9% | -5.7% | T1 | False |
-| 23 | P250 \| Undertow (Factory New) | 336.49 | +32.9% | -3.3% | T1 | False |
-| 24 | Glock-18 \| Red Tire (Factory New) | 168.00 | +32.8% | -9.0% | T1 | False |
-| 25 | M4A1-S \| Boreal Forest (Factory New) | 103.00 | +32.7% | -21.0% | T1 | False |
-| 26 | SSG 08 \| Necropos (Factory New) | 44.00 | +31.2% | -23.9% | T1 | True |
-| 27 | FAMAS \| Macabre (Factory New) | 61.89 | +28.8% | -3.5% | T1 | False |
-| 28 | Five-SeveN \| Berries And Cherries (Factory New) | 935.00 | +28.4% | -12.2% | T1 | False |
-| 29 | Dual Berettas \| Panther (Factory New) | 31.98 | +27.7% | -12.9% | T1 | False |
-| 30 | M4A4 \| Zirka (Factory New) | 598.99 | +27.0% | -8.2% | T1 | False |
+| 1 | P2000 \| Red FragCam (Factory New) | 44.89 | +90.9% | -23.1% | T1 | False |
+| 2 | FAMAS \| CaliCamo (Factory New) | 31.30 | +79.1% | -22.9% | T1 | False |
+| 3 | Tec-9 \| Titanium Bit (Factory New) | 95.00 | +68.4% | -16.0% | T1 | False |
+| 4 | Desert Eagle \| Hypnotic (Factory New) | 1429.00 | +67.6% | -15.9% | T1 | False |
+| 5 | Glock-18 \| Weasel (Factory New) | 184.00 | +62.9% | -0.0% | T1 | False |
+| 6 | P2000 \| Obsidian (Factory New) | 149.50 | +58.7% | -7.8% | T1 | False |
+| 7 | FAMAS \| Hexane (Factory New) | 31.80 | +54.3% | -5.4% | T1 | False |
+| 8 | Five-SeveN \| Copper Galaxy (Factory New) | 206.00 | +51.5% | -20.1% | T1 | False |
+| 9 | MP7 \| Neon Ply (Factory New) | 235.00 | +50.2% | +34.9% | T0 | False |
+| 10 | Five-SeveN \| Fowl Play (Factory New) | 510.00 | +47.4% | -12.6% | T1 | False |
+| 11 | Tec-9 \| Mummy's Rot (Factory New) | 130.98 | +44.3% | -20.1% | T1 | False |
+| 12 | Five-SeveN \| Case Hardened (Factory New) | 320.00 | +40.8% | -17.6% | T1 | False |
+| 13 | AWP \| Exoskeleton (Factory New) | 419.00 | +40.0% | -21.9% | T1 | False |
+| 14 | Galil AR \| Amber Fade (Factory New) | 349.50 | +37.5% | -14.6% | T1 | False |
+| 15 | FAMAS \| ZX Spectron (Factory New) | 191.00 | +37.5% | +0.3% | T1 | False |
+| 16 | M4A1-S \| Blood Tiger (Factory New) | 82.00 | +37.3% | -13.4% | T1 | False |
+| 17 | Tec-9 \| Blue Titanium (Factory New) | 32.80 | +34.6% | -11.8% | T1 | False |
+| 18 | MP9 \| Hypnotic (Factory New) | 142.00 | +34.2% | -18.0% | T1 | False |
+| 19 | AK-47 \| Emerald Pinstripe (Factory New) | 92.66 | +33.4% | -8.8% | T1 | False |
+| 20 | P90 \| Blind Spot (Factory New) | 95.00 | +32.9% | -5.7% | T1 | False |
+| 21 | P250 \| Undertow (Factory New) | 336.49 | +32.9% | -3.3% | T1 | False |
+| 22 | Glock-18 \| Red Tire (Factory New) | 168.00 | +32.8% | -9.0% | T1 | False |
+| 23 | M4A1-S \| Boreal Forest (Factory New) | 103.00 | +32.7% | -21.0% | T1 | False |
+| 24 | SSG 08 \| Necropos (Factory New) | 44.00 | +31.2% | -23.9% | T1 | True |
+| 25 | FAMAS \| Macabre (Factory New) | 61.89 | +28.8% | -3.5% | T1 | False |
+| 26 | Five-SeveN \| Berries And Cherries (Factory New) | 935.00 | +28.4% | -12.2% | T1 | False |
+| 27 | Dual Berettas \| Panther (Factory New) | 31.98 | +27.7% | -12.9% | T1 | False |
+| 28 | M4A4 \| Zirka (Factory New) | 598.99 | +27.0% | -8.2% | T1 | False |
+| 29 | MAC-10 \| Toybox (Factory New) | 760.00 | +26.7% | -10.8% | T1 | False |
+| 30 | AK-47 \| Orbit Mk01 (Factory New) | 981.00 | +26.1% | -13.5% | T1 | False |
 
 ## 2026-02-13
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 226.46 | +182.6% | -67.0% | T1 | True |
-| 2 | P2000 \| Red FragCam (Factory New) | 45.00 | +87.6% | -6.5% | T1 | False |
-| 3 | MP7 \| Neon Ply (Factory New) | 224.90 | +72.7% | +24.4% | T0 | False |
-| 4 | P90 \| Blind Spot (Factory New) | 94.40 | +68.9% | -29.1% | T1 | False |
-| 5 | Tec-9 \| Titanium Bit (Factory New) | 96.45 | +66.6% | -17.2% | T1 | False |
-| 6 | Glock-18 \| Weasel (Factory New) | 176.80 | +65.6% | -13.3% | T1 | False |
-| 7 | FAMAS \| CaliCamo (Factory New) | 31.15 | +63.0% | -29.1% | T1 | False |
-| 8 | UMP-45 \| Metal Flowers (Factory New) | 64.39 | +57.4% | -12.2% | T1 | False |
-| 9 | FAMAS \| Hexane (Factory New) | 31.29 | +56.2% | -14.5% | T1 | False |
-| 10 | P2000 \| Obsidian (Factory New) | 154.80 | +55.9% | -10.3% | T1 | False |
-| 11 | Five-SeveN \| Fowl Play (Factory New) | 496.00 | +50.5% | -17.7% | T1 | False |
-| 12 | Desert Eagle \| Hypnotic (Factory New) | 1428.50 | +49.4% | -12.1% | T1 | False |
-| 13 | FAMAS \| ZX Spectron (Factory New) | 187.80 | +46.0% | -6.9% | T1 | False |
-| 14 | Five-SeveN \| Withered Vine (Factory New) | 30.99 | +43.1% | -15.6% | T1 | False |
-| 15 | M4A1-S \| Boreal Forest (Factory New) | 111.99 | +42.1% | -25.7% | T1 | False |
-| 16 | Galil AR \| Vandal (Factory New) | 75.50 | +41.9% | +6.7% | T0 | False |
-| 17 | MAG-7 \| Hard Water (Factory New) | 51.53 | +39.3% | -24.8% | T1 | False |
-| 18 | M4A1-S \| Blood Tiger (Factory New) | 82.25 | +38.2% | -19.1% | T1 | False |
-| 19 | MP9 \| Old Roots (Factory New) | 30.28 | +37.5% | -27.0% | T1 | False |
-| 20 | Sawed-Off \| Irradiated Alert (Factory New) | 202.50 | +37.4% | -3.5% | T1 | False |
-| 21 | Glock-18 \| Warhawk (Factory New) | 46.80 | +36.3% | -17.8% | T1 | False |
-| 22 | P250 \| Cartel (Factory New) | 318.50 | +36.2% | -4.8% | T1 | False |
-| 23 | FAMAS \| Pulse (Factory New) | 353.00 | +35.1% | -1.5% | T1 | False |
-| 24 | Tec-9 \| Mummy's Rot (Factory New) | 129.80 | +33.9% | -18.4% | T1 | False |
-| 25 | Galil AR \| Amber Fade (Factory New) | 347.50 | +33.8% | -16.3% | T1 | False |
-| 26 | Five-SeveN \| Copper Galaxy (Factory New) | 187.00 | +32.3% | -9.5% | T1 | False |
-| 27 | MAC-10 \| Toybox (Factory New) | 754.50 | +32.1% | -16.5% | T1 | False |
-| 28 | P250 \| Undertow (Factory New) | 340.00 | +32.0% | -3.6% | T1 | False |
-| 29 | Glock-18 \| Red Tire (Factory New) | 163.50 | +31.8% | -10.8% | T1 | False |
-| 30 | FAMAS \| Macabre (Factory New) | 63.69 | +30.9% | -3.5% | T1 | False |
+| 1 | P2000 \| Red FragCam (Factory New) | 45.00 | +87.6% | -6.5% | T1 | False |
+| 2 | MP7 \| Neon Ply (Factory New) | 224.90 | +72.7% | +24.4% | T0 | False |
+| 3 | P90 \| Blind Spot (Factory New) | 94.40 | +68.9% | -29.1% | T1 | False |
+| 4 | Tec-9 \| Titanium Bit (Factory New) | 96.45 | +66.6% | -17.2% | T1 | False |
+| 5 | Glock-18 \| Weasel (Factory New) | 176.80 | +65.6% | -13.3% | T1 | False |
+| 6 | FAMAS \| CaliCamo (Factory New) | 31.15 | +63.0% | -29.1% | T1 | False |
+| 7 | UMP-45 \| Metal Flowers (Factory New) | 64.39 | +57.4% | -12.2% | T1 | False |
+| 8 | FAMAS \| Hexane (Factory New) | 31.29 | +56.2% | -14.5% | T1 | False |
+| 9 | P2000 \| Obsidian (Factory New) | 154.80 | +55.9% | -10.3% | T1 | False |
+| 10 | Five-SeveN \| Fowl Play (Factory New) | 496.00 | +50.5% | -17.7% | T1 | False |
+| 11 | Desert Eagle \| Hypnotic (Factory New) | 1428.50 | +49.4% | -12.1% | T1 | False |
+| 12 | FAMAS \| ZX Spectron (Factory New) | 187.80 | +46.0% | -6.9% | T1 | False |
+| 13 | Five-SeveN \| Withered Vine (Factory New) | 30.99 | +43.1% | -15.6% | T1 | False |
+| 14 | M4A1-S \| Boreal Forest (Factory New) | 111.99 | +42.1% | -25.7% | T1 | False |
+| 15 | Galil AR \| Vandal (Factory New) | 75.50 | +41.9% | +6.7% | T0 | False |
+| 16 | M4A1-S \| Blood Tiger (Factory New) | 82.25 | +38.2% | -19.1% | T1 | False |
+| 17 | MP9 \| Old Roots (Factory New) | 30.28 | +37.5% | -27.0% | T1 | False |
+| 18 | Glock-18 \| Warhawk (Factory New) | 46.80 | +36.3% | -17.8% | T1 | False |
+| 19 | P250 \| Cartel (Factory New) | 318.50 | +36.2% | -4.8% | T1 | False |
+| 20 | FAMAS \| Pulse (Factory New) | 353.00 | +35.1% | -1.5% | T1 | False |
+| 21 | Tec-9 \| Mummy's Rot (Factory New) | 129.80 | +33.9% | -18.4% | T1 | False |
+| 22 | Galil AR \| Amber Fade (Factory New) | 347.50 | +33.8% | -16.3% | T1 | False |
+| 23 | Five-SeveN \| Copper Galaxy (Factory New) | 187.00 | +32.3% | -9.5% | T1 | False |
+| 24 | MAC-10 \| Toybox (Factory New) | 754.50 | +32.1% | -16.5% | T1 | False |
+| 25 | P250 \| Undertow (Factory New) | 340.00 | +32.0% | -3.6% | T1 | False |
+| 26 | Glock-18 \| Red Tire (Factory New) | 163.50 | +31.8% | -10.8% | T1 | False |
+| 27 | FAMAS \| Macabre (Factory New) | 63.69 | +30.9% | -3.5% | T1 | False |
+| 28 | P2000 \| Acid Etched (Factory New) | 69.20 | +30.8% | -8.1% | T1 | False |
+| 29 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 289.90 | +30.5% | -14.3% | T1 | False |
+| 30 | M4A4 \| X-Ray (Factory New) | 1324.40 | +29.8% | -8.3% | T1 | False |
 
 ## 2026-02-14
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +182.6% | -67.0% | T1 | True |
-| 2 | P2000 \| Red FragCam (Factory New) | 47.79 | +83.6% | -16.1% | T1 | False |
-| 3 | FAMAS \| Hexane (Factory New) | 34.00 | +74.8% | -26.9% | T1 | False |
-| 4 | Tec-9 \| Titanium Bit (Factory New) | 97.90 | +71.3% | -11.3% | T1 | False |
-| 5 | MP7 \| Neon Ply (Factory New) | 216.00 | +63.6% | +30.8% | T0 | False |
-| 6 | USP-S \| Forest Leaves (Factory New) | 41.40 | +57.8% | -12.2% | T1 | True |
-| 7 | UMP-45 \| Metal Flowers (Factory New) | 59.99 | +57.4% | -12.2% | T1 | False |
-| 8 | Five-SeveN \| Fowl Play (Factory New) | 474.00 | +54.7% | -10.8% | T1 | False |
-| 9 | Glock-18 \| Wraiths (Factory New) | 39.19 | +48.6% | -22.3% | T1 | False |
-| 10 | FAMAS \| Macabre (Factory New) | 62.69 | +44.7% | -13.9% | T1 | False |
-| 11 | FAMAS \| Neural Net (Factory New) | 64.00 | +44.4% | -28.0% | T1 | False |
-| 12 | Galil AR \| Vandal (Factory New) | 74.50 | +43.7% | +15.0% | T0 | False |
-| 13 | Glock-18 \| Weasel (Factory New) | 193.00 | +42.9% | -8.5% | T1 | False |
-| 14 | Sawed-Off \| Irradiated Alert (Factory New) | 217.79 | +37.4% | -3.5% | T1 | False |
-| 15 | Desert Eagle \| Hypnotic (Factory New) | 1525.00 | +37.0% | +4.1% | T1 | False |
-| 16 | M4A1-S \| Boreal Forest (Factory New) | 106.00 | +36.4% | -18.5% | T1 | False |
-| 17 | Five-SeveN \| Copper Galaxy (Factory New) | 192.44 | +35.0% | -13.8% | T1 | False |
-| 18 | Glock-18 \| Warhawk (Factory New) | 46.75 | +34.7% | -16.6% | T1 | False |
-| 19 | FAMAS \| Pulse (Factory New) | 355.00 | +33.8% | +2.3% | T1 | False |
-| 20 | MP9 \| Setting Sun (Factory New) | 780.00 | +32.6% | -23.3% | T1 | False |
-| 21 | Glock-18 \| Sacrifice (Factory New) | 39.00 | +32.6% | -1.2% | T1 | False |
-| 22 | MP7 \| Impire (Factory New) | 116.99 | +32.4% | -8.5% | T1 | False |
-| 23 | USP-S \| Blood Tiger (Factory New) | 91.30 | +31.1% | -16.6% | T1 | False |
-| 24 | FAMAS \| CaliCamo (Factory New) | 36.00 | +30.4% | -15.5% | T1 | False |
-| 25 | Glock-18 \| Steel Disruption (Factory New) | 263.00 | +30.3% | -1.4% | T1 | False |
-| 26 | M4A4 \| X-Ray (Factory New) | 1286.00 | +30.3% | -6.8% | T1 | False |
-| 27 | M4A1-S \| Blood Tiger (Factory New) | 82.05 | +30.0% | -13.3% | T1 | False |
-| 28 | Galil AR \| Stone Cold (Factory New) | 183.90 | +29.7% | +4.6% | T1 | False |
-| 29 | P2000 \| Handgun (Factory New) | 92.50 | +29.6% | +3.4% | T1 | False |
-| 30 | FAMAS \| ZX Spectron (Factory New) | 185.00 | +29.5% | -14.0% | T1 | False |
+| 1 | P2000 \| Red FragCam (Factory New) | 47.79 | +83.6% | -16.1% | T1 | False |
+| 2 | FAMAS \| Hexane (Factory New) | 34.00 | +74.8% | -26.9% | T1 | False |
+| 3 | Tec-9 \| Titanium Bit (Factory New) | 97.90 | +71.3% | -11.3% | T1 | False |
+| 4 | MP7 \| Neon Ply (Factory New) | 216.00 | +63.6% | +30.8% | T0 | False |
+| 5 | USP-S \| Forest Leaves (Factory New) | 41.40 | +57.8% | -12.2% | T1 | True |
+| 6 | UMP-45 \| Metal Flowers (Factory New) | 59.99 | +57.4% | -12.2% | T1 | False |
+| 7 | Five-SeveN \| Fowl Play (Factory New) | 474.00 | +54.7% | -10.8% | T1 | False |
+| 8 | Glock-18 \| Wraiths (Factory New) | 39.19 | +48.6% | -22.3% | T1 | False |
+| 9 | FAMAS \| Macabre (Factory New) | 62.69 | +44.7% | -13.9% | T1 | False |
+| 10 | FAMAS \| Neural Net (Factory New) | 64.00 | +44.4% | -28.0% | T1 | False |
+| 11 | Galil AR \| Vandal (Factory New) | 74.50 | +43.7% | +15.0% | T0 | False |
+| 12 | Glock-18 \| Weasel (Factory New) | 193.00 | +42.9% | -8.5% | T1 | False |
+| 13 | Desert Eagle \| Hypnotic (Factory New) | 1525.00 | +37.0% | +4.1% | T1 | False |
+| 14 | M4A1-S \| Boreal Forest (Factory New) | 106.00 | +36.4% | -18.5% | T1 | False |
+| 15 | Five-SeveN \| Copper Galaxy (Factory New) | 192.44 | +35.0% | -13.8% | T1 | False |
+| 16 | Glock-18 \| Warhawk (Factory New) | 46.75 | +34.7% | -16.6% | T1 | False |
+| 17 | FAMAS \| Pulse (Factory New) | 355.00 | +33.8% | +2.3% | T1 | False |
+| 18 | MP9 \| Setting Sun (Factory New) | 780.00 | +32.6% | -23.3% | T1 | False |
+| 19 | Glock-18 \| Sacrifice (Factory New) | 39.00 | +32.6% | -1.2% | T1 | False |
+| 20 | MP7 \| Impire (Factory New) | 116.99 | +32.4% | -8.5% | T1 | False |
+| 21 | USP-S \| Blood Tiger (Factory New) | 91.30 | +31.1% | -16.6% | T1 | False |
+| 22 | FAMAS \| CaliCamo (Factory New) | 36.00 | +30.4% | -15.5% | T1 | False |
+| 23 | Glock-18 \| Steel Disruption (Factory New) | 263.00 | +30.3% | -1.4% | T1 | False |
+| 24 | M4A4 \| X-Ray (Factory New) | 1286.00 | +30.3% | -6.8% | T1 | False |
+| 25 | M4A1-S \| Blood Tiger (Factory New) | 82.05 | +30.0% | -13.3% | T1 | False |
+| 26 | Galil AR \| Stone Cold (Factory New) | 183.90 | +29.7% | +4.6% | T1 | False |
+| 27 | P2000 \| Handgun (Factory New) | 92.50 | +29.6% | +3.4% | T1 | False |
+| 28 | FAMAS \| ZX Spectron (Factory New) | 185.00 | +29.5% | -14.0% | T1 | False |
+| 29 | AWP \| Exoskeleton (Factory New) | 484.00 | +28.7% | -31.4% | T1 | False |
+| 30 | P90 \| Blind Spot (Factory New) | 94.00 | +28.7% | -21.1% | T1 | False |
 
 ## 2026-02-15
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +182.6% | -67.0% | T1 | True |
-| 2 | P2000 \| Red FragCam (Factory New) | 47.78 | +82.4% | -12.3% | T1 | False |
-| 3 | UMP-45 \| Metal Flowers (Factory New) | 59.98 | +71.6% | -15.1% | T1 | False |
-| 4 | Tec-9 \| Titanium Bit (Factory New) | 96.90 | +61.9% | -4.7% | T1 | False |
-| 5 | FAMAS \| Hexane (Factory New) | 34.80 | +60.1% | -15.9% | T1 | False |
-| 6 | FAMAS \| Macabre (Factory New) | 62.70 | +53.3% | -20.5% | T1 | False |
-| 7 | MP7 \| Neon Ply (Factory New) | 216.00 | +52.6% | +38.2% | T0 | False |
-| 8 | Galil AR \| Vandal (Factory New) | 75.55 | +48.1% | -5.7% | T1 | False |
-| 9 | Glock-18 \| Warhawk (Factory New) | 46.70 | +39.8% | -6.3% | T1 | False |
-| 10 | MAG-7 \| Hard Water (Factory New) | 53.47 | +39.3% | -12.5% | T1 | False |
-| 11 | Sawed-Off \| Irradiated Alert (Factory New) | 217.86 | +37.4% | -3.5% | T1 | False |
-| 12 | Glock-18 \| Wraiths (Factory New) | 38.65 | +35.9% | -13.8% | T1 | False |
-| 13 | Glock-18 \| Sacrifice (Factory New) | 36.40 | +33.3% | +16.8% | T0 | False |
-| 14 | P90 \| Blind Spot (Factory New) | 105.00 | +31.5% | -24.9% | T1 | False |
-| 15 | CZ75-Auto \| Tread Plate (Factory New) | 53.09 | +30.6% | -14.7% | T1 | False |
-| 16 | USP-S \| Forest Leaves (Factory New) | 39.00 | +29.4% | +6.3% | T0 | True |
-| 17 | MP7 \| Impire (Factory New) | 112.99 | +28.1% | -1.8% | T1 | False |
-| 18 | MAC-10 \| Pipe Down (Factory New) | 45.44 | +27.2% | -6.7% | T1 | False |
-| 19 | Galil AR \| Stone Cold (Factory New) | 183.50 | +26.8% | +8.0% | T0 | False |
-| 20 | FAMAS \| Neural Net (Factory New) | 63.50 | +25.8% | -20.6% | T1 | False |
-| 21 | Five-SeveN \| Nightshade (Factory New) | 50.00 | +25.5% | +1.2% | T1 | False |
-| 22 | Galil AR \| Black Sand (Factory New) | 48.50 | +25.3% | +4.1% | T1 | False |
-| 23 | P250 \| Inferno (Factory New) | 38.00 | +25.3% | +2.2% | T1 | False |
-| 24 | P2000 \| Space Race (Factory New) | 164.00 | +24.9% | +1.2% | T1 | False |
-| 25 | SSG 08 \| Necropos (Factory New) | 39.87 | +24.8% | -14.0% | T1 | True |
-| 26 | Dual Berettas \| Panther (Factory New) | 31.51 | +24.5% | -9.0% | T1 | False |
-| 27 | Glock-18 \| Weasel (Factory New) | 205.30 | +24.4% | -2.7% | T1 | False |
-| 28 | XM1014 \| Teclu Burner (Factory New) | 44.80 | +24.2% | -15.1% | T1 | False |
-| 29 | Desert Eagle \| Hypnotic (Factory New) | 1515.00 | +23.5% | +7.1% | T0 | False |
-| 30 | CZ75-Auto \| Eco (Factory New) | 95.00 | +23.5% | -14.6% | T1 | False |
+| 1 | P2000 \| Red FragCam (Factory New) | 47.78 | +82.4% | -12.3% | T1 | False |
+| 2 | UMP-45 \| Metal Flowers (Factory New) | 59.98 | +71.6% | -15.1% | T1 | False |
+| 3 | Tec-9 \| Titanium Bit (Factory New) | 96.90 | +61.9% | -4.7% | T1 | False |
+| 4 | FAMAS \| Hexane (Factory New) | 34.80 | +60.1% | -15.9% | T1 | False |
+| 5 | FAMAS \| Macabre (Factory New) | 62.70 | +53.3% | -20.5% | T1 | False |
+| 6 | MP7 \| Neon Ply (Factory New) | 216.00 | +52.6% | +38.2% | T0 | False |
+| 7 | Galil AR \| Vandal (Factory New) | 75.55 | +48.1% | -5.7% | T1 | False |
+| 8 | Glock-18 \| Warhawk (Factory New) | 46.70 | +39.8% | -6.3% | T1 | False |
+| 9 | Glock-18 \| Wraiths (Factory New) | 38.65 | +35.9% | -13.8% | T1 | False |
+| 10 | Glock-18 \| Sacrifice (Factory New) | 36.40 | +33.3% | +16.8% | T0 | False |
+| 11 | P90 \| Blind Spot (Factory New) | 105.00 | +31.5% | -24.9% | T1 | False |
+| 12 | CZ75-Auto \| Tread Plate (Factory New) | 53.09 | +30.6% | -14.7% | T1 | False |
+| 13 | USP-S \| Forest Leaves (Factory New) | 39.00 | +29.4% | +6.3% | T0 | True |
+| 14 | MP7 \| Impire (Factory New) | 112.99 | +28.1% | -1.8% | T1 | False |
+| 15 | MAC-10 \| Pipe Down (Factory New) | 45.44 | +27.2% | -6.7% | T1 | False |
+| 16 | Galil AR \| Stone Cold (Factory New) | 183.50 | +26.8% | +8.0% | T0 | False |
+| 17 | FAMAS \| Neural Net (Factory New) | 63.50 | +25.8% | -20.6% | T1 | False |
+| 18 | Five-SeveN \| Nightshade (Factory New) | 50.00 | +25.5% | +1.2% | T1 | False |
+| 19 | Galil AR \| Black Sand (Factory New) | 48.50 | +25.3% | +4.1% | T1 | False |
+| 20 | P250 \| Inferno (Factory New) | 38.00 | +25.3% | +2.2% | T1 | False |
+| 21 | P2000 \| Space Race (Factory New) | 164.00 | +24.9% | +1.2% | T1 | False |
+| 22 | SSG 08 \| Necropos (Factory New) | 39.87 | +24.8% | -14.0% | T1 | True |
+| 23 | Dual Berettas \| Panther (Factory New) | 31.51 | +24.5% | -9.0% | T1 | False |
+| 24 | Glock-18 \| Weasel (Factory New) | 205.30 | +24.4% | -2.7% | T1 | False |
+| 25 | Desert Eagle \| Hypnotic (Factory New) | 1515.00 | +23.5% | +7.1% | T0 | False |
+| 26 | CZ75-Auto \| Eco (Factory New) | 95.00 | +23.5% | -14.6% | T1 | False |
+| 27 | P250 \| Black & Tan (Factory New) | 148.85 | +23.4% | -12.6% | T1 | False |
+| 28 | P250 \| Undertow (Factory New) | 348.50 | +22.9% | +3.5% | T1 | False |
+| 29 | P2000 \| Handgun (Factory New) | 92.69 | +22.5% | +13.9% | T0 | False |
+| 30 | Five-SeveN \| Fowl Play (Factory New) | 498.50 | +22.4% | -5.6% | T1 | False |
 
 ## 2026-02-16
 
@@ -535,32 +535,32 @@
 | 2 | P2000 \| Red FragCam (Factory New) | 45.99 | +55.0% | +0.2% | T1 | False |
 | 3 | Glock-18 \| Sacrifice (Factory New) | 35.00 | +51.5% | +23.3% | T0 | False |
 | 4 | CZ75-Auto \| Tread Plate (Factory New) | 50.99 | +41.5% | -13.9% | T1 | False |
-| 5 | MAG-7 \| Hard Water (Factory New) | 53.37 | +39.8% | -12.5% | T1 | False |
-| 6 | Glock-18 \| Wraiths (Factory New) | 37.80 | +39.4% | +3.7% | T1 | False |
-| 7 | Galil AR \| Vandal (Factory New) | 86.99 | +39.3% | +15.5% | T0 | False |
-| 8 | Glock-18 \| Warhawk (Factory New) | 44.80 | +37.0% | +0.6% | T1 | False |
-| 9 | Sawed-Off \| Irradiated Alert (Factory New) | 217.86 | +36.0% | -3.5% | T1 | False |
-| 10 | FAMAS \| Macabre (Factory New) | 68.00 | +35.2% | +11.5% | T0 | False |
-| 11 | P250 \| Cartel (Factory New) | 330.00 | +30.7% | -7.6% | T1 | False |
-| 12 | Five-SeveN \| Nightshade (Factory New) | 47.99 | +30.4% | +18.6% | T0 | False |
-| 13 | Tec-9 \| Titanium Bit (Factory New) | 96.60 | +28.1% | +4.9% | T1 | False |
-| 14 | MAC-10 \| Pipe Down (Factory New) | 45.50 | +27.2% | +3.8% | T1 | False |
-| 15 | P90 \| Blind Spot (Factory New) | 107.50 | +25.9% | -4.8% | T1 | False |
-| 16 | P2000 \| Space Race (Factory New) | 159.99 | +25.5% | +5.8% | T0 | False |
-| 17 | USP-S \| Forest Leaves (Factory New) | 42.00 | +25.0% | +6.0% | T0 | True |
-| 18 | Galil AR \| Firefight (Factory New) | 147.00 | +23.2% | -8.2% | T1 | False |
-| 19 | P250 \| Inferno (Factory New) | 38.51 | +22.1% | +3.4% | T1 | False |
-| 20 | SSG 08 \| Necropos (Factory New) | 37.74 | +20.7% | +7.3% | T0 | True |
-| 21 | MP7 \| Impire (Factory New) | 108.88 | +20.0% | +12.7% | T0 | False |
-| 22 | Dual Berettas \| Panther (Factory New) | 31.00 | +19.9% | +4.9% | T1 | False |
-| 23 | P250 \| Undertow (Factory New) | 344.50 | +19.3% | +4.9% | T1 | False |
-| 24 | Sawed-Off \| Bamboo Shadow (Factory New) | 47.80 | +19.1% | -8.5% | T1 | False |
-| 25 | Galil AR \| Black Sand (Factory New) | 49.30 | +19.1% | +20.8% | T0 | False |
-| 26 | FAMAS \| CaliCamo (Factory New) | 55.00 | +18.8% | -15.8% | T1 | False |
-| 27 | P2000 \| Handgun (Factory New) | 92.80 | +18.4% | +24.3% | T0 | False |
-| 28 | P250 \| Black & Tan (Factory New) | 147.63 | +18.0% | -13.8% | T1 | False |
-| 29 | M4A4 \| Etch Lord (Factory New) | 45.20 | +18.0% | +61.6% | T0 | False |
-| 30 | XM1014 \| Teclu Burner (Factory New) | 43.90 | +17.8% | -14.7% | T1 | False |
+| 5 | Glock-18 \| Wraiths (Factory New) | 37.80 | +39.4% | +3.7% | T1 | False |
+| 6 | Galil AR \| Vandal (Factory New) | 86.99 | +39.3% | +15.5% | T0 | False |
+| 7 | Glock-18 \| Warhawk (Factory New) | 44.80 | +37.0% | +0.6% | T1 | False |
+| 8 | FAMAS \| Macabre (Factory New) | 68.00 | +35.2% | +11.5% | T0 | False |
+| 9 | P250 \| Cartel (Factory New) | 330.00 | +30.7% | -7.6% | T1 | False |
+| 10 | Five-SeveN \| Nightshade (Factory New) | 47.99 | +30.4% | +18.6% | T0 | False |
+| 11 | Tec-9 \| Titanium Bit (Factory New) | 96.60 | +28.1% | +4.9% | T1 | False |
+| 12 | MAC-10 \| Pipe Down (Factory New) | 45.50 | +27.2% | +3.8% | T1 | False |
+| 13 | P90 \| Blind Spot (Factory New) | 107.50 | +25.9% | -4.8% | T1 | False |
+| 14 | P2000 \| Space Race (Factory New) | 159.99 | +25.5% | +5.8% | T0 | False |
+| 15 | USP-S \| Forest Leaves (Factory New) | 42.00 | +25.0% | +6.0% | T0 | True |
+| 16 | Galil AR \| Firefight (Factory New) | 147.00 | +23.2% | -8.2% | T1 | False |
+| 17 | P250 \| Inferno (Factory New) | 38.51 | +22.1% | +3.4% | T1 | False |
+| 18 | SSG 08 \| Necropos (Factory New) | 37.74 | +20.7% | +7.3% | T0 | True |
+| 19 | MP7 \| Impire (Factory New) | 108.88 | +20.0% | +12.7% | T0 | False |
+| 20 | Dual Berettas \| Panther (Factory New) | 31.00 | +19.9% | +4.9% | T1 | False |
+| 21 | P250 \| Undertow (Factory New) | 344.50 | +19.3% | +4.9% | T1 | False |
+| 22 | Galil AR \| Black Sand (Factory New) | 49.30 | +19.1% | +20.8% | T0 | False |
+| 23 | FAMAS \| CaliCamo (Factory New) | 55.00 | +18.8% | -15.8% | T1 | False |
+| 24 | P2000 \| Handgun (Factory New) | 92.80 | +18.4% | +24.3% | T0 | False |
+| 25 | P250 \| Black & Tan (Factory New) | 147.63 | +18.0% | -13.8% | T1 | False |
+| 26 | M4A4 \| Etch Lord (Factory New) | 45.20 | +18.0% | +61.6% | T0 | False |
+| 27 | AK-47 \| Blue Laminate (Factory New) | 184.49 | +16.2% | +11.7% | T0 | False |
+| 28 | MP5-SD \| Gauss (Factory New) | 45.99 | +16.1% | -6.4% | T1 | False |
+| 29 | SG 553 \| Ultraviolet (Factory New) | 319.12 | +15.8% | -3.5% | T1 | False |
+| 30 | USP-S \| Blood Tiger (Factory New) | 88.00 | +15.6% | +9.4% | T0 | False |
 
 ## 2026-02-17
 
@@ -573,29 +573,29 @@
 | 5 | Five-SeveN \| Nightshade (Factory New) | 46.99 | +37.7% | +21.9% | T0 | False |
 | 6 | M4A4 \| Etch Lord (Factory New) | 45.16 | +37.0% | +25.1% | T0 | False |
 | 7 | Galil AR \| Black Sand (Factory New) | 52.70 | +36.4% | +24.1% | T0 | False |
-| 8 | MAG-7 \| Hard Water (Factory New) | 53.17 | +36.2% | -11.2% | T1 | False |
-| 9 | Sawed-Off \| Irradiated Alert (Factory New) | 220.00 | +36.0% | -3.5% | T1 | False |
-| 10 | Galil AR \| Firefight (Factory New) | 145.00 | +33.4% | -4.9% | T1 | False |
-| 11 | ★ Moto Gloves \| Boom! (Field-Tested) | 5100.00 | +33.2% | -13.2% | T1 | False |
-| 12 | Glock-18 \| Wraiths (Factory New) | 38.02 | +33.0% | +4.1% | T1 | False |
-| 13 | USP-S \| Forest Leaves (Factory New) | 41.70 | +31.0% | +10.3% | T0 | True |
-| 14 | CZ75-Auto \| Tread Plate (Factory New) | 48.99 | +29.0% | +2.4% | T1 | False |
-| 15 | ★ Moto Gloves \| Boom! (Minimal Wear) | 6650.00 | +26.8% | -4.6% | T1 | False |
-| 16 | Tec-9 \| Toxic (Factory New) | 310.00 | +25.8% | +5.0% | T1 | False |
-| 17 | MP7 \| Impire (Factory New) | 115.00 | +25.6% | +14.5% | T0 | False |
-| 18 | Glock-18 \| Warhawk (Factory New) | 45.08 | +25.3% | +10.3% | T0 | False |
-| 19 | FAMAS \| Macabre (Factory New) | 69.90 | +25.1% | +18.4% | T0 | False |
-| 20 | P250 \| Inferno (Factory New) | 38.65 | +22.4% | +34.3% | T0 | False |
-| 21 | P2000 \| Space Race (Factory New) | 160.00 | +21.8% | +13.3% | T0 | False |
-| 22 | AK-47 \| Blue Laminate (Factory New) | 182.00 | +20.9% | +9.2% | T0 | False |
-| 23 | XM1014 \| Teclu Burner (Factory New) | 45.00 | +20.5% | -15.9% | T1 | False |
-| 24 | MAC-10 \| Pipe Down (Factory New) | 45.40 | +20.1% | +18.7% | T0 | False |
-| 25 | FAMAS \| Decommissioned (Factory New) | 39.00 | +19.7% | +46.3% | T0 | False |
-| 26 | Sawed-Off \| Bamboo Shadow (Factory New) | 46.99 | +19.2% | -8.5% | T1 | False |
-| 27 | SSG 08 \| Necropos (Factory New) | 35.99 | +18.6% | +42.4% | T0 | True |
-| 28 | Galil AR \| Sugar Rush (Factory New) | 2110.00 | +18.6% | -5.0% | T1 | False |
-| 29 | Tec-9 \| Avalanche (Factory New) | 129.49 | +18.4% | +2.0% | T1 | False |
-| 30 | P250 \| Cartel (Factory New) | 328.00 | +18.0% | +0.3% | T1 | False |
+| 8 | Galil AR \| Firefight (Factory New) | 145.00 | +33.4% | -4.9% | T1 | False |
+| 9 | ★ Moto Gloves \| Boom! (Field-Tested) | 5100.00 | +33.2% | -13.2% | T1 | False |
+| 10 | Glock-18 \| Wraiths (Factory New) | 38.02 | +33.0% | +4.1% | T1 | False |
+| 11 | USP-S \| Forest Leaves (Factory New) | 41.70 | +31.0% | +10.3% | T0 | True |
+| 12 | CZ75-Auto \| Tread Plate (Factory New) | 48.99 | +29.0% | +2.4% | T1 | False |
+| 13 | ★ Moto Gloves \| Boom! (Minimal Wear) | 6650.00 | +26.8% | -4.6% | T1 | False |
+| 14 | Tec-9 \| Toxic (Factory New) | 310.00 | +25.8% | +5.0% | T1 | False |
+| 15 | MP7 \| Impire (Factory New) | 115.00 | +25.6% | +14.5% | T0 | False |
+| 16 | Glock-18 \| Warhawk (Factory New) | 45.08 | +25.3% | +10.3% | T0 | False |
+| 17 | FAMAS \| Macabre (Factory New) | 69.90 | +25.1% | +18.4% | T0 | False |
+| 18 | P250 \| Inferno (Factory New) | 38.65 | +22.4% | +34.3% | T0 | False |
+| 19 | P2000 \| Space Race (Factory New) | 160.00 | +21.8% | +13.3% | T0 | False |
+| 20 | AK-47 \| Blue Laminate (Factory New) | 182.00 | +20.9% | +9.2% | T0 | False |
+| 21 | MAC-10 \| Pipe Down (Factory New) | 45.40 | +20.1% | +18.7% | T0 | False |
+| 22 | FAMAS \| Decommissioned (Factory New) | 39.00 | +19.7% | +46.3% | T0 | False |
+| 23 | SSG 08 \| Necropos (Factory New) | 35.99 | +18.6% | +42.4% | T0 | True |
+| 24 | Galil AR \| Sugar Rush (Factory New) | 2110.00 | +18.6% | -5.0% | T1 | False |
+| 25 | Tec-9 \| Avalanche (Factory New) | 129.49 | +18.4% | +2.0% | T1 | False |
+| 26 | P250 \| Cartel (Factory New) | 328.00 | +18.0% | +0.3% | T1 | False |
+| 27 | Five-SeveN \| Fowl Play (Factory New) | 588.30 | +17.8% | +20.8% | T0 | False |
+| 28 | Desert Eagle \| Midnight Storm (Factory New) | 549.40 | +17.8% | +1.4% | T1 | False |
+| 29 | P2000 \| Handgun (Factory New) | 95.00 | +17.2% | +33.6% | T0 | False |
+| 30 | Galil AR \| Control (Factory New) | 39.00 | +16.4% | +8.2% | T0 | False |
 
 ## 2026-02-18
 
@@ -604,33 +604,33 @@
 | 1 | Galil AR \| Vandal (Factory New) | 87.98 | +48.4% | +21.5% | T0 | False |
 | 2 | UMP-45 \| Metal Flowers (Factory New) | 59.76 | +38.9% | -9.6% | T1 | False |
 | 3 | Glock-18 \| Sacrifice (Factory New) | 33.55 | +38.0% | +17.9% | T0 | False |
-| 4 | Sawed-Off \| Irradiated Alert (Factory New) | 220.00 | +36.0% | -3.5% | T1 | False |
-| 5 | Galil AR \| Firefight (Factory New) | 139.50 | +35.8% | +4.8% | T1 | False |
-| 6 | Five-SeveN \| Buddy (Factory New) | 45.70 | +35.1% | +5.4% | T0 | False |
-| 7 | Galil AR \| Black Sand (Factory New) | 52.00 | +34.7% | +22.3% | T0 | False |
-| 8 | M4A4 \| Etch Lord (Factory New) | 45.00 | +34.5% | +29.2% | T0 | False |
-| 9 | P2000 \| Turf (Factory New) | 41.00 | +32.7% | +19.3% | T0 | False |
-| 10 | Five-SeveN \| Nightshade (Factory New) | 48.30 | +31.4% | +13.9% | T0 | False |
-| 11 | FAMAS \| Decommissioned (Factory New) | 38.30 | +28.1% | +39.7% | T0 | False |
-| 12 | ★ Moto Gloves \| Boom! (Minimal Wear) | 6777.27 | +25.6% | -7.2% | T1 | False |
-| 13 | MP7 \| Neon Ply (Factory New) | 298.50 | +25.3% | +49.5% | T0 | False |
-| 14 | P250 \| Cartel (Factory New) | 359.00 | +24.3% | -3.2% | T1 | False |
-| 15 | ★ Moto Gloves \| Boom! (Field-Tested) | 4970.00 | +23.8% | -14.8% | T1 | False |
-| 16 | USP-S \| Forest Leaves (Factory New) | 39.80 | +23.7% | +22.8% | T0 | True |
-| 17 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5019.50 | +22.8% | +2.6% | T1 | False |
-| 18 | Tec-9 \| Toxic (Factory New) | 290.00 | +22.5% | +17.0% | T0 | False |
-| 19 | P2000 \| Red FragCam (Factory New) | 54.80 | +22.4% | -4.5% | T1 | False |
-| 20 | MAC-10 \| Pipe Down (Factory New) | 45.00 | +21.5% | +25.1% | T0 | False |
-| 21 | P250 \| Inferno (Factory New) | 38.50 | +21.5% | +44.7% | T0 | False |
-| 22 | P2000 \| Obsidian (Factory New) | 182.00 | +21.2% | +6.6% | T0 | False |
-| 23 | USP-S \| Jawbreaker (Factory New) | 186.00 | +21.1% | -12.2% | T1 | False |
-| 24 | Galil AR \| Kami (Factory New) | 37.50 | +20.9% | +54.2% | T0 | False |
-| 25 | Sawed-Off \| Bamboo Shadow (Factory New) | 46.89 | +19.2% | -10.0% | T1 | False |
-| 26 | Tec-9 \| Safety Net (Factory New) | 50.50 | +18.6% | +29.6% | T0 | False |
-| 27 | MP7 \| Impire (Factory New) | 115.00 | +18.3% | +26.1% | T0 | False |
-| 28 | Desert Eagle \| Midnight Storm (Factory New) | 545.49 | +18.2% | +3.8% | T1 | False |
-| 29 | Tec-9 \| Avalanche (Factory New) | 132.00 | +18.2% | +0.7% | T1 | False |
-| 30 | Galil AR \| Sugar Rush (Factory New) | 2099.50 | +18.1% | -0.0% | T1 | False |
+| 4 | Galil AR \| Firefight (Factory New) | 139.50 | +35.8% | +4.8% | T1 | False |
+| 5 | Five-SeveN \| Buddy (Factory New) | 45.70 | +35.1% | +5.4% | T0 | False |
+| 6 | Galil AR \| Black Sand (Factory New) | 52.00 | +34.7% | +22.3% | T0 | False |
+| 7 | M4A4 \| Etch Lord (Factory New) | 45.00 | +34.5% | +29.2% | T0 | False |
+| 8 | P2000 \| Turf (Factory New) | 41.00 | +32.7% | +19.3% | T0 | False |
+| 9 | Five-SeveN \| Nightshade (Factory New) | 48.30 | +31.4% | +13.9% | T0 | False |
+| 10 | FAMAS \| Decommissioned (Factory New) | 38.30 | +28.1% | +39.7% | T0 | False |
+| 11 | ★ Moto Gloves \| Boom! (Minimal Wear) | 6777.27 | +25.6% | -7.2% | T1 | False |
+| 12 | MP7 \| Neon Ply (Factory New) | 298.50 | +25.3% | +49.5% | T0 | False |
+| 13 | P250 \| Cartel (Factory New) | 359.00 | +24.3% | -3.2% | T1 | False |
+| 14 | ★ Moto Gloves \| Boom! (Field-Tested) | 4970.00 | +23.8% | -14.8% | T1 | False |
+| 15 | USP-S \| Forest Leaves (Factory New) | 39.80 | +23.7% | +22.8% | T0 | True |
+| 16 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5019.50 | +22.8% | +2.6% | T1 | False |
+| 17 | Tec-9 \| Toxic (Factory New) | 290.00 | +22.5% | +17.0% | T0 | False |
+| 18 | P2000 \| Red FragCam (Factory New) | 54.80 | +22.4% | -4.5% | T1 | False |
+| 19 | MAC-10 \| Pipe Down (Factory New) | 45.00 | +21.5% | +25.1% | T0 | False |
+| 20 | P250 \| Inferno (Factory New) | 38.50 | +21.5% | +44.7% | T0 | False |
+| 21 | P2000 \| Obsidian (Factory New) | 182.00 | +21.2% | +6.6% | T0 | False |
+| 22 | USP-S \| Jawbreaker (Factory New) | 186.00 | +21.1% | -12.2% | T1 | False |
+| 23 | Galil AR \| Kami (Factory New) | 37.50 | +20.9% | +54.2% | T0 | False |
+| 24 | Tec-9 \| Safety Net (Factory New) | 50.50 | +18.6% | +29.6% | T0 | False |
+| 25 | MP7 \| Impire (Factory New) | 115.00 | +18.3% | +26.1% | T0 | False |
+| 26 | Desert Eagle \| Midnight Storm (Factory New) | 545.49 | +18.2% | +3.8% | T1 | False |
+| 27 | Tec-9 \| Avalanche (Factory New) | 132.00 | +18.2% | +0.7% | T1 | False |
+| 28 | Galil AR \| Sugar Rush (Factory New) | 2099.50 | +18.1% | -0.0% | T1 | False |
+| 29 | P2000 \| Silver (Factory New) | 828.88 | +17.7% | -0.4% | T1 | False |
+| 30 | Glock-18 \| Red Tire (Factory New) | 191.49 | +17.7% | +7.4% | T0 | False |
 
 ## 2026-02-19
 
@@ -656,16 +656,16 @@
 | 18 | Galil AR \| Firefight (Factory New) | 137.50 | +20.7% | +14.7% | T0 | False |
 | 19 | Chem-Haz Capitaine \| Gendarmerie Nationale | 269.00 | +19.4% | -13.3% | T1 | False |
 | 20 | Five-SeveN \| Heat Treated (Factory New) | 280.00 | +18.8% | -9.9% | T1 | False |
-| 21 | Sawed-Off \| Bamboo Shadow (Factory New) | 46.89 | +17.6% | +5.0% | T1 | False |
-| 22 | 'Blueberries' Buckshot \| NSWC SEAL | 126.50 | +16.7% | -1.3% | T1 | False |
-| 23 | USP-S \| Lead Conduit (Factory New) | 135.00 | +16.2% | +5.8% | T0 | False |
-| 24 | P2000 \| Turf (Factory New) | 40.00 | +15.8% | +32.9% | T0 | False |
-| 25 | Galil AR \| Control (Factory New) | 40.00 | +15.7% | +34.2% | T0 | False |
-| 26 | FAMAS \| 2A2F (Factory New) | 37.09 | +14.9% | +17.0% | T0 | False |
-| 27 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3574.00 | +13.9% | +6.1% | T0 | False |
-| 28 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 119.21 | +13.9% | +2.9% | T1 | False |
-| 29 | Officer Jacques Beltram \| Gendarmerie Nationale | 178.00 | +13.8% | -4.5% | T1 | False |
-| 30 | P2000 \| Space Race (Factory New) | 180.00 | +13.6% | +12.1% | T0 | False |
+| 21 | 'Blueberries' Buckshot \| NSWC SEAL | 126.50 | +16.7% | -1.3% | T1 | False |
+| 22 | USP-S \| Lead Conduit (Factory New) | 135.00 | +16.2% | +5.8% | T0 | False |
+| 23 | P2000 \| Turf (Factory New) | 40.00 | +15.8% | +32.9% | T0 | False |
+| 24 | Galil AR \| Control (Factory New) | 40.00 | +15.7% | +34.2% | T0 | False |
+| 25 | FAMAS \| 2A2F (Factory New) | 37.09 | +14.9% | +17.0% | T0 | False |
+| 26 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3574.00 | +13.9% | +6.1% | T0 | False |
+| 27 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 119.21 | +13.9% | +2.9% | T1 | False |
+| 28 | Officer Jacques Beltram \| Gendarmerie Nationale | 178.00 | +13.8% | -4.5% | T1 | False |
+| 29 | P2000 \| Space Race (Factory New) | 180.00 | +13.6% | +12.1% | T0 | False |
+| 30 | UMP-45 \| Crimson Foil (Factory New) | 109.00 | +13.3% | -4.0% | T1 | False |
 
 ## 2026-02-20
 
@@ -679,28 +679,28 @@
 | 6 | FAMAS \| Decommissioned (Factory New) | 36.00 | +27.8% | +45.6% | T0 | False |
 | 7 | ★ Moto Gloves \| Boom! (Minimal Wear) | 6887.00 | +27.7% | -6.9% | T1 | False |
 | 8 | Five-SeveN \| Buddy (Factory New) | 45.88 | +26.3% | +25.5% | T0 | False |
-| 9 | Sawed-Off \| Jungle Thicket (Factory New) | 39.73 | +25.2% | -12.0% | T1 | False |
-| 10 | MP7 \| Neon Ply (Factory New) | 350.00 | +24.4% | -3.1% | T1 | False |
-| 11 | Lt. Commander Ricksaw \| NSWC SEAL | 243.90 | +23.9% | +10.9% | T0 | False |
-| 12 | Desert Eagle \| Calligraffiti (Factory New) | 85.00 | +23.5% | +16.2% | T0 | False |
-| 13 | P2000 \| Silver (Factory New) | 829.50 | +23.4% | +18.9% | T0 | False |
-| 14 | Tec-9 \| Snek-9 (Factory New) | 30.50 | +23.0% | +30.9% | T0 | False |
-| 15 | P250 \| Mint Kimono (Factory New) | 66.70 | +22.4% | +26.1% | T0 | False |
-| 16 | PP-Bizon \| Cobalt Halftone (Factory New) | 31.00 | +22.3% | +43.6% | T0 | False |
-| 17 | Galil AR \| Firefight (Factory New) | 138.00 | +21.5% | +15.2% | T0 | False |
-| 18 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3500.00 | +18.8% | +7.0% | T0 | False |
-| 19 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 116.90 | +18.6% | -10.2% | T1 | False |
-| 20 | MP7 \| Asterion (Factory New) | 89.70 | +18.0% | +23.7% | T0 | False |
-| 21 | AUG \| Carved Jade (Factory New) | 328.99 | +18.0% | +24.1% | T0 | False |
-| 22 | Sawed-Off \| Bamboo Shadow (Factory New) | 46.80 | +17.9% | +3.5% | T1 | False |
-| 23 | USP-S \| Jawbreaker (Factory New) | 185.15 | +17.3% | +3.3% | T1 | False |
-| 24 | P2000 \| Turf (Factory New) | 42.50 | +17.0% | +33.0% | T0 | False |
-| 25 | Galil AR \| Kami (Factory New) | 38.79 | +16.9% | +54.3% | T0 | False |
-| 26 | FAMAS \| 2A2F (Factory New) | 37.30 | +16.6% | +6.5% | T0 | False |
-| 27 | ★ Moto Gloves \| Boom! (Field-Tested) | 5168.00 | +16.4% | -9.7% | T1 | False |
-| 28 | P250 \| Inferno (Factory New) | 37.00 | +15.8% | +58.2% | T0 | False |
-| 29 | Tec-9 \| Bamboo Forest (Factory New) | 194.99 | +15.8% | +11.8% | T0 | False |
-| 30 | USP-S \| Lead Conduit (Factory New) | 149.99 | +15.4% | +6.5% | T0 | False |
+| 9 | MP7 \| Neon Ply (Factory New) | 350.00 | +24.4% | -3.1% | T1 | False |
+| 10 | Lt. Commander Ricksaw \| NSWC SEAL | 243.90 | +23.9% | +10.9% | T0 | False |
+| 11 | Desert Eagle \| Calligraffiti (Factory New) | 85.00 | +23.5% | +16.2% | T0 | False |
+| 12 | P2000 \| Silver (Factory New) | 829.50 | +23.4% | +18.9% | T0 | False |
+| 13 | Tec-9 \| Snek-9 (Factory New) | 30.50 | +23.0% | +30.9% | T0 | False |
+| 14 | P250 \| Mint Kimono (Factory New) | 66.70 | +22.4% | +26.1% | T0 | False |
+| 15 | PP-Bizon \| Cobalt Halftone (Factory New) | 31.00 | +22.3% | +43.6% | T0 | False |
+| 16 | Galil AR \| Firefight (Factory New) | 138.00 | +21.5% | +15.2% | T0 | False |
+| 17 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3500.00 | +18.8% | +7.0% | T0 | False |
+| 18 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 116.90 | +18.6% | -10.2% | T1 | False |
+| 19 | MP7 \| Asterion (Factory New) | 89.70 | +18.0% | +23.7% | T0 | False |
+| 20 | AUG \| Carved Jade (Factory New) | 328.99 | +18.0% | +24.1% | T0 | False |
+| 21 | USP-S \| Jawbreaker (Factory New) | 185.15 | +17.3% | +3.3% | T1 | False |
+| 22 | P2000 \| Turf (Factory New) | 42.50 | +17.0% | +33.0% | T0 | False |
+| 23 | Galil AR \| Kami (Factory New) | 38.79 | +16.9% | +54.3% | T0 | False |
+| 24 | FAMAS \| 2A2F (Factory New) | 37.30 | +16.6% | +6.5% | T0 | False |
+| 25 | ★ Moto Gloves \| Boom! (Field-Tested) | 5168.00 | +16.4% | -9.7% | T1 | False |
+| 26 | P250 \| Inferno (Factory New) | 37.00 | +15.8% | +58.2% | T0 | False |
+| 27 | Tec-9 \| Bamboo Forest (Factory New) | 194.99 | +15.8% | +11.8% | T0 | False |
+| 28 | USP-S \| Lead Conduit (Factory New) | 149.99 | +15.4% | +6.5% | T0 | False |
+| 29 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 2250.00 | +15.4% | +10.9% | T0 | False |
+| 30 | Officer Jacques Beltram \| Gendarmerie Nationale | 176.48 | +14.4% | -8.9% | T1 | False |
 
 ## 2026-02-21
 
@@ -715,27 +715,27 @@
 | 7 | P2000 \| Dispatch (Factory New) | 209.39 | +31.7% | -3.8% | T1 | False |
 | 8 | MP7 \| Neon Ply (Factory New) | 386.40 | +30.8% | -8.7% | T1 | False |
 | 9 | Chem-Haz Capitaine \| Gendarmerie Nationale | 257.40 | +28.6% | -28.5% | T1 | False |
-| 10 | R8 Revolver \| Phoenix Marker (Factory New) | 57.50 | +28.0% | +20.5% | T0 | False |
-| 11 | Sawed-Off \| Jungle Thicket (Factory New) | 39.32 | +26.8% | -7.3% | T1 | False |
-| 12 | P2000 \| Silver (Factory New) | 825.00 | +25.5% | +14.9% | T0 | False |
-| 13 | ★ Driver Gloves \| Racing Green (Minimal Wear) | 620.00 | +25.4% | +0.6% | T1 | False |
-| 14 | Tec-9 \| Bamboo Forest (Factory New) | 189.49 | +24.8% | +8.6% | T0 | False |
-| 15 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 4749.00 | +24.5% | +1.6% | T1 | False |
-| 16 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 5249.00 | +23.1% | +0.9% | T1 | False |
-| 17 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 2217.50 | +20.8% | +15.7% | T0 | False |
-| 18 | Desert Eagle \| The Bronze (Factory New) | 39.40 | +20.1% | +9.2% | T0 | False |
-| 19 | Galil AR \| Firefight (Factory New) | 139.80 | +20.0% | +2.9% | T1 | False |
-| 20 | Five-SeveN \| Buddy (Factory New) | 43.57 | +19.5% | +19.6% | T0 | False |
-| 21 | UMP-45 \| K.O. Factory (Factory New) | 216.00 | +19.3% | -8.9% | T1 | False |
-| 22 | Galil AR \| Dusk Ruins (Factory New) | 1740.00 | +19.0% | +3.7% | T1 | False |
-| 23 | M4A4 \| Daybreak (Factory New) | 7958.50 | +19.0% | +9.2% | T0 | False |
-| 24 | P2000 \| Panther Camo (Factory New) | 58.58 | +18.6% | +27.8% | T0 | False |
-| 25 | Lt. Commander Ricksaw \| NSWC SEAL | 235.30 | +18.3% | +10.5% | T0 | False |
-| 26 | MP7 \| Asterion (Factory New) | 89.99 | +18.1% | +28.9% | T0 | False |
-| 27 | USP-S \| Target Acquired (Factory New) | 4278.50 | +17.8% | +0.8% | T1 | False |
-| 28 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3815.00 | +17.7% | -1.7% | T1 | False |
-| 29 | USP-S \| Whiteout (Factory New) | 5391.00 | +16.9% | +0.5% | T1 | False |
-| 30 | Galil AR \| Kami (Factory New) | 38.20 | +16.2% | +51.8% | T0 | False |
+| 10 | P2000 \| Silver (Factory New) | 825.00 | +25.5% | +14.9% | T0 | False |
+| 11 | ★ Driver Gloves \| Racing Green (Minimal Wear) | 620.00 | +25.4% | +0.6% | T1 | False |
+| 12 | Tec-9 \| Bamboo Forest (Factory New) | 189.49 | +24.8% | +8.6% | T0 | False |
+| 13 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 4749.00 | +24.5% | +1.6% | T1 | False |
+| 14 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 5249.00 | +23.1% | +0.9% | T1 | False |
+| 15 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 2217.50 | +20.8% | +15.7% | T0 | False |
+| 16 | Desert Eagle \| The Bronze (Factory New) | 39.40 | +20.1% | +9.2% | T0 | False |
+| 17 | Galil AR \| Firefight (Factory New) | 139.80 | +20.0% | +2.9% | T1 | False |
+| 18 | Five-SeveN \| Buddy (Factory New) | 43.57 | +19.5% | +19.6% | T0 | False |
+| 19 | UMP-45 \| K.O. Factory (Factory New) | 216.00 | +19.3% | -8.9% | T1 | False |
+| 20 | Galil AR \| Dusk Ruins (Factory New) | 1740.00 | +19.0% | +3.7% | T1 | False |
+| 21 | M4A4 \| Daybreak (Factory New) | 7958.50 | +19.0% | +9.2% | T0 | False |
+| 22 | P2000 \| Panther Camo (Factory New) | 58.58 | +18.6% | +27.8% | T0 | False |
+| 23 | Lt. Commander Ricksaw \| NSWC SEAL | 235.30 | +18.3% | +10.5% | T0 | False |
+| 24 | MP7 \| Asterion (Factory New) | 89.99 | +18.1% | +28.9% | T0 | False |
+| 25 | USP-S \| Target Acquired (Factory New) | 4278.50 | +17.8% | +0.8% | T1 | False |
+| 26 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3815.00 | +17.7% | -1.7% | T1 | False |
+| 27 | USP-S \| Whiteout (Factory New) | 5391.00 | +16.9% | +0.5% | T1 | False |
+| 28 | Galil AR \| Kami (Factory New) | 38.20 | +16.2% | +51.8% | T0 | False |
+| 29 | AWP \| Pink DDPAT (Factory New) | 1370.00 | +16.0% | -0.5% | T1 | False |
+| 30 | USP-S \| Road Rash (Factory New) | 1830.00 | +15.1% | +2.2% | T1 | False |
 
 ## 2026-02-22
 
@@ -751,26 +751,26 @@
 | 8 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 2099.25 | +38.9% | +1.2% | T1 | False |
 | 9 | MP7 \| Neon Ply (Factory New) | 365.99 | +38.2% | -9.3% | T1 | False |
 | 10 | AUG \| Arctic Wolf (Factory New) | 94.30 | +36.1% | -0.6% | T1 | False |
-| 11 | R8 Revolver \| Phoenix Marker (Factory New) | 58.00 | +36.0% | +4.4% | T1 | False |
-| 12 | Tec-9 \| Bamboozle (Factory New) | 56.60 | +35.5% | +2.5% | T1 | False |
-| 13 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 5869.50 | +35.4% | -4.7% | T1 | False |
-| 14 | Desert Eagle \| Calligraffiti (Factory New) | 94.80 | +34.7% | -6.5% | T1 | False |
-| 15 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 2220.00 | +34.6% | -4.3% | T1 | False |
-| 16 | USP-S \| Road Rash (Factory New) | 1828.00 | +30.4% | -7.6% | T1 | False |
-| 17 | M4A4 \| Global Offensive (Factory New) | 589.00 | +28.9% | -6.2% | T1 | False |
-| 18 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2279.50 | +28.6% | -4.5% | T1 | False |
-| 19 | P2000 \| Panther Camo (Factory New) | 57.78 | +28.4% | +13.4% | T0 | False |
-| 20 | Dual Berettas \| Moon in Libra (Factory New) | 42.00 | +28.0% | +5.4% | T0 | False |
-| 21 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3949.00 | +27.6% | -4.2% | T1 | False |
-| 22 | USP-S \| 27 (Factory New) | 37.70 | +26.5% | -7.8% | T1 | False |
-| 23 | Galil AR \| Blue Titanium (Factory New) | 46.00 | +26.0% | +32.7% | T0 | False |
-| 24 | P2000 \| Dispatch (Factory New) | 208.88 | +25.9% | -4.4% | T1 | False |
-| 25 | Galil AR \| Cerberus (Factory New) | 2435.00 | +25.8% | -1.9% | T1 | False |
-| 26 | SSG 08 \| Abyss (Factory New) | 35.98 | +25.1% | +7.0% | T0 | False |
-| 27 | Glock-18 \| Green Line (Factory New) | 68.00 | +25.1% | -13.0% | T1 | False |
-| 28 | Galil AR \| Phoenix Blacklight (Factory New) | 1914.50 | +24.8% | -1.1% | T1 | False |
-| 29 | Tec-9 \| Bamboo Forest (Factory New) | 188.00 | +24.0% | +8.6% | T0 | False |
-| 30 | AK-47 \| Emerald Pinstripe (Factory New) | 119.50 | +23.4% | -5.2% | T1 | False |
+| 11 | Tec-9 \| Bamboozle (Factory New) | 56.60 | +35.5% | +2.5% | T1 | False |
+| 12 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 5869.50 | +35.4% | -4.7% | T1 | False |
+| 13 | Desert Eagle \| Calligraffiti (Factory New) | 94.80 | +34.7% | -6.5% | T1 | False |
+| 14 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 2220.00 | +34.6% | -4.3% | T1 | False |
+| 15 | USP-S \| Road Rash (Factory New) | 1828.00 | +30.4% | -7.6% | T1 | False |
+| 16 | M4A4 \| Global Offensive (Factory New) | 589.00 | +28.9% | -6.2% | T1 | False |
+| 17 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2279.50 | +28.6% | -4.5% | T1 | False |
+| 18 | P2000 \| Panther Camo (Factory New) | 57.78 | +28.4% | +13.4% | T0 | False |
+| 19 | Dual Berettas \| Moon in Libra (Factory New) | 42.00 | +28.0% | +5.4% | T0 | False |
+| 20 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3949.00 | +27.6% | -4.2% | T1 | False |
+| 21 | USP-S \| 27 (Factory New) | 37.70 | +26.5% | -7.8% | T1 | False |
+| 22 | Galil AR \| Blue Titanium (Factory New) | 46.00 | +26.0% | +32.7% | T0 | False |
+| 23 | P2000 \| Dispatch (Factory New) | 208.88 | +25.9% | -4.4% | T1 | False |
+| 24 | Galil AR \| Cerberus (Factory New) | 2435.00 | +25.8% | -1.9% | T1 | False |
+| 25 | SSG 08 \| Abyss (Factory New) | 35.98 | +25.1% | +7.0% | T0 | False |
+| 26 | Glock-18 \| Green Line (Factory New) | 68.00 | +25.1% | -13.0% | T1 | False |
+| 27 | Galil AR \| Phoenix Blacklight (Factory New) | 1914.50 | +24.8% | -1.1% | T1 | False |
+| 28 | Tec-9 \| Bamboo Forest (Factory New) | 188.00 | +24.0% | +8.6% | T0 | False |
+| 29 | AK-47 \| Emerald Pinstripe (Factory New) | 119.50 | +23.4% | -5.2% | T1 | False |
+| 30 | AWP \| Sun in Leo (Factory New) | 494.99 | +23.1% | +2.1% | T1 | False |
 
 ## 2026-02-23
 
@@ -792,20 +792,20 @@
 | 14 | Galil AR \| Blue Titanium (Factory New) | 44.58 | +41.8% | +36.8% | T0 | False |
 | 15 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3580.00 | +40.9% | -13.6% | T1 | False |
 | 16 | P250 \| Mint Kimono (Factory New) | 66.59 | +39.5% | +22.5% | T0 | False |
-| 17 | R8 Revolver \| Phoenix Marker (Factory New) | 58.89 | +39.2% | +1.3% | T1 | False |
-| 18 | P250 \| Hive (Factory New) | 33.99 | +39.2% | +18.1% | T0 | False |
-| 19 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1987.00 | +37.2% | -9.2% | T1 | False |
-| 20 | P2000 \| Panther Camo (Factory New) | 56.98 | +36.2% | +8.4% | T0 | False |
-| 21 | PP-Bizon \| Cobalt Halftone (Factory New) | 34.50 | +35.9% | +18.8% | T0 | False |
-| 22 | USP-S \| Road Rash (Factory New) | 1769.00 | +35.6% | -5.4% | T1 | False |
-| 23 | Lt. Commander Ricksaw \| NSWC SEAL | 238.00 | +35.5% | +6.7% | T0 | False |
-| 24 | P2000 \| Dispatch (Factory New) | 207.00 | +35.4% | -5.1% | T1 | False |
-| 25 | Desert Eagle \| Calligraffiti (Factory New) | 96.00 | +35.2% | -4.6% | T1 | False |
-| 26 | Dual Berettas \| Moon in Libra (Factory New) | 41.87 | +35.0% | +0.3% | T1 | False |
-| 27 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2100.00 | +34.6% | -10.1% | T1 | False |
-| 28 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 5380.00 | +33.4% | -8.1% | T1 | False |
-| 29 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3693.75 | +33.4% | -13.9% | T1 | False |
-| 30 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3409.00 | +32.6% | -3.1% | T1 | False |
+| 17 | P250 \| Hive (Factory New) | 33.99 | +39.2% | +18.1% | T0 | False |
+| 18 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1987.00 | +37.2% | -9.2% | T1 | False |
+| 19 | P2000 \| Panther Camo (Factory New) | 56.98 | +36.2% | +8.4% | T0 | False |
+| 20 | PP-Bizon \| Cobalt Halftone (Factory New) | 34.50 | +35.9% | +18.8% | T0 | False |
+| 21 | USP-S \| Road Rash (Factory New) | 1769.00 | +35.6% | -5.4% | T1 | False |
+| 22 | Lt. Commander Ricksaw \| NSWC SEAL | 238.00 | +35.5% | +6.7% | T0 | False |
+| 23 | P2000 \| Dispatch (Factory New) | 207.00 | +35.4% | -5.1% | T1 | False |
+| 24 | Desert Eagle \| Calligraffiti (Factory New) | 96.00 | +35.2% | -4.6% | T1 | False |
+| 25 | Dual Berettas \| Moon in Libra (Factory New) | 41.87 | +35.0% | +0.3% | T1 | False |
+| 26 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2100.00 | +34.6% | -10.1% | T1 | False |
+| 27 | ★ Hand Wraps \| Spruce DDPAT (Minimal Wear) | 5380.00 | +33.4% | -8.1% | T1 | False |
+| 28 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3693.75 | +33.4% | -13.9% | T1 | False |
+| 29 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3409.00 | +32.6% | -3.1% | T1 | False |
+| 30 | Galil AR \| Rocket Pop (Factory New) | 83.00 | +32.3% | -0.9% | T1 | False |
 
 ## 2026-02-24
 
@@ -833,14 +833,14 @@
 | 20 | MP7 \| Powercore (Factory New) | 188.50 | +37.6% | -10.6% | T1 | False |
 | 21 | FAMAS \| Hexane (Factory New) | 52.00 | +37.4% | +0.3% | T1 | False |
 | 22 | Galil AR \| Crimson Tsunami (Factory New) | 57.20 | +36.5% | -6.1% | T1 | False |
-| 23 | XM1014 \| Solitude (Factory New) | 182.50 | +35.0% | +19.2% | T0 | False |
-| 24 | USP-S \| Pathfinder (Factory New) | 324.99 | +34.6% | +19.6% | T0 | False |
-| 25 | Lt. Commander Ricksaw \| NSWC SEAL | 236.50 | +34.4% | -3.7% | T1 | False |
-| 26 | P250 \| Inferno (Factory New) | 48.90 | +34.3% | +1.5% | T1 | False |
-| 27 | SCAR-20 \| Torn (Factory New) | 32.00 | +34.2% | -26.2% | T1 | False |
-| 28 | Galil AR \| Rocket Pop (Factory New) | 83.20 | +33.7% | -13.0% | T1 | False |
-| 29 | P2000 \| Handgun (Factory New) | 116.49 | +33.6% | -6.8% | T1 | False |
-| 30 | P250 \| Hive (Factory New) | 33.99 | +32.7% | +32.7% | T0 | False |
+| 23 | USP-S \| Pathfinder (Factory New) | 324.99 | +34.6% | +19.6% | T0 | False |
+| 24 | Lt. Commander Ricksaw \| NSWC SEAL | 236.50 | +34.4% | -3.7% | T1 | False |
+| 25 | P250 \| Inferno (Factory New) | 48.90 | +34.3% | +1.5% | T1 | False |
+| 26 | SCAR-20 \| Torn (Factory New) | 32.00 | +34.2% | -26.2% | T1 | False |
+| 27 | Galil AR \| Rocket Pop (Factory New) | 83.20 | +33.7% | -13.0% | T1 | False |
+| 28 | P2000 \| Handgun (Factory New) | 116.49 | +33.6% | -6.8% | T1 | False |
+| 29 | P250 \| Hive (Factory New) | 33.99 | +32.7% | +32.7% | T0 | False |
+| 30 | Galil AR \| Cerberus (Factory New) | 2308.00 | +32.5% | -6.9% | T1 | False |
 
 ## 2026-02-25
 
@@ -864,18 +864,18 @@
 | 16 | SCAR-20 \| Torn (Factory New) | 32.00 | +41.6% | -25.7% | T1 | False |
 | 17 | MP7 \| Asterion (Factory New) | 89.60 | +41.3% | -12.0% | T1 | False |
 | 18 | Galil AR \| Stone Cold (Factory New) | 258.50 | +41.2% | +9.2% | T0 | False |
-| 19 | XM1014 \| Solitude (Factory New) | 184.50 | +41.2% | +21.4% | T0 | False |
-| 20 | Dual Berettas \| Moon in Libra (Factory New) | 40.32 | +40.9% | -1.6% | T1 | False |
-| 21 | MP7 \| Powercore (Factory New) | 198.40 | +40.6% | -11.9% | T1 | False |
-| 22 | Tec-9 \| Blue Titanium (Factory New) | 40.00 | +40.3% | +44.1% | T0 | False |
-| 23 | Tec-9 \| Bamboozle (Factory New) | 54.89 | +40.0% | -6.0% | T1 | False |
-| 24 | SSG 08 \| Abyss (Factory New) | 37.60 | +39.7% | -14.6% | T1 | False |
-| 25 | FAMAS \| Decommissioned (Factory New) | 47.50 | +39.7% | +41.2% | T0 | False |
-| 26 | SSG 08 \| Necropos (Factory New) | 43.99 | +39.6% | -19.5% | T1 | False |
-| 27 | MAC-10 \| Last Dive (Factory New) | 40.80 | +39.5% | +10.2% | T0 | False |
-| 28 | AK-47 \| Emerald Pinstripe (Factory New) | 112.40 | +38.3% | -14.6% | T1 | False |
-| 29 | Dual Berettas \| Hydro Strike (Factory New) | 46.85 | +37.8% | +33.4% | T0 | False |
-| 30 | Five-SeveN \| Withered Vine (Factory New) | 41.49 | +37.6% | +24.3% | T0 | False |
+| 19 | Dual Berettas \| Moon in Libra (Factory New) | 40.32 | +40.9% | -1.6% | T1 | False |
+| 20 | MP7 \| Powercore (Factory New) | 198.40 | +40.6% | -11.9% | T1 | False |
+| 21 | Tec-9 \| Blue Titanium (Factory New) | 40.00 | +40.3% | +44.1% | T0 | False |
+| 22 | Tec-9 \| Bamboozle (Factory New) | 54.89 | +40.0% | -6.0% | T1 | False |
+| 23 | SSG 08 \| Abyss (Factory New) | 37.60 | +39.7% | -14.6% | T1 | False |
+| 24 | FAMAS \| Decommissioned (Factory New) | 47.50 | +39.7% | +41.2% | T0 | False |
+| 25 | SSG 08 \| Necropos (Factory New) | 43.99 | +39.6% | -19.5% | T1 | False |
+| 26 | MAC-10 \| Last Dive (Factory New) | 40.80 | +39.5% | +10.2% | T0 | False |
+| 27 | AK-47 \| Emerald Pinstripe (Factory New) | 112.40 | +38.3% | -14.6% | T1 | False |
+| 28 | Dual Berettas \| Hydro Strike (Factory New) | 46.85 | +37.8% | +33.4% | T0 | False |
+| 29 | Five-SeveN \| Withered Vine (Factory New) | 41.49 | +37.6% | +24.3% | T0 | False |
+| 30 | Galil AR \| Rocket Pop (Factory New) | 92.79 | +36.0% | -18.7% | T1 | False |
 
 ## 2026-02-26
 
@@ -900,17 +900,17 @@
 | 17 | P250 \| Inferno (Factory New) | 47.37 | +54.1% | +19.1% | T0 | False |
 | 18 | MAC-10 \| Surfwood (Factory New) | 46.46 | +53.8% | +3.1% | T1 | False |
 | 19 | Dual Berettas \| Hydro Strike (Factory New) | 47.07 | +53.7% | +5.6% | T0 | False |
-| 20 | XM1014 \| Solitude (Factory New) | 186.00 | +53.3% | +16.0% | T0 | False |
-| 21 | FAMAS \| Night Borre (Factory New) | 91.45 | +52.9% | -7.1% | T1 | False |
-| 22 | Tec-9 \| Blast From the Past (Factory New) | 179.00 | +52.1% | -22.1% | T1 | False |
-| 23 | Tec-9 \| Bamboozle (Factory New) | 55.80 | +50.3% | +1.4% | T1 | False |
-| 24 | P250 \| Mint Kimono (Factory New) | 74.00 | +49.0% | +7.4% | T0 | False |
-| 25 | SSG 08 \| Rapid Transit (Factory New) | 60.70 | +48.8% | -10.4% | T1 | False |
-| 26 | Tec-9 \| Blue Titanium (Factory New) | 40.50 | +47.7% | +53.1% | T0 | False |
-| 27 | SSG 08 \| Necropos (Factory New) | 44.60 | +47.6% | -21.4% | T1 | False |
-| 28 | CZ75-Auto \| Silver (Factory New) | 40.84 | +47.2% | +10.6% | T0 | False |
-| 29 | USP-S \| Ancient Visions (Factory New) | 930.00 | +47.1% | -3.1% | T1 | False |
-| 30 | SSG 08 \| Carbon Fiber (Factory New) | 35.00 | +46.2% | +4.5% | T1 | False |
+| 20 | FAMAS \| Night Borre (Factory New) | 91.45 | +52.9% | -7.1% | T1 | False |
+| 21 | Tec-9 \| Blast From the Past (Factory New) | 179.00 | +52.1% | -22.1% | T1 | False |
+| 22 | Tec-9 \| Bamboozle (Factory New) | 55.80 | +50.3% | +1.4% | T1 | False |
+| 23 | P250 \| Mint Kimono (Factory New) | 74.00 | +49.0% | +7.4% | T0 | False |
+| 24 | SSG 08 \| Rapid Transit (Factory New) | 60.70 | +48.8% | -10.4% | T1 | False |
+| 25 | Tec-9 \| Blue Titanium (Factory New) | 40.50 | +47.7% | +53.1% | T0 | False |
+| 26 | SSG 08 \| Necropos (Factory New) | 44.60 | +47.6% | -21.4% | T1 | False |
+| 27 | CZ75-Auto \| Silver (Factory New) | 40.84 | +47.2% | +10.6% | T0 | False |
+| 28 | USP-S \| Ancient Visions (Factory New) | 930.00 | +47.1% | -3.1% | T1 | False |
+| 29 | SSG 08 \| Carbon Fiber (Factory New) | 35.00 | +46.2% | +4.5% | T1 | False |
+| 30 | MP7 \| Cirrus (Factory New) | 50.00 | +45.9% | -22.1% | T1 | False |
 
 ## 2026-02-27
 
@@ -930,22 +930,22 @@
 | 12 | FAMAS \| Hexane (Factory New) | 49.00 | +56.4% | +27.2% | T0 | False |
 | 13 | Five-SeveN \| Withered Vine (Factory New) | 39.69 | +56.1% | +39.6% | T0 | False |
 | 14 | Galil AR \| Kami (Factory New) | 48.90 | +54.3% | +14.3% | T0 | False |
-| 15 | XM1014 \| Solitude (Factory New) | 184.50 | +53.0% | +7.3% | T0 | False |
-| 16 | Galil AR \| Stone Cold (Factory New) | 254.00 | +49.6% | +9.7% | T0 | False |
-| 17 | AUG \| Navy Murano (Factory New) | 59.20 | +49.5% | -22.4% | T1 | False |
-| 18 | P250 \| Vino Primo (Factory New) | 131.50 | +48.9% | +15.1% | T0 | False |
-| 19 | CZ75-Auto \| Silver (Factory New) | 40.00 | +48.2% | +2.5% | T1 | False |
-| 20 | SSG 08 \| Carbon Fiber (Factory New) | 35.00 | +47.8% | -2.9% | T1 | False |
-| 21 | MAC-10 \| Surfwood (Factory New) | 45.81 | +47.7% | -3.2% | T1 | False |
-| 22 | Galil AR \| Blue Titanium (Factory New) | 46.10 | +46.9% | +55.6% | T0 | False |
-| 23 | Tec-9 \| Blue Titanium (Factory New) | 40.40 | +46.2% | +52.2% | T0 | False |
-| 24 | MP7 \| Cirrus (Factory New) | 48.30 | +46.1% | -15.5% | T1 | False |
-| 25 | FAMAS \| Decommissioned (Factory New) | 52.00 | +45.6% | +63.3% | T0 | False |
-| 26 | USP-S \| Pathfinder (Factory New) | 324.00 | +45.5% | +45.7% | T0 | False |
-| 27 | Five-SeveN \| Nightshade (Factory New) | 66.00 | +45.3% | +31.1% | T0 | False |
-| 28 | SSG 08 \| Rapid Transit (Factory New) | 59.69 | +44.1% | -2.2% | T1 | False |
-| 29 | Glock-18 \| Sacrifice (Factory New) | 54.00 | +43.7% | +13.0% | T0 | False |
-| 30 | Galil AR \| Vandal (Factory New) | 145.00 | +43.6% | +15.0% | T0 | False |
+| 15 | Galil AR \| Stone Cold (Factory New) | 254.00 | +49.6% | +9.7% | T0 | False |
+| 16 | AUG \| Navy Murano (Factory New) | 59.20 | +49.5% | -22.4% | T1 | False |
+| 17 | P250 \| Vino Primo (Factory New) | 131.50 | +48.9% | +15.1% | T0 | False |
+| 18 | CZ75-Auto \| Silver (Factory New) | 40.00 | +48.2% | +2.5% | T1 | False |
+| 19 | SSG 08 \| Carbon Fiber (Factory New) | 35.00 | +47.8% | -2.9% | T1 | False |
+| 20 | MAC-10 \| Surfwood (Factory New) | 45.81 | +47.7% | -3.2% | T1 | False |
+| 21 | Galil AR \| Blue Titanium (Factory New) | 46.10 | +46.9% | +55.6% | T0 | False |
+| 22 | Tec-9 \| Blue Titanium (Factory New) | 40.40 | +46.2% | +52.2% | T0 | False |
+| 23 | MP7 \| Cirrus (Factory New) | 48.30 | +46.1% | -15.5% | T1 | False |
+| 24 | FAMAS \| Decommissioned (Factory New) | 52.00 | +45.6% | +63.3% | T0 | False |
+| 25 | USP-S \| Pathfinder (Factory New) | 324.00 | +45.5% | +45.7% | T0 | False |
+| 26 | Five-SeveN \| Nightshade (Factory New) | 66.00 | +45.3% | +31.1% | T0 | False |
+| 27 | SSG 08 \| Rapid Transit (Factory New) | 59.69 | +44.1% | -2.2% | T1 | False |
+| 28 | Glock-18 \| Sacrifice (Factory New) | 54.00 | +43.7% | +13.0% | T0 | False |
+| 29 | Galil AR \| Vandal (Factory New) | 145.00 | +43.6% | +15.0% | T0 | False |
+| 30 | PP-Bizon \| Cobalt Halftone (Factory New) | 33.90 | +43.6% | +120.5% | T0 | True |
 
 ## 2026-02-28
 
@@ -1013,44 +1013,44 @@
 | 25 | MP7 \| Cirrus (Factory New) | 48.50 | +39.0% | +1.4% | T1 | False |
 | 26 | MP7 \| Vault Heist (Factory New) | 95.90 | +38.6% | +31.3% | T0 | False |
 | 27 | Five-SeveN \| Withered Vine (Factory New) | 38.90 | +37.0% | +49.8% | T0 | False |
-| 28 | MAG-7 \| Seabird (Factory New) | 51.68 | +36.9% | -9.1% | T1 | False |
-| 29 | SG 553 \| Darkwing (Factory New) | 40.19 | +36.0% | -7.0% | T1 | False |
-| 30 | Desert Eagle \| Directive (Factory New) | 818.30 | +35.0% | +12.9% | T0 | False |
+| 28 | SG 553 \| Darkwing (Factory New) | 40.19 | +36.0% | -7.0% | T1 | False |
+| 29 | Desert Eagle \| Directive (Factory New) | 818.30 | +35.0% | +12.9% | T0 | False |
+| 30 | Five-SeveN \| Triumvirate (Factory New) | 124.50 | +34.6% | +15.9% | T0 | False |
 
 ## 2026-03-02
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +146.2% | -63.2% | T1 | True |
-| 2 | PP-Bizon \| Seabird (Factory New) | 47.38 | +97.0% | -5.9% | T1 | False |
-| 3 | Tec-9 \| Phoenix Chalk (Factory New) | 86.20 | +63.2% | +13.4% | T0 | True |
-| 4 | Five-SeveN \| Nightshade (Factory New) | 65.40 | +62.7% | +2.8% | T1 | False |
-| 5 | Five-SeveN \| Fowl Play (Factory New) | 718.00 | +52.6% | +32.2% | T0 | False |
-| 6 | Tec-9 \| Blue Titanium (Factory New) | 43.00 | +49.7% | +39.1% | T0 | False |
-| 7 | Five-SeveN \| Kami (Factory New) | 37.39 | +49.6% | +20.7% | T0 | False |
-| 8 | Five-SeveN \| Withered Vine (Factory New) | 40.88 | +49.1% | +62.7% | T0 | False |
-| 9 | MAC-10 \| Surfwood (Factory New) | 44.80 | +47.7% | +22.1% | T0 | False |
-| 10 | CZ75-Auto \| Tread Plate (Factory New) | 61.00 | +47.5% | +16.5% | T0 | False |
-| 11 | FAMAS \| Cyanospatter (Factory New) | 31.80 | +45.8% | +117.7% | T0 | False |
-| 12 | SG 553 \| Darkwing (Factory New) | 41.18 | +45.7% | -9.9% | T1 | False |
-| 13 | USP-S \| Caiman (Factory New) | 916.00 | +45.1% | +13.5% | T0 | False |
-| 14 | FAMAS \| Faulty Wiring (Factory New) | 33.89 | +43.6% | +61.8% | T0 | False |
-| 15 | P250 \| Iron Clad (Factory New) | 30.10 | +41.9% | +95.1% | T0 | True |
-| 16 | Glock-18 \| Brass (Factory New) | 2030.90 | +40.2% | +13.2% | T0 | False |
-| 17 | PP-Bizon \| Bamboo Print (Factory New) | 93.90 | +39.8% | -5.7% | T1 | False |
-| 18 | SCAR-20 \| Emerald (Factory New) | 338.26 | +39.2% | +1.9% | T1 | False |
-| 19 | G3SG1 \| Orange Kimono (Factory New) | 57.58 | +37.9% | +1.4% | T1 | False |
-| 20 | Dual Berettas \| Cobra Strike (Factory New) | 875.48 | +37.3% | +67.1% | T0 | True |
-| 21 | Galil AR \| Blue Titanium (Factory New) | 58.20 | +36.8% | +50.5% | T0 | False |
-| 22 | P250 \| Vino Primo (Factory New) | 138.00 | +36.6% | +25.2% | T0 | False |
-| 23 | Desert Eagle \| Mudder (Factory New) | 54.76 | +35.0% | +28.0% | T0 | False |
-| 24 | MAC-10 \| Saibā Oni (Factory New) | 48.56 | +34.5% | +20.3% | T0 | False |
-| 25 | UMP-45 \| Scaffold (Factory New) | 54.70 | +33.6% | +23.6% | T0 | False |
-| 26 | UMP-45 \| Houndstooth (Factory New) | 43.38 | +33.4% | +4.9% | T1 | False |
-| 27 | AK-47 \| Green Laminate (Factory New) | 960.00 | +32.6% | -0.6% | T1 | False |
-| 28 | SSG 08 \| Rapid Transit (Factory New) | 62.00 | +32.5% | +8.7% | T0 | False |
-| 29 | Desert Eagle \| Cobalt Disruption (Factory New) | 895.00 | +32.2% | +10.9% | T0 | False |
-| 30 | MAC-10 \| Last Dive (Factory New) | 38.90 | +31.8% | +98.1% | T0 | False |
+| 1 | PP-Bizon \| Seabird (Factory New) | 47.38 | +97.0% | -5.9% | T1 | False |
+| 2 | Tec-9 \| Phoenix Chalk (Factory New) | 86.20 | +63.2% | +13.4% | T0 | True |
+| 3 | Five-SeveN \| Nightshade (Factory New) | 65.40 | +62.7% | +2.8% | T1 | False |
+| 4 | Five-SeveN \| Fowl Play (Factory New) | 718.00 | +52.6% | +32.2% | T0 | False |
+| 5 | Tec-9 \| Blue Titanium (Factory New) | 43.00 | +49.7% | +39.1% | T0 | False |
+| 6 | Five-SeveN \| Kami (Factory New) | 37.39 | +49.6% | +20.7% | T0 | False |
+| 7 | Five-SeveN \| Withered Vine (Factory New) | 40.88 | +49.1% | +62.7% | T0 | False |
+| 8 | MAC-10 \| Surfwood (Factory New) | 44.80 | +47.7% | +22.1% | T0 | False |
+| 9 | CZ75-Auto \| Tread Plate (Factory New) | 61.00 | +47.5% | +16.5% | T0 | False |
+| 10 | FAMAS \| Cyanospatter (Factory New) | 31.80 | +45.8% | +117.7% | T0 | False |
+| 11 | SG 553 \| Darkwing (Factory New) | 41.18 | +45.7% | -9.9% | T1 | False |
+| 12 | USP-S \| Caiman (Factory New) | 916.00 | +45.1% | +13.5% | T0 | False |
+| 13 | FAMAS \| Faulty Wiring (Factory New) | 33.89 | +43.6% | +61.8% | T0 | False |
+| 14 | P250 \| Iron Clad (Factory New) | 30.10 | +41.9% | +95.1% | T0 | True |
+| 15 | Glock-18 \| Brass (Factory New) | 2030.90 | +40.2% | +13.2% | T0 | False |
+| 16 | PP-Bizon \| Bamboo Print (Factory New) | 93.90 | +39.8% | -5.7% | T1 | False |
+| 17 | SCAR-20 \| Emerald (Factory New) | 338.26 | +39.2% | +1.9% | T1 | False |
+| 18 | G3SG1 \| Orange Kimono (Factory New) | 57.58 | +37.9% | +1.4% | T1 | False |
+| 19 | Dual Berettas \| Cobra Strike (Factory New) | 875.48 | +37.3% | +67.1% | T0 | True |
+| 20 | Galil AR \| Blue Titanium (Factory New) | 58.20 | +36.8% | +50.5% | T0 | False |
+| 21 | P250 \| Vino Primo (Factory New) | 138.00 | +36.6% | +25.2% | T0 | False |
+| 22 | Desert Eagle \| Mudder (Factory New) | 54.76 | +35.0% | +28.0% | T0 | False |
+| 23 | MAC-10 \| Saibā Oni (Factory New) | 48.56 | +34.5% | +20.3% | T0 | False |
+| 24 | UMP-45 \| Scaffold (Factory New) | 54.70 | +33.6% | +23.6% | T0 | False |
+| 25 | UMP-45 \| Houndstooth (Factory New) | 43.38 | +33.4% | +4.9% | T1 | False |
+| 26 | AK-47 \| Green Laminate (Factory New) | 960.00 | +32.6% | -0.6% | T1 | False |
+| 27 | SSG 08 \| Rapid Transit (Factory New) | 62.00 | +32.5% | +8.7% | T0 | False |
+| 28 | Desert Eagle \| Cobalt Disruption (Factory New) | 895.00 | +32.2% | +10.9% | T0 | False |
+| 29 | MAC-10 \| Last Dive (Factory New) | 38.90 | +31.8% | +98.1% | T0 | False |
+| 30 | P90 \| Cold Blooded (Factory New) | 419.50 | +31.6% | +8.6% | T0 | False |
 
 ## 2026-03-03
 
@@ -1078,49 +1078,49 @@
 | 20 | AWP \| Electric Hive (Factory New) | 950.00 | +34.2% | -1.1% | T1 | False |
 | 21 | P250 \| Hive (Factory New) | 49.00 | +32.7% | +88.3% | T0 | False |
 | 22 | Desert Eagle \| Cobalt Disruption (Factory New) | 940.00 | +30.8% | +9.7% | T0 | False |
-| 23 | Sawed-Off \| Bamboo Shadow (Factory New) | 55.00 | +29.9% | +2.5% | T1 | False |
-| 24 | Glock-18 \| Brass (Factory New) | 2031.00 | +29.7% | +15.6% | T0 | False |
-| 25 | P2000 \| Silver (Factory New) | 1025.00 | +29.5% | +13.1% | T0 | False |
-| 26 | P90 \| Cold Blooded (Factory New) | 417.50 | +28.3% | +10.1% | T0 | False |
-| 27 | 'The Doctor' Romanov \| Sabre | 100.99 | +27.0% | +17.5% | T0 | False |
-| 28 | UMP-45 \| Gold Bismuth (Factory New) | 168.37 | +26.4% | +14.0% | T0 | False |
-| 29 | PP-Bizon \| Carbon Fiber (Factory New) | 79.69 | +26.2% | -7.7% | T1 | False |
-| 30 | P250 \| Black & Tan (Factory New) | 168.10 | +25.6% | +4.2% | T1 | False |
+| 23 | Glock-18 \| Brass (Factory New) | 2031.00 | +29.7% | +15.6% | T0 | False |
+| 24 | P2000 \| Silver (Factory New) | 1025.00 | +29.5% | +13.1% | T0 | False |
+| 25 | P90 \| Cold Blooded (Factory New) | 417.50 | +28.3% | +10.1% | T0 | False |
+| 26 | 'The Doctor' Romanov \| Sabre | 100.99 | +27.0% | +17.5% | T0 | False |
+| 27 | UMP-45 \| Gold Bismuth (Factory New) | 168.37 | +26.4% | +14.0% | T0 | False |
+| 28 | PP-Bizon \| Carbon Fiber (Factory New) | 79.69 | +26.2% | -7.7% | T1 | False |
+| 29 | P250 \| Black & Tan (Factory New) | 168.10 | +25.6% | +4.2% | T1 | False |
+| 30 | Desert Eagle \| Heirloom (Factory New) | 910.00 | +25.6% | +33.3% | T0 | False |
 
 ## 2026-03-04
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +127.7% | -60.2% | T1 | True |
-| 2 | FAMAS \| Cyanospatter (Factory New) | 37.00 | +83.8% | +44.2% | T0 | False |
-| 3 | Desert Eagle \| Midnight Storm (Factory New) | 699.50 | +76.7% | +4.0% | T1 | True |
-| 4 | Desert Eagle \| Night Heist (Factory New) | 698.00 | +75.3% | +4.8% | T1 | True |
-| 5 | P90 \| Blind Spot (Factory New) | 134.18 | +67.5% | -31.5% | T1 | False |
-| 6 | Five-SeveN \| Nightshade (Factory New) | 87.00 | +64.1% | -4.7% | T1 | False |
-| 7 | P2000 \| Corticera (Factory New) | 527.35 | +63.2% | -4.3% | T1 | False |
-| 8 | Sawed-Off \| Bamboo Shadow (Factory New) | 54.90 | +59.1% | -15.1% | T1 | False |
-| 9 | P250 \| Steel Disruption (Factory New) | 40.89 | +56.2% | +26.3% | T0 | False |
-| 10 | SCAR-20 \| Emerald (Factory New) | 345.00 | +55.9% | -13.4% | T1 | False |
-| 11 | 'The Doctor' Romanov \| Sabre | 103.00 | +54.8% | -9.4% | T1 | False |
-| 12 | Desert Eagle \| Cobalt Disruption (Factory New) | 959.50 | +54.4% | -23.6% | T1 | False |
-| 13 | Tec-9 \| Phoenix Chalk (Factory New) | 81.00 | +52.6% | +5.4% | T0 | True |
-| 14 | USP-S \| Caiman (Factory New) | 968.50 | +52.0% | +20.0% | T0 | False |
-| 15 | AWP \| Acheron (Factory New) | 32.00 | +51.0% | -2.9% | T1 | False |
-| 16 | Galil AR \| Blue Titanium (Factory New) | 65.50 | +50.2% | +18.5% | T0 | False |
-| 17 | AWP \| Electric Hive (Factory New) | 919.00 | +47.1% | -21.0% | T1 | False |
-| 18 | FAMAS \| Afterimage (Factory New) | 760.00 | +46.6% | -4.5% | T1 | False |
-| 19 | P2000 \| Silver (Factory New) | 1040.00 | +46.3% | +8.7% | T0 | False |
-| 20 | Glock-18 \| Off World (Factory New) | 38.90 | +45.0% | +69.7% | T0 | True |
-| 21 | PP-Bizon \| Cobalt Halftone (Factory New) | 62.00 | +44.3% | +31.8% | T0 | True |
-| 22 | Tec-9 \| Blue Titanium (Factory New) | 50.70 | +44.1% | +32.9% | T0 | False |
-| 23 | G3SG1 \| Orange Kimono (Factory New) | 57.58 | +41.8% | -5.1% | T1 | False |
-| 24 | FAMAS \| Decommissioned (Factory New) | 71.99 | +41.2% | +40.2% | T0 | False |
-| 25 | Dual Berettas \| Anodized Navy (Factory New) | 89.80 | +40.4% | +7.0% | T0 | False |
-| 26 | P250 \| Crimson Kimono (Factory New) | 237.98 | +39.6% | +8.2% | T0 | False |
-| 27 | Dual Berettas \| Cobra Strike (Factory New) | 977.41 | +39.4% | +38.6% | T0 | True |
-| 28 | PP-Bizon \| Seabird (Factory New) | 61.90 | +39.2% | +3.0% | T1 | False |
-| 29 | Five-SeveN \| Boost Protocol (Factory New) | 84.00 | +38.0% | -24.7% | T1 | False |
-| 30 | USP-S \| Para Green (Factory New) | 465.00 | +37.4% | +0.7% | T1 | False |
+| 1 | FAMAS \| Cyanospatter (Factory New) | 37.00 | +83.8% | +44.2% | T0 | False |
+| 2 | Desert Eagle \| Midnight Storm (Factory New) | 699.50 | +76.7% | +4.0% | T1 | True |
+| 3 | Desert Eagle \| Night Heist (Factory New) | 698.00 | +75.3% | +4.8% | T1 | True |
+| 4 | P90 \| Blind Spot (Factory New) | 134.18 | +67.5% | -31.5% | T1 | False |
+| 5 | Five-SeveN \| Nightshade (Factory New) | 87.00 | +64.1% | -4.7% | T1 | False |
+| 6 | P2000 \| Corticera (Factory New) | 527.35 | +63.2% | -4.3% | T1 | False |
+| 7 | P250 \| Steel Disruption (Factory New) | 40.89 | +56.2% | +26.3% | T0 | False |
+| 8 | SCAR-20 \| Emerald (Factory New) | 345.00 | +55.9% | -13.4% | T1 | False |
+| 9 | 'The Doctor' Romanov \| Sabre | 103.00 | +54.8% | -9.4% | T1 | False |
+| 10 | Desert Eagle \| Cobalt Disruption (Factory New) | 959.50 | +54.4% | -23.6% | T1 | False |
+| 11 | Tec-9 \| Phoenix Chalk (Factory New) | 81.00 | +52.6% | +5.4% | T0 | True |
+| 12 | USP-S \| Caiman (Factory New) | 968.50 | +52.0% | +20.0% | T0 | False |
+| 13 | AWP \| Acheron (Factory New) | 32.00 | +51.0% | -2.9% | T1 | False |
+| 14 | Galil AR \| Blue Titanium (Factory New) | 65.50 | +50.2% | +18.5% | T0 | False |
+| 15 | AWP \| Electric Hive (Factory New) | 919.00 | +47.1% | -21.0% | T1 | False |
+| 16 | FAMAS \| Afterimage (Factory New) | 760.00 | +46.6% | -4.5% | T1 | False |
+| 17 | P2000 \| Silver (Factory New) | 1040.00 | +46.3% | +8.7% | T0 | False |
+| 18 | Glock-18 \| Off World (Factory New) | 38.90 | +45.0% | +69.7% | T0 | True |
+| 19 | PP-Bizon \| Cobalt Halftone (Factory New) | 62.00 | +44.3% | +31.8% | T0 | True |
+| 20 | Tec-9 \| Blue Titanium (Factory New) | 50.70 | +44.1% | +32.9% | T0 | False |
+| 21 | G3SG1 \| Orange Kimono (Factory New) | 57.58 | +41.8% | -5.1% | T1 | False |
+| 22 | FAMAS \| Decommissioned (Factory New) | 71.99 | +41.2% | +40.2% | T0 | False |
+| 23 | Dual Berettas \| Anodized Navy (Factory New) | 89.80 | +40.4% | +7.0% | T0 | False |
+| 24 | P250 \| Crimson Kimono (Factory New) | 237.98 | +39.6% | +8.2% | T0 | False |
+| 25 | Dual Berettas \| Cobra Strike (Factory New) | 977.41 | +39.4% | +38.6% | T0 | True |
+| 26 | PP-Bizon \| Seabird (Factory New) | 61.90 | +39.2% | +3.0% | T1 | False |
+| 27 | Five-SeveN \| Boost Protocol (Factory New) | 84.00 | +38.0% | -24.7% | T1 | False |
+| 28 | USP-S \| Para Green (Factory New) | 465.00 | +37.4% | +0.7% | T1 | False |
+| 29 | Desert Eagle \| Directive (Factory New) | 914.99 | +36.1% | -3.9% | T1 | False |
+| 30 | UMP-45 \| Houndstooth (Factory New) | 43.00 | +35.1% | +4.4% | T1 | False |
 
 ## 2026-03-05
 
@@ -1161,36 +1161,36 @@
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 233.22 | +127.7% | -60.5% | T1 | True |
-| 2 | PP-Bizon \| Cobalt Halftone (Factory New) | 58.00 | +120.5% | -8.9% | T1 | True |
-| 3 | MAC-10 \| Strats (Factory New) | 37.50 | +105.8% | -10.7% | T1 | True |
-| 4 | Dual Berettas \| Cobra Strike (Factory New) | 998.00 | +103.5% | -23.5% | T1 | True |
-| 5 | Desert Eagle \| Blue Ply (Factory New) | 30.80 | +100.0% | -24.0% | T1 | False |
-| 6 | FAMAS \| Cyanospatter (Factory New) | 43.80 | +92.6% | +67.5% | T0 | False |
-| 7 | P250 \| Whiteout (Factory New) | 1767.00 | +90.7% | -28.1% | T1 | True |
-| 8 | ★ Broken Fang Gloves \| Yellow-banded (Minimal Wear) | 690.00 | +87.8% | +1.5% | T1 | True |
-| 9 | Desert Eagle \| Midnight Storm (Factory New) | 730.00 | +86.5% | -6.8% | T1 | True |
-| 10 | P250 \| Cyber Shell (Factory New) | 39.34 | +86.2% | -9.9% | T1 | True |
-| 11 | Tec-9 \| Re-Entry (Factory New) | 41.60 | +80.4% | +28.0% | T0 | False |
-| 12 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 778.00 | +80.2% | +28.5% | T0 | False |
-| 13 | Desert Eagle \| Night Heist (Factory New) | 745.00 | +79.1% | -6.5% | T1 | True |
-| 14 | P2000 \| Pulse (Factory New) | 42.90 | +78.6% | +55.2% | T0 | False |
-| 15 | P250 \| Visions (Factory New) | 92.30 | +76.1% | +3.0% | T1 | False |
-| 16 | ★ Moto Gloves \| Finish Line (Minimal Wear) | 1702.50 | +72.4% | -4.9% | T1 | False |
-| 17 | Dual Berettas \| Switch Board (Factory New) | 39.00 | +71.3% | -13.0% | T1 | False |
-| 18 | AWP \| Capillary (Factory New) | 77.66 | +68.1% | +45.8% | T0 | False |
-| 19 | ★ Broken Fang Gloves \| Needle Point (Minimal Wear) | 627.88 | +67.6% | +7.7% | T0 | True |
-| 20 | P250 \| Hive (Factory New) | 60.00 | +66.3% | +2.2% | T1 | False |
-| 21 | P250 \| Steel Disruption (Factory New) | 48.00 | +65.9% | +4.1% | T1 | False |
-| 22 | ★ Moto Gloves \| Smoke Out (Minimal Wear) | 1859.50 | +65.7% | +7.0% | T0 | False |
-| 23 | FAMAS \| Decommissioned (Factory New) | 77.80 | +63.3% | +5.6% | T0 | False |
-| 24 | PP-Bizon \| Seabird (Factory New) | 65.70 | +59.7% | -9.1% | T1 | False |
-| 25 | Five-SeveN \| Scumbria (Factory New) | 40.00 | +56.0% | +23.8% | T0 | False |
-| 26 | Galil AR \| Blue Titanium (Factory New) | 77.70 | +55.6% | +28.3% | T0 | False |
-| 27 | Desert Eagle \| The Bronze (Factory New) | 61.88 | +53.9% | -3.9% | T1 | False |
-| 28 | USP-S \| Purple DDPAT (Factory New) | 496.50 | +53.2% | +57.6% | T0 | True |
-| 29 | P250 \| Crimson Kimono (Factory New) | 259.48 | +52.6% | -19.7% | T1 | False |
-| 30 | Tec-9 \| Blue Titanium (Factory New) | 61.80 | +52.2% | +31.0% | T0 | False |
+| 1 | PP-Bizon \| Cobalt Halftone (Factory New) | 58.00 | +120.5% | -8.9% | T1 | True |
+| 2 | MAC-10 \| Strats (Factory New) | 37.50 | +105.8% | -10.7% | T1 | True |
+| 3 | Dual Berettas \| Cobra Strike (Factory New) | 998.00 | +103.5% | -23.5% | T1 | True |
+| 4 | Desert Eagle \| Blue Ply (Factory New) | 30.80 | +100.0% | -24.0% | T1 | False |
+| 5 | FAMAS \| Cyanospatter (Factory New) | 43.80 | +92.6% | +67.5% | T0 | False |
+| 6 | P250 \| Whiteout (Factory New) | 1767.00 | +90.7% | -28.1% | T1 | True |
+| 7 | ★ Broken Fang Gloves \| Yellow-banded (Minimal Wear) | 690.00 | +87.8% | +1.5% | T1 | True |
+| 8 | Desert Eagle \| Midnight Storm (Factory New) | 730.00 | +86.5% | -6.8% | T1 | True |
+| 9 | P250 \| Cyber Shell (Factory New) | 39.34 | +86.2% | -9.9% | T1 | True |
+| 10 | Tec-9 \| Re-Entry (Factory New) | 41.60 | +80.4% | +28.0% | T0 | False |
+| 11 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 778.00 | +80.2% | +28.5% | T0 | False |
+| 12 | Desert Eagle \| Night Heist (Factory New) | 745.00 | +79.1% | -6.5% | T1 | True |
+| 13 | P2000 \| Pulse (Factory New) | 42.90 | +78.6% | +55.2% | T0 | False |
+| 14 | P250 \| Visions (Factory New) | 92.30 | +76.1% | +3.0% | T1 | False |
+| 15 | ★ Moto Gloves \| Finish Line (Minimal Wear) | 1702.50 | +72.4% | -4.9% | T1 | False |
+| 16 | Dual Berettas \| Switch Board (Factory New) | 39.00 | +71.3% | -13.0% | T1 | False |
+| 17 | AWP \| Capillary (Factory New) | 77.66 | +68.1% | +45.8% | T0 | False |
+| 18 | ★ Broken Fang Gloves \| Needle Point (Minimal Wear) | 627.88 | +67.6% | +7.7% | T0 | True |
+| 19 | P250 \| Hive (Factory New) | 60.00 | +66.3% | +2.2% | T1 | False |
+| 20 | P250 \| Steel Disruption (Factory New) | 48.00 | +65.9% | +4.1% | T1 | False |
+| 21 | ★ Moto Gloves \| Smoke Out (Minimal Wear) | 1859.50 | +65.7% | +7.0% | T0 | False |
+| 22 | FAMAS \| Decommissioned (Factory New) | 77.80 | +63.3% | +5.6% | T0 | False |
+| 23 | PP-Bizon \| Seabird (Factory New) | 65.70 | +59.7% | -9.1% | T1 | False |
+| 24 | Five-SeveN \| Scumbria (Factory New) | 40.00 | +56.0% | +23.8% | T0 | False |
+| 25 | Galil AR \| Blue Titanium (Factory New) | 77.70 | +55.6% | +28.3% | T0 | False |
+| 26 | Desert Eagle \| The Bronze (Factory New) | 61.88 | +53.9% | -3.9% | T1 | False |
+| 27 | USP-S \| Purple DDPAT (Factory New) | 496.50 | +53.2% | +57.6% | T0 | True |
+| 28 | P250 \| Crimson Kimono (Factory New) | 259.48 | +52.6% | -19.7% | T1 | False |
+| 29 | Tec-9 \| Blue Titanium (Factory New) | 61.80 | +52.2% | +31.0% | T0 | False |
+| 30 | Five-SeveN \| Case Hardened (Factory New) | 507.00 | +51.2% | -9.8% | T1 | False |
 
 ## 2026-03-07
 
@@ -1232,35 +1232,35 @@
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | AWP \| Capillary (Factory New) | 71.40 | +131.7% | +2.3% | T1 | False |
-| 2 | XM1014 \| Urban Perforated (Factory New) | 608.84 | +128.8% | -60.7% | T1 | True |
-| 3 | USP-S \| Purple DDPAT (Factory New) | 498.00 | +127.8% | +17.5% | T0 | True |
-| 4 | FAMAS \| Decommissioned (Factory New) | 72.80 | +121.5% | -24.6% | T1 | False |
-| 5 | Tec-9 \| Re-Entry (Factory New) | 38.50 | +112.1% | +38.2% | T0 | False |
-| 6 | FAMAS \| Cyanospatter (Factory New) | 39.00 | +108.1% | +23.5% | T0 | False |
-| 7 | Desert Eagle \| The Bronze (Factory New) | 56.00 | +107.5% | -28.2% | T1 | False |
-| 8 | PP-Bizon \| Cobalt Halftone (Factory New) | 57.90 | +107.2% | +0.4% | T1 | True |
-| 9 | Dual Berettas \| Cobra Strike (Factory New) | 1170.00 | +104.6% | -27.5% | T1 | True |
-| 10 | Desert Eagle \| Midnight Storm (Factory New) | 747.49 | +94.7% | -10.1% | T1 | True |
-| 11 | Glock-18 \| Sacrifice (Factory New) | 68.70 | +93.6% | +19.5% | T0 | True |
-| 12 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 756.50 | +91.1% | +10.7% | T0 | False |
-| 13 | FAMAS \| Yeti Camo (Factory New) | 31.75 | +89.9% | -29.0% | T1 | False |
-| 14 | Desert Eagle \| Night Heist (Factory New) | 738.50 | +87.9% | -7.6% | T1 | True |
-| 15 | Dual Berettas \| Flora Carnivora (Factory New) | 40.79 | +79.8% | -16.1% | T1 | False |
-| 16 | Desert Eagle \| Light Rail (Factory New) | 79.70 | +79.0% | -24.8% | T1 | False |
-| 17 | Five-SeveN \| Anodized Gunmetal (Factory New) | 152.98 | +75.7% | -21.9% | T1 | False |
-| 18 | ★ Moto Gloves \| Blood Pressure (Minimal Wear) | 2045.00 | +74.7% | +12.6% | T0 | False |
-| 19 | Five-SeveN \| Scumbria (Factory New) | 39.00 | +73.5% | -3.5% | T1 | False |
-| 20 | USP-S \| Pathfinder (Factory New) | 518.50 | +72.7% | -13.2% | T1 | False |
-| 21 | AWP \| Acheron (Factory New) | 36.25 | +71.7% | -28.6% | T1 | False |
-| 22 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 318.00 | +71.7% | -22.1% | T1 | False |
-| 23 | Rezan The Ready \| Sabre | 86.00 | +70.3% | +3.4% | T1 | False |
-| 24 | Dual Berettas \| Switch Board (Factory New) | 38.00 | +69.9% | -17.9% | T1 | False |
-| 25 | USP-S \| Lead Conduit (Factory New) | 172.80 | +68.2% | -22.3% | T1 | False |
-| 26 | Galil AR \| Blue Titanium (Factory New) | 78.20 | +67.7% | -1.7% | T1 | False |
-| 27 | ★ Moto Gloves \| Finish Line (Minimal Wear) | 1711.00 | +67.2% | -15.5% | T1 | False |
-| 28 | Five-SeveN \| Orange Peel (Factory New) | 31.60 | +66.0% | -10.3% | T1 | True |
-| 29 | Dual Berettas \| Royal Consorts (Factory New) | 92.99 | +64.0% | -25.2% | T1 | False |
-| 30 | ★ Moto Gloves \| Smoke Out (Minimal Wear) | 1880.00 | +63.3% | -3.5% | T1 | False |
+| 2 | USP-S \| Purple DDPAT (Factory New) | 498.00 | +127.8% | +17.5% | T0 | True |
+| 3 | FAMAS \| Decommissioned (Factory New) | 72.80 | +121.5% | -24.6% | T1 | False |
+| 4 | Tec-9 \| Re-Entry (Factory New) | 38.50 | +112.1% | +38.2% | T0 | False |
+| 5 | FAMAS \| Cyanospatter (Factory New) | 39.00 | +108.1% | +23.5% | T0 | False |
+| 6 | Desert Eagle \| The Bronze (Factory New) | 56.00 | +107.5% | -28.2% | T1 | False |
+| 7 | PP-Bizon \| Cobalt Halftone (Factory New) | 57.90 | +107.2% | +0.4% | T1 | True |
+| 8 | Dual Berettas \| Cobra Strike (Factory New) | 1170.00 | +104.6% | -27.5% | T1 | True |
+| 9 | Desert Eagle \| Midnight Storm (Factory New) | 747.49 | +94.7% | -10.1% | T1 | True |
+| 10 | Glock-18 \| Sacrifice (Factory New) | 68.70 | +93.6% | +19.5% | T0 | True |
+| 11 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 756.50 | +91.1% | +10.7% | T0 | False |
+| 12 | FAMAS \| Yeti Camo (Factory New) | 31.75 | +89.9% | -29.0% | T1 | False |
+| 13 | Desert Eagle \| Night Heist (Factory New) | 738.50 | +87.9% | -7.6% | T1 | True |
+| 14 | Dual Berettas \| Flora Carnivora (Factory New) | 40.79 | +79.8% | -16.1% | T1 | False |
+| 15 | Desert Eagle \| Light Rail (Factory New) | 79.70 | +79.0% | -24.8% | T1 | False |
+| 16 | Five-SeveN \| Anodized Gunmetal (Factory New) | 152.98 | +75.7% | -21.9% | T1 | False |
+| 17 | ★ Moto Gloves \| Blood Pressure (Minimal Wear) | 2045.00 | +74.7% | +12.6% | T0 | False |
+| 18 | Five-SeveN \| Scumbria (Factory New) | 39.00 | +73.5% | -3.5% | T1 | False |
+| 19 | USP-S \| Pathfinder (Factory New) | 518.50 | +72.7% | -13.2% | T1 | False |
+| 20 | AWP \| Acheron (Factory New) | 36.25 | +71.7% | -28.6% | T1 | False |
+| 21 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 318.00 | +71.7% | -22.1% | T1 | False |
+| 22 | Rezan The Ready \| Sabre | 86.00 | +70.3% | +3.4% | T1 | False |
+| 23 | Dual Berettas \| Switch Board (Factory New) | 38.00 | +69.9% | -17.9% | T1 | False |
+| 24 | USP-S \| Lead Conduit (Factory New) | 172.80 | +68.2% | -22.3% | T1 | False |
+| 25 | Galil AR \| Blue Titanium (Factory New) | 78.20 | +67.7% | -1.7% | T1 | False |
+| 26 | ★ Moto Gloves \| Finish Line (Minimal Wear) | 1711.00 | +67.2% | -15.5% | T1 | False |
+| 27 | Five-SeveN \| Orange Peel (Factory New) | 31.60 | +66.0% | -10.3% | T1 | True |
+| 28 | Dual Berettas \| Royal Consorts (Factory New) | 92.99 | +64.0% | -25.2% | T1 | False |
+| 29 | ★ Moto Gloves \| Smoke Out (Minimal Wear) | 1880.00 | +63.3% | -3.5% | T1 | False |
+| 30 | P2000 \| Pulse (Factory New) | 37.66 | +62.8% | +52.5% | T0 | False |
 
 ## 2026-03-09
 
@@ -1347,95 +1347,95 @@
 | 9 | FAMAS \| Djinn (Factory New) | 559.00 | +106.9% | +23.2% | T0 | False |
 | 10 | AWP \| Capillary (Factory New) | 86.00 | +106.5% | -16.1% | T1 | False |
 | 11 | Dual Berettas \| Cartel (Factory New) | 35.70 | +105.8% | -2.4% | T1 | False |
-| 12 | MAG-7 \| Heat (Factory New) | 89.90 | +105.3% | +17.5% | T0 | False |
-| 13 | Tec-9 \| Re-Entry (Factory New) | 44.00 | +99.5% | +27.7% | T0 | False |
-| 14 | Galil AR \| Connexion (Factory New) | 30.79 | +98.8% | -11.3% | T1 | False |
-| 15 | Glock-18 \| Sacrifice (Factory New) | 68.50 | +97.0% | +71.4% | T0 | True |
-| 16 | P2000 \| Ivory (Factory New) | 45.50 | +93.6% | +8.3% | T0 | False |
-| 17 | P2000 \| Obsidian (Factory New) | 235.88 | +93.1% | -11.0% | T1 | False |
-| 18 | CZ75-Auto \| Tigris (Factory New) | 68.00 | +91.6% | -11.5% | T1 | False |
-| 19 | CZ75-Auto \| Pole Position (Factory New) | 43.80 | +91.5% | +6.9% | T0 | False |
-| 20 | P250 \| Iron Clad (Factory New) | 39.99 | +88.7% | +18.5% | T0 | True |
-| 21 | ★ Moto Gloves \| Blood Pressure (Minimal Wear) | 1904.99 | +87.4% | -18.1% | T1 | False |
-| 22 | FAMAS \| Hexane (Factory New) | 76.80 | +87.3% | +13.6% | T0 | False |
-| 23 | P2000 \| Pathfinder (Factory New) | 189.50 | +86.7% | -28.2% | T1 | True |
-| 24 | Galil AR \| Tornado (Factory New) | 234.40 | +85.9% | -29.4% | T1 | True |
-| 25 | CZ75-Auto \| Eco (Factory New) | 120.50 | +82.0% | +3.1% | T1 | False |
-| 26 | Galil AR \| Crimson Tsunami (Factory New) | 78.80 | +77.6% | -4.5% | T1 | False |
-| 27 | P2000 \| Acid Etched (Factory New) | 107.50 | +74.7% | +14.9% | T0 | False |
-| 28 | P250 \| Franklin (Factory New) | 36.30 | +74.0% | -6.3% | T1 | False |
-| 29 | ★ Broken Fang Gloves \| Yellow-banded (Minimal Wear) | 679.49 | +71.9% | -16.8% | T1 | True |
-| 30 | ★ Moto Gloves \| Finish Line (Minimal Wear) | 1700.00 | +70.8% | -28.6% | T1 | False |
+| 12 | Tec-9 \| Re-Entry (Factory New) | 44.00 | +99.5% | +27.7% | T0 | False |
+| 13 | Galil AR \| Connexion (Factory New) | 30.79 | +98.8% | -11.3% | T1 | False |
+| 14 | Glock-18 \| Sacrifice (Factory New) | 68.50 | +97.0% | +71.4% | T0 | True |
+| 15 | P2000 \| Ivory (Factory New) | 45.50 | +93.6% | +8.3% | T0 | False |
+| 16 | P2000 \| Obsidian (Factory New) | 235.88 | +93.1% | -11.0% | T1 | False |
+| 17 | CZ75-Auto \| Tigris (Factory New) | 68.00 | +91.6% | -11.5% | T1 | False |
+| 18 | CZ75-Auto \| Pole Position (Factory New) | 43.80 | +91.5% | +6.9% | T0 | False |
+| 19 | P250 \| Iron Clad (Factory New) | 39.99 | +88.7% | +18.5% | T0 | True |
+| 20 | ★ Moto Gloves \| Blood Pressure (Minimal Wear) | 1904.99 | +87.4% | -18.1% | T1 | False |
+| 21 | FAMAS \| Hexane (Factory New) | 76.80 | +87.3% | +13.6% | T0 | False |
+| 22 | P2000 \| Pathfinder (Factory New) | 189.50 | +86.7% | -28.2% | T1 | True |
+| 23 | Galil AR \| Tornado (Factory New) | 234.40 | +85.9% | -29.4% | T1 | True |
+| 24 | CZ75-Auto \| Eco (Factory New) | 120.50 | +82.0% | +3.1% | T1 | False |
+| 25 | Galil AR \| Crimson Tsunami (Factory New) | 78.80 | +77.6% | -4.5% | T1 | False |
+| 26 | P2000 \| Acid Etched (Factory New) | 107.50 | +74.7% | +14.9% | T0 | False |
+| 27 | P250 \| Franklin (Factory New) | 36.30 | +74.0% | -6.3% | T1 | False |
+| 28 | ★ Broken Fang Gloves \| Yellow-banded (Minimal Wear) | 679.49 | +71.9% | -16.8% | T1 | True |
+| 29 | ★ Moto Gloves \| Finish Line (Minimal Wear) | 1700.00 | +70.8% | -28.6% | T1 | False |
+| 30 | FAMAS \| Faulty Wiring (Factory New) | 52.85 | +69.9% | +1.3% | T1 | False |
 
 ## 2026-03-12
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Heat (Factory New) | 88.87 | +152.1% | -5.1% | T1 | False |
-| 2 | AUG \| Plague (Factory New) | 32.80 | +144.0% | -13.9% | T1 | True |
-| 3 | R8 Revolver \| Crimson Web (Factory New) | 73.48 | +127.9% | +43.4% | T0 | False |
-| 4 | CZ75-Auto \| Pole Position (Factory New) | 42.80 | +127.4% | -2.9% | T1 | False |
-| 5 | FAMAS \| Djinn (Factory New) | 606.50 | +116.6% | +15.1% | T0 | False |
-| 6 | USP-S \| Purple DDPAT (Factory New) | 569.00 | +103.7% | -22.0% | T1 | True |
-| 7 | Dual Berettas \| Cartel (Factory New) | 38.00 | +92.6% | -8.0% | T1 | False |
-| 8 | P2000 \| Granite Marbleized (Factory New) | 37.98 | +90.8% | +4.5% | T1 | True |
-| 9 | Tec-9 \| Re-Entry (Factory New) | 45.00 | +90.3% | +37.9% | T0 | False |
-| 10 | P250 \| Franklin (Factory New) | 35.50 | +88.0% | -9.8% | T1 | False |
-| 11 | Glock-18 \| Off World (Factory New) | 93.00 | +86.4% | -37.8% | T1 | False |
-| 12 | AUG \| Spalted Wood (Factory New) | 35.50 | +85.1% | +3.4% | T1 | False |
-| 13 | FAMAS \| Neural Net (Factory New) | 84.50 | +84.7% | +15.2% | T0 | False |
-| 14 | P2000 \| Ivory (Factory New) | 39.88 | +83.0% | -6.7% | T1 | False |
-| 15 | P250 \| Iron Clad (Factory New) | 44.00 | +79.1% | +9.5% | T0 | True |
-| 16 | P2000 \| Pathfinder (Factory New) | 179.88 | +77.9% | -24.4% | T1 | True |
-| 17 | ★ Broken Fang Gloves \| Yellow-banded (Minimal Wear) | 729.00 | +76.8% | -14.9% | T1 | True |
-| 18 | M4A4 \| Magnesium (Factory New) | 36.90 | +76.1% | +0.1% | T1 | False |
-| 19 | Glock-18 \| Sacrifice (Factory New) | 76.70 | +65.1% | +76.9% | T0 | True |
-| 20 | FAMAS \| Hexane (Factory New) | 84.50 | +64.6% | +7.0% | T0 | False |
-| 21 | ★ Moto Gloves \| Blood Pressure (Minimal Wear) | 2039.50 | +64.0% | -19.8% | T1 | False |
-| 22 | AUG \| Navy Murano (Factory New) | 74.90 | +63.4% | -4.2% | T1 | False |
-| 23 | CZ75-Auto \| Tigris (Factory New) | 64.00 | +60.4% | -0.1% | T1 | False |
-| 24 | P250 \| Cyber Shell (Factory New) | 40.30 | +58.6% | +34.3% | T0 | True |
-| 25 | P2000 \| Handgun (Factory New) | 183.88 | +57.4% | +15.9% | T0 | False |
-| 26 | P2000 \| Space Race (Factory New) | 249.00 | +56.0% | +21.6% | T0 | False |
-| 27 | Dual Berettas \| Royal Consorts (Factory New) | 86.00 | +55.4% | +0.6% | T1 | False |
-| 28 | Galil AR \| Crimson Tsunami (Factory New) | 79.90 | +55.2% | +10.4% | T0 | False |
-| 29 | SG 553 \| Fallout Warning (Factory New) | 70.95 | +54.4% | +6.4% | T0 | False |
-| 30 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 839.00 | +54.2% | -25.9% | T1 | False |
+| 1 | AUG \| Plague (Factory New) | 32.80 | +144.0% | -13.9% | T1 | True |
+| 2 | CZ75-Auto \| Pole Position (Factory New) | 42.80 | +127.4% | -2.9% | T1 | False |
+| 3 | FAMAS \| Djinn (Factory New) | 606.50 | +116.6% | +15.1% | T0 | False |
+| 4 | USP-S \| Purple DDPAT (Factory New) | 569.00 | +103.7% | -22.0% | T1 | True |
+| 5 | Dual Berettas \| Cartel (Factory New) | 38.00 | +92.6% | -8.0% | T1 | False |
+| 6 | P2000 \| Granite Marbleized (Factory New) | 37.98 | +90.8% | +4.5% | T1 | True |
+| 7 | Tec-9 \| Re-Entry (Factory New) | 45.00 | +90.3% | +37.9% | T0 | False |
+| 8 | P250 \| Franklin (Factory New) | 35.50 | +88.0% | -9.8% | T1 | False |
+| 9 | Glock-18 \| Off World (Factory New) | 93.00 | +86.4% | -37.8% | T1 | False |
+| 10 | AUG \| Spalted Wood (Factory New) | 35.50 | +85.1% | +3.4% | T1 | False |
+| 11 | FAMAS \| Neural Net (Factory New) | 84.50 | +84.7% | +15.2% | T0 | False |
+| 12 | P2000 \| Ivory (Factory New) | 39.88 | +83.0% | -6.7% | T1 | False |
+| 13 | P250 \| Iron Clad (Factory New) | 44.00 | +79.1% | +9.5% | T0 | True |
+| 14 | P2000 \| Pathfinder (Factory New) | 179.88 | +77.9% | -24.4% | T1 | True |
+| 15 | ★ Broken Fang Gloves \| Yellow-banded (Minimal Wear) | 729.00 | +76.8% | -14.9% | T1 | True |
+| 16 | M4A4 \| Magnesium (Factory New) | 36.90 | +76.1% | +0.1% | T1 | False |
+| 17 | Glock-18 \| Sacrifice (Factory New) | 76.70 | +65.1% | +76.9% | T0 | True |
+| 18 | FAMAS \| Hexane (Factory New) | 84.50 | +64.6% | +7.0% | T0 | False |
+| 19 | ★ Moto Gloves \| Blood Pressure (Minimal Wear) | 2039.50 | +64.0% | -19.8% | T1 | False |
+| 20 | AUG \| Navy Murano (Factory New) | 74.90 | +63.4% | -4.2% | T1 | False |
+| 21 | CZ75-Auto \| Tigris (Factory New) | 64.00 | +60.4% | -0.1% | T1 | False |
+| 22 | P250 \| Cyber Shell (Factory New) | 40.30 | +58.6% | +34.3% | T0 | True |
+| 23 | P2000 \| Handgun (Factory New) | 183.88 | +57.4% | +15.9% | T0 | False |
+| 24 | P2000 \| Space Race (Factory New) | 249.00 | +56.0% | +21.6% | T0 | False |
+| 25 | Dual Berettas \| Royal Consorts (Factory New) | 86.00 | +55.4% | +0.6% | T1 | False |
+| 26 | Galil AR \| Crimson Tsunami (Factory New) | 79.90 | +55.2% | +10.4% | T0 | False |
+| 27 | SG 553 \| Fallout Warning (Factory New) | 70.95 | +54.4% | +6.4% | T0 | False |
+| 28 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 839.00 | +54.2% | -25.9% | T1 | False |
+| 29 | CZ75-Auto \| Eco (Factory New) | 113.50 | +52.5% | +15.3% | T0 | False |
+| 30 | P2000 \| Turf (Factory New) | 61.40 | +49.9% | +18.0% | T0 | False |
 
 ## 2026-03-13
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Heat (Factory New) | 82.90 | +137.8% | -10.0% | T1 | False |
-| 2 | AUG \| Plague (Factory New) | 32.80 | +135.6% | -18.2% | T1 | True |
-| 3 | FAMAS \| Djinn (Factory New) | 624.00 | +130.9% | -10.0% | T1 | False |
-| 4 | CZ75-Auto \| Pole Position (Factory New) | 42.40 | +115.2% | +14.0% | T0 | False |
-| 5 | AUG \| Aristocrat (Factory New) | 63.90 | +109.3% | -6.6% | T1 | True |
-| 6 | AUG \| Spalted Wood (Factory New) | 38.00 | +108.6% | -17.3% | T1 | False |
-| 7 | P2000 \| Granite Marbleized (Factory New) | 43.00 | +95.1% | +11.2% | T0 | True |
-| 8 | FAMAS \| Faulty Wiring (Factory New) | 69.90 | +91.6% | -14.1% | T1 | False |
-| 9 | FAMAS \| Neural Net (Factory New) | 93.30 | +90.1% | -1.4% | T1 | False |
-| 10 | M4A4 \| Magnesium (Factory New) | 39.90 | +86.4% | -18.9% | T1 | False |
-| 11 | P2000 \| Ivory (Factory New) | 48.00 | +83.1% | -24.0% | T1 | False |
-| 12 | AUG \| Amber Fade (Factory New) | 31.49 | +81.1% | -10.1% | T1 | True |
-| 13 | AUG \| Radiation Hazard (Factory New) | 67.00 | +78.6% | -16.0% | T1 | False |
-| 14 | R8 Revolver \| Crimson Web (Factory New) | 75.30 | +77.9% | +43.0% | T0 | False |
-| 15 | Dual Berettas \| Heist (Factory New) | 31.80 | +72.1% | +30.8% | T0 | True |
-| 16 | FAMAS \| Cyanospatter (Factory New) | 76.70 | +67.5% | -5.6% | T1 | False |
-| 17 | P2000 \| Pathfinder (Factory New) | 178.00 | +65.5% | -22.0% | T1 | True |
-| 18 | P2000 \| Handgun (Factory New) | 188.88 | +65.1% | +14.9% | T0 | False |
-| 19 | P2000 \| Space Race (Factory New) | 252.49 | +65.1% | +4.3% | T1 | False |
-| 20 | P250 \| Franklin (Factory New) | 36.36 | +64.8% | -17.6% | T1 | False |
-| 21 | R8 Revolver \| Memento (Factory New) | 43.93 | +64.8% | +7.4% | T0 | False |
-| 22 | Galil AR \| Kami (Factory New) | 95.00 | +64.2% | -6.7% | T1 | False |
-| 23 | FAMAS \| CaliCamo (Factory New) | 75.00 | +62.9% | -15.3% | T1 | False |
-| 24 | FAMAS \| Hexane (Factory New) | 105.00 | +62.9% | -1.3% | T1 | False |
-| 25 | P2000 \| Turf (Factory New) | 61.80 | +61.8% | -11.5% | T1 | False |
-| 26 | Glock-18 \| Clear Polymer (Factory New) | 31.70 | +59.9% | -19.2% | T1 | False |
-| 27 | AUG \| Stymphalian (Factory New) | 98.60 | +59.6% | -11.5% | T1 | False |
-| 28 | Blackwolf \| Sabre | 88.00 | +58.8% | -23.7% | T1 | False |
-| 29 | Galil AR \| Black Sand (Factory New) | 100.00 | +58.7% | -12.4% | T1 | False |
-| 30 | USP-S \| Purple DDPAT (Factory New) | 615.00 | +57.6% | -40.1% | T1 | True |
+| 1 | AUG \| Plague (Factory New) | 32.80 | +135.6% | -18.2% | T1 | True |
+| 2 | FAMAS \| Djinn (Factory New) | 624.00 | +130.9% | -10.0% | T1 | False |
+| 3 | CZ75-Auto \| Pole Position (Factory New) | 42.40 | +115.2% | +14.0% | T0 | False |
+| 4 | AUG \| Aristocrat (Factory New) | 63.90 | +109.3% | -6.6% | T1 | True |
+| 5 | AUG \| Spalted Wood (Factory New) | 38.00 | +108.6% | -17.3% | T1 | False |
+| 6 | P2000 \| Granite Marbleized (Factory New) | 43.00 | +95.1% | +11.2% | T0 | True |
+| 7 | FAMAS \| Faulty Wiring (Factory New) | 69.90 | +91.6% | -14.1% | T1 | False |
+| 8 | FAMAS \| Neural Net (Factory New) | 93.30 | +90.1% | -1.4% | T1 | False |
+| 9 | M4A4 \| Magnesium (Factory New) | 39.90 | +86.4% | -18.9% | T1 | False |
+| 10 | P2000 \| Ivory (Factory New) | 48.00 | +83.1% | -24.0% | T1 | False |
+| 11 | AUG \| Amber Fade (Factory New) | 31.49 | +81.1% | -10.1% | T1 | True |
+| 12 | AUG \| Radiation Hazard (Factory New) | 67.00 | +78.6% | -16.0% | T1 | False |
+| 13 | Dual Berettas \| Heist (Factory New) | 31.80 | +72.1% | +30.8% | T0 | True |
+| 14 | FAMAS \| Cyanospatter (Factory New) | 76.70 | +67.5% | -5.6% | T1 | False |
+| 15 | P2000 \| Pathfinder (Factory New) | 178.00 | +65.5% | -22.0% | T1 | True |
+| 16 | P2000 \| Handgun (Factory New) | 188.88 | +65.1% | +14.9% | T0 | False |
+| 17 | P2000 \| Space Race (Factory New) | 252.49 | +65.1% | +4.3% | T1 | False |
+| 18 | P250 \| Franklin (Factory New) | 36.36 | +64.8% | -17.6% | T1 | False |
+| 19 | Galil AR \| Kami (Factory New) | 95.00 | +64.2% | -6.7% | T1 | False |
+| 20 | FAMAS \| CaliCamo (Factory New) | 75.00 | +62.9% | -15.3% | T1 | False |
+| 21 | FAMAS \| Hexane (Factory New) | 105.00 | +62.9% | -1.3% | T1 | False |
+| 22 | P2000 \| Turf (Factory New) | 61.80 | +61.8% | -11.5% | T1 | False |
+| 23 | Glock-18 \| Clear Polymer (Factory New) | 31.70 | +59.9% | -19.2% | T1 | False |
+| 24 | AUG \| Stymphalian (Factory New) | 98.60 | +59.6% | -11.5% | T1 | False |
+| 25 | Blackwolf \| Sabre | 88.00 | +58.8% | -23.7% | T1 | False |
+| 26 | Galil AR \| Black Sand (Factory New) | 100.00 | +58.7% | -12.4% | T1 | False |
+| 27 | USP-S \| Purple DDPAT (Factory New) | 615.00 | +57.6% | -40.1% | T1 | True |
+| 28 | SG 553 \| Triarch (Factory New) | 59.35 | +56.0% | +12.8% | T0 | False |
+| 29 | CZ75-Auto \| Red Astor (Factory New) | 55.54 | +55.3% | +17.8% | T0 | False |
+| 30 | P2000 \| Pulse (Factory New) | 71.00 | +55.2% | +11.9% | T0 | False |
 
 ## 2026-03-14
 
@@ -1443,34 +1443,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | SG 553 \| Triarch (Factory New) | 58.79 | +135.1% | -35.8% | T1 | False |
 | 2 | AUG \| Plague (Factory New) | 33.60 | +93.8% | -17.1% | T1 | True |
-| 3 | R8 Revolver \| Crimson Web (Factory New) | 89.00 | +84.7% | +25.6% | T0 | False |
-| 4 | FAMAS \| Djinn (Factory New) | 650.00 | +82.6% | -13.4% | T1 | False |
-| 5 | MAG-7 \| Heat (Factory New) | 89.90 | +78.0% | -8.4% | T1 | False |
-| 6 | FAMAS \| Faulty Wiring (Factory New) | 63.99 | +76.5% | -21.6% | T1 | False |
-| 7 | PP-Bizon \| Brass (Factory New) | 33.70 | +75.7% | -17.2% | T1 | False |
-| 8 | AUG \| Spalted Wood (Factory New) | 37.80 | +71.1% | -17.4% | T1 | False |
-| 9 | P2000 \| Handgun (Factory New) | 180.00 | +70.5% | -5.4% | T1 | False |
-| 10 | FAMAS \| Neural Net (Factory New) | 97.88 | +61.9% | -3.5% | T1 | False |
-| 11 | CZ75-Auto \| Red Astor (Factory New) | 57.80 | +61.8% | -0.8% | T1 | False |
-| 12 | AUG \| Aristocrat (Factory New) | 61.99 | +60.4% | -2.7% | T1 | True |
-| 13 | M4A4 \| Magnesium (Factory New) | 41.89 | +60.1% | -16.9% | T1 | False |
-| 14 | Galil AR \| Signal (Factory New) | 32.88 | +59.3% | -27.0% | T1 | False |
-| 15 | CZ75-Auto \| Tacticat (Factory New) | 31.30 | +56.0% | +34.0% | T0 | False |
-| 16 | CZ75-Auto \| Pole Position (Factory New) | 44.80 | +55.9% | +17.9% | T0 | False |
-| 17 | R8 Revolver \| Memento (Factory New) | 41.00 | +54.9% | +2.8% | T1 | False |
-| 18 | P2000 \| Pulse (Factory New) | 74.00 | +53.8% | +3.0% | T1 | False |
-| 19 | UMP-45 \| Full Stop (Factory New) | 32.99 | +53.6% | -1.9% | T1 | False |
-| 20 | CZ75-Auto \| Eco (Factory New) | 128.00 | +53.2% | +37.1% | T0 | False |
-| 21 | CZ75-Auto \| Hexane (Factory New) | 51.99 | +52.9% | -8.5% | T1 | False |
-| 22 | P2000 \| Space Race (Factory New) | 276.00 | +51.9% | +7.0% | T0 | False |
-| 23 | FAMAS \| Hexane (Factory New) | 104.00 | +48.8% | +2.7% | T1 | False |
-| 24 | SG 553 \| Fallout Warning (Factory New) | 83.89 | +46.2% | -16.3% | T1 | False |
-| 25 | SG 553 \| Candy Apple (Factory New) | 111.00 | +45.6% | -22.9% | T1 | False |
-| 26 | P2000 \| Turf (Factory New) | 71.60 | +45.6% | -15.5% | T1 | False |
-| 27 | FAMAS \| Macabre (Factory New) | 134.00 | +43.8% | -20.4% | T1 | False |
-| 28 | P2000 \| Ivory (Factory New) | 58.00 | +43.4% | -23.5% | T1 | False |
-| 29 | AUG \| Amber Fade (Factory New) | 38.90 | +40.3% | -9.8% | T1 | True |
-| 30 | SG 553 \| Tiger Moth (Factory New) | 80.90 | +40.1% | -21.8% | T1 | False |
+| 3 | FAMAS \| Djinn (Factory New) | 650.00 | +82.6% | -13.4% | T1 | False |
+| 4 | FAMAS \| Faulty Wiring (Factory New) | 63.99 | +76.5% | -21.6% | T1 | False |
+| 5 | PP-Bizon \| Brass (Factory New) | 33.70 | +75.7% | -17.2% | T1 | False |
+| 6 | AUG \| Spalted Wood (Factory New) | 37.80 | +71.1% | -17.4% | T1 | False |
+| 7 | P2000 \| Handgun (Factory New) | 180.00 | +70.5% | -5.4% | T1 | False |
+| 8 | FAMAS \| Neural Net (Factory New) | 97.88 | +61.9% | -3.5% | T1 | False |
+| 9 | CZ75-Auto \| Red Astor (Factory New) | 57.80 | +61.8% | -0.8% | T1 | False |
+| 10 | AUG \| Aristocrat (Factory New) | 61.99 | +60.4% | -2.7% | T1 | True |
+| 11 | M4A4 \| Magnesium (Factory New) | 41.89 | +60.1% | -16.9% | T1 | False |
+| 12 | Galil AR \| Signal (Factory New) | 32.88 | +59.3% | -27.0% | T1 | False |
+| 13 | CZ75-Auto \| Tacticat (Factory New) | 31.30 | +56.0% | +34.0% | T0 | False |
+| 14 | CZ75-Auto \| Pole Position (Factory New) | 44.80 | +55.9% | +17.9% | T0 | False |
+| 15 | P2000 \| Pulse (Factory New) | 74.00 | +53.8% | +3.0% | T1 | False |
+| 16 | UMP-45 \| Full Stop (Factory New) | 32.99 | +53.6% | -1.9% | T1 | False |
+| 17 | CZ75-Auto \| Eco (Factory New) | 128.00 | +53.2% | +37.1% | T0 | False |
+| 18 | CZ75-Auto \| Hexane (Factory New) | 51.99 | +52.9% | -8.5% | T1 | False |
+| 19 | P2000 \| Space Race (Factory New) | 276.00 | +51.9% | +7.0% | T0 | False |
+| 20 | FAMAS \| Hexane (Factory New) | 104.00 | +48.8% | +2.7% | T1 | False |
+| 21 | SG 553 \| Fallout Warning (Factory New) | 83.89 | +46.2% | -16.3% | T1 | False |
+| 22 | SG 553 \| Candy Apple (Factory New) | 111.00 | +45.6% | -22.9% | T1 | False |
+| 23 | P2000 \| Turf (Factory New) | 71.60 | +45.6% | -15.5% | T1 | False |
+| 24 | FAMAS \| Macabre (Factory New) | 134.00 | +43.8% | -20.4% | T1 | False |
+| 25 | P2000 \| Ivory (Factory New) | 58.00 | +43.4% | -23.5% | T1 | False |
+| 26 | AUG \| Amber Fade (Factory New) | 38.90 | +40.3% | -9.8% | T1 | True |
+| 27 | SG 553 \| Tiger Moth (Factory New) | 80.90 | +40.1% | -21.8% | T1 | False |
+| 28 | P2000 \| Granite Marbleized (Factory New) | 42.00 | +39.6% | -2.4% | T1 | True |
+| 29 | ★ Broken Fang Gloves \| Jade (Minimal Wear) | 1599.50 | +39.3% | -19.2% | T1 | False |
+| 30 | SG 553 \| Darkwing (Factory New) | 57.00 | +39.2% | -18.7% | T1 | False |
 
 ## 2026-03-15
 
@@ -1478,139 +1478,139 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | FAMAS \| Djinn (Factory New) | 733.00 | +93.1% | -9.0% | T1 | False |
 | 2 | P2000 \| Handgun (Factory New) | 186.00 | +71.3% | -1.9% | T1 | False |
-| 3 | MAG-7 \| Heat (Factory New) | 110.90 | +69.4% | -4.3% | T1 | False |
-| 4 | SG 553 \| Triarch (Factory New) | 57.90 | +64.8% | -36.5% | T1 | False |
-| 5 | PP-Bizon \| Brass (Factory New) | 39.00 | +63.9% | -9.8% | T1 | False |
-| 6 | Galil AR \| Sage Spray (Factory New) | 33.90 | +58.2% | -35.4% | T1 | False |
-| 7 | AUG \| Plague (Factory New) | 39.80 | +57.3% | -14.4% | T1 | True |
-| 8 | R8 Revolver \| Memento (Factory New) | 43.00 | +54.9% | -0.8% | T1 | False |
-| 9 | P2000 \| Pulse (Factory New) | 71.75 | +52.5% | +1.2% | T1 | False |
-| 10 | AUG \| Spalted Wood (Factory New) | 44.00 | +48.4% | -13.6% | T1 | False |
-| 11 | CZ75-Auto \| Hexane (Factory New) | 49.88 | +48.2% | -3.5% | T1 | False |
-| 12 | Galil AR \| Signal (Factory New) | 40.00 | +48.1% | -19.3% | T1 | False |
-| 13 | FAMAS \| Neural Net (Factory New) | 111.50 | +47.6% | -6.9% | T1 | False |
-| 14 | SG 553 \| Candy Apple (Factory New) | 122.00 | +45.7% | -24.2% | T1 | False |
-| 15 | FAMAS \| Faulty Wiring (Factory New) | 69.99 | +44.5% | -14.2% | T1 | False |
-| 16 | P2000 \| Granite Marbleized (Factory New) | 65.00 | +43.1% | +9.3% | T0 | True |
-| 17 | R8 Revolver \| Crimson Web (Factory New) | 88.80 | +43.0% | +22.4% | T0 | False |
-| 18 | P2000 \| Ivory (Factory New) | 68.00 | +41.5% | -12.6% | T1 | False |
-| 19 | MP9 \| Orange Peel (Factory New) | 40.90 | +40.7% | -9.1% | T1 | False |
-| 20 | P2000 \| Space Race (Factory New) | 286.00 | +40.1% | +14.4% | T0 | False |
-| 21 | Tec-9 \| Re-Entry (Factory New) | 80.50 | +38.2% | -23.4% | T1 | False |
-| 22 | Tec-9 \| Ossified (Factory New) | 287.50 | +37.4% | +10.0% | T0 | False |
-| 23 | Blackwolf \| Sabre | 98.00 | +35.8% | -22.5% | T1 | False |
-| 24 | XM1014 \| Black Tie (Factory New) | 42.00 | +34.4% | +1.9% | T1 | False |
-| 25 | P2000 \| Panther Camo (Factory New) | 101.90 | +31.2% | +1.9% | T1 | False |
-| 26 | XM1014 \| Ziggy (Factory New) | 34.80 | +31.2% | +19.4% | T0 | False |
-| 27 | CZ75-Auto \| Tacticat (Factory New) | 36.50 | +30.2% | +44.3% | T0 | False |
-| 28 | ★ Broken Fang Gloves \| Jade (Minimal Wear) | 1389.50 | +29.8% | -23.3% | T1 | False |
-| 29 | Galil AR \| Akoben (Factory New) | 38.00 | +29.4% | -11.3% | T1 | True |
-| 30 | SG 553 \| Darkwing (Factory New) | 54.80 | +29.3% | -20.7% | T1 | False |
+| 3 | SG 553 \| Triarch (Factory New) | 57.90 | +64.8% | -36.5% | T1 | False |
+| 4 | PP-Bizon \| Brass (Factory New) | 39.00 | +63.9% | -9.8% | T1 | False |
+| 5 | Galil AR \| Sage Spray (Factory New) | 33.90 | +58.2% | -35.4% | T1 | False |
+| 6 | AUG \| Plague (Factory New) | 39.80 | +57.3% | -14.4% | T1 | True |
+| 7 | P2000 \| Pulse (Factory New) | 71.75 | +52.5% | +1.2% | T1 | False |
+| 8 | AUG \| Spalted Wood (Factory New) | 44.00 | +48.4% | -13.6% | T1 | False |
+| 9 | CZ75-Auto \| Hexane (Factory New) | 49.88 | +48.2% | -3.5% | T1 | False |
+| 10 | Galil AR \| Signal (Factory New) | 40.00 | +48.1% | -19.3% | T1 | False |
+| 11 | FAMAS \| Neural Net (Factory New) | 111.50 | +47.6% | -6.9% | T1 | False |
+| 12 | SG 553 \| Candy Apple (Factory New) | 122.00 | +45.7% | -24.2% | T1 | False |
+| 13 | FAMAS \| Faulty Wiring (Factory New) | 69.99 | +44.5% | -14.2% | T1 | False |
+| 14 | P2000 \| Granite Marbleized (Factory New) | 65.00 | +43.1% | +9.3% | T0 | True |
+| 15 | P2000 \| Ivory (Factory New) | 68.00 | +41.5% | -12.6% | T1 | False |
+| 16 | MP9 \| Orange Peel (Factory New) | 40.90 | +40.7% | -9.1% | T1 | False |
+| 17 | P2000 \| Space Race (Factory New) | 286.00 | +40.1% | +14.4% | T0 | False |
+| 18 | Tec-9 \| Re-Entry (Factory New) | 80.50 | +38.2% | -23.4% | T1 | False |
+| 19 | Tec-9 \| Ossified (Factory New) | 287.50 | +37.4% | +10.0% | T0 | False |
+| 20 | Blackwolf \| Sabre | 98.00 | +35.8% | -22.5% | T1 | False |
+| 21 | P2000 \| Panther Camo (Factory New) | 101.90 | +31.2% | +1.9% | T1 | False |
+| 22 | CZ75-Auto \| Tacticat (Factory New) | 36.50 | +30.2% | +44.3% | T0 | False |
+| 23 | ★ Broken Fang Gloves \| Jade (Minimal Wear) | 1389.50 | +29.8% | -23.3% | T1 | False |
+| 24 | Galil AR \| Akoben (Factory New) | 38.00 | +29.4% | -11.3% | T1 | True |
+| 25 | SG 553 \| Darkwing (Factory New) | 54.80 | +29.3% | -20.7% | T1 | False |
+| 26 | CZ75-Auto \| Red Astor (Factory New) | 58.89 | +29.2% | +13.8% | T0 | False |
+| 27 | M4A4 \| Urban DDPAT (Factory New) | 301.50 | +29.0% | -5.9% | T1 | False |
+| 28 | CZ75-Auto \| Pole Position (Factory New) | 55.00 | +28.3% | +16.3% | T0 | False |
+| 29 | SG 553 \| Tiger Moth (Factory New) | 80.60 | +26.9% | -19.2% | T1 | False |
+| 30 | MAC-10 \| Whitefish (Factory New) | 34.00 | +26.5% | -10.7% | T1 | False |
 
 ## 2026-03-16
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | FAMAS \| Djinn (Factory New) | 700.00 | +121.2% | -26.3% | T1 | False |
-| 2 | MAG-7 \| Heat (Factory New) | 107.50 | +120.4% | -29.6% | T1 | False |
-| 3 | R8 Revolver \| Crimson Web (Factory New) | 106.00 | +91.7% | +24.9% | T0 | False |
-| 4 | Tec-9 \| Ossified (Factory New) | 291.50 | +74.4% | -0.1% | T1 | False |
-| 5 | Tec-9 \| Re-Entry (Factory New) | 79.60 | +71.2% | -35.3% | T1 | False |
-| 6 | Dual Berettas \| Heist (Factory New) | 41.90 | +68.7% | -13.5% | T1 | False |
-| 7 | M4A4 \| Magnesium (Factory New) | 55.00 | +65.7% | -23.1% | T1 | False |
-| 8 | R8 Revolver \| Phoenix Marker (Factory New) | 119.50 | +65.4% | +7.3% | T0 | False |
-| 9 | P2000 \| Granite Marbleized (Factory New) | 56.00 | +64.5% | -4.0% | T1 | True |
-| 10 | MAC-10 \| Classic Crate (Factory New) | 38.80 | +63.4% | -19.8% | T1 | False |
-| 11 | P2000 \| Handgun (Factory New) | 186.00 | +61.6% | -16.0% | T1 | False |
-| 12 | AUG \| Plague (Factory New) | 46.00 | +60.5% | -16.4% | T1 | True |
-| 13 | MP9 \| Orange Peel (Factory New) | 36.36 | +60.4% | -8.2% | T1 | False |
-| 14 | P2000 \| Pulse (Factory New) | 69.00 | +60.0% | +1.0% | T1 | False |
-| 15 | MAC-10 \| Whitefish (Factory New) | 32.80 | +57.6% | -21.7% | T1 | False |
-| 16 | AUG \| Spalted Wood (Factory New) | 46.19 | +57.4% | -6.2% | T1 | False |
-| 17 | AUG \| Radiation Hazard (Factory New) | 89.89 | +55.9% | -27.8% | T1 | False |
-| 18 | SG 553 \| Triarch (Factory New) | 65.00 | +55.0% | -23.3% | T1 | False |
-| 19 | Glock-18 \| Warhawk (Factory New) | 92.00 | +54.3% | -15.8% | T1 | False |
-| 20 | R8 Revolver \| Memento (Factory New) | 43.00 | +54.3% | -4.8% | T1 | False |
-| 21 | CZ75-Auto \| Tacticat (Factory New) | 37.00 | +52.2% | +40.0% | T0 | False |
-| 22 | P2000 \| Panther Camo (Factory New) | 101.50 | +51.8% | -5.5% | T1 | False |
-| 23 | Galil AR \| Signal (Factory New) | 36.70 | +50.1% | -24.5% | T1 | False |
-| 24 | AUG \| Aristocrat (Factory New) | 80.00 | +49.7% | -8.3% | T1 | True |
-| 25 | PP-Bizon \| Harvester (Factory New) | 37.66 | +49.0% | -15.0% | T1 | False |
-| 26 | P2000 \| Space Race (Factory New) | 288.00 | +48.7% | +11.6% | T0 | False |
-| 27 | Galil AR \| Sage Spray (Factory New) | 31.00 | +47.2% | -21.1% | T1 | False |
-| 28 | M4A4 \| Urban DDPAT (Factory New) | 303.00 | +46.2% | -12.9% | T1 | False |
-| 29 | P2000 \| Turf (Factory New) | 87.00 | +44.5% | -15.8% | T1 | False |
-| 30 | Glock-18 \| Sacrifice (Factory New) | 143.00 | +44.3% | -11.3% | T1 | False |
+| 2 | Tec-9 \| Ossified (Factory New) | 291.50 | +74.4% | -0.1% | T1 | False |
+| 3 | Tec-9 \| Re-Entry (Factory New) | 79.60 | +71.2% | -35.3% | T1 | False |
+| 4 | Dual Berettas \| Heist (Factory New) | 41.90 | +68.7% | -13.5% | T1 | False |
+| 5 | M4A4 \| Magnesium (Factory New) | 55.00 | +65.7% | -23.1% | T1 | False |
+| 6 | P2000 \| Granite Marbleized (Factory New) | 56.00 | +64.5% | -4.0% | T1 | True |
+| 7 | MAC-10 \| Classic Crate (Factory New) | 38.80 | +63.4% | -19.8% | T1 | False |
+| 8 | P2000 \| Handgun (Factory New) | 186.00 | +61.6% | -16.0% | T1 | False |
+| 9 | AUG \| Plague (Factory New) | 46.00 | +60.5% | -16.4% | T1 | True |
+| 10 | MP9 \| Orange Peel (Factory New) | 36.36 | +60.4% | -8.2% | T1 | False |
+| 11 | P2000 \| Pulse (Factory New) | 69.00 | +60.0% | +1.0% | T1 | False |
+| 12 | MAC-10 \| Whitefish (Factory New) | 32.80 | +57.6% | -21.7% | T1 | False |
+| 13 | AUG \| Spalted Wood (Factory New) | 46.19 | +57.4% | -6.2% | T1 | False |
+| 14 | AUG \| Radiation Hazard (Factory New) | 89.89 | +55.9% | -27.8% | T1 | False |
+| 15 | SG 553 \| Triarch (Factory New) | 65.00 | +55.0% | -23.3% | T1 | False |
+| 16 | Glock-18 \| Warhawk (Factory New) | 92.00 | +54.3% | -15.8% | T1 | False |
+| 17 | CZ75-Auto \| Tacticat (Factory New) | 37.00 | +52.2% | +40.0% | T0 | False |
+| 18 | P2000 \| Panther Camo (Factory New) | 101.50 | +51.8% | -5.5% | T1 | False |
+| 19 | Galil AR \| Signal (Factory New) | 36.70 | +50.1% | -24.5% | T1 | False |
+| 20 | AUG \| Aristocrat (Factory New) | 80.00 | +49.7% | -8.3% | T1 | True |
+| 21 | PP-Bizon \| Harvester (Factory New) | 37.66 | +49.0% | -15.0% | T1 | False |
+| 22 | P2000 \| Space Race (Factory New) | 288.00 | +48.7% | +11.6% | T0 | False |
+| 23 | Galil AR \| Sage Spray (Factory New) | 31.00 | +47.2% | -21.1% | T1 | False |
+| 24 | M4A4 \| Urban DDPAT (Factory New) | 303.00 | +46.2% | -12.9% | T1 | False |
+| 25 | P2000 \| Turf (Factory New) | 87.00 | +44.5% | -15.8% | T1 | False |
+| 26 | Glock-18 \| Sacrifice (Factory New) | 143.00 | +44.3% | -11.3% | T1 | False |
+| 27 | P250 \| Mint Kimono (Factory New) | 131.49 | +44.2% | -2.5% | T1 | False |
+| 28 | FAMAS \| CaliCamo (Factory New) | 91.90 | +43.8% | -14.5% | T1 | False |
+| 29 | P2000 \| Ivory (Factory New) | 58.00 | +43.2% | -18.4% | T1 | False |
+| 30 | Tec-9 \| Orange Murano (Factory New) | 150.00 | +41.5% | -22.1% | T1 | False |
 
 ## 2026-03-17
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Crimson Web (Factory New) | 108.00 | +182.0% | -16.3% | T1 | False |
-| 2 | R8 Revolver \| Memento (Factory New) | 43.00 | +120.8% | -23.7% | T1 | False |
-| 3 | Five-SeveN \| Forest Night (Factory New) | 32.18 | +115.5% | -19.6% | T1 | True |
-| 4 | Galil AR \| Akoben (Factory New) | 43.00 | +111.0% | -23.6% | T1 | True |
-| 5 | P2000 \| Granite Marbleized (Factory New) | 57.50 | +106.5% | -6.5% | T1 | True |
-| 6 | CZ75-Auto \| Tacticat (Factory New) | 37.60 | +105.1% | -5.2% | T1 | False |
-| 7 | R8 Revolver \| Phoenix Marker (Factory New) | 115.00 | +87.3% | -8.7% | T1 | False |
-| 8 | Tec-9 \| Urban DDPAT (Factory New) | 31.90 | +85.4% | -21.7% | T1 | True |
-| 9 | Dual Berettas \| Dualing Dragons (Factory New) | 41.50 | +84.8% | -15.5% | T1 | False |
-| 10 | AUG \| Spalted Wood (Factory New) | 45.99 | +82.7% | -22.9% | T1 | False |
-| 11 | CZ75-Auto \| Hexane (Factory New) | 53.88 | +82.1% | -27.8% | T1 | False |
-| 12 | P2000 \| Ivory (Factory New) | 63.00 | +77.9% | -12.7% | T1 | False |
-| 13 | AUG \| Aristocrat (Factory New) | 77.70 | +75.4% | -10.6% | T1 | True |
-| 14 | FAMAS \| Djinn (Factory New) | 780.00 | +73.4% | -26.5% | T1 | False |
-| 15 | XM1014 \| Ziggy (Factory New) | 33.69 | +73.1% | -3.0% | T1 | False |
-| 16 | MAC-10 \| Echoing Sands (Factory New) | 33.90 | +71.8% | +10.6% | T0 | False |
-| 17 | MP9 \| Orange Peel (Factory New) | 37.20 | +69.8% | -9.5% | T1 | False |
-| 18 | FAMAS \| Hexane (Factory New) | 143.00 | +69.3% | -20.6% | T1 | False |
-| 19 | P2000 \| Pulse (Factory New) | 71.80 | +69.0% | -6.6% | T1 | False |
-| 20 | AUG \| Amber Fade (Factory New) | 46.20 | +68.9% | -15.4% | T1 | True |
-| 21 | P2000 \| Handgun (Factory New) | 227.00 | +68.9% | -5.9% | T1 | False |
-| 22 | M4A4 \| Magnesium (Factory New) | 48.83 | +68.1% | -25.0% | T1 | False |
-| 23 | MAC-10 \| Whitefish (Factory New) | 32.46 | +67.1% | -18.5% | T1 | False |
-| 24 | CZ75-Auto \| Silver (Factory New) | 81.20 | +66.9% | +17.2% | T0 | False |
-| 25 | P2000 \| Panther Camo (Factory New) | 104.00 | +66.6% | -1.1% | T1 | False |
-| 26 | MAC-10 \| Classic Crate (Factory New) | 38.39 | +66.1% | -23.4% | T1 | False |
-| 27 | Dual Berettas \| Balance (Factory New) | 85.00 | +64.5% | -30.1% | T1 | True |
-| 28 | Tec-9 \| Ossified (Factory New) | 280.00 | +63.5% | -4.4% | T1 | False |
-| 29 | AUG \| Radiation Hazard (Factory New) | 91.00 | +62.7% | -20.6% | T1 | False |
-| 30 | SG 553 \| Triarch (Factory New) | 67.89 | +62.7% | -23.2% | T1 | False |
+| 1 | Five-SeveN \| Forest Night (Factory New) | 32.18 | +115.5% | -19.6% | T1 | True |
+| 2 | Galil AR \| Akoben (Factory New) | 43.00 | +111.0% | -23.6% | T1 | True |
+| 3 | P2000 \| Granite Marbleized (Factory New) | 57.50 | +106.5% | -6.5% | T1 | True |
+| 4 | CZ75-Auto \| Tacticat (Factory New) | 37.60 | +105.1% | -5.2% | T1 | False |
+| 5 | Tec-9 \| Urban DDPAT (Factory New) | 31.90 | +85.4% | -21.7% | T1 | True |
+| 6 | Dual Berettas \| Dualing Dragons (Factory New) | 41.50 | +84.8% | -15.5% | T1 | False |
+| 7 | AUG \| Spalted Wood (Factory New) | 45.99 | +82.7% | -22.9% | T1 | False |
+| 8 | CZ75-Auto \| Hexane (Factory New) | 53.88 | +82.1% | -27.8% | T1 | False |
+| 9 | P2000 \| Ivory (Factory New) | 63.00 | +77.9% | -12.7% | T1 | False |
+| 10 | AUG \| Aristocrat (Factory New) | 77.70 | +75.4% | -10.6% | T1 | True |
+| 11 | FAMAS \| Djinn (Factory New) | 780.00 | +73.4% | -26.5% | T1 | False |
+| 12 | MAC-10 \| Echoing Sands (Factory New) | 33.90 | +71.8% | +10.6% | T0 | False |
+| 13 | MP9 \| Orange Peel (Factory New) | 37.20 | +69.8% | -9.5% | T1 | False |
+| 14 | FAMAS \| Hexane (Factory New) | 143.00 | +69.3% | -20.6% | T1 | False |
+| 15 | P2000 \| Pulse (Factory New) | 71.80 | +69.0% | -6.6% | T1 | False |
+| 16 | AUG \| Amber Fade (Factory New) | 46.20 | +68.9% | -15.4% | T1 | True |
+| 17 | P2000 \| Handgun (Factory New) | 227.00 | +68.9% | -5.9% | T1 | False |
+| 18 | M4A4 \| Magnesium (Factory New) | 48.83 | +68.1% | -25.0% | T1 | False |
+| 19 | MAC-10 \| Whitefish (Factory New) | 32.46 | +67.1% | -18.5% | T1 | False |
+| 20 | CZ75-Auto \| Silver (Factory New) | 81.20 | +66.9% | +17.2% | T0 | False |
+| 21 | P2000 \| Panther Camo (Factory New) | 104.00 | +66.6% | -1.1% | T1 | False |
+| 22 | MAC-10 \| Classic Crate (Factory New) | 38.39 | +66.1% | -23.4% | T1 | False |
+| 23 | Dual Berettas \| Balance (Factory New) | 85.00 | +64.5% | -30.1% | T1 | True |
+| 24 | Tec-9 \| Ossified (Factory New) | 280.00 | +63.5% | -4.4% | T1 | False |
+| 25 | AUG \| Radiation Hazard (Factory New) | 91.00 | +62.7% | -20.6% | T1 | False |
+| 26 | SG 553 \| Triarch (Factory New) | 67.89 | +62.7% | -23.2% | T1 | False |
+| 27 | Five-SeveN \| Scumbria (Factory New) | 73.00 | +62.5% | -23.7% | T1 | False |
+| 28 | P250 \| Steel Disruption (Factory New) | 80.50 | +61.3% | -18.8% | T1 | False |
+| 29 | Dual Berettas \| Heist (Factory New) | 38.90 | +59.9% | -21.0% | T1 | False |
+| 30 | PP-Bizon \| Water Sigil (Factory New) | 46.99 | +59.1% | -24.3% | T1 | False |
 
 ## 2026-03-18
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Crimson Web (Factory New) | 102.00 | +142.5% | -17.5% | T1 | False |
-| 2 | R8 Revolver \| Phoenix Marker (Factory New) | 118.00 | +78.3% | -10.0% | T1 | False |
-| 3 | Glock-18 \| Sacrifice (Factory New) | 148.88 | +71.4% | -22.5% | T1 | False |
-| 4 | XM1014 \| Ziggy (Factory New) | 33.30 | +70.1% | -25.9% | T1 | False |
-| 5 | MAC-10 \| Echoing Sands (Factory New) | 32.30 | +69.9% | +15.3% | T0 | False |
-| 6 | PP-Bizon \| Photic Zone (Factory New) | 45.00 | +68.9% | -23.1% | T1 | False |
-| 7 | Tec-9 \| Ossified (Factory New) | 289.00 | +68.6% | -3.6% | T1 | False |
-| 8 | Tec-9 \| Cracked Opal (Factory New) | 43.95 | +66.0% | +5.9% | T0 | False |
-| 9 | Glock-18 \| Warhawk (Factory New) | 91.40 | +65.6% | -15.0% | T1 | False |
-| 10 | Five-SeveN \| Scumbria (Factory New) | 71.30 | +62.0% | -14.8% | T1 | False |
-| 11 | UMP-45 \| Full Stop (Factory New) | 45.40 | +61.0% | -16.1% | T1 | False |
-| 12 | AUG \| Amber Fade (Factory New) | 44.00 | +60.1% | -2.1% | T1 | True |
-| 13 | Dual Berettas \| Heist (Factory New) | 45.00 | +56.6% | -10.4% | T1 | False |
-| 14 | Five-SeveN \| Orange Peel (Factory New) | 49.99 | +56.3% | +78.8% | T0 | False |
-| 15 | AUG \| Aristocrat (Factory New) | 71.00 | +55.9% | +3.4% | T1 | True |
-| 16 | R8 Revolver \| Memento (Factory New) | 43.72 | +54.4% | -3.6% | T1 | False |
-| 17 | P90 \| Elite Build (Factory New) | 37.97 | +54.3% | -12.9% | T1 | False |
-| 18 | MP7 \| Neon Ply (Factory New) | 399.00 | +53.9% | -15.9% | T1 | False |
-| 19 | Tec-9 \| Brother (Factory New) | 58.03 | +53.4% | -16.3% | T1 | False |
-| 20 | UMP-45 \| Plastique (Factory New) | 59.59 | +51.5% | -19.3% | T1 | False |
-| 21 | CZ75-Auto \| Tacticat (Factory New) | 39.00 | +50.6% | -8.4% | T1 | False |
-| 22 | PP-Bizon \| Water Sigil (Factory New) | 44.90 | +50.5% | -19.5% | T1 | False |
-| 23 | SSG 08 \| Azure Glyph (Factory New) | 42.00 | +47.0% | -3.3% | T1 | False |
-| 24 | SG 553 \| Triarch (Factory New) | 68.25 | +46.6% | -20.0% | T1 | False |
-| 25 | P90 \| Death Grip (Factory New) | 439.00 | +46.5% | -31.3% | T1 | True |
-| 26 | Tec-9 \| Flash Out (Factory New) | 43.30 | +46.1% | -7.4% | T1 | False |
-| 27 | P250 \| Cyber Shell (Factory New) | 75.00 | +45.5% | -13.8% | T1 | False |
-| 28 | Tec-9 \| Safety Net (Factory New) | 139.50 | +43.1% | +6.9% | T0 | False |
-| 29 | P90 \| Verdant Growth (Factory New) | 43.40 | +43.0% | -10.8% | T1 | False |
-| 30 | PP-Bizon \| Harvester (Factory New) | 36.00 | +42.6% | -9.4% | T1 | False |
+| 1 | Glock-18 \| Sacrifice (Factory New) | 148.88 | +71.4% | -22.5% | T1 | False |
+| 2 | MAC-10 \| Echoing Sands (Factory New) | 32.30 | +69.9% | +15.3% | T0 | False |
+| 3 | PP-Bizon \| Photic Zone (Factory New) | 45.00 | +68.9% | -23.1% | T1 | False |
+| 4 | Tec-9 \| Ossified (Factory New) | 289.00 | +68.6% | -3.6% | T1 | False |
+| 5 | Tec-9 \| Cracked Opal (Factory New) | 43.95 | +66.0% | +5.9% | T0 | False |
+| 6 | Glock-18 \| Warhawk (Factory New) | 91.40 | +65.6% | -15.0% | T1 | False |
+| 7 | Five-SeveN \| Scumbria (Factory New) | 71.30 | +62.0% | -14.8% | T1 | False |
+| 8 | UMP-45 \| Full Stop (Factory New) | 45.40 | +61.0% | -16.1% | T1 | False |
+| 9 | AUG \| Amber Fade (Factory New) | 44.00 | +60.1% | -2.1% | T1 | True |
+| 10 | Dual Berettas \| Heist (Factory New) | 45.00 | +56.6% | -10.4% | T1 | False |
+| 11 | Five-SeveN \| Orange Peel (Factory New) | 49.99 | +56.3% | +78.8% | T0 | False |
+| 12 | AUG \| Aristocrat (Factory New) | 71.00 | +55.9% | +3.4% | T1 | True |
+| 13 | P90 \| Elite Build (Factory New) | 37.97 | +54.3% | -12.9% | T1 | False |
+| 14 | MP7 \| Neon Ply (Factory New) | 399.00 | +53.9% | -15.9% | T1 | False |
+| 15 | Tec-9 \| Brother (Factory New) | 58.03 | +53.4% | -16.3% | T1 | False |
+| 16 | UMP-45 \| Plastique (Factory New) | 59.59 | +51.5% | -19.3% | T1 | False |
+| 17 | CZ75-Auto \| Tacticat (Factory New) | 39.00 | +50.6% | -8.4% | T1 | False |
+| 18 | PP-Bizon \| Water Sigil (Factory New) | 44.90 | +50.5% | -19.5% | T1 | False |
+| 19 | SSG 08 \| Azure Glyph (Factory New) | 42.00 | +47.0% | -3.3% | T1 | False |
+| 20 | SG 553 \| Triarch (Factory New) | 68.25 | +46.6% | -20.0% | T1 | False |
+| 21 | P90 \| Death Grip (Factory New) | 439.00 | +46.5% | -31.3% | T1 | True |
+| 22 | Tec-9 \| Flash Out (Factory New) | 43.30 | +46.1% | -7.4% | T1 | False |
+| 23 | P250 \| Cyber Shell (Factory New) | 75.00 | +45.5% | -13.8% | T1 | False |
+| 24 | Tec-9 \| Safety Net (Factory New) | 139.50 | +43.1% | +6.9% | T0 | False |
+| 25 | P90 \| Verdant Growth (Factory New) | 43.40 | +43.0% | -10.8% | T1 | False |
+| 26 | PP-Bizon \| Harvester (Factory New) | 36.00 | +42.6% | -9.4% | T1 | False |
+| 27 | Five-SeveN \| Buddy (Factory New) | 98.00 | +41.9% | -10.9% | T1 | False |
+| 28 | AUG \| Spalted Wood (Factory New) | 45.85 | +41.8% | -3.5% | T1 | False |
+| 29 | AUG \| Fleet Flock (Factory New) | 375.00 | +38.7% | +4.1% | T1 | False |
+| 30 | Tec-9 \| Jambiya (Factory New) | 92.66 | +38.2% | +0.7% | T1 | False |
 
 ## 2026-03-19
 
@@ -1618,174 +1618,174 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Five-SeveN \| Orange Peel (Factory New) | 46.00 | +100.0% | +64.8% | T0 | False |
 | 2 | Tec-9 \| Ossified (Factory New) | 268.00 | +99.6% | -26.0% | T1 | False |
-| 3 | R8 Revolver \| Phoenix Marker (Factory New) | 127.50 | +78.3% | -15.0% | T1 | False |
-| 4 | Glock-18 \| Sacrifice (Factory New) | 156.50 | +76.9% | -25.3% | T1 | False |
-| 5 | XM1014 \| Ziggy (Factory New) | 42.00 | +75.2% | -23.0% | T1 | False |
-| 6 | MAC-10 \| Echoing Sands (Factory New) | 30.90 | +73.7% | +9.7% | T0 | False |
-| 7 | PP-Bizon \| Photic Zone (Factory New) | 40.00 | +69.4% | -21.1% | T1 | False |
-| 8 | P250 \| Inferno (Factory New) | 104.50 | +67.8% | -12.2% | T1 | False |
-| 9 | MAC-10 \| Whitefish (Factory New) | 32.00 | +67.8% | -23.9% | T1 | False |
-| 10 | AUG \| Amber Fade (Factory New) | 41.00 | +64.3% | -16.9% | T1 | True |
-| 11 | Tec-9 \| Flash Out (Factory New) | 40.90 | +63.8% | -18.7% | T1 | False |
-| 12 | Five-SeveN \| Scumbria (Factory New) | 60.49 | +63.4% | +2.7% | T1 | False |
-| 13 | CZ75-Auto \| Tacticat (Factory New) | 50.50 | +62.8% | -3.4% | T1 | False |
-| 14 | UMP-45 \| Full Stop (Factory New) | 40.00 | +56.0% | -15.0% | T1 | False |
-| 15 | R8 Revolver \| Memento (Factory New) | 50.00 | +53.6% | +0.1% | T1 | False |
-| 16 | UMP-45 \| Plastique (Factory New) | 54.46 | +52.7% | -23.9% | T1 | False |
-| 17 | SSG 08 \| Azure Glyph (Factory New) | 36.70 | +52.7% | -21.8% | T1 | False |
-| 18 | Glock-18 \| Warhawk (Factory New) | 93.55 | +52.3% | -13.8% | T1 | False |
-| 19 | Tec-9 \| Brother (Factory New) | 57.83 | +52.3% | -18.5% | T1 | False |
-| 20 | Tec-9 \| Cracked Opal (Factory New) | 42.40 | +52.2% | +7.4% | T0 | False |
-| 21 | PP-Bizon \| Water Sigil (Factory New) | 44.90 | +48.8% | -22.9% | T1 | False |
-| 22 | Tec-9 \| Orange Murano (Factory New) | 158.98 | +48.5% | -20.4% | T1 | False |
-| 23 | P90 \| Elite Build (Factory New) | 36.75 | +46.7% | -11.2% | T1 | False |
-| 24 | AUG \| Aristocrat (Factory New) | 77.40 | +46.6% | -6.0% | T1 | True |
-| 25 | Tec-9 \| Bamboozle (Factory New) | 93.90 | +46.6% | -19.9% | T1 | False |
-| 26 | Tec-9 \| Snek-9 (Factory New) | 72.95 | +46.3% | -16.5% | T1 | False |
-| 27 | Tec-9 \| Jambiya (Factory New) | 81.70 | +45.4% | -9.9% | T1 | False |
-| 28 | MP7 \| Special Delivery (Factory New) | 97.45 | +45.2% | +9.9% | T0 | False |
-| 29 | P90 \| Death Grip (Factory New) | 420.00 | +44.7% | -27.2% | T1 | True |
-| 30 | PP-Bizon \| Harvester (Factory New) | 38.86 | +44.5% | -15.4% | T1 | False |
+| 3 | Glock-18 \| Sacrifice (Factory New) | 156.50 | +76.9% | -25.3% | T1 | False |
+| 4 | MAC-10 \| Echoing Sands (Factory New) | 30.90 | +73.7% | +9.7% | T0 | False |
+| 5 | PP-Bizon \| Photic Zone (Factory New) | 40.00 | +69.4% | -21.1% | T1 | False |
+| 6 | P250 \| Inferno (Factory New) | 104.50 | +67.8% | -12.2% | T1 | False |
+| 7 | MAC-10 \| Whitefish (Factory New) | 32.00 | +67.8% | -23.9% | T1 | False |
+| 8 | AUG \| Amber Fade (Factory New) | 41.00 | +64.3% | -16.9% | T1 | True |
+| 9 | Tec-9 \| Flash Out (Factory New) | 40.90 | +63.8% | -18.7% | T1 | False |
+| 10 | Five-SeveN \| Scumbria (Factory New) | 60.49 | +63.4% | +2.7% | T1 | False |
+| 11 | CZ75-Auto \| Tacticat (Factory New) | 50.50 | +62.8% | -3.4% | T1 | False |
+| 12 | UMP-45 \| Full Stop (Factory New) | 40.00 | +56.0% | -15.0% | T1 | False |
+| 13 | UMP-45 \| Plastique (Factory New) | 54.46 | +52.7% | -23.9% | T1 | False |
+| 14 | SSG 08 \| Azure Glyph (Factory New) | 36.70 | +52.7% | -21.8% | T1 | False |
+| 15 | Glock-18 \| Warhawk (Factory New) | 93.55 | +52.3% | -13.8% | T1 | False |
+| 16 | Tec-9 \| Brother (Factory New) | 57.83 | +52.3% | -18.5% | T1 | False |
+| 17 | Tec-9 \| Cracked Opal (Factory New) | 42.40 | +52.2% | +7.4% | T0 | False |
+| 18 | PP-Bizon \| Water Sigil (Factory New) | 44.90 | +48.8% | -22.9% | T1 | False |
+| 19 | Tec-9 \| Orange Murano (Factory New) | 158.98 | +48.5% | -20.4% | T1 | False |
+| 20 | P90 \| Elite Build (Factory New) | 36.75 | +46.7% | -11.2% | T1 | False |
+| 21 | AUG \| Aristocrat (Factory New) | 77.40 | +46.6% | -6.0% | T1 | True |
+| 22 | Tec-9 \| Bamboozle (Factory New) | 93.90 | +46.6% | -19.9% | T1 | False |
+| 23 | Tec-9 \| Snek-9 (Factory New) | 72.95 | +46.3% | -16.5% | T1 | False |
+| 24 | Tec-9 \| Jambiya (Factory New) | 81.70 | +45.4% | -9.9% | T1 | False |
+| 25 | MP7 \| Special Delivery (Factory New) | 97.45 | +45.2% | +9.9% | T0 | False |
+| 26 | P90 \| Death Grip (Factory New) | 420.00 | +44.7% | -27.2% | T1 | True |
+| 27 | PP-Bizon \| Harvester (Factory New) | 38.86 | +44.5% | -15.4% | T1 | False |
+| 28 | MP7 \| Astrolabe (Factory New) | 39.80 | +44.3% | +20.0% | T0 | True |
+| 29 | Dual Berettas \| Heist (Factory New) | 41.80 | +44.2% | -12.2% | T1 | False |
+| 30 | Tec-9 \| Safety Net (Factory New) | 131.50 | +42.3% | -6.7% | T1 | False |
 
 ## 2026-03-20
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Glock-18 \| Sacrifice (Factory New) | 153.95 | +118.5% | -37.8% | T1 | False |
-| 2 | MAG-7 \| Justice (Factory New) | 318.50 | +97.0% | -39.4% | T1 | True |
-| 3 | XM1014 \| Ziggy (Factory New) | 39.50 | +83.2% | -30.7% | T1 | False |
-| 4 | CZ75-Auto \| Tacticat (Factory New) | 47.30 | +64.5% | -19.8% | T1 | False |
-| 5 | Tec-9 \| Ossified (Factory New) | 265.00 | +61.7% | -20.8% | T1 | False |
-| 6 | UMP-45 \| Full Stop (Factory New) | 39.90 | +60.6% | -12.2% | T1 | False |
-| 7 | Five-SeveN \| Orange Peel (Factory New) | 42.00 | +57.8% | +52.8% | T0 | False |
-| 8 | CZ75-Auto \| Silver (Factory New) | 88.00 | +55.5% | -6.8% | T1 | False |
-| 9 | PP-Bizon \| Water Sigil (Factory New) | 44.70 | +49.2% | -23.0% | T1 | False |
-| 10 | CZ75-Auto \| Eco (Factory New) | 188.00 | +47.4% | -2.0% | T1 | False |
-| 11 | Tec-9 \| Flash Out (Factory New) | 39.90 | +47.2% | -14.2% | T1 | False |
-| 12 | Dual Berettas \| Dualing Dragons (Factory New) | 60.00 | +44.6% | -27.5% | T1 | False |
-| 13 | Tec-9 \| Cracked Opal (Factory New) | 44.40 | +43.8% | -1.7% | T1 | False |
-| 14 | R8 Revolver \| Crimson Web (Factory New) | 177.77 | +43.0% | -6.8% | T1 | False |
-| 15 | PP-Bizon \| Lumen (Factory New) | 44.49 | +41.3% | -15.4% | T1 | False |
-| 16 | P250 \| Inferno (Factory New) | 94.90 | +40.8% | -10.2% | T1 | False |
-| 17 | Tec-9 \| Orange Murano (Factory New) | 144.99 | +39.5% | -17.1% | T1 | False |
-| 18 | MP7 \| Special Delivery (Factory New) | 96.30 | +39.2% | -0.4% | T1 | False |
-| 19 | SCAR-20 \| Powercore (Factory New) | 58.08 | +38.0% | -24.1% | T1 | False |
-| 20 | XM1014 \| Teclu Burner (Factory New) | 68.00 | +37.1% | -28.5% | T1 | False |
-| 21 | CZ75-Auto \| Hexane (Factory New) | 64.99 | +36.6% | -33.6% | T1 | False |
-| 22 | UMP-45 \| Exposure (Factory New) | 30.90 | +34.3% | -20.5% | T1 | False |
-| 23 | R8 Revolver \| Phoenix Marker (Factory New) | 134.00 | +34.0% | -10.7% | T1 | False |
-| 24 | MP7 \| Astrolabe (Factory New) | 36.80 | +33.7% | +26.7% | T0 | True |
-| 25 | PP-Bizon \| Photic Zone (Factory New) | 39.20 | +33.1% | -14.2% | T1 | False |
-| 26 | MAC-10 \| Whitefish (Factory New) | 34.80 | +32.7% | -25.6% | T1 | False |
-| 27 | XM1014 \| Black Tie (Factory New) | 52.45 | +32.6% | -28.3% | T1 | False |
-| 28 | Dual Berettas \| Heist (Factory New) | 42.50 | +30.8% | -13.0% | T1 | False |
-| 29 | XM1014 \| Seasons (Factory New) | 33.80 | +30.7% | -19.3% | T1 | False |
-| 30 | CZ75-Auto \| Midnight Palm (Factory New) | 47.69 | +29.3% | -7.0% | T1 | False |
+| 2 | CZ75-Auto \| Tacticat (Factory New) | 47.30 | +64.5% | -19.8% | T1 | False |
+| 3 | Tec-9 \| Ossified (Factory New) | 265.00 | +61.7% | -20.8% | T1 | False |
+| 4 | UMP-45 \| Full Stop (Factory New) | 39.90 | +60.6% | -12.2% | T1 | False |
+| 5 | Five-SeveN \| Orange Peel (Factory New) | 42.00 | +57.8% | +52.8% | T0 | False |
+| 6 | CZ75-Auto \| Silver (Factory New) | 88.00 | +55.5% | -6.8% | T1 | False |
+| 7 | PP-Bizon \| Water Sigil (Factory New) | 44.70 | +49.2% | -23.0% | T1 | False |
+| 8 | CZ75-Auto \| Eco (Factory New) | 188.00 | +47.4% | -2.0% | T1 | False |
+| 9 | Tec-9 \| Flash Out (Factory New) | 39.90 | +47.2% | -14.2% | T1 | False |
+| 10 | Dual Berettas \| Dualing Dragons (Factory New) | 60.00 | +44.6% | -27.5% | T1 | False |
+| 11 | Tec-9 \| Cracked Opal (Factory New) | 44.40 | +43.8% | -1.7% | T1 | False |
+| 12 | PP-Bizon \| Lumen (Factory New) | 44.49 | +41.3% | -15.4% | T1 | False |
+| 13 | P250 \| Inferno (Factory New) | 94.90 | +40.8% | -10.2% | T1 | False |
+| 14 | Tec-9 \| Orange Murano (Factory New) | 144.99 | +39.5% | -17.1% | T1 | False |
+| 15 | MP7 \| Special Delivery (Factory New) | 96.30 | +39.2% | -0.4% | T1 | False |
+| 16 | SCAR-20 \| Powercore (Factory New) | 58.08 | +38.0% | -24.1% | T1 | False |
+| 17 | CZ75-Auto \| Hexane (Factory New) | 64.99 | +36.6% | -33.6% | T1 | False |
+| 18 | UMP-45 \| Exposure (Factory New) | 30.90 | +34.3% | -20.5% | T1 | False |
+| 19 | MP7 \| Astrolabe (Factory New) | 36.80 | +33.7% | +26.7% | T0 | True |
+| 20 | PP-Bizon \| Photic Zone (Factory New) | 39.20 | +33.1% | -14.2% | T1 | False |
+| 21 | MAC-10 \| Whitefish (Factory New) | 34.80 | +32.7% | -25.6% | T1 | False |
+| 22 | Dual Berettas \| Heist (Factory New) | 42.50 | +30.8% | -13.0% | T1 | False |
+| 23 | CZ75-Auto \| Midnight Palm (Factory New) | 47.69 | +29.3% | -7.0% | T1 | False |
+| 24 | PP-Bizon \| Harvester (Factory New) | 38.00 | +29.0% | -20.4% | T1 | False |
+| 25 | MAC-10 \| Tatter (Factory New) | 155.00 | +28.6% | -22.5% | T1 | False |
+| 26 | Tec-9 \| Phoenix Chalk (Factory New) | 151.50 | +28.2% | -20.4% | T1 | False |
+| 27 | UMP-45 \| Scaffold (Factory New) | 78.80 | +28.1% | +2.7% | T1 | False |
+| 28 | MAC-10 \| Echoing Sands (Factory New) | 31.28 | +28.0% | +2.5% | T1 | False |
+| 29 | M4A1-S \| Nitro (Factory New) | 123.99 | +27.9% | -6.8% | T1 | False |
+| 30 | P90 \| Elite Build (Factory New) | 37.44 | +27.2% | -21.0% | T1 | False |
 
 ## 2026-03-21
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Glock-18 \| Sacrifice (Factory New) | 142.00 | +85.3% | -29.2% | T1 | False |
-| 2 | MAG-7 \| Justice (Factory New) | 318.50 | +82.4% | -36.4% | T1 | True |
-| 3 | XM1014 \| Ziggy (Factory New) | 40.00 | +53.7% | -32.9% | T1 | False |
-| 4 | CZ75-Auto \| Silver (Factory New) | 90.00 | +52.2% | -19.4% | T1 | False |
-| 5 | Tec-9 \| Cracked Opal (Factory New) | 50.00 | +40.6% | +12.5% | T0 | False |
-| 6 | MAC-10 \| Echoing Sands (Factory New) | 43.00 | +40.6% | -1.6% | T1 | False |
-| 7 | R8 Revolver \| Phoenix Marker (Factory New) | 169.30 | +39.2% | -12.9% | T1 | False |
-| 8 | CZ75-Auto \| Imprint (Factory New) | 39.88 | +37.2% | -14.6% | T1 | True |
-| 9 | CZ75-Auto \| Eco (Factory New) | 197.50 | +37.1% | -2.6% | T1 | False |
-| 10 | CZ75-Auto \| Tacticat (Factory New) | 53.40 | +34.0% | -15.4% | T1 | False |
-| 11 | P250 \| Inferno (Factory New) | 106.90 | +33.4% | -1.7% | T1 | False |
-| 12 | Five-SeveN \| Orange Peel (Factory New) | 52.00 | +32.3% | +95.5% | T0 | False |
-| 13 | Sawed-Off \| Serenity (Factory New) | 64.75 | +31.1% | -27.0% | T1 | False |
-| 14 | Dual Berettas \| Heist (Factory New) | 46.35 | +27.9% | -16.5% | T1 | False |
-| 15 | Tec-9 \| Orange Murano (Factory New) | 144.99 | +26.8% | -12.8% | T1 | False |
-| 16 | UMP-45 \| Exposure (Factory New) | 33.50 | +26.4% | -21.1% | T1 | False |
-| 17 | UMP-45 \| Scaffold (Factory New) | 79.90 | +26.0% | -6.2% | T1 | False |
-| 18 | Dual Berettas \| Dualing Dragons (Factory New) | 55.55 | +25.8% | -14.7% | T1 | False |
-| 19 | R8 Revolver \| Crimson Web (Factory New) | 164.00 | +25.6% | -0.8% | T1 | False |
-| 20 | Tec-9 \| Bamboozle (Factory New) | 100.00 | +24.9% | +2.2% | T1 | False |
-| 21 | Glock-18 \| Nuclear Garden (Factory New) | 180.00 | +22.4% | +2.1% | T1 | False |
-| 22 | MP7 \| Cirrus (Factory New) | 68.41 | +21.7% | +44.6% | T0 | False |
-| 23 | MAG-7 \| Seabird (Factory New) | 66.99 | +21.6% | -6.9% | T1 | False |
-| 24 | AWP \| Acheron (Factory New) | 51.90 | +21.0% | +18.4% | T0 | False |
-| 25 | XM1014 \| Seasons (Factory New) | 38.70 | +21.0% | -19.1% | T1 | False |
-| 26 | CZ75-Auto \| Xiangliu (Factory New) | 233.00 | +20.6% | -5.1% | T1 | False |
-| 27 | P2000 \| Urban Hazard (Factory New) | 30.61 | +20.1% | +7.7% | T0 | False |
-| 28 | PP-Bizon \| Harvester (Factory New) | 44.90 | +19.8% | -15.8% | T1 | False |
-| 29 | Dual Berettas \| Cobra Strike (Factory New) | 1980.00 | +19.4% | -18.1% | T1 | False |
-| 30 | G3SG1 \| Azure Zebra (Factory New) | 32.00 | +19.2% | -6.9% | T1 | False |
+| 2 | CZ75-Auto \| Silver (Factory New) | 90.00 | +52.2% | -19.4% | T1 | False |
+| 3 | Tec-9 \| Cracked Opal (Factory New) | 50.00 | +40.6% | +12.5% | T0 | False |
+| 4 | MAC-10 \| Echoing Sands (Factory New) | 43.00 | +40.6% | -1.6% | T1 | False |
+| 5 | CZ75-Auto \| Imprint (Factory New) | 39.88 | +37.2% | -14.6% | T1 | True |
+| 6 | CZ75-Auto \| Eco (Factory New) | 197.50 | +37.1% | -2.6% | T1 | False |
+| 7 | CZ75-Auto \| Tacticat (Factory New) | 53.40 | +34.0% | -15.4% | T1 | False |
+| 8 | P250 \| Inferno (Factory New) | 106.90 | +33.4% | -1.7% | T1 | False |
+| 9 | Five-SeveN \| Orange Peel (Factory New) | 52.00 | +32.3% | +95.5% | T0 | False |
+| 10 | Dual Berettas \| Heist (Factory New) | 46.35 | +27.9% | -16.5% | T1 | False |
+| 11 | Tec-9 \| Orange Murano (Factory New) | 144.99 | +26.8% | -12.8% | T1 | False |
+| 12 | UMP-45 \| Exposure (Factory New) | 33.50 | +26.4% | -21.1% | T1 | False |
+| 13 | UMP-45 \| Scaffold (Factory New) | 79.90 | +26.0% | -6.2% | T1 | False |
+| 14 | Dual Berettas \| Dualing Dragons (Factory New) | 55.55 | +25.8% | -14.7% | T1 | False |
+| 15 | Tec-9 \| Bamboozle (Factory New) | 100.00 | +24.9% | +2.2% | T1 | False |
+| 16 | Glock-18 \| Nuclear Garden (Factory New) | 180.00 | +22.4% | +2.1% | T1 | False |
+| 17 | MP7 \| Cirrus (Factory New) | 68.41 | +21.7% | +44.6% | T0 | False |
+| 18 | AWP \| Acheron (Factory New) | 51.90 | +21.0% | +18.4% | T0 | False |
+| 19 | CZ75-Auto \| Xiangliu (Factory New) | 233.00 | +20.6% | -5.1% | T1 | False |
+| 20 | P2000 \| Urban Hazard (Factory New) | 30.61 | +20.1% | +7.7% | T0 | False |
+| 21 | PP-Bizon \| Harvester (Factory New) | 44.90 | +19.8% | -15.8% | T1 | False |
+| 22 | Dual Berettas \| Cobra Strike (Factory New) | 1980.00 | +19.4% | -18.1% | T1 | False |
+| 23 | G3SG1 \| Azure Zebra (Factory New) | 32.00 | +19.2% | -6.9% | T1 | False |
+| 24 | Tec-9 \| Safety Net (Factory New) | 168.50 | +19.0% | -2.3% | T1 | False |
+| 25 | CZ75-Auto \| Army Sheen (Factory New) | 44.42 | +18.1% | -15.3% | T1 | False |
+| 26 | CZ75-Auto \| Pole Position (Factory New) | 99.89 | +17.9% | -21.8% | T1 | False |
+| 27 | SSG 08 \| Fever Dream (Factory New) | 44.70 | +17.6% | +34.2% | T0 | False |
+| 28 | Tec-9 \| Ossified (Factory New) | 298.50 | +16.8% | -28.2% | T1 | False |
+| 29 | AK-47 \| Emerald Pinstripe (Factory New) | 175.40 | +16.3% | +0.8% | T1 | False |
+| 30 | M4A1-S \| Nitro (Factory New) | 122.98 | +16.1% | -4.1% | T1 | False |
 
 ## 2026-03-22
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Justice (Factory New) | 317.00 | +83.5% | -38.1% | T1 | True |
-| 2 | CZ75-Auto \| Silver (Factory New) | 93.89 | +69.6% | -15.4% | T1 | False |
-| 3 | Five-SeveN \| Orange Peel (Factory New) | 53.99 | +60.2% | +58.7% | T0 | False |
-| 4 | Tec-9 \| Cracked Opal (Factory New) | 46.00 | +46.6% | +15.5% | T0 | False |
-| 5 | CZ75-Auto \| Eco (Factory New) | 200.00 | +45.3% | -0.8% | T1 | False |
-| 6 | CZ75-Auto \| Tacticat (Factory New) | 59.00 | +44.3% | -8.2% | T1 | False |
-| 7 | CZ75-Auto \| Imprint (Factory New) | 37.98 | +41.8% | -12.6% | T1 | True |
-| 8 | P250 \| Inferno (Factory New) | 99.50 | +41.7% | -7.2% | T1 | False |
-| 9 | R8 Revolver \| Phoenix Marker (Factory New) | 159.50 | +37.7% | -16.1% | T1 | False |
-| 10 | MAC-10 \| Echoing Sands (Factory New) | 39.00 | +36.6% | +0.6% | T1 | False |
-| 11 | SSG 08 \| Fever Dream (Factory New) | 45.89 | +34.6% | +41.6% | T0 | False |
-| 12 | Tec-9 \| Flash Out (Factory New) | 42.50 | +33.5% | -9.6% | T1 | False |
-| 13 | UMP-45 \| Scaffold (Factory New) | 85.80 | +31.6% | +7.3% | T0 | False |
-| 14 | XM1014 \| Seasons (Factory New) | 39.90 | +28.0% | -14.9% | T1 | False |
-| 15 | CZ75-Auto \| Tread Plate (Factory New) | 125.00 | +27.0% | -21.0% | T1 | False |
-| 16 | Dual Berettas \| Dualing Dragons (Factory New) | 56.00 | +26.8% | -2.7% | T1 | False |
-| 17 | P2000 \| Silver (Factory New) | 1779.00 | +24.2% | -0.9% | T1 | False |
-| 18 | Tec-9 \| Snek-9 (Factory New) | 74.28 | +23.9% | -3.5% | T1 | False |
-| 19 | R8 Revolver \| Crimson Web (Factory New) | 169.90 | +22.4% | +1.1% | T1 | False |
-| 20 | Glock-18 \| Nuclear Garden (Factory New) | 163.98 | +22.2% | +2.7% | T1 | False |
-| 21 | Tec-9 \| Orange Murano (Factory New) | 150.00 | +21.1% | -17.4% | T1 | False |
-| 22 | AUG \| Fleet Flock (Factory New) | 420.00 | +21.1% | +0.9% | T1 | False |
-| 23 | MP7 \| Cirrus (Factory New) | 61.80 | +20.7% | +48.8% | T0 | False |
-| 24 | MP7 \| Special Delivery (Factory New) | 123.50 | +20.0% | +19.9% | T0 | False |
-| 25 | XM1014 \| Ziggy (Factory New) | 46.79 | +19.4% | -12.8% | T1 | False |
-| 26 | Five-SeveN \| Withered Vine (Factory New) | 88.58 | +18.8% | +5.9% | T0 | False |
-| 27 | AWP \| Acheron (Factory New) | 50.00 | +18.5% | +36.5% | T0 | False |
-| 28 | CZ75-Auto \| Xiangliu (Factory New) | 234.50 | +17.6% | -0.5% | T1 | False |
-| 29 | AK-47 \| Safety Net (Factory New) | 163.00 | +17.6% | -9.4% | T1 | False |
-| 30 | UMP-45 \| Day Lily (Factory New) | 760.90 | +17.2% | -3.5% | T1 | False |
+| 1 | CZ75-Auto \| Silver (Factory New) | 93.89 | +69.6% | -15.4% | T1 | False |
+| 2 | Five-SeveN \| Orange Peel (Factory New) | 53.99 | +60.2% | +58.7% | T0 | False |
+| 3 | Tec-9 \| Cracked Opal (Factory New) | 46.00 | +46.6% | +15.5% | T0 | False |
+| 4 | CZ75-Auto \| Eco (Factory New) | 200.00 | +45.3% | -0.8% | T1 | False |
+| 5 | CZ75-Auto \| Tacticat (Factory New) | 59.00 | +44.3% | -8.2% | T1 | False |
+| 6 | CZ75-Auto \| Imprint (Factory New) | 37.98 | +41.8% | -12.6% | T1 | True |
+| 7 | P250 \| Inferno (Factory New) | 99.50 | +41.7% | -7.2% | T1 | False |
+| 8 | MAC-10 \| Echoing Sands (Factory New) | 39.00 | +36.6% | +0.6% | T1 | False |
+| 9 | SSG 08 \| Fever Dream (Factory New) | 45.89 | +34.6% | +41.6% | T0 | False |
+| 10 | Tec-9 \| Flash Out (Factory New) | 42.50 | +33.5% | -9.6% | T1 | False |
+| 11 | UMP-45 \| Scaffold (Factory New) | 85.80 | +31.6% | +7.3% | T0 | False |
+| 12 | CZ75-Auto \| Tread Plate (Factory New) | 125.00 | +27.0% | -21.0% | T1 | False |
+| 13 | Dual Berettas \| Dualing Dragons (Factory New) | 56.00 | +26.8% | -2.7% | T1 | False |
+| 14 | P2000 \| Silver (Factory New) | 1779.00 | +24.2% | -0.9% | T1 | False |
+| 15 | Tec-9 \| Snek-9 (Factory New) | 74.28 | +23.9% | -3.5% | T1 | False |
+| 16 | Glock-18 \| Nuclear Garden (Factory New) | 163.98 | +22.2% | +2.7% | T1 | False |
+| 17 | Tec-9 \| Orange Murano (Factory New) | 150.00 | +21.1% | -17.4% | T1 | False |
+| 18 | AUG \| Fleet Flock (Factory New) | 420.00 | +21.1% | +0.9% | T1 | False |
+| 19 | MP7 \| Cirrus (Factory New) | 61.80 | +20.7% | +48.8% | T0 | False |
+| 20 | MP7 \| Special Delivery (Factory New) | 123.50 | +20.0% | +19.9% | T0 | False |
+| 21 | Five-SeveN \| Withered Vine (Factory New) | 88.58 | +18.8% | +5.9% | T0 | False |
+| 22 | AWP \| Acheron (Factory New) | 50.00 | +18.5% | +36.5% | T0 | False |
+| 23 | CZ75-Auto \| Xiangliu (Factory New) | 234.50 | +17.6% | -0.5% | T1 | False |
+| 24 | AK-47 \| Safety Net (Factory New) | 163.00 | +17.6% | -9.4% | T1 | False |
+| 25 | UMP-45 \| Day Lily (Factory New) | 760.90 | +17.2% | -3.5% | T1 | False |
+| 26 | MP7 \| Fade (Factory New) | 226.50 | +16.8% | -14.3% | T1 | False |
+| 27 | Glock-18 \| Sacrifice (Factory New) | 137.50 | +16.7% | -13.8% | T1 | False |
+| 28 | AUG \| Aristocrat (Factory New) | 118.00 | +16.4% | +7.8% | T0 | False |
+| 29 | CZ75-Auto \| Pole Position (Factory New) | 88.80 | +16.3% | -9.1% | T1 | False |
+| 30 | P250 \| Wingshot (Factory New) | 171.00 | +16.2% | -13.0% | T1 | False |
 
 ## 2026-03-23
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Justice (Factory New) | 315.65 | +61.6% | -49.9% | T1 | True |
-| 2 | Five-SeveN \| Orange Peel (Factory New) | 50.00 | +53.4% | +3.5% | T1 | False |
-| 3 | CZ75-Auto \| Tacticat (Factory New) | 49.90 | +40.0% | -20.7% | T1 | False |
-| 4 | CZ75-Auto \| Imprint (Factory New) | 33.00 | +37.2% | -19.9% | T1 | True |
-| 5 | CZ75-Auto \| Silver (Factory New) | 82.80 | +33.9% | -15.4% | T1 | False |
-| 6 | CZ75-Auto \| Eco (Factory New) | 190.00 | +31.6% | -3.0% | T1 | False |
-| 7 | MP7 \| Just Smile (Factory New) | 50.52 | +27.4% | -8.6% | T1 | False |
-| 8 | Five-SeveN \| Forest Night (Factory New) | 34.90 | +27.4% | +3.1% | T1 | True |
-| 9 | UMP-45 \| Scaffold (Factory New) | 78.88 | +27.0% | +6.6% | T0 | False |
-| 10 | MAC-10 \| Tatter (Factory New) | 157.50 | +26.0% | -22.8% | T1 | False |
-| 11 | R8 Revolver \| Crimson Web (Factory New) | 157.00 | +24.9% | -28.7% | T1 | False |
-| 12 | MP7 \| Cirrus (Factory New) | 63.82 | +24.3% | +45.9% | T0 | False |
-| 13 | XM1014 \| Ziggy (Factory New) | 46.90 | +24.2% | -13.7% | T1 | False |
-| 14 | Dual Berettas \| Emerald (Factory New) | 404.50 | +24.0% | -9.2% | T1 | False |
-| 15 | Glock-18 \| Nuclear Garden (Factory New) | 167.50 | +21.5% | -1.7% | T1 | False |
-| 16 | Dual Berettas \| Switch Board (Factory New) | 56.90 | +20.6% | -11.6% | T1 | False |
-| 17 | CZ75-Auto \| Xiangliu (Factory New) | 226.47 | +20.5% | -7.8% | T1 | False |
-| 18 | PP-Bizon \| Cobalt Halftone (Factory New) | 129.49 | +20.2% | -6.5% | T1 | False |
-| 19 | P250 \| Iron Clad (Factory New) | 74.00 | +19.7% | -14.3% | T1 | False |
-| 20 | Sawed-Off \| Serenity (Factory New) | 62.00 | +19.4% | -19.5% | T1 | False |
-| 21 | MP7 \| Fade (Factory New) | 235.50 | +18.5% | -20.4% | T1 | False |
-| 22 | P250 \| Inferno (Factory New) | 97.78 | +18.3% | -18.1% | T1 | False |
-| 23 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 2170.00 | +18.2% | +3.2% | T1 | False |
-| 24 | AK-47 \| Safety Net (Factory New) | 160.90 | +17.8% | -12.6% | T1 | False |
-| 25 | Dual Berettas \| Dualing Dragons (Factory New) | 49.00 | +17.6% | -4.0% | T1 | False |
-| 26 | Tec-9 \| Safety Net (Factory New) | 155.50 | +17.6% | -11.0% | T1 | False |
-| 27 | MP7 \| Astrolabe (Factory New) | 37.80 | +17.6% | +65.2% | T0 | True |
-| 28 | CZ75-Auto \| Pole Position (Factory New) | 78.00 | +17.2% | -10.1% | T1 | False |
-| 29 | MAG-7 \| Seabird (Factory New) | 66.70 | +15.5% | +0.9% | T1 | False |
-| 30 | Tec-9 \| Cracked Opal (Factory New) | 41.80 | +15.4% | +16.8% | T0 | False |
+| 1 | Five-SeveN \| Orange Peel (Factory New) | 50.00 | +53.4% | +3.5% | T1 | False |
+| 2 | CZ75-Auto \| Tacticat (Factory New) | 49.90 | +40.0% | -20.7% | T1 | False |
+| 3 | CZ75-Auto \| Imprint (Factory New) | 33.00 | +37.2% | -19.9% | T1 | True |
+| 4 | CZ75-Auto \| Silver (Factory New) | 82.80 | +33.9% | -15.4% | T1 | False |
+| 5 | CZ75-Auto \| Eco (Factory New) | 190.00 | +31.6% | -3.0% | T1 | False |
+| 6 | MP7 \| Just Smile (Factory New) | 50.52 | +27.4% | -8.6% | T1 | False |
+| 7 | Five-SeveN \| Forest Night (Factory New) | 34.90 | +27.4% | +3.1% | T1 | True |
+| 8 | UMP-45 \| Scaffold (Factory New) | 78.88 | +27.0% | +6.6% | T0 | False |
+| 9 | MAC-10 \| Tatter (Factory New) | 157.50 | +26.0% | -22.8% | T1 | False |
+| 10 | MP7 \| Cirrus (Factory New) | 63.82 | +24.3% | +45.9% | T0 | False |
+| 11 | Dual Berettas \| Emerald (Factory New) | 404.50 | +24.0% | -9.2% | T1 | False |
+| 12 | Glock-18 \| Nuclear Garden (Factory New) | 167.50 | +21.5% | -1.7% | T1 | False |
+| 13 | Dual Berettas \| Switch Board (Factory New) | 56.90 | +20.6% | -11.6% | T1 | False |
+| 14 | CZ75-Auto \| Xiangliu (Factory New) | 226.47 | +20.5% | -7.8% | T1 | False |
+| 15 | PP-Bizon \| Cobalt Halftone (Factory New) | 129.49 | +20.2% | -6.5% | T1 | False |
+| 16 | P250 \| Iron Clad (Factory New) | 74.00 | +19.7% | -14.3% | T1 | False |
+| 17 | MP7 \| Fade (Factory New) | 235.50 | +18.5% | -20.4% | T1 | False |
+| 18 | P250 \| Inferno (Factory New) | 97.78 | +18.3% | -18.1% | T1 | False |
+| 19 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 2170.00 | +18.2% | +3.2% | T1 | False |
+| 20 | AK-47 \| Safety Net (Factory New) | 160.90 | +17.8% | -12.6% | T1 | False |
+| 21 | Dual Berettas \| Dualing Dragons (Factory New) | 49.00 | +17.6% | -4.0% | T1 | False |
+| 22 | Tec-9 \| Safety Net (Factory New) | 155.50 | +17.6% | -11.0% | T1 | False |
+| 23 | MP7 \| Astrolabe (Factory New) | 37.80 | +17.6% | +65.2% | T0 | True |
+| 24 | CZ75-Auto \| Pole Position (Factory New) | 78.00 | +17.2% | -10.1% | T1 | False |
+| 25 | Tec-9 \| Cracked Opal (Factory New) | 41.80 | +15.4% | +16.8% | T0 | False |
+| 26 | UMP-45 \| Day Lily (Factory New) | 741.00 | +15.1% | -3.5% | T1 | False |
+| 27 | SCAR-20 \| Powercore (Factory New) | 64.60 | +14.8% | -16.2% | T1 | False |
+| 28 | Five-SeveN \| Scumbria (Factory New) | 69.00 | +14.5% | -9.9% | T1 | False |
+| 29 | Dual Berettas \| Balance (Factory New) | 81.99 | +14.2% | -19.0% | T1 | True |
+| 30 | P2000 \| Silver (Factory New) | 1710.00 | +13.3% | -2.2% | T1 | False |
 
 ## 2026-03-24
 
@@ -1795,32 +1795,32 @@
 | 2 | PP-Bizon \| Cobalt Halftone (Factory New) | 128.49 | +41.1% | -22.3% | T1 | False |
 | 3 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 2219.50 | +24.2% | +5.6% | T0 | False |
 | 4 | CZ75-Auto \| Eco (Factory New) | 219.00 | +23.6% | -7.5% | T1 | False |
-| 5 | MAG-7 \| Justice (Factory New) | 429.00 | +21.8% | -38.5% | T1 | True |
-| 6 | SSG 08 \| Fever Dream (Factory New) | 51.10 | +21.1% | -15.2% | T1 | False |
-| 7 | MAC-10 \| Tatter (Factory New) | 160.00 | +20.0% | -24.7% | T1 | False |
-| 8 | AWP \| Acheron (Factory New) | 49.90 | +19.1% | +15.2% | T0 | False |
-| 9 | Glock-18 \| Nuclear Garden (Factory New) | 176.00 | +18.7% | -7.8% | T1 | False |
-| 10 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2239.99 | +17.4% | +4.1% | T1 | False |
-| 11 | CZ75-Auto \| Silver (Factory New) | 107.00 | +17.2% | -28.0% | T1 | False |
-| 12 | MP7 \| Cirrus (Factory New) | 69.90 | +17.0% | +17.9% | T0 | False |
-| 13 | P2000 \| Silver (Factory New) | 1840.00 | +16.3% | +7.7% | T0 | False |
-| 14 | UMP-45 \| Day Lily (Factory New) | 754.50 | +15.0% | -3.5% | T1 | False |
-| 15 | M4A1-S \| Nitro (Factory New) | 136.80 | +13.8% | -6.6% | T1 | False |
-| 16 | ★ Hand Wraps \| Desert Shamagh (Minimal Wear) | 1099.00 | +13.6% | -3.4% | T1 | False |
-| 17 | P2000 \| Space Race (Factory New) | 444.50 | +13.1% | -30.4% | T1 | False |
-| 18 | ★ Hand Wraps \| Giraffe (Minimal Wear) | 1089.50 | +12.7% | -1.8% | T1 | False |
-| 19 | AK-47 \| Safety Net (Factory New) | 169.60 | +11.8% | -15.4% | T1 | False |
-| 20 | ★ Hand Wraps \| Constrictor (Minimal Wear) | 1137.50 | +11.5% | -3.0% | T1 | False |
-| 21 | MAG-7 \| Seabird (Factory New) | 65.99 | +11.2% | -2.2% | T1 | False |
-| 22 | UMP-45 \| Scaffold (Factory New) | 79.80 | +11.1% | +0.1% | T1 | False |
-| 23 | MAC-10 \| Echoing Sands (Factory New) | 48.80 | +10.6% | -22.4% | T1 | False |
-| 24 | USP-S \| Blueprint (Factory New) | 736.50 | +9.6% | +4.6% | T1 | False |
-| 25 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1424.48 | +9.3% | +1.7% | T1 | False |
-| 26 | M4A1-S \| Solitude (Factory New) | 224.99 | +9.2% | -15.2% | T1 | False |
-| 27 | XM1014 \| Seasons (Factory New) | 38.15 | +9.0% | -19.2% | T1 | False |
-| 28 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1410.00 | +8.9% | -2.5% | T1 | False |
-| 29 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 2499.50 | +8.1% | -1.0% | T1 | False |
-| 30 | AK-47 \| Safari Mesh (Factory New) | 113.00 | +6.8% | -14.6% | T1 | False |
+| 5 | SSG 08 \| Fever Dream (Factory New) | 51.10 | +21.1% | -15.2% | T1 | False |
+| 6 | MAC-10 \| Tatter (Factory New) | 160.00 | +20.0% | -24.7% | T1 | False |
+| 7 | AWP \| Acheron (Factory New) | 49.90 | +19.1% | +15.2% | T0 | False |
+| 8 | Glock-18 \| Nuclear Garden (Factory New) | 176.00 | +18.7% | -7.8% | T1 | False |
+| 9 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2239.99 | +17.4% | +4.1% | T1 | False |
+| 10 | CZ75-Auto \| Silver (Factory New) | 107.00 | +17.2% | -28.0% | T1 | False |
+| 11 | MP7 \| Cirrus (Factory New) | 69.90 | +17.0% | +17.9% | T0 | False |
+| 12 | P2000 \| Silver (Factory New) | 1840.00 | +16.3% | +7.7% | T0 | False |
+| 13 | UMP-45 \| Day Lily (Factory New) | 754.50 | +15.0% | -3.5% | T1 | False |
+| 14 | M4A1-S \| Nitro (Factory New) | 136.80 | +13.8% | -6.6% | T1 | False |
+| 15 | ★ Hand Wraps \| Desert Shamagh (Minimal Wear) | 1099.00 | +13.6% | -3.4% | T1 | False |
+| 16 | P2000 \| Space Race (Factory New) | 444.50 | +13.1% | -30.4% | T1 | False |
+| 17 | ★ Hand Wraps \| Giraffe (Minimal Wear) | 1089.50 | +12.7% | -1.8% | T1 | False |
+| 18 | AK-47 \| Safety Net (Factory New) | 169.60 | +11.8% | -15.4% | T1 | False |
+| 19 | ★ Hand Wraps \| Constrictor (Minimal Wear) | 1137.50 | +11.5% | -3.0% | T1 | False |
+| 20 | UMP-45 \| Scaffold (Factory New) | 79.80 | +11.1% | +0.1% | T1 | False |
+| 21 | MAC-10 \| Echoing Sands (Factory New) | 48.80 | +10.6% | -22.4% | T1 | False |
+| 22 | USP-S \| Blueprint (Factory New) | 736.50 | +9.6% | +4.6% | T1 | False |
+| 23 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1424.48 | +9.3% | +1.7% | T1 | False |
+| 24 | M4A1-S \| Solitude (Factory New) | 224.99 | +9.2% | -15.2% | T1 | False |
+| 25 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1410.00 | +8.9% | -2.5% | T1 | False |
+| 26 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 2499.50 | +8.1% | -1.0% | T1 | False |
+| 27 | AK-47 \| Safari Mesh (Factory New) | 113.00 | +6.8% | -14.6% | T1 | False |
+| 28 | CZ75-Auto \| Xiangliu (Factory New) | 229.00 | +6.8% | -15.7% | T1 | False |
+| 29 | AUG \| Fleet Flock (Factory New) | 477.99 | +6.6% | -9.8% | T1 | False |
+| 30 | CZ75-Auto \| Imprint (Factory New) | 38.00 | +6.6% | -22.8% | T1 | True |
 
 ## 2026-03-25
 
@@ -1960,7 +1960,7 @@
 | 27 | AWP \| Acheron (Factory New) | 60.00 | +18.4% | +13.0% | T0 | False |
 | 28 | MAC-10 \| Classic Crate (Factory New) | 44.50 | +18.4% | +0.2% | T1 | False |
 | 29 | P2000 \| Acid Etched (Factory New) | 256.00 | +18.4% | -10.4% | T1 | False |
-| 30 | R8 Revolver \| Memento (Factory New) | 77.90 | +18.2% | +12.1% | T0 | False |
+| 30 | Dual Berettas \| Oil Change (Factory New) | 36.90 | +17.1% | +7.2% | T0 | False |
 
 ## 2026-03-29
 
@@ -1977,25 +1977,25 @@
 | 9 | USP-S \| Blood Tiger (Factory New) | 194.50 | +38.6% | -7.1% | T1 | False |
 | 10 | AWP \| Acheron (Factory New) | 62.70 | +36.5% | +10.2% | T0 | False |
 | 11 | FAMAS \| CaliCamo (Factory New) | 104.00 | +36.3% | +18.1% | T0 | False |
-| 12 | R8 Revolver \| Nitro (Factory New) | 31.69 | +35.7% | +30.7% | T0 | False |
-| 13 | Glock-18 \| Wraiths (Factory New) | 104.25 | +35.1% | -5.6% | T1 | False |
-| 14 | P2000 \| Granite Marbleized (Factory New) | 95.00 | +32.3% | -8.6% | T1 | False |
-| 15 | MP7 \| Vault Heist (Factory New) | 188.00 | +32.1% | -8.0% | T1 | False |
-| 16 | Galil AR \| Sage Spray (Factory New) | 42.85 | +28.9% | -6.7% | T1 | False |
-| 17 | MP9 \| Old Roots (Factory New) | 64.45 | +28.7% | -3.1% | T1 | False |
-| 18 | SSG 08 \| Carbon Fiber (Factory New) | 73.80 | +28.3% | +36.5% | T0 | False |
-| 19 | MP5-SD \| Kitbash (Factory New) | 30.80 | +27.6% | -18.4% | T1 | False |
-| 20 | P2000 \| Urban Hazard (Factory New) | 39.80 | +26.6% | -9.5% | T1 | False |
-| 21 | MP9 \| Deadly Poison (Factory New) | 89.15 | +26.2% | -9.7% | T1 | False |
-| 22 | P250 \| Mint Kimono (Factory New) | 151.50 | +25.4% | -3.7% | T1 | False |
-| 23 | Glock-18 \| Ironwork (Factory New) | 133.00 | +25.1% | -7.3% | T1 | False |
-| 24 | Five-SeveN \| Forest Night (Factory New) | 45.00 | +25.0% | +6.3% | T0 | False |
-| 25 | MP9 \| Orange Peel (Factory New) | 61.90 | +24.4% | +8.1% | T0 | False |
-| 26 | Dual Berettas \| Oil Change (Factory New) | 33.80 | +24.4% | +10.2% | T0 | False |
-| 27 | P250 \| Cyber Shell (Factory New) | 80.00 | +22.6% | -3.5% | T1 | False |
-| 28 | CZ75-Auto \| Syndicate (Factory New) | 299.50 | +21.5% | -13.5% | T1 | False |
-| 29 | MP7 \| Tall Grass (Factory New) | 193.40 | +21.4% | +14.7% | T0 | False |
-| 30 | Five-SeveN \| Scumbria (Factory New) | 77.45 | +21.4% | +8.3% | T0 | False |
+| 12 | Glock-18 \| Wraiths (Factory New) | 104.25 | +35.1% | -5.6% | T1 | False |
+| 13 | P2000 \| Granite Marbleized (Factory New) | 95.00 | +32.3% | -8.6% | T1 | False |
+| 14 | MP7 \| Vault Heist (Factory New) | 188.00 | +32.1% | -8.0% | T1 | False |
+| 15 | Galil AR \| Sage Spray (Factory New) | 42.85 | +28.9% | -6.7% | T1 | False |
+| 16 | MP9 \| Old Roots (Factory New) | 64.45 | +28.7% | -3.1% | T1 | False |
+| 17 | SSG 08 \| Carbon Fiber (Factory New) | 73.80 | +28.3% | +36.5% | T0 | False |
+| 18 | MP5-SD \| Kitbash (Factory New) | 30.80 | +27.6% | -18.4% | T1 | False |
+| 19 | P2000 \| Urban Hazard (Factory New) | 39.80 | +26.6% | -9.5% | T1 | False |
+| 20 | MP9 \| Deadly Poison (Factory New) | 89.15 | +26.2% | -9.7% | T1 | False |
+| 21 | P250 \| Mint Kimono (Factory New) | 151.50 | +25.4% | -3.7% | T1 | False |
+| 22 | Glock-18 \| Ironwork (Factory New) | 133.00 | +25.1% | -7.3% | T1 | False |
+| 23 | Five-SeveN \| Forest Night (Factory New) | 45.00 | +25.0% | +6.3% | T0 | False |
+| 24 | MP9 \| Orange Peel (Factory New) | 61.90 | +24.4% | +8.1% | T0 | False |
+| 25 | Dual Berettas \| Oil Change (Factory New) | 33.80 | +24.4% | +10.2% | T0 | False |
+| 26 | P250 \| Cyber Shell (Factory New) | 80.00 | +22.6% | -3.5% | T1 | False |
+| 27 | CZ75-Auto \| Syndicate (Factory New) | 299.50 | +21.5% | -13.5% | T1 | False |
+| 28 | MP7 \| Tall Grass (Factory New) | 193.40 | +21.4% | +14.7% | T0 | False |
+| 29 | Five-SeveN \| Scumbria (Factory New) | 77.45 | +21.4% | +8.3% | T0 | False |
+| 30 | P2000 \| Ivory (Factory New) | 80.00 | +20.3% | +0.5% | T1 | False |
 
 ## 2026-03-30
 
@@ -2009,28 +2009,28 @@
 | 6 | MP7 \| Akoben (Factory New) | 36.10 | +29.1% | +9.1% | T0 | False |
 | 7 | Dual Berettas \| Oil Change (Factory New) | 31.50 | +28.5% | +7.3% | T0 | False |
 | 8 | USP-S \| Blood Tiger (Factory New) | 186.00 | +28.3% | +3.7% | T1 | False |
-| 9 | R8 Revolver \| Memento (Factory New) | 70.90 | +28.0% | +9.4% | T0 | False |
-| 10 | MP7 \| Vault Heist (Factory New) | 188.50 | +27.7% | -5.5% | T1 | False |
-| 11 | SSG 08 \| Fever Dream (Factory New) | 61.35 | +26.8% | -26.5% | T1 | False |
-| 12 | P2000 \| Granite Marbleized (Factory New) | 94.00 | +26.2% | -9.5% | T1 | False |
-| 13 | MP9 \| Deadly Poison (Factory New) | 83.40 | +19.1% | -4.3% | T1 | False |
-| 14 | MAG-7 \| Silver (Factory New) | 152.20 | +18.5% | +19.2% | T0 | False |
-| 15 | P2000 \| Ivory (Factory New) | 77.00 | +18.3% | +25.6% | T0 | False |
-| 16 | Glock-18 \| Wraiths (Factory New) | 95.00 | +18.1% | +9.9% | T0 | False |
-| 17 | SSG 08 \| Hand Brake (Factory New) | 40.50 | +16.9% | -8.3% | T1 | False |
-| 18 | AUG \| Condemned (Factory New) | 40.80 | +16.9% | +29.1% | T0 | False |
-| 19 | Tec-9 \| Cracked Opal (Factory New) | 63.50 | +16.8% | -6.3% | T1 | False |
-| 20 | P90 \| Verdant Growth (Factory New) | 48.00 | +16.8% | +13.2% | T0 | False |
-| 21 | P2000 \| Urban Hazard (Factory New) | 34.00 | +16.7% | -3.7% | T1 | False |
-| 22 | P2000 \| Obsidian (Factory New) | 488.16 | +15.6% | -14.9% | T1 | False |
-| 23 | FAMAS \| CaliCamo (Factory New) | 119.00 | +14.1% | +29.9% | T0 | False |
-| 24 | CZ75-Auto \| Syndicate (Factory New) | 278.00 | +13.9% | -26.6% | T1 | False |
-| 25 | AWP \| Black Nile (Factory New) | 218.80 | +13.8% | +13.2% | T0 | False |
-| 26 | CZ75-Auto \| Midnight Palm (Factory New) | 55.59 | +13.8% | +14.4% | T0 | False |
-| 27 | MP7 \| Neon Ply (Factory New) | 505.00 | +13.7% | -8.9% | T1 | False |
-| 28 | MP7 \| Special Delivery (Factory New) | 128.00 | +13.2% | +4.9% | T1 | False |
-| 29 | SSG 08 \| Carbon Fiber (Factory New) | 67.56 | +13.0% | +26.8% | T0 | False |
-| 30 | P2000 \| Turf (Factory New) | 103.50 | +12.5% | +20.1% | T0 | False |
+| 9 | MP7 \| Vault Heist (Factory New) | 188.50 | +27.7% | -5.5% | T1 | False |
+| 10 | SSG 08 \| Fever Dream (Factory New) | 61.35 | +26.8% | -26.5% | T1 | False |
+| 11 | P2000 \| Granite Marbleized (Factory New) | 94.00 | +26.2% | -9.5% | T1 | False |
+| 12 | MP9 \| Deadly Poison (Factory New) | 83.40 | +19.1% | -4.3% | T1 | False |
+| 13 | P2000 \| Ivory (Factory New) | 77.00 | +18.3% | +25.6% | T0 | False |
+| 14 | Glock-18 \| Wraiths (Factory New) | 95.00 | +18.1% | +9.9% | T0 | False |
+| 15 | SSG 08 \| Hand Brake (Factory New) | 40.50 | +16.9% | -8.3% | T1 | False |
+| 16 | AUG \| Condemned (Factory New) | 40.80 | +16.9% | +29.1% | T0 | False |
+| 17 | Tec-9 \| Cracked Opal (Factory New) | 63.50 | +16.8% | -6.3% | T1 | False |
+| 18 | P90 \| Verdant Growth (Factory New) | 48.00 | +16.8% | +13.2% | T0 | False |
+| 19 | P2000 \| Urban Hazard (Factory New) | 34.00 | +16.7% | -3.7% | T1 | False |
+| 20 | P2000 \| Obsidian (Factory New) | 488.16 | +15.6% | -14.9% | T1 | False |
+| 21 | FAMAS \| CaliCamo (Factory New) | 119.00 | +14.1% | +29.9% | T0 | False |
+| 22 | CZ75-Auto \| Syndicate (Factory New) | 278.00 | +13.9% | -26.6% | T1 | False |
+| 23 | AWP \| Black Nile (Factory New) | 218.80 | +13.8% | +13.2% | T0 | False |
+| 24 | CZ75-Auto \| Midnight Palm (Factory New) | 55.59 | +13.8% | +14.4% | T0 | False |
+| 25 | MP7 \| Neon Ply (Factory New) | 505.00 | +13.7% | -8.9% | T1 | False |
+| 26 | MP7 \| Special Delivery (Factory New) | 128.00 | +13.2% | +4.9% | T1 | False |
+| 27 | SSG 08 \| Carbon Fiber (Factory New) | 67.56 | +13.0% | +26.8% | T0 | False |
+| 28 | P2000 \| Turf (Factory New) | 103.50 | +12.5% | +20.1% | T0 | False |
+| 29 | MP7 \| Ocean Foam (Factory New) | 224.00 | +11.7% | +12.4% | T0 | False |
+| 30 | Tec-9 \| Mummy's Rot (Factory New) | 181.25 | +11.1% | +13.7% | T0 | False |
 
 ## 2026-03-31
 
@@ -2063,9 +2063,9 @@
 | 25 | Glock-18 \| Wraiths (Factory New) | 98.90 | +5.9% | +24.9% | T0 | False |
 | 26 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 2718.88 | +5.6% | -4.6% | T1 | False |
 | 27 | FAMAS \| CaliCamo (Factory New) | 132.00 | +5.5% | +38.7% | T0 | False |
-| 28 | MAG-7 \| Silver (Factory New) | 147.40 | +5.2% | +23.8% | T0 | False |
-| 29 | UMP-45 \| Full Stop (Factory New) | 53.60 | +4.9% | +14.8% | T0 | False |
-| 30 | Sawed-Off \| Bamboo Shadow (Factory New) | 86.92 | +4.8% | +18.1% | T0 | False |
+| 28 | UMP-45 \| Full Stop (Factory New) | 53.60 | +4.9% | +14.8% | T0 | False |
+| 29 | USP-S \| Blueprint (Factory New) | 749.00 | +4.6% | +3.1% | T1 | False |
+| 30 | MP9 \| Old Roots (Factory New) | 71.00 | +4.4% | +28.7% | T0 | False |
 
 ## 2026-04-01
 
@@ -2094,13 +2094,13 @@
 | 21 | M4A1-S \| Briefing (Factory New) | 558.50 | +10.3% | -11.4% | T1 | False |
 | 22 | MP7 \| Cirrus (Factory New) | 106.45 | +9.6% | +13.9% | T0 | False |
 | 23 | Tec-9 \| Bamboozle (Factory New) | 120.49 | +9.5% | +2.9% | T1 | False |
-| 24 | R8 Revolver \| Reboot (Factory New) | 111.50 | +9.2% | -6.5% | T1 | False |
-| 25 | SSG 08 \| Fever Dream (Factory New) | 74.00 | +8.7% | -31.2% | T1 | False |
-| 26 | MP7 \| Neon Ply (Factory New) | 547.50 | +7.8% | -9.0% | T1 | False |
-| 27 | USP-S \| Orange Anolis (Factory New) | 1899.50 | +7.6% | -11.5% | T1 | False |
-| 28 | P250 \| Dark Filigree (Factory New) | 158.88 | +7.4% | +28.9% | T0 | False |
-| 29 | MP9 \| Deadly Poison (Factory New) | 96.90 | +7.3% | -3.5% | T1 | False |
-| 30 | Desert Eagle \| Light Rail (Factory New) | 129.17 | +7.3% | +1.3% | T1 | False |
+| 24 | SSG 08 \| Fever Dream (Factory New) | 74.00 | +8.7% | -31.2% | T1 | False |
+| 25 | MP7 \| Neon Ply (Factory New) | 547.50 | +7.8% | -9.0% | T1 | False |
+| 26 | USP-S \| Orange Anolis (Factory New) | 1899.50 | +7.6% | -11.5% | T1 | False |
+| 27 | P250 \| Dark Filigree (Factory New) | 158.88 | +7.4% | +28.9% | T0 | False |
+| 28 | MP9 \| Deadly Poison (Factory New) | 96.90 | +7.3% | -3.5% | T1 | False |
+| 29 | Desert Eagle \| Light Rail (Factory New) | 129.17 | +7.3% | +1.3% | T1 | False |
+| 30 | M4A1-S \| Basilisk (Factory New) | 394.38 | +7.1% | -7.1% | T1 | False |
 
 ## 2026-04-02
 
@@ -2145,32 +2145,32 @@
 | 2 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3599.00 | +32.9% | -2.9% | T1 | False |
 | 3 | P2000 \| Panther Camo (Factory New) | 198.00 | +28.9% | -17.1% | T1 | False |
 | 4 | P250 \| Iron Clad (Factory New) | 93.00 | +27.6% | -7.1% | T1 | False |
-| 5 | R8 Revolver \| Memento (Factory New) | 86.90 | +26.8% | -15.7% | T1 | False |
-| 6 | ★ Driver Gloves \| Convoy (Field-Tested) | 2929.00 | +26.4% | +16.2% | T0 | False |
-| 7 | Tec-9 \| Mummy's Rot (Factory New) | 192.00 | +25.7% | -8.1% | T1 | False |
-| 8 | AWP \| Mortis (Factory New) | 132.00 | +25.6% | -7.4% | T1 | False |
-| 9 | Desert Eagle \| Light Rail (Factory New) | 126.00 | +23.7% | -11.9% | T1 | False |
-| 10 | USP-S \| Flashback (Factory New) | 32.88 | +21.0% | -0.9% | T1 | False |
-| 11 | ★ Driver Gloves \| Diamondback (Field-Tested) | 4639.00 | +20.7% | +5.5% | T0 | False |
-| 12 | AUG \| Aristocrat (Factory New) | 128.50 | +20.4% | -1.3% | T1 | False |
-| 13 | AUG \| Amber Fade (Factory New) | 64.50 | +18.7% | +15.3% | T0 | False |
-| 14 | MP7 \| Cirrus (Factory New) | 116.90 | +18.7% | +12.4% | T0 | False |
-| 15 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3965.00 | +18.3% | +13.5% | T0 | False |
-| 16 | SCAR-20 \| Torn (Factory New) | 36.80 | +18.1% | -14.7% | T1 | False |
-| 17 | PP-Bizon \| Harvester (Factory New) | 49.89 | +17.0% | -4.6% | T1 | False |
-| 18 | SG 553 \| Lush Ruins (Factory New) | 36.89 | +16.7% | +42.8% | T0 | False |
-| 19 | M4A1-S \| Briefing (Factory New) | 574.50 | +16.5% | -11.2% | T1 | False |
-| 20 | Dual Berettas \| Hydro Strike (Factory New) | 72.00 | +16.3% | -8.8% | T1 | False |
-| 21 | Desert Eagle \| The Bronze (Factory New) | 92.00 | +16.1% | +1.8% | T1 | False |
-| 22 | USP-S \| Blood Tiger (Factory New) | 240.66 | +16.0% | +32.5% | T0 | False |
-| 23 | R8 Revolver \| Nitro (Factory New) | 36.60 | +15.8% | +39.1% | T0 | False |
-| 24 | FAMAS \| CaliCamo (Factory New) | 159.00 | +15.7% | -4.8% | T1 | False |
-| 25 | Galil AR \| Vandal (Factory New) | 330.00 | +15.5% | -12.5% | T1 | False |
-| 26 | MP9 \| Music Box (Factory New) | 540.00 | +15.3% | -22.4% | T1 | False |
-| 27 | Glock-18 \| Catacombs (Factory New) | 43.57 | +15.3% | +4.2% | T1 | False |
-| 28 | P2000 \| Turf (Factory New) | 119.50 | +15.1% | +7.3% | T0 | False |
-| 29 | USP-S \| 27 (Factory New) | 67.00 | +14.9% | -2.3% | T1 | False |
-| 30 | Dual Berettas \| Oil Change (Factory New) | 36.90 | +14.4% | +19.5% | T0 | False |
+| 5 | ★ Driver Gloves \| Convoy (Field-Tested) | 2929.00 | +26.4% | +16.2% | T0 | False |
+| 6 | Tec-9 \| Mummy's Rot (Factory New) | 192.00 | +25.7% | -8.1% | T1 | False |
+| 7 | AWP \| Mortis (Factory New) | 132.00 | +25.6% | -7.4% | T1 | False |
+| 8 | Desert Eagle \| Light Rail (Factory New) | 126.00 | +23.7% | -11.9% | T1 | False |
+| 9 | USP-S \| Flashback (Factory New) | 32.88 | +21.0% | -0.9% | T1 | False |
+| 10 | ★ Driver Gloves \| Diamondback (Field-Tested) | 4639.00 | +20.7% | +5.5% | T0 | False |
+| 11 | AUG \| Aristocrat (Factory New) | 128.50 | +20.4% | -1.3% | T1 | False |
+| 12 | AUG \| Amber Fade (Factory New) | 64.50 | +18.7% | +15.3% | T0 | False |
+| 13 | MP7 \| Cirrus (Factory New) | 116.90 | +18.7% | +12.4% | T0 | False |
+| 14 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3965.00 | +18.3% | +13.5% | T0 | False |
+| 15 | SCAR-20 \| Torn (Factory New) | 36.80 | +18.1% | -14.7% | T1 | False |
+| 16 | PP-Bizon \| Harvester (Factory New) | 49.89 | +17.0% | -4.6% | T1 | False |
+| 17 | SG 553 \| Lush Ruins (Factory New) | 36.89 | +16.7% | +42.8% | T0 | False |
+| 18 | M4A1-S \| Briefing (Factory New) | 574.50 | +16.5% | -11.2% | T1 | False |
+| 19 | Dual Berettas \| Hydro Strike (Factory New) | 72.00 | +16.3% | -8.8% | T1 | False |
+| 20 | Desert Eagle \| The Bronze (Factory New) | 92.00 | +16.1% | +1.8% | T1 | False |
+| 21 | USP-S \| Blood Tiger (Factory New) | 240.66 | +16.0% | +32.5% | T0 | False |
+| 22 | FAMAS \| CaliCamo (Factory New) | 159.00 | +15.7% | -4.8% | T1 | False |
+| 23 | Galil AR \| Vandal (Factory New) | 330.00 | +15.5% | -12.5% | T1 | False |
+| 24 | MP9 \| Music Box (Factory New) | 540.00 | +15.3% | -22.4% | T1 | False |
+| 25 | Glock-18 \| Catacombs (Factory New) | 43.57 | +15.3% | +4.2% | T1 | False |
+| 26 | P2000 \| Turf (Factory New) | 119.50 | +15.1% | +7.3% | T0 | False |
+| 27 | USP-S \| 27 (Factory New) | 67.00 | +14.9% | -2.3% | T1 | False |
+| 28 | Dual Berettas \| Oil Change (Factory New) | 36.90 | +14.4% | +19.5% | T0 | False |
+| 29 | PP-Bizon \| Water Sigil (Factory New) | 55.00 | +14.3% | -2.9% | T1 | False |
+| 30 | USP-S \| Para Green (Factory New) | 680.00 | +14.2% | -13.9% | T1 | False |
 
 ## 2026-04-04
 
@@ -2192,20 +2192,20 @@
 | 14 | PP-Bizon \| Water Sigil (Factory New) | 54.89 | +18.0% | -1.9% | T1 | False |
 | 15 | Desert Eagle \| Light Rail (Factory New) | 124.88 | +17.9% | -5.7% | T1 | False |
 | 16 | AUG \| Aristocrat (Factory New) | 129.00 | +17.8% | -8.4% | T1 | False |
-| 17 | MAG-7 \| Silver (Factory New) | 179.99 | +17.4% | -8.4% | T1 | False |
-| 18 | R8 Revolver \| Nitro (Factory New) | 37.00 | +17.3% | +33.6% | T0 | False |
-| 19 | Glock-18 \| Grinder (Factory New) | 103.49 | +17.3% | +4.5% | T1 | False |
-| 20 | USP-S \| Flashback (Factory New) | 32.95 | +17.2% | +3.6% | T1 | False |
-| 21 | P2000 \| Panther Camo (Factory New) | 199.50 | +17.0% | -13.5% | T1 | False |
-| 22 | USP-S \| Forest Leaves (Factory New) | 90.80 | +17.0% | -3.5% | T1 | False |
-| 23 | P2000 \| Turf (Factory New) | 117.00 | +16.8% | +17.5% | T0 | False |
-| 24 | PP-Bizon \| Harvester (Factory New) | 49.49 | +16.4% | +0.5% | T1 | False |
-| 25 | USP-S \| Blood Tiger (Factory New) | 245.50 | +16.4% | +41.7% | T0 | False |
-| 26 | AWP \| Atheris (Factory New) | 315.00 | +15.8% | -0.2% | T1 | False |
-| 27 | FAMAS \| CaliCamo (Factory New) | 156.90 | +15.7% | -8.7% | T1 | False |
-| 28 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3988.90 | +15.5% | +20.1% | T0 | False |
-| 29 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2348.00 | +15.3% | +20.8% | T0 | False |
-| 30 | MAC-10 \| Aloha (Factory New) | 138.88 | +15.1% | -0.8% | T1 | False |
+| 17 | Glock-18 \| Grinder (Factory New) | 103.49 | +17.3% | +4.5% | T1 | False |
+| 18 | USP-S \| Flashback (Factory New) | 32.95 | +17.2% | +3.6% | T1 | False |
+| 19 | P2000 \| Panther Camo (Factory New) | 199.50 | +17.0% | -13.5% | T1 | False |
+| 20 | USP-S \| Forest Leaves (Factory New) | 90.80 | +17.0% | -3.5% | T1 | False |
+| 21 | P2000 \| Turf (Factory New) | 117.00 | +16.8% | +17.5% | T0 | False |
+| 22 | PP-Bizon \| Harvester (Factory New) | 49.49 | +16.4% | +0.5% | T1 | False |
+| 23 | USP-S \| Blood Tiger (Factory New) | 245.50 | +16.4% | +41.7% | T0 | False |
+| 24 | AWP \| Atheris (Factory New) | 315.00 | +15.8% | -0.2% | T1 | False |
+| 25 | FAMAS \| CaliCamo (Factory New) | 156.90 | +15.7% | -8.7% | T1 | False |
+| 26 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3988.90 | +15.5% | +20.1% | T0 | False |
+| 27 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2348.00 | +15.3% | +20.8% | T0 | False |
+| 28 | MAC-10 \| Aloha (Factory New) | 138.88 | +15.1% | -0.8% | T1 | False |
+| 29 | SSG 08 \| Spring Twilly (Factory New) | 50.68 | +15.1% | +24.2% | T0 | False |
+| 30 | MAC-10 \| Last Dive (Factory New) | 79.80 | +15.0% | -13.7% | T1 | False |
 
 ## 2026-04-05
 
@@ -2216,31 +2216,31 @@
 | 3 | SSG 08 \| Carbon Fiber (Factory New) | 86.88 | +36.5% | -8.0% | T1 | False |
 | 4 | MAC-10 \| Carnivore (Factory New) | 50.95 | +34.0% | -4.6% | T1 | False |
 | 5 | MAC-10 \| Aloha (Factory New) | 138.37 | +30.8% | -20.1% | T1 | False |
-| 6 | R8 Revolver \| Nitro (Factory New) | 38.50 | +30.7% | +11.9% | T0 | False |
-| 7 | UMP-45 \| Full Stop (Factory New) | 56.40 | +28.0% | -14.2% | T1 | False |
-| 8 | MP7 \| Akoben (Factory New) | 41.90 | +27.6% | +2.5% | T1 | False |
-| 9 | USP-S \| Pathfinder (Factory New) | 750.00 | +26.8% | -18.1% | T1 | False |
-| 10 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3475.43 | +26.0% | -3.1% | T1 | False |
-| 11 | Dual Berettas \| Heist (Factory New) | 54.90 | +26.0% | -6.0% | T1 | False |
-| 12 | MAC-10 \| Strats (Factory New) | 64.00 | +21.7% | +0.8% | T1 | False |
-| 13 | AWP \| Mortis (Factory New) | 136.00 | +21.3% | -18.5% | T1 | False |
-| 14 | Dual Berettas \| Switch Board (Factory New) | 63.58 | +20.0% | +19.2% | T0 | False |
-| 15 | MP7 \| Astrolabe (Factory New) | 62.00 | +19.6% | +15.7% | T0 | False |
-| 16 | MAC-10 \| Last Dive (Factory New) | 76.80 | +19.3% | -11.1% | T1 | False |
-| 17 | Tec-9 \| Mummy's Rot (Factory New) | 194.50 | +19.1% | -6.5% | T1 | False |
-| 18 | MAG-7 \| Silver (Factory New) | 178.49 | +18.4% | -10.3% | T1 | False |
-| 19 | FAMAS \| CaliCamo (Factory New) | 161.00 | +18.1% | +3.1% | T1 | False |
-| 20 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2244.00 | +18.0% | +9.4% | T0 | False |
-| 21 | USP-S \| Forest Leaves (Factory New) | 85.00 | +18.0% | -11.7% | T1 | False |
-| 22 | ★ Driver Gloves \| Convoy (Field-Tested) | 2965.00 | +17.6% | +15.9% | T0 | False |
-| 23 | PP-Bizon \| Water Sigil (Factory New) | 52.90 | +17.6% | +5.6% | T0 | False |
-| 24 | AWP \| Atheris (Factory New) | 306.00 | +17.6% | -3.6% | T1 | False |
-| 25 | Desert Eagle \| Light Rail (Factory New) | 124.00 | +17.2% | -17.3% | T1 | False |
-| 26 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3860.00 | +16.7% | +10.5% | T0 | False |
-| 27 | Dual Berettas \| Drift Wood (Factory New) | 57.90 | +16.4% | +10.0% | T0 | False |
-| 28 | P250 \| Iron Clad (Factory New) | 89.75 | +15.4% | -0.8% | T1 | False |
-| 29 | MAC-10 \| Tatter (Factory New) | 182.88 | +15.4% | -14.0% | T1 | False |
-| 30 | MP7 \| Tall Grass (Factory New) | 215.47 | +14.7% | -1.7% | T1 | False |
+| 6 | UMP-45 \| Full Stop (Factory New) | 56.40 | +28.0% | -14.2% | T1 | False |
+| 7 | MP7 \| Akoben (Factory New) | 41.90 | +27.6% | +2.5% | T1 | False |
+| 8 | USP-S \| Pathfinder (Factory New) | 750.00 | +26.8% | -18.1% | T1 | False |
+| 9 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3475.43 | +26.0% | -3.1% | T1 | False |
+| 10 | Dual Berettas \| Heist (Factory New) | 54.90 | +26.0% | -6.0% | T1 | False |
+| 11 | MAC-10 \| Strats (Factory New) | 64.00 | +21.7% | +0.8% | T1 | False |
+| 12 | AWP \| Mortis (Factory New) | 136.00 | +21.3% | -18.5% | T1 | False |
+| 13 | Dual Berettas \| Switch Board (Factory New) | 63.58 | +20.0% | +19.2% | T0 | False |
+| 14 | MP7 \| Astrolabe (Factory New) | 62.00 | +19.6% | +15.7% | T0 | False |
+| 15 | MAC-10 \| Last Dive (Factory New) | 76.80 | +19.3% | -11.1% | T1 | False |
+| 16 | Tec-9 \| Mummy's Rot (Factory New) | 194.50 | +19.1% | -6.5% | T1 | False |
+| 17 | FAMAS \| CaliCamo (Factory New) | 161.00 | +18.1% | +3.1% | T1 | False |
+| 18 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2244.00 | +18.0% | +9.4% | T0 | False |
+| 19 | USP-S \| Forest Leaves (Factory New) | 85.00 | +18.0% | -11.7% | T1 | False |
+| 20 | ★ Driver Gloves \| Convoy (Field-Tested) | 2965.00 | +17.6% | +15.9% | T0 | False |
+| 21 | PP-Bizon \| Water Sigil (Factory New) | 52.90 | +17.6% | +5.6% | T0 | False |
+| 22 | AWP \| Atheris (Factory New) | 306.00 | +17.6% | -3.6% | T1 | False |
+| 23 | Desert Eagle \| Light Rail (Factory New) | 124.00 | +17.2% | -17.3% | T1 | False |
+| 24 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3860.00 | +16.7% | +10.5% | T0 | False |
+| 25 | Dual Berettas \| Drift Wood (Factory New) | 57.90 | +16.4% | +10.0% | T0 | False |
+| 26 | P250 \| Iron Clad (Factory New) | 89.75 | +15.4% | -0.8% | T1 | False |
+| 27 | MAC-10 \| Tatter (Factory New) | 182.88 | +15.4% | -14.0% | T1 | False |
+| 28 | MP7 \| Tall Grass (Factory New) | 215.47 | +14.7% | -1.7% | T1 | False |
+| 29 | USP-S \| 27 (Factory New) | 68.88 | +14.7% | -9.3% | T1 | False |
+| 30 | Glock-18 \| Grinder (Factory New) | 99.58 | +14.5% | -5.5% | T1 | False |
 
 ## 2026-04-06
 
@@ -2251,31 +2251,31 @@
 | 3 | MP7 \| Tall Grass (Factory New) | 209.99 | +40.5% | -32.1% | T1 | False |
 | 4 | MAC-10 \| Classic Crate (Factory New) | 44.90 | +36.9% | -20.1% | T1 | False |
 | 5 | MAC-10 \| Aloha (Factory New) | 137.22 | +34.5% | -21.7% | T1 | False |
-| 6 | R8 Revolver \| Nitro (Factory New) | 39.50 | +34.2% | +4.1% | T1 | False |
-| 7 | USP-S \| Pathfinder (Factory New) | 727.75 | +34.1% | -22.2% | T1 | False |
-| 8 | MAC-10 \| Strats (Factory New) | 63.40 | +33.7% | -20.1% | T1 | False |
-| 9 | MP9 \| Dart (Factory New) | 37.78 | +32.6% | -9.9% | T1 | False |
-| 10 | FAMAS \| CaliCamo (Factory New) | 168.00 | +29.9% | +1.1% | T1 | False |
-| 11 | SSG 08 \| Spring Twilly (Factory New) | 54.00 | +29.6% | +2.1% | T1 | False |
-| 12 | Dual Berettas \| Panther (Factory New) | 84.35 | +29.2% | -22.1% | T1 | False |
-| 13 | AUG \| Condemned (Factory New) | 49.80 | +29.1% | -14.6% | T1 | False |
-| 14 | Desert Eagle \| The Bronze (Factory New) | 87.33 | +28.4% | -20.4% | T1 | False |
-| 15 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3600.00 | +28.3% | -14.7% | T1 | False |
-| 16 | MAC-10 \| Carnivore (Factory New) | 49.50 | +28.1% | -8.1% | T1 | False |
-| 17 | AUG \| Daedalus (Factory New) | 63.79 | +27.0% | -12.8% | T1 | False |
-| 18 | SSG 08 \| Carbon Fiber (Factory New) | 89.78 | +26.8% | -15.5% | T1 | False |
-| 19 | Glock-18 \| Grinder (Factory New) | 99.89 | +26.3% | -18.4% | T1 | False |
-| 20 | P90 \| Tiger Pit (Factory New) | 249.38 | +26.2% | -13.4% | T1 | False |
-| 21 | P250 \| Iron Clad (Factory New) | 89.50 | +25.8% | -7.3% | T1 | False |
-| 22 | P2000 \| Ivory (Factory New) | 96.00 | +25.6% | -16.1% | T1 | False |
-| 23 | Dual Berettas \| Moon in Libra (Factory New) | 97.78 | +25.5% | -14.0% | T1 | False |
-| 24 | XM1014 \| Teclu Burner (Factory New) | 67.89 | +24.8% | +8.9% | T0 | False |
-| 25 | Desert Eagle \| Light Rail (Factory New) | 126.86 | +24.4% | -29.0% | T1 | False |
-| 26 | Tec-9 \| Jambiya (Factory New) | 116.50 | +23.6% | +43.0% | T0 | False |
-| 27 | PP-Bizon \| Photic Zone (Factory New) | 51.78 | +23.3% | -15.1% | T1 | False |
-| 28 | PP-Bizon \| Water Sigil (Factory New) | 50.90 | +23.3% | -5.0% | T1 | False |
-| 29 | USP-S \| Forest Leaves (Factory New) | 84.99 | +22.2% | -20.0% | T1 | False |
-| 30 | MP7 \| Astrolabe (Factory New) | 69.00 | +21.6% | -6.0% | T1 | False |
+| 6 | USP-S \| Pathfinder (Factory New) | 727.75 | +34.1% | -22.2% | T1 | False |
+| 7 | MAC-10 \| Strats (Factory New) | 63.40 | +33.7% | -20.1% | T1 | False |
+| 8 | MP9 \| Dart (Factory New) | 37.78 | +32.6% | -9.9% | T1 | False |
+| 9 | FAMAS \| CaliCamo (Factory New) | 168.00 | +29.9% | +1.1% | T1 | False |
+| 10 | SSG 08 \| Spring Twilly (Factory New) | 54.00 | +29.6% | +2.1% | T1 | False |
+| 11 | Dual Berettas \| Panther (Factory New) | 84.35 | +29.2% | -22.1% | T1 | False |
+| 12 | AUG \| Condemned (Factory New) | 49.80 | +29.1% | -14.6% | T1 | False |
+| 13 | Desert Eagle \| The Bronze (Factory New) | 87.33 | +28.4% | -20.4% | T1 | False |
+| 14 | ★ Specialist Gloves \| Forest DDPAT (Minimal Wear) | 3600.00 | +28.3% | -14.7% | T1 | False |
+| 15 | MAC-10 \| Carnivore (Factory New) | 49.50 | +28.1% | -8.1% | T1 | False |
+| 16 | AUG \| Daedalus (Factory New) | 63.79 | +27.0% | -12.8% | T1 | False |
+| 17 | SSG 08 \| Carbon Fiber (Factory New) | 89.78 | +26.8% | -15.5% | T1 | False |
+| 18 | Glock-18 \| Grinder (Factory New) | 99.89 | +26.3% | -18.4% | T1 | False |
+| 19 | P90 \| Tiger Pit (Factory New) | 249.38 | +26.2% | -13.4% | T1 | False |
+| 20 | P250 \| Iron Clad (Factory New) | 89.50 | +25.8% | -7.3% | T1 | False |
+| 21 | P2000 \| Ivory (Factory New) | 96.00 | +25.6% | -16.1% | T1 | False |
+| 22 | Dual Berettas \| Moon in Libra (Factory New) | 97.78 | +25.5% | -14.0% | T1 | False |
+| 23 | Desert Eagle \| Light Rail (Factory New) | 126.86 | +24.4% | -29.0% | T1 | False |
+| 24 | Tec-9 \| Jambiya (Factory New) | 116.50 | +23.6% | +43.0% | T0 | False |
+| 25 | PP-Bizon \| Photic Zone (Factory New) | 51.78 | +23.3% | -15.1% | T1 | False |
+| 26 | PP-Bizon \| Water Sigil (Factory New) | 50.90 | +23.3% | -5.0% | T1 | False |
+| 27 | USP-S \| Forest Leaves (Factory New) | 84.99 | +22.2% | -20.0% | T1 | False |
+| 28 | MP7 \| Astrolabe (Factory New) | 69.00 | +21.6% | -6.0% | T1 | False |
+| 29 | Dual Berettas \| Briar (Factory New) | 55.93 | +21.1% | -13.5% | T1 | False |
+| 30 | AWP \| Acheron (Factory New) | 80.00 | +20.9% | -18.1% | T1 | False |
 
 ## 2026-04-07
 
@@ -2284,33 +2284,33 @@
 | 1 | Dual Berettas \| Heist (Factory New) | 50.50 | +110.7% | -46.7% | T1 | False |
 | 2 | Tec-9 \| Jambiya (Factory New) | 116.00 | +81.8% | -5.2% | T1 | False |
 | 3 | MP9 \| Sand Scale (Factory New) | 34.00 | +73.9% | +29.0% | T0 | False |
-| 4 | R8 Revolver \| Nitro (Factory New) | 39.49 | +73.2% | -34.1% | T1 | False |
-| 5 | R8 Revolver \| Junk Yard (Factory New) | 33.50 | +70.0% | -23.0% | T1 | False |
-| 6 | MAC-10 \| Carnivore (Factory New) | 52.00 | +57.9% | -30.5% | T1 | False |
-| 7 | CZ75-Auto \| Polymer (Factory New) | 33.00 | +54.7% | +29.4% | T0 | False |
-| 8 | P90 \| Traction (Factory New) | 32.38 | +54.4% | -9.7% | T1 | False |
-| 9 | MAC-10 \| Palm (Factory New) | 38.99 | +54.1% | -24.3% | T1 | False |
-| 10 | P2000 \| Ivory (Factory New) | 96.80 | +52.6% | -20.4% | T1 | False |
-| 11 | AUG \| Amber Fade (Factory New) | 69.80 | +51.9% | -22.5% | T1 | False |
-| 12 | MAC-10 \| Whitefish (Factory New) | 42.50 | +51.0% | -21.2% | T1 | False |
-| 13 | Tec-9 \| Blue Titanium (Factory New) | 122.00 | +50.4% | -26.4% | T1 | False |
-| 14 | Dual Berettas \| Switch Board (Factory New) | 61.50 | +48.9% | -21.8% | T1 | False |
-| 15 | Dual Berettas \| Oil Change (Factory New) | 43.00 | +48.3% | -25.6% | T1 | False |
-| 16 | MAC-10 \| Strats (Factory New) | 62.80 | +46.6% | -30.7% | T1 | False |
-| 17 | MP7 \| Astrolabe (Factory New) | 77.00 | +46.2% | -31.8% | T1 | False |
-| 18 | MP7 \| Akoben (Factory New) | 46.00 | +46.0% | -33.6% | T1 | False |
-| 19 | FAMAS \| Colony (Factory New) | 33.80 | +45.1% | -27.4% | T1 | False |
-| 20 | P250 \| Boreal Forest (Factory New) | 33.98 | +44.8% | +0.8% | T1 | False |
-| 21 | P90 \| Cocoa Rampage (Factory New) | 35.27 | +44.5% | -11.2% | T1 | False |
-| 22 | Tec-9 \| Urban DDPAT (Factory New) | 34.65 | +44.2% | -29.9% | T1 | False |
-| 23 | AUG \| Ricochet (Factory New) | 38.70 | +43.5% | -32.9% | T1 | False |
-| 24 | MP9 \| Dart (Factory New) | 36.39 | +43.4% | -21.1% | T1 | False |
-| 25 | Glock-18 \| Catacombs (Factory New) | 42.20 | +42.8% | -32.2% | T1 | False |
-| 26 | Tec-9 \| Snek-9 (Factory New) | 84.00 | +42.4% | -28.4% | T1 | False |
-| 27 | AUG \| Condemned (Factory New) | 49.28 | +42.3% | -31.8% | T1 | False |
-| 28 | XM1014 \| Teclu Burner (Factory New) | 66.35 | +41.5% | -11.7% | T1 | False |
-| 29 | Desert Eagle \| Blue Ply (Factory New) | 42.90 | +41.5% | -25.1% | T1 | False |
-| 30 | R8 Revolver \| Memento (Factory New) | 89.90 | +40.2% | -17.8% | T1 | False |
+| 4 | MAC-10 \| Carnivore (Factory New) | 52.00 | +57.9% | -30.5% | T1 | False |
+| 5 | CZ75-Auto \| Polymer (Factory New) | 33.00 | +54.7% | +29.4% | T0 | False |
+| 6 | P90 \| Traction (Factory New) | 32.38 | +54.4% | -9.7% | T1 | False |
+| 7 | MAC-10 \| Palm (Factory New) | 38.99 | +54.1% | -24.3% | T1 | False |
+| 8 | P2000 \| Ivory (Factory New) | 96.80 | +52.6% | -20.4% | T1 | False |
+| 9 | AUG \| Amber Fade (Factory New) | 69.80 | +51.9% | -22.5% | T1 | False |
+| 10 | MAC-10 \| Whitefish (Factory New) | 42.50 | +51.0% | -21.2% | T1 | False |
+| 11 | Tec-9 \| Blue Titanium (Factory New) | 122.00 | +50.4% | -26.4% | T1 | False |
+| 12 | Dual Berettas \| Switch Board (Factory New) | 61.50 | +48.9% | -21.8% | T1 | False |
+| 13 | Dual Berettas \| Oil Change (Factory New) | 43.00 | +48.3% | -25.6% | T1 | False |
+| 14 | MAC-10 \| Strats (Factory New) | 62.80 | +46.6% | -30.7% | T1 | False |
+| 15 | MP7 \| Astrolabe (Factory New) | 77.00 | +46.2% | -31.8% | T1 | False |
+| 16 | MP7 \| Akoben (Factory New) | 46.00 | +46.0% | -33.6% | T1 | False |
+| 17 | FAMAS \| Colony (Factory New) | 33.80 | +45.1% | -27.4% | T1 | False |
+| 18 | P250 \| Boreal Forest (Factory New) | 33.98 | +44.8% | +0.8% | T1 | False |
+| 19 | P90 \| Cocoa Rampage (Factory New) | 35.27 | +44.5% | -11.2% | T1 | False |
+| 20 | Tec-9 \| Urban DDPAT (Factory New) | 34.65 | +44.2% | -29.9% | T1 | False |
+| 21 | AUG \| Ricochet (Factory New) | 38.70 | +43.5% | -32.9% | T1 | False |
+| 22 | MP9 \| Dart (Factory New) | 36.39 | +43.4% | -21.1% | T1 | False |
+| 23 | Glock-18 \| Catacombs (Factory New) | 42.20 | +42.8% | -32.2% | T1 | False |
+| 24 | Tec-9 \| Snek-9 (Factory New) | 84.00 | +42.4% | -28.4% | T1 | False |
+| 25 | AUG \| Condemned (Factory New) | 49.28 | +42.3% | -31.8% | T1 | False |
+| 26 | Desert Eagle \| Blue Ply (Factory New) | 42.90 | +41.5% | -25.1% | T1 | False |
+| 27 | SSG 08 \| Carbon Fiber (Factory New) | 94.80 | +39.9% | -28.2% | T1 | False |
+| 28 | PP-Bizon \| Water Sigil (Factory New) | 50.90 | +39.9% | -21.1% | T1 | False |
+| 29 | P90 \| Verdant Growth (Factory New) | 58.00 | +39.8% | -20.7% | T1 | False |
+| 30 | Tec-9 \| Cut Out (Factory New) | 160.98 | +39.1% | -27.7% | T1 | False |
 
 ## 2026-04-08
 
@@ -2319,103 +2319,103 @@
 | 1 | P90 \| Cocoa Rampage (Factory New) | 33.40 | +77.3% | -40.4% | T1 | False |
 | 2 | Tec-9 \| Jambiya (Factory New) | 111.49 | +73.8% | -13.2% | T1 | False |
 | 3 | G3SG1 \| Digital Mesh (Factory New) | 31.99 | +66.1% | -30.1% | T1 | True |
-| 4 | R8 Revolver \| Junk Yard (Factory New) | 31.23 | +60.2% | -17.2% | T1 | False |
-| 5 | Dual Berettas \| Heist (Factory New) | 44.84 | +55.7% | -51.2% | T1 | False |
-| 6 | R8 Revolver \| Nitro (Factory New) | 39.00 | +55.4% | -30.2% | T1 | False |
-| 7 | Dual Berettas \| Balance (Factory New) | 84.50 | +54.2% | -13.6% | T1 | False |
-| 8 | Dual Berettas \| Switch Board (Factory New) | 61.50 | +51.2% | -28.0% | T1 | False |
-| 9 | Dual Berettas \| Cartel (Factory New) | 60.00 | +44.8% | -33.4% | T1 | False |
-| 10 | P90 \| Verdant Growth (Factory New) | 58.00 | +44.2% | -34.5% | T1 | False |
-| 11 | MAC-10 \| Whitefish (Factory New) | 42.19 | +42.9% | -27.4% | T1 | False |
-| 12 | R8 Revolver \| Memento (Factory New) | 79.87 | +40.2% | -18.0% | T1 | False |
-| 13 | MP9 \| Old Roots (Factory New) | 73.00 | +37.2% | -25.4% | T1 | False |
-| 14 | AUG \| Condemned (Factory New) | 48.76 | +37.0% | -30.0% | T1 | False |
-| 15 | Dual Berettas \| Briar (Factory New) | 52.50 | +36.6% | -27.5% | T1 | False |
-| 16 | MAC-10 \| Classic Crate (Factory New) | 41.90 | +35.9% | -33.8% | T1 | False |
-| 17 | MP7 \| Tall Grass (Factory New) | 195.00 | +34.6% | -25.7% | T1 | False |
-| 18 | Tec-9 \| Snek-9 (Factory New) | 79.30 | +34.2% | -29.6% | T1 | False |
-| 19 | PP-Bizon \| Photic Zone (Factory New) | 48.29 | +33.8% | -32.0% | T1 | False |
-| 20 | MAC-10 \| Palm (Factory New) | 35.70 | +33.3% | -32.6% | T1 | False |
-| 21 | MAG-7 \| SWAG-7 (Factory New) | 40.00 | +32.3% | +3.2% | T1 | False |
-| 22 | AUG \| Plague (Factory New) | 67.61 | +32.2% | -32.2% | T1 | False |
-| 23 | P2000 \| Ivory (Factory New) | 84.39 | +32.2% | -18.4% | T1 | False |
-| 24 | MP7 \| Astrolabe (Factory New) | 70.99 | +32.0% | -31.7% | T1 | False |
-| 25 | Dual Berettas \| Moon in Libra (Factory New) | 92.99 | +31.9% | -30.2% | T1 | False |
-| 26 | P250 \| Iron Clad (Factory New) | 85.92 | +31.3% | -19.8% | T1 | False |
-| 27 | MP9 \| Dart (Factory New) | 35.00 | +30.8% | -27.7% | T1 | False |
-| 28 | PP-Bizon \| Harvester (Factory New) | 45.87 | +30.0% | -36.0% | T1 | False |
-| 29 | Dual Berettas \| Oil Change (Factory New) | 40.20 | +29.7% | -38.8% | T1 | False |
-| 30 | AUG \| Amber Fade (Factory New) | 64.80 | +29.3% | -32.2% | T1 | False |
+| 4 | Dual Berettas \| Heist (Factory New) | 44.84 | +55.7% | -51.2% | T1 | False |
+| 5 | Dual Berettas \| Balance (Factory New) | 84.50 | +54.2% | -13.6% | T1 | False |
+| 6 | Dual Berettas \| Switch Board (Factory New) | 61.50 | +51.2% | -28.0% | T1 | False |
+| 7 | Dual Berettas \| Cartel (Factory New) | 60.00 | +44.8% | -33.4% | T1 | False |
+| 8 | P90 \| Verdant Growth (Factory New) | 58.00 | +44.2% | -34.5% | T1 | False |
+| 9 | MAC-10 \| Whitefish (Factory New) | 42.19 | +42.9% | -27.4% | T1 | False |
+| 10 | MP9 \| Old Roots (Factory New) | 73.00 | +37.2% | -25.4% | T1 | False |
+| 11 | AUG \| Condemned (Factory New) | 48.76 | +37.0% | -30.0% | T1 | False |
+| 12 | Dual Berettas \| Briar (Factory New) | 52.50 | +36.6% | -27.5% | T1 | False |
+| 13 | MAC-10 \| Classic Crate (Factory New) | 41.90 | +35.9% | -33.8% | T1 | False |
+| 14 | MP7 \| Tall Grass (Factory New) | 195.00 | +34.6% | -25.7% | T1 | False |
+| 15 | Tec-9 \| Snek-9 (Factory New) | 79.30 | +34.2% | -29.6% | T1 | False |
+| 16 | PP-Bizon \| Photic Zone (Factory New) | 48.29 | +33.8% | -32.0% | T1 | False |
+| 17 | MAC-10 \| Palm (Factory New) | 35.70 | +33.3% | -32.6% | T1 | False |
+| 18 | AUG \| Plague (Factory New) | 67.61 | +32.2% | -32.2% | T1 | False |
+| 19 | P2000 \| Ivory (Factory New) | 84.39 | +32.2% | -18.4% | T1 | False |
+| 20 | MP7 \| Astrolabe (Factory New) | 70.99 | +32.0% | -31.7% | T1 | False |
+| 21 | Dual Berettas \| Moon in Libra (Factory New) | 92.99 | +31.9% | -30.2% | T1 | False |
+| 22 | P250 \| Iron Clad (Factory New) | 85.92 | +31.3% | -19.8% | T1 | False |
+| 23 | MP9 \| Dart (Factory New) | 35.00 | +30.8% | -27.7% | T1 | False |
+| 24 | PP-Bizon \| Harvester (Factory New) | 45.87 | +30.0% | -36.0% | T1 | False |
+| 25 | Dual Berettas \| Oil Change (Factory New) | 40.20 | +29.7% | -38.8% | T1 | False |
+| 26 | AUG \| Amber Fade (Factory New) | 64.80 | +29.3% | -32.2% | T1 | False |
+| 27 | PP-Bizon \| Water Sigil (Factory New) | 49.00 | +29.2% | -34.7% | T1 | False |
+| 28 | AUG \| Aristocrat (Factory New) | 126.00 | +29.1% | -39.1% | T1 | False |
+| 29 | P250 \| Dark Filigree (Factory New) | 169.99 | +28.9% | -28.3% | T1 | False |
+| 30 | AUG \| Spalted Wood (Factory New) | 67.00 | +28.7% | -27.8% | T1 | False |
 
 ## 2026-04-09
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Junk Yard (Factory New) | 31.33 | +67.1% | +1.0% | T1 | False |
-| 2 | P90 \| Traction (Factory New) | 34.30 | +55.0% | -28.7% | T1 | False |
-| 3 | R8 Revolver \| Nitro (Factory New) | 39.70 | +54.6% | -13.9% | T1 | False |
-| 4 | P90 \| Cocoa Rampage (Factory New) | 32.88 | +53.1% | -20.0% | T1 | False |
-| 5 | Tec-9 \| Jambiya (Factory New) | 118.88 | +49.3% | +8.3% | T0 | False |
-| 6 | SG 553 \| Lush Ruins (Factory New) | 38.00 | +42.9% | -17.4% | T1 | False |
-| 7 | MP7 \| Akoben (Factory New) | 45.00 | +38.3% | -29.0% | T1 | False |
-| 8 | Dual Berettas \| Balance (Factory New) | 83.90 | +37.4% | +2.6% | T1 | False |
-| 9 | MAC-10 \| Palm (Factory New) | 42.50 | +35.1% | -14.7% | T1 | False |
-| 10 | MP9 \| Sand Scale (Factory New) | 32.00 | +34.4% | +22.3% | T0 | False |
-| 11 | AUG \| Condemned (Factory New) | 47.90 | +33.2% | -24.6% | T1 | False |
-| 12 | SSG 08 \| Spring Twilly (Factory New) | 54.99 | +31.3% | -0.9% | T1 | False |
-| 13 | MAC-10 \| Whitefish (Factory New) | 41.88 | +30.5% | -11.6% | T1 | False |
-| 14 | MAC-10 \| Carnivore (Factory New) | 58.89 | +30.0% | -26.5% | T1 | False |
-| 15 | G3SG1 \| Digital Mesh (Factory New) | 31.97 | +29.8% | -7.6% | T1 | True |
-| 16 | MP9 \| Old Roots (Factory New) | 71.00 | +29.2% | -13.4% | T1 | False |
-| 17 | MAG-7 \| SWAG-7 (Factory New) | 42.24 | +28.9% | +20.6% | T0 | False |
-| 18 | G3SG1 \| Stinger (Factory New) | 61.69 | +28.2% | +13.3% | T0 | False |
-| 19 | Dual Berettas \| Switch Board (Factory New) | 59.90 | +24.9% | -16.7% | T1 | False |
-| 20 | Dual Berettas \| Cartel (Factory New) | 58.00 | +24.0% | -25.5% | T1 | False |
-| 21 | MAC-10 \| Classic Crate (Factory New) | 41.20 | +23.5% | -16.5% | T1 | False |
-| 22 | MP7 \| Tall Grass (Factory New) | 191.50 | +23.4% | -22.8% | T1 | False |
-| 23 | Dual Berettas \| Moon in Libra (Factory New) | 90.00 | +22.5% | -19.2% | T1 | False |
-| 24 | USP-S \| Blood Tiger (Factory New) | 256.50 | +22.3% | -11.3% | T1 | False |
-| 25 | AUG \| Amber Fade (Factory New) | 73.90 | +21.9% | -14.7% | T1 | False |
-| 26 | P90 \| Verdant Growth (Factory New) | 58.70 | +21.8% | -17.6% | T1 | False |
-| 27 | Dual Berettas \| Oil Change (Factory New) | 45.80 | +21.6% | -19.7% | T1 | False |
-| 28 | XM1014 \| Teclu Burner (Factory New) | 67.00 | +20.6% | -3.8% | T1 | False |
-| 29 | Dual Berettas \| Tread (Factory New) | 63.04 | +19.9% | -22.5% | T1 | False |
-| 30 | PP-Bizon \| Photic Zone (Factory New) | 49.00 | +19.6% | -18.8% | T1 | False |
+| 1 | P90 \| Traction (Factory New) | 34.30 | +55.0% | -28.7% | T1 | False |
+| 2 | P90 \| Cocoa Rampage (Factory New) | 32.88 | +53.1% | -20.0% | T1 | False |
+| 3 | Tec-9 \| Jambiya (Factory New) | 118.88 | +49.3% | +8.3% | T0 | False |
+| 4 | SG 553 \| Lush Ruins (Factory New) | 38.00 | +42.9% | -17.4% | T1 | False |
+| 5 | MP7 \| Akoben (Factory New) | 45.00 | +38.3% | -29.0% | T1 | False |
+| 6 | Dual Berettas \| Balance (Factory New) | 83.90 | +37.4% | +2.6% | T1 | False |
+| 7 | MAC-10 \| Palm (Factory New) | 42.50 | +35.1% | -14.7% | T1 | False |
+| 8 | MP9 \| Sand Scale (Factory New) | 32.00 | +34.4% | +22.3% | T0 | False |
+| 9 | AUG \| Condemned (Factory New) | 47.90 | +33.2% | -24.6% | T1 | False |
+| 10 | SSG 08 \| Spring Twilly (Factory New) | 54.99 | +31.3% | -0.9% | T1 | False |
+| 11 | MAC-10 \| Whitefish (Factory New) | 41.88 | +30.5% | -11.6% | T1 | False |
+| 12 | MAC-10 \| Carnivore (Factory New) | 58.89 | +30.0% | -26.5% | T1 | False |
+| 13 | G3SG1 \| Digital Mesh (Factory New) | 31.97 | +29.8% | -7.6% | T1 | True |
+| 14 | MP9 \| Old Roots (Factory New) | 71.00 | +29.2% | -13.4% | T1 | False |
+| 15 | G3SG1 \| Stinger (Factory New) | 61.69 | +28.2% | +13.3% | T0 | False |
+| 16 | Dual Berettas \| Switch Board (Factory New) | 59.90 | +24.9% | -16.7% | T1 | False |
+| 17 | Dual Berettas \| Cartel (Factory New) | 58.00 | +24.0% | -25.5% | T1 | False |
+| 18 | MAC-10 \| Classic Crate (Factory New) | 41.20 | +23.5% | -16.5% | T1 | False |
+| 19 | MP7 \| Tall Grass (Factory New) | 191.50 | +23.4% | -22.8% | T1 | False |
+| 20 | Dual Berettas \| Moon in Libra (Factory New) | 90.00 | +22.5% | -19.2% | T1 | False |
+| 21 | USP-S \| Blood Tiger (Factory New) | 256.50 | +22.3% | -11.3% | T1 | False |
+| 22 | AUG \| Amber Fade (Factory New) | 73.90 | +21.9% | -14.7% | T1 | False |
+| 23 | P90 \| Verdant Growth (Factory New) | 58.70 | +21.8% | -17.6% | T1 | False |
+| 24 | Dual Berettas \| Oil Change (Factory New) | 45.80 | +21.6% | -19.7% | T1 | False |
+| 25 | Dual Berettas \| Tread (Factory New) | 63.04 | +19.9% | -22.5% | T1 | False |
+| 26 | PP-Bizon \| Photic Zone (Factory New) | 49.00 | +19.6% | -18.8% | T1 | False |
+| 27 | MP7 \| Cirrus (Factory New) | 133.90 | +18.7% | -14.4% | T1 | False |
+| 28 | AUG \| Spalted Wood (Factory New) | 69.00 | +18.4% | -11.9% | T1 | False |
+| 29 | P250 \| Verdigris (Factory New) | 35.75 | +18.1% | -23.8% | T1 | False |
+| 30 | CZ75-Auto \| Hexane (Factory New) | 62.00 | +17.7% | -17.6% | T1 | False |
 
 ## 2026-04-10
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Junk Yard (Factory New) | 31.20 | +69.4% | -0.5% | T1 | False |
-| 2 | G3SG1 \| Digital Mesh (Factory New) | 30.93 | +67.9% | -30.4% | T1 | True |
-| 3 | Tec-9 \| Jambiya (Factory New) | 132.50 | +61.0% | -6.7% | T1 | False |
-| 4 | P250 \| Boreal Forest (Factory New) | 33.78 | +60.8% | -7.4% | T1 | False |
-| 5 | P90 \| Cocoa Rampage (Factory New) | 36.45 | +58.4% | -23.6% | T1 | False |
-| 6 | CZ75-Auto \| Polymer (Factory New) | 37.50 | +57.4% | +11.8% | T0 | False |
-| 7 | P90 \| Traction (Factory New) | 35.30 | +53.0% | -24.4% | T1 | False |
-| 8 | SG 553 \| Lush Ruins (Factory New) | 38.50 | +42.8% | -26.9% | T1 | False |
-| 9 | AUG \| Ricochet (Factory New) | 40.60 | +42.7% | -34.4% | T1 | False |
-| 10 | SSG 08 \| Spring Twilly (Factory New) | 55.50 | +39.5% | -7.2% | T1 | False |
-| 11 | Dual Berettas \| Balance (Factory New) | 85.89 | +39.4% | -2.7% | T1 | False |
-| 12 | R8 Revolver \| Nitro (Factory New) | 39.34 | +39.1% | -18.5% | T1 | False |
-| 13 | MAG-7 \| SWAG-7 (Factory New) | 41.93 | +38.1% | +10.5% | T0 | False |
-| 14 | MP9 \| Sand Scale (Factory New) | 37.90 | +36.2% | +24.5% | T0 | False |
-| 15 | MP7 \| Sunbaked (Factory New) | 31.00 | +34.1% | -21.0% | T1 | False |
-| 16 | P90 \| Ancient Earth (Factory New) | 31.68 | +33.3% | -18.1% | T1 | False |
-| 17 | USP-S \| Blood Tiger (Factory New) | 296.00 | +32.5% | -18.4% | T1 | False |
-| 18 | AUG \| Condemned (Factory New) | 52.00 | +31.2% | -23.7% | T1 | False |
-| 19 | PP-Bizon \| Photic Zone (Factory New) | 50.29 | +31.1% | -24.9% | T1 | False |
-| 20 | G3SG1 \| Stinger (Factory New) | 64.50 | +30.3% | +12.2% | T0 | False |
-| 21 | MAC-10 \| Palm (Factory New) | 40.40 | +28.8% | -16.4% | T1 | False |
-| 22 | MAC-10 \| Carnivore (Factory New) | 58.50 | +28.7% | -16.5% | T1 | False |
-| 23 | Glock-18 \| Clear Polymer (Factory New) | 46.00 | +26.4% | -20.7% | T1 | False |
-| 24 | MAC-10 \| Classic Crate (Factory New) | 43.00 | +25.4% | -28.1% | T1 | False |
-| 25 | R8 Revolver \| Survivalist (Factory New) | 33.18 | +25.3% | -25.3% | T1 | False |
-| 26 | Dual Berettas \| Tread (Factory New) | 60.40 | +24.3% | -29.8% | T1 | False |
-| 27 | P2000 \| Ivory (Factory New) | 97.00 | +24.2% | -6.0% | T1 | False |
-| 28 | MP7 \| Akoben (Factory New) | 43.28 | +24.1% | -20.9% | T1 | False |
-| 29 | XM1014 \| Urban Perforated (Factory New) | 280.59 | +23.9% | -0.3% | T1 | False |
-| 30 | MP9 \| Old Roots (Factory New) | 76.50 | +23.2% | -12.1% | T1 | False |
+| 1 | G3SG1 \| Digital Mesh (Factory New) | 30.93 | +67.9% | -30.4% | T1 | True |
+| 2 | Tec-9 \| Jambiya (Factory New) | 132.50 | +61.0% | -6.7% | T1 | False |
+| 3 | P250 \| Boreal Forest (Factory New) | 33.78 | +60.8% | -7.4% | T1 | False |
+| 4 | P90 \| Cocoa Rampage (Factory New) | 36.45 | +58.4% | -23.6% | T1 | False |
+| 5 | CZ75-Auto \| Polymer (Factory New) | 37.50 | +57.4% | +11.8% | T0 | False |
+| 6 | P90 \| Traction (Factory New) | 35.30 | +53.0% | -24.4% | T1 | False |
+| 7 | SG 553 \| Lush Ruins (Factory New) | 38.50 | +42.8% | -26.9% | T1 | False |
+| 8 | AUG \| Ricochet (Factory New) | 40.60 | +42.7% | -34.4% | T1 | False |
+| 9 | SSG 08 \| Spring Twilly (Factory New) | 55.50 | +39.5% | -7.2% | T1 | False |
+| 10 | Dual Berettas \| Balance (Factory New) | 85.89 | +39.4% | -2.7% | T1 | False |
+| 11 | MP9 \| Sand Scale (Factory New) | 37.90 | +36.2% | +24.5% | T0 | False |
+| 12 | MP7 \| Sunbaked (Factory New) | 31.00 | +34.1% | -21.0% | T1 | False |
+| 13 | P90 \| Ancient Earth (Factory New) | 31.68 | +33.3% | -18.1% | T1 | False |
+| 14 | USP-S \| Blood Tiger (Factory New) | 296.00 | +32.5% | -18.4% | T1 | False |
+| 15 | AUG \| Condemned (Factory New) | 52.00 | +31.2% | -23.7% | T1 | False |
+| 16 | PP-Bizon \| Photic Zone (Factory New) | 50.29 | +31.1% | -24.9% | T1 | False |
+| 17 | G3SG1 \| Stinger (Factory New) | 64.50 | +30.3% | +12.2% | T0 | False |
+| 18 | MAC-10 \| Palm (Factory New) | 40.40 | +28.8% | -16.4% | T1 | False |
+| 19 | MAC-10 \| Carnivore (Factory New) | 58.50 | +28.7% | -16.5% | T1 | False |
+| 20 | Glock-18 \| Clear Polymer (Factory New) | 46.00 | +26.4% | -20.7% | T1 | False |
+| 21 | MAC-10 \| Classic Crate (Factory New) | 43.00 | +25.4% | -28.1% | T1 | False |
+| 22 | Dual Berettas \| Tread (Factory New) | 60.40 | +24.3% | -29.8% | T1 | False |
+| 23 | P2000 \| Ivory (Factory New) | 97.00 | +24.2% | -6.0% | T1 | False |
+| 24 | MP7 \| Akoben (Factory New) | 43.28 | +24.1% | -20.9% | T1 | False |
+| 25 | MP9 \| Old Roots (Factory New) | 76.50 | +23.2% | -12.1% | T1 | False |
+| 26 | CZ75-Auto \| Imprint (Factory New) | 42.90 | +23.1% | -27.8% | T1 | False |
+| 27 | MP7 \| Astrolabe (Factory New) | 79.90 | +22.5% | -8.1% | T1 | False |
+| 28 | CZ75-Auto \| Circaetus (Factory New) | 34.90 | +20.5% | -21.8% | T1 | False |
+| 29 | CZ75-Auto \| Hexane (Factory New) | 64.60 | +20.4% | -23.3% | T1 | False |
+| 30 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2869.99 | +19.8% | -10.3% | T1 | False |
 
 ## 2026-04-11
 
@@ -2424,33 +2424,33 @@
 | 1 | P250 \| Boreal Forest (Factory New) | 32.90 | +104.4% | -36.3% | T1 | False |
 | 2 | CZ75-Auto \| Polymer (Factory New) | 34.90 | +99.9% | -7.9% | T1 | False |
 | 3 | Tec-9 \| Jambiya (Factory New) | 134.90 | +83.9% | -18.5% | T1 | False |
-| 4 | R8 Revolver \| Junk Yard (Factory New) | 31.69 | +80.0% | -4.3% | T1 | False |
-| 5 | MP9 \| Sand Scale (Factory New) | 40.40 | +69.1% | -3.6% | T1 | False |
-| 6 | UMP-45 \| Arctic Wolf (Factory New) | 33.96 | +65.9% | -11.1% | T1 | False |
-| 7 | MAG-7 \| SWAG-7 (Factory New) | 43.89 | +63.9% | -9.4% | T1 | False |
-| 8 | P90 \| Cocoa Rampage (Factory New) | 34.50 | +62.7% | -27.7% | T1 | False |
-| 9 | G3SG1 \| Stinger (Factory New) | 64.40 | +57.4% | -7.1% | T1 | False |
-| 10 | P90 \| Traction (Factory New) | 34.20 | +57.2% | -23.7% | T1 | False |
-| 11 | G3SG1 \| Digital Mesh (Factory New) | 30.93 | +55.5% | -29.4% | T1 | True |
-| 12 | P90 \| Elite Build (Factory New) | 44.48 | +52.3% | -25.0% | T1 | False |
-| 13 | AUG \| Ricochet (Factory New) | 40.59 | +47.1% | -32.8% | T1 | False |
-| 14 | AUG \| Radiation Hazard (Factory New) | 108.00 | +45.3% | -6.7% | T1 | False |
-| 15 | SG 553 \| Lush Ruins (Factory New) | 44.60 | +43.3% | -29.0% | T1 | False |
-| 16 | USP-S \| Blood Tiger (Factory New) | 295.00 | +41.7% | -23.6% | T1 | False |
-| 17 | MAC-10 \| Palm (Factory New) | 41.90 | +40.4% | -25.0% | T1 | False |
-| 18 | XM1014 \| Black Tie (Factory New) | 55.99 | +39.1% | +4.6% | T1 | False |
-| 19 | P250 \| Cyber Shell (Factory New) | 94.68 | +36.4% | -30.6% | T1 | False |
-| 20 | MAG-7 \| Copper Coated (Factory New) | 91.59 | +36.3% | -11.0% | T1 | False |
-| 21 | MAG-7 \| Hard Water (Factory New) | 85.99 | +36.0% | -27.8% | T1 | False |
-| 22 | MP7 \| Astrolabe (Factory New) | 78.80 | +35.1% | -22.0% | T1 | False |
-| 23 | R8 Revolver \| Nitro (Factory New) | 44.40 | +33.6% | -22.5% | T1 | False |
-| 24 | P2000 \| Ivory (Factory New) | 99.00 | +33.2% | -15.8% | T1 | False |
-| 25 | Tec-9 \| Snek-9 (Factory New) | 88.88 | +33.1% | -26.1% | T1 | False |
-| 26 | FAMAS \| Survivor Z (Factory New) | 37.00 | +31.9% | +63.6% | T0 | False |
-| 27 | XM1014 \| Ziggy (Factory New) | 56.95 | +31.6% | -20.3% | T1 | False |
-| 28 | CZ75-Auto \| Circaetus (Factory New) | 34.30 | +31.3% | -25.9% | T1 | False |
-| 29 | PP-Bizon \| Photic Zone (Factory New) | 50.00 | +30.3% | -28.9% | T1 | False |
-| 30 | CZ75-Auto \| Silver (Factory New) | 132.00 | +30.2% | +0.5% | T1 | False |
+| 4 | MP9 \| Sand Scale (Factory New) | 40.40 | +69.1% | -3.6% | T1 | False |
+| 5 | UMP-45 \| Arctic Wolf (Factory New) | 33.96 | +65.9% | -11.1% | T1 | False |
+| 6 | P90 \| Cocoa Rampage (Factory New) | 34.50 | +62.7% | -27.7% | T1 | False |
+| 7 | G3SG1 \| Stinger (Factory New) | 64.40 | +57.4% | -7.1% | T1 | False |
+| 8 | P90 \| Traction (Factory New) | 34.20 | +57.2% | -23.7% | T1 | False |
+| 9 | G3SG1 \| Digital Mesh (Factory New) | 30.93 | +55.5% | -29.4% | T1 | True |
+| 10 | P90 \| Elite Build (Factory New) | 44.48 | +52.3% | -25.0% | T1 | False |
+| 11 | AUG \| Ricochet (Factory New) | 40.59 | +47.1% | -32.8% | T1 | False |
+| 12 | AUG \| Radiation Hazard (Factory New) | 108.00 | +45.3% | -6.7% | T1 | False |
+| 13 | SG 553 \| Lush Ruins (Factory New) | 44.60 | +43.3% | -29.0% | T1 | False |
+| 14 | USP-S \| Blood Tiger (Factory New) | 295.00 | +41.7% | -23.6% | T1 | False |
+| 15 | MAC-10 \| Palm (Factory New) | 41.90 | +40.4% | -25.0% | T1 | False |
+| 16 | P250 \| Cyber Shell (Factory New) | 94.68 | +36.4% | -30.6% | T1 | False |
+| 17 | MP7 \| Astrolabe (Factory New) | 78.80 | +35.1% | -22.0% | T1 | False |
+| 18 | P2000 \| Ivory (Factory New) | 99.00 | +33.2% | -15.8% | T1 | False |
+| 19 | Tec-9 \| Snek-9 (Factory New) | 88.88 | +33.1% | -26.1% | T1 | False |
+| 20 | FAMAS \| Survivor Z (Factory New) | 37.00 | +31.9% | +63.6% | T0 | False |
+| 21 | CZ75-Auto \| Circaetus (Factory New) | 34.30 | +31.3% | -25.9% | T1 | False |
+| 22 | PP-Bizon \| Photic Zone (Factory New) | 50.00 | +30.3% | -28.9% | T1 | False |
+| 23 | CZ75-Auto \| Silver (Factory New) | 132.00 | +30.2% | +0.5% | T1 | False |
+| 24 | Tec-9 \| Flash Out (Factory New) | 51.99 | +29.4% | -26.7% | T1 | False |
+| 25 | P250 \| Dark Filigree (Factory New) | 177.00 | +29.2% | -36.1% | T1 | False |
+| 26 | AUG \| Condemned (Factory New) | 52.90 | +28.1% | -27.3% | T1 | False |
+| 27 | Galil AR \| Akoben (Factory New) | 56.00 | +28.0% | -23.8% | T1 | False |
+| 28 | MP7 \| Akoben (Factory New) | 46.50 | +27.9% | -24.3% | T1 | False |
+| 29 | Glock-18 \| Clear Polymer (Factory New) | 45.04 | +27.3% | -21.8% | T1 | False |
+| 30 | Dual Berettas \| Tread (Factory New) | 61.99 | +27.3% | -31.4% | T1 | False |
 
 ## 2026-04-12
 
@@ -2461,136 +2461,134 @@
 | 3 | CZ75-Auto \| Polymer (Factory New) | 33.80 | +74.7% | -1.2% | T1 | False |
 | 4 | Tec-9 \| Jambiya (Factory New) | 134.88 | +68.2% | -15.5% | T1 | False |
 | 5 | UMP-45 \| Arctic Wolf (Factory New) | 33.75 | +63.3% | -13.2% | T1 | False |
-| 6 | R8 Revolver \| Junk Yard (Factory New) | 30.99 | +62.0% | +22.0% | T0 | False |
-| 7 | P90 \| Cocoa Rampage (Factory New) | 34.68 | +56.8% | -33.5% | T1 | False |
-| 8 | MAG-7 \| SWAG-7 (Factory New) | 43.77 | +54.3% | -14.6% | T1 | False |
-| 9 | USP-S \| Blood Tiger (Factory New) | 282.00 | +52.1% | -24.2% | T1 | False |
-| 10 | G3SG1 \| Stinger (Factory New) | 64.40 | +51.1% | -13.0% | T1 | False |
-| 11 | FAMAS \| Survivor Z (Factory New) | 38.80 | +49.8% | +21.3% | T0 | False |
-| 12 | XM1014 \| Black Tie (Factory New) | 54.12 | +47.0% | -0.4% | T1 | False |
-| 13 | P90 \| Elite Build (Factory New) | 42.40 | +46.2% | -24.6% | T1 | False |
-| 14 | P90 \| Traction (Factory New) | 31.87 | +43.6% | -31.8% | T1 | False |
-| 15 | SG 553 \| Lush Ruins (Factory New) | 43.80 | +40.7% | -29.1% | T1 | False |
-| 16 | P250 \| Cyber Shell (Factory New) | 92.00 | +39.3% | -37.4% | T1 | False |
-| 17 | Dual Berettas \| Balance (Factory New) | 99.67 | +32.2% | -10.2% | T1 | False |
-| 18 | XM1014 \| Ziggy (Factory New) | 54.19 | +31.9% | -24.4% | T1 | False |
-| 19 | MAC-10 \| Palm (Factory New) | 39.80 | +31.4% | -25.1% | T1 | False |
-| 20 | MAG-7 \| Copper Coated (Factory New) | 91.00 | +31.0% | -8.2% | T1 | False |
-| 21 | Tec-9 \| Flash Out (Factory New) | 51.97 | +30.9% | -25.6% | T1 | False |
-| 22 | AUG \| Radiation Hazard (Factory New) | 103.00 | +30.6% | +11.0% | T0 | False |
-| 23 | CZ75-Auto \| Imprint (Factory New) | 43.25 | +29.3% | -31.1% | T1 | False |
-| 24 | MAC-10 \| Whitefish (Factory New) | 46.85 | +29.0% | -30.6% | T1 | False |
-| 25 | AUG \| Ricochet (Factory New) | 38.64 | +28.3% | -30.5% | T1 | False |
-| 26 | XM1014 \| Teclu Burner (Factory New) | 75.50 | +27.5% | -16.6% | T1 | False |
-| 27 | P2000 \| Ivory (Factory New) | 93.50 | +27.1% | -17.1% | T1 | False |
-| 28 | CZ75-Auto \| Circaetus (Factory New) | 32.80 | +26.0% | -27.0% | T1 | False |
-| 29 | P90 \| Chopper (Factory New) | 51.47 | +25.1% | -24.3% | T1 | False |
-| 30 | CZ75-Auto \| Tread Plate (Factory New) | 123.49 | +24.9% | -24.7% | T1 | False |
+| 6 | P90 \| Cocoa Rampage (Factory New) | 34.68 | +56.8% | -33.5% | T1 | False |
+| 7 | USP-S \| Blood Tiger (Factory New) | 282.00 | +52.1% | -24.2% | T1 | False |
+| 8 | G3SG1 \| Stinger (Factory New) | 64.40 | +51.1% | -13.0% | T1 | False |
+| 9 | FAMAS \| Survivor Z (Factory New) | 38.80 | +49.8% | +21.3% | T0 | False |
+| 10 | P90 \| Elite Build (Factory New) | 42.40 | +46.2% | -24.6% | T1 | False |
+| 11 | P90 \| Traction (Factory New) | 31.87 | +43.6% | -31.8% | T1 | False |
+| 12 | SG 553 \| Lush Ruins (Factory New) | 43.80 | +40.7% | -29.1% | T1 | False |
+| 13 | P250 \| Cyber Shell (Factory New) | 92.00 | +39.3% | -37.4% | T1 | False |
+| 14 | Dual Berettas \| Balance (Factory New) | 99.67 | +32.2% | -10.2% | T1 | False |
+| 15 | MAC-10 \| Palm (Factory New) | 39.80 | +31.4% | -25.1% | T1 | False |
+| 16 | Tec-9 \| Flash Out (Factory New) | 51.97 | +30.9% | -25.6% | T1 | False |
+| 17 | AUG \| Radiation Hazard (Factory New) | 103.00 | +30.6% | +11.0% | T0 | False |
+| 18 | CZ75-Auto \| Imprint (Factory New) | 43.25 | +29.3% | -31.1% | T1 | False |
+| 19 | MAC-10 \| Whitefish (Factory New) | 46.85 | +29.0% | -30.6% | T1 | False |
+| 20 | AUG \| Ricochet (Factory New) | 38.64 | +28.3% | -30.5% | T1 | False |
+| 21 | P2000 \| Ivory (Factory New) | 93.50 | +27.1% | -17.1% | T1 | False |
+| 22 | CZ75-Auto \| Circaetus (Factory New) | 32.80 | +26.0% | -27.0% | T1 | False |
+| 23 | P90 \| Chopper (Factory New) | 51.47 | +25.1% | -24.3% | T1 | False |
+| 24 | CZ75-Auto \| Tread Plate (Factory New) | 123.49 | +24.9% | -24.7% | T1 | False |
+| 25 | G3SG1 \| Digital Mesh (Factory New) | 32.16 | +24.1% | -17.8% | T1 | True |
+| 26 | Galil AR \| Akoben (Factory New) | 53.40 | +23.7% | -26.5% | T1 | False |
+| 27 | PP-Bizon \| Osiris (Factory New) | 34.98 | +23.3% | -20.0% | T1 | False |
+| 28 | MP5-SD \| Acid Wash (Factory New) | 41.67 | +22.9% | -17.1% | T1 | False |
+| 29 | Dual Berettas \| Cartel (Factory New) | 66.00 | +22.9% | -21.8% | T1 | False |
+| 30 | SSG 08 \| Spring Twilly (Factory New) | 62.00 | +22.6% | -6.0% | T1 | False |
 
 ## 2026-04-13
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | UMP-45 \| Arctic Wolf (Factory New) | 34.57 | +53.5% | -12.5% | T1 | False |
-| 2 | MAG-7 \| SWAG-7 (Factory New) | 45.59 | +51.1% | -19.6% | T1 | False |
-| 3 | Tec-9 \| Jambiya (Factory New) | 135.40 | +43.0% | -7.9% | T1 | False |
-| 4 | XM1014 \| Black Tie (Factory New) | 52.97 | +42.0% | +5.5% | T0 | False |
-| 5 | FAMAS \| Survivor Z (Factory New) | 36.40 | +35.1% | +12.4% | T0 | False |
-| 6 | MAG-7 \| Petroglyph (Factory New) | 31.00 | +34.3% | -28.4% | T1 | False |
-| 7 | MP9 \| Sand Scale (Factory New) | 37.68 | +32.2% | +5.3% | T0 | False |
-| 8 | P90 \| Elite Build (Factory New) | 41.60 | +31.8% | -16.1% | T1 | False |
-| 9 | P90 \| Cocoa Rampage (Factory New) | 36.20 | +31.6% | -28.1% | T1 | False |
-| 10 | SG 553 \| Lush Ruins (Factory New) | 43.90 | +31.0% | -26.4% | T1 | False |
-| 11 | G3SG1 \| Digital Mesh (Factory New) | 31.89 | +28.7% | -15.8% | T1 | True |
-| 12 | Dual Berettas \| Balance (Factory New) | 97.78 | +28.2% | -15.6% | T1 | False |
-| 13 | XM1014 \| Urban Perforated (Factory New) | 224.34 | +25.2% | -3.4% | T1 | True |
-| 14 | P90 \| Traction (Factory New) | 35.55 | +24.7% | -25.5% | T1 | False |
-| 15 | CZ75-Auto \| Polymer (Factory New) | 33.70 | +24.4% | +5.6% | T0 | False |
-| 16 | MP5-SD \| Bamboo Garden (Factory New) | 62.76 | +21.8% | -32.0% | T1 | False |
-| 17 | MAG-7 \| Copper Coated (Factory New) | 89.88 | +20.4% | +6.3% | T0 | False |
-| 18 | G3SG1 \| Stinger (Factory New) | 67.00 | +20.1% | +0.4% | T1 | False |
-| 19 | MP5-SD \| Acid Wash (Factory New) | 40.82 | +20.0% | -20.8% | T1 | False |
-| 20 | XM1014 \| Ziggy (Factory New) | 52.69 | +19.7% | -24.7% | T1 | False |
-| 21 | P90 \| Chopper (Factory New) | 49.00 | +18.9% | -22.8% | T1 | False |
-| 22 | MP5-SD \| Condition Zero (Factory New) | 47.50 | +18.4% | -10.5% | T1 | False |
-| 23 | Dual Berettas \| Dezastre (Factory New) | 215.00 | +17.4% | -13.7% | T1 | False |
-| 24 | USP-S \| Blood Tiger (Factory New) | 257.00 | +17.0% | -13.5% | T1 | False |
-| 25 | Tec-9 \| Flash Out (Factory New) | 49.76 | +15.8% | -21.6% | T1 | False |
-| 26 | Dual Berettas \| Tread (Factory New) | 59.99 | +15.8% | -13.0% | T1 | False |
-| 27 | P250 \| Contamination (Factory New) | 129.98 | +15.4% | +4.6% | T1 | False |
-| 28 | Dual Berettas \| Switch Board (Factory New) | 74.49 | +15.3% | -15.9% | T1 | False |
-| 29 | SG 553 \| Phantom (Factory New) | 32.59 | +15.0% | -29.1% | T1 | False |
-| 30 | R8 Revolver \| Junk Yard (Factory New) | 32.78 | +14.0% | +48.4% | T0 | False |
+| 2 | Tec-9 \| Jambiya (Factory New) | 135.40 | +43.0% | -7.9% | T1 | False |
+| 3 | FAMAS \| Survivor Z (Factory New) | 36.40 | +35.1% | +12.4% | T0 | False |
+| 4 | MP9 \| Sand Scale (Factory New) | 37.68 | +32.2% | +5.3% | T0 | False |
+| 5 | P90 \| Elite Build (Factory New) | 41.60 | +31.8% | -16.1% | T1 | False |
+| 6 | P90 \| Cocoa Rampage (Factory New) | 36.20 | +31.6% | -28.1% | T1 | False |
+| 7 | SG 553 \| Lush Ruins (Factory New) | 43.90 | +31.0% | -26.4% | T1 | False |
+| 8 | G3SG1 \| Digital Mesh (Factory New) | 31.89 | +28.7% | -15.8% | T1 | True |
+| 9 | Dual Berettas \| Balance (Factory New) | 97.78 | +28.2% | -15.6% | T1 | False |
+| 10 | P90 \| Traction (Factory New) | 35.55 | +24.7% | -25.5% | T1 | False |
+| 11 | CZ75-Auto \| Polymer (Factory New) | 33.70 | +24.4% | +5.6% | T0 | False |
+| 12 | MP5-SD \| Bamboo Garden (Factory New) | 62.76 | +21.8% | -32.0% | T1 | False |
+| 13 | G3SG1 \| Stinger (Factory New) | 67.00 | +20.1% | +0.4% | T1 | False |
+| 14 | MP5-SD \| Acid Wash (Factory New) | 40.82 | +20.0% | -20.8% | T1 | False |
+| 15 | P90 \| Chopper (Factory New) | 49.00 | +18.9% | -22.8% | T1 | False |
+| 16 | MP5-SD \| Condition Zero (Factory New) | 47.50 | +18.4% | -10.5% | T1 | False |
+| 17 | Dual Berettas \| Dezastre (Factory New) | 215.00 | +17.4% | -13.7% | T1 | False |
+| 18 | USP-S \| Blood Tiger (Factory New) | 257.00 | +17.0% | -13.5% | T1 | False |
+| 19 | Tec-9 \| Flash Out (Factory New) | 49.76 | +15.8% | -21.6% | T1 | False |
+| 20 | Dual Berettas \| Tread (Factory New) | 59.99 | +15.8% | -13.0% | T1 | False |
+| 21 | P250 \| Contamination (Factory New) | 129.98 | +15.4% | +4.6% | T1 | False |
+| 22 | Dual Berettas \| Switch Board (Factory New) | 74.49 | +15.3% | -15.9% | T1 | False |
+| 23 | SG 553 \| Phantom (Factory New) | 32.59 | +15.0% | -29.1% | T1 | False |
+| 24 | ★ Driver Gloves \| Convoy (Field-Tested) | 3748.50 | +13.5% | +0.6% | T1 | False |
+| 25 | UMP-45 \| Houndstooth (Factory New) | 57.20 | +13.3% | -4.9% | T1 | False |
+| 26 | Tec-9 \| Re-Entry (Factory New) | 79.30 | +13.0% | +5.8% | T0 | False |
+| 27 | CZ75-Auto \| Circaetus (Factory New) | 33.63 | +11.6% | -23.3% | T1 | False |
+| 28 | G3SG1 \| Keeping Tabs (Factory New) | 35.80 | +11.5% | -12.9% | T1 | False |
+| 29 | G3SG1 \| Azure Zebra (Factory New) | 36.19 | +11.1% | -14.8% | T1 | False |
+| 30 | SCAR-20 \| Enforcer (Factory New) | 47.60 | +9.4% | -10.9% | T1 | False |
 
 ## 2026-04-14
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Sonar (Factory New) | 34.00 | +55.2% | +6.9% | T0 | True |
-| 2 | Glock-18 \| Green Line (Factory New) | 69.30 | +44.5% | +26.3% | T0 | True |
-| 3 | FAMAS \| 2A2F (Factory New) | 49.40 | +42.6% | +29.2% | T0 | True |
-| 4 | CZ75-Auto \| Polymer (Factory New) | 43.92 | +29.4% | +0.6% | T1 | False |
-| 5 | MP9 \| Sand Scale (Factory New) | 45.25 | +29.0% | +3.5% | T1 | False |
-| 6 | XM1014 \| Urban Perforated (Factory New) | 224.34 | +28.0% | -5.5% | T1 | True |
-| 7 | MAG-7 \| SWAG-7 (Factory New) | 46.00 | +26.7% | -18.6% | T1 | False |
-| 8 | UMP-45 \| Arctic Wolf (Factory New) | 35.35 | +26.1% | -11.1% | T1 | False |
-| 9 | MAG-7 \| Petroglyph (Factory New) | 30.90 | +20.7% | -35.6% | T1 | False |
-| 10 | MP9 \| Latte Rush (Factory New) | 1096.00 | +20.4% | -3.9% | T1 | False |
-| 11 | Zeus x27 \| Charged Up (Factory New) | 229.80 | +19.9% | +3.8% | T1 | False |
-| 12 | XM1014 \| Black Tie (Factory New) | 51.00 | +19.4% | +24.3% | T0 | False |
-| 13 | Dual Berettas \| Balance (Factory New) | 105.00 | +18.1% | -11.7% | T1 | False |
-| 14 | MAC-10 \| Derailment (Factory New) | 156.50 | +16.9% | +17.0% | T0 | False |
-| 15 | UMP-45 \| Late Night Transit (Factory New) | 41.20 | +16.1% | +12.6% | T0 | False |
-| 16 | Tec-9 \| Whiteout (Factory New) | 2549.00 | +15.0% | +11.9% | T0 | False |
-| 17 | AWP \| LongDog (Factory New) | 8030.00 | +13.6% | -2.9% | T1 | False |
-| 18 | MP5-SD \| Condition Zero (Factory New) | 42.90 | +12.8% | -3.7% | T1 | False |
-| 19 | USP-S \| Road Rash (Factory New) | 2098.50 | +12.7% | +9.7% | T0 | False |
-| 20 | G3SG1 \| Stinger (Factory New) | 75.55 | +12.4% | +3.9% | T1 | False |
-| 21 | M4A4 \| Hellish (Factory New) | 2099.99 | +12.1% | +0.2% | T1 | False |
-| 22 | MAG-7 \| Copper Coated (Factory New) | 91.00 | +10.2% | -0.2% | T1 | False |
-| 23 | MP5-SD \| Acid Wash (Factory New) | 41.73 | +10.1% | -12.8% | T1 | False |
-| 24 | UMP-45 \| Metal Flowers (Factory New) | 88.79 | +9.7% | -19.6% | T1 | False |
-| 25 | XM1014 \| Tranquility (Factory New) | 278.78 | +7.8% | -1.6% | T1 | False |
-| 26 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3539.50 | +7.7% | +12.3% | T0 | False |
-| 27 | SG 553 \| Barricade (Factory New) | 105.48 | +7.7% | -8.0% | T1 | False |
-| 28 | G3SG1 \| Keeping Tabs (Factory New) | 35.49 | +7.3% | -10.7% | T1 | False |
-| 29 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1625.50 | +6.7% | -6.1% | T1 | False |
-| 30 | AUG \| Radiation Hazard (Factory New) | 124.00 | +6.5% | +21.2% | T0 | False |
+| 1 | Glock-18 \| Green Line (Factory New) | 69.30 | +44.5% | +26.3% | T0 | True |
+| 2 | FAMAS \| 2A2F (Factory New) | 49.40 | +42.6% | +29.2% | T0 | True |
+| 3 | CZ75-Auto \| Polymer (Factory New) | 43.92 | +29.4% | +0.6% | T1 | False |
+| 4 | MP9 \| Sand Scale (Factory New) | 45.25 | +29.0% | +3.5% | T1 | False |
+| 5 | UMP-45 \| Arctic Wolf (Factory New) | 35.35 | +26.1% | -11.1% | T1 | False |
+| 6 | MP9 \| Latte Rush (Factory New) | 1096.00 | +20.4% | -3.9% | T1 | False |
+| 7 | Zeus x27 \| Charged Up (Factory New) | 229.80 | +19.9% | +3.8% | T1 | False |
+| 8 | Dual Berettas \| Balance (Factory New) | 105.00 | +18.1% | -11.7% | T1 | False |
+| 9 | MAC-10 \| Derailment (Factory New) | 156.50 | +16.9% | +17.0% | T0 | False |
+| 10 | UMP-45 \| Late Night Transit (Factory New) | 41.20 | +16.1% | +12.6% | T0 | False |
+| 11 | Tec-9 \| Whiteout (Factory New) | 2549.00 | +15.0% | +11.9% | T0 | False |
+| 12 | AWP \| LongDog (Factory New) | 8030.00 | +13.6% | -2.9% | T1 | False |
+| 13 | MP5-SD \| Condition Zero (Factory New) | 42.90 | +12.8% | -3.7% | T1 | False |
+| 14 | USP-S \| Road Rash (Factory New) | 2098.50 | +12.7% | +9.7% | T0 | False |
+| 15 | G3SG1 \| Stinger (Factory New) | 75.55 | +12.4% | +3.9% | T1 | False |
+| 16 | M4A4 \| Hellish (Factory New) | 2099.99 | +12.1% | +0.2% | T1 | False |
+| 17 | MP5-SD \| Acid Wash (Factory New) | 41.73 | +10.1% | -12.8% | T1 | False |
+| 18 | UMP-45 \| Metal Flowers (Factory New) | 88.79 | +9.7% | -19.6% | T1 | False |
+| 19 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3539.50 | +7.7% | +12.3% | T0 | False |
+| 20 | SG 553 \| Barricade (Factory New) | 105.48 | +7.7% | -8.0% | T1 | False |
+| 21 | G3SG1 \| Keeping Tabs (Factory New) | 35.49 | +7.3% | -10.7% | T1 | False |
+| 22 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1625.50 | +6.7% | -6.1% | T1 | False |
+| 23 | AUG \| Radiation Hazard (Factory New) | 124.00 | +6.5% | +21.2% | T0 | False |
+| 24 | P90 \| Randy Rush (Factory New) | 48.90 | +5.9% | -5.5% | T1 | False |
+| 25 | ★ Driver Gloves \| Convoy (Field-Tested) | 3750.00 | +5.9% | -2.1% | T1 | False |
+| 26 | FAMAS \| Survivor Z (Factory New) | 39.88 | +5.8% | +45.8% | T0 | False |
+| 27 | ★ Driver Gloves \| Crimson Weave (Field-Tested) | 12111.00 | +5.5% | +0.6% | T1 | False |
+| 28 | MP9 \| Setting Sun (Factory New) | 444.49 | +5.3% | +16.6% | T0 | False |
+| 29 | Dual Berettas \| Dezastre (Factory New) | 215.00 | +4.9% | -10.6% | T1 | False |
+| 30 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7575.00 | +4.4% | -0.7% | T1 | False |
 
 ## 2026-04-15
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Sonar (Factory New) | 34.20 | +41.7% | +32.7% | T0 | True |
-| 2 | Glock-18 \| Green Line (Factory New) | 72.50 | +35.3% | +43.5% | T0 | True |
-| 3 | FAMAS \| 2A2F (Factory New) | 49.00 | +27.1% | +45.9% | T0 | True |
-| 4 | UMP-45 \| Late Night Transit (Factory New) | 44.88 | +24.6% | +13.8% | T0 | False |
-| 5 | Zeus x27 \| Charged Up (Factory New) | 225.00 | +22.4% | +13.4% | T0 | False |
-| 6 | MP9 \| Sand Scale (Factory New) | 50.90 | +20.9% | +31.4% | T0 | False |
-| 7 | CZ75-Auto \| Polymer (Factory New) | 45.50 | +18.7% | +25.0% | T0 | False |
-| 8 | Tec-9 \| Whiteout (Factory New) | 2475.00 | +16.8% | +15.6% | T0 | False |
-| 9 | UMP-45 \| Arctic Wolf (Factory New) | 41.50 | +15.6% | -0.0% | T1 | False |
-| 10 | FAMAS \| Survivor Z (Factory New) | 45.60 | +14.9% | +65.1% | T0 | False |
-| 11 | XM1014 \| Black Tie (Factory New) | 56.50 | +14.5% | +32.5% | T0 | False |
-| 12 | MAC-10 \| Derailment (Factory New) | 156.00 | +14.4% | +28.9% | T0 | False |
-| 13 | G3SG1 \| Stinger (Factory New) | 78.99 | +14.3% | +18.0% | T0 | False |
-| 14 | MP9 \| Latte Rush (Factory New) | 1038.49 | +14.3% | +4.5% | T1 | False |
-| 15 | MAG-7 \| Petroglyph (Factory New) | 37.20 | +13.9% | -28.2% | T1 | False |
-| 16 | AWP \| LongDog (Factory New) | 7920.00 | +11.5% | +1.5% | T1 | False |
-| 17 | M4A4 \| Hellish (Factory New) | 2010.00 | +10.9% | +3.3% | T1 | False |
-| 18 | USP-S \| Road Rash (Factory New) | 2029.00 | +9.6% | +22.5% | T0 | False |
-| 19 | Sawed-Off \| Jungle Thicket (Factory New) | 54.03 | +8.5% | -10.2% | T1 | False |
-| 20 | M4A4 \| Daybreak (Factory New) | 8348.99 | +5.0% | +44.4% | T0 | False |
-| 21 | MP9 \| Setting Sun (Factory New) | 419.50 | +4.0% | +35.7% | T0 | False |
-| 22 | AUG \| Radiation Hazard (Factory New) | 126.00 | +4.0% | +28.9% | T0 | False |
-| 23 | MAG-7 \| SWAG-7 (Factory New) | 54.00 | +3.2% | -9.5% | T1 | False |
-| 24 | MAG-7 \| Copper Coated (Factory New) | 98.40 | +3.0% | +12.3% | T0 | False |
-| 25 | ★ Driver Gloves \| Convoy (Field-Tested) | 4039.00 | +2.9% | -6.0% | T1 | False |
-| 26 | CZ75-Auto \| Silver (Factory New) | 157.80 | +2.1% | +27.5% | T0 | False |
-| 27 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 3539.99 | +1.9% | -1.2% | T1 | False |
-| 28 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3405.00 | +1.9% | +8.9% | T0 | False |
-| 29 | Jungle Rebel \| Elite Crew | 224.00 | +1.5% | -3.3% | T1 | False |
-| 30 | ★ Driver Gloves \| Crimson Weave (Field-Tested) | 11900.00 | +1.3% | +2.1% | T1 | False |
+| 1 | Glock-18 \| Green Line (Factory New) | 72.50 | +35.3% | +43.5% | T0 | True |
+| 2 | FAMAS \| 2A2F (Factory New) | 49.00 | +27.1% | +45.9% | T0 | True |
+| 3 | UMP-45 \| Late Night Transit (Factory New) | 44.88 | +24.6% | +13.8% | T0 | False |
+| 4 | Zeus x27 \| Charged Up (Factory New) | 225.00 | +22.4% | +13.4% | T0 | False |
+| 5 | MP9 \| Sand Scale (Factory New) | 50.90 | +20.9% | +31.4% | T0 | False |
+| 6 | CZ75-Auto \| Polymer (Factory New) | 45.50 | +18.7% | +25.0% | T0 | False |
+| 7 | Tec-9 \| Whiteout (Factory New) | 2475.00 | +16.8% | +15.6% | T0 | False |
+| 8 | UMP-45 \| Arctic Wolf (Factory New) | 41.50 | +15.6% | -0.0% | T1 | False |
+| 9 | FAMAS \| Survivor Z (Factory New) | 45.60 | +14.9% | +65.1% | T0 | False |
+| 10 | MAC-10 \| Derailment (Factory New) | 156.00 | +14.4% | +28.9% | T0 | False |
+| 11 | G3SG1 \| Stinger (Factory New) | 78.99 | +14.3% | +18.0% | T0 | False |
+| 12 | MP9 \| Latte Rush (Factory New) | 1038.49 | +14.3% | +4.5% | T1 | False |
+| 13 | AWP \| LongDog (Factory New) | 7920.00 | +11.5% | +1.5% | T1 | False |
+| 14 | M4A4 \| Hellish (Factory New) | 2010.00 | +10.9% | +3.3% | T1 | False |
+| 15 | USP-S \| Road Rash (Factory New) | 2029.00 | +9.6% | +22.5% | T0 | False |
+| 16 | M4A4 \| Daybreak (Factory New) | 8348.99 | +5.0% | +44.4% | T0 | False |
+| 17 | MP9 \| Setting Sun (Factory New) | 419.50 | +4.0% | +35.7% | T0 | False |
+| 18 | AUG \| Radiation Hazard (Factory New) | 126.00 | +4.0% | +28.9% | T0 | False |
+| 19 | ★ Driver Gloves \| Convoy (Field-Tested) | 4039.00 | +2.9% | -6.0% | T1 | False |
+| 20 | CZ75-Auto \| Silver (Factory New) | 157.80 | +2.1% | +27.5% | T0 | False |
+| 21 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 3539.99 | +1.9% | -1.2% | T1 | False |
+| 22 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3405.00 | +1.9% | +8.9% | T0 | False |
+| 23 | Jungle Rebel \| Elite Crew | 224.00 | +1.5% | -3.3% | T1 | False |
+| 24 | ★ Driver Gloves \| Crimson Weave (Field-Tested) | 11900.00 | +1.3% | +2.1% | T1 | False |
+| 25 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 7487.77 | +1.1% | -2.3% | T1 | False |
+| 26 | MP5-SD \| Acid Wash (Factory New) | 41.20 | +0.8% | -15.7% | T1 | False |
+| 27 | AWP \| Pink DDPAT (Factory New) | 1680.00 | +0.7% | -4.7% | T1 | False |
+| 28 | ★ Hand Wraps \| Leather (Field-Tested) | 5279.50 | +0.6% | -1.2% | T1 | False |
 
 ## 2026-04-16
 
@@ -2600,32 +2598,32 @@
 | 2 | FAMAS \| 2A2F (Factory New) | 48.70 | +78.7% | +6.3% | T0 | True |
 | 3 | FAMAS \| Survivor Z (Factory New) | 42.00 | +45.6% | +32.8% | T0 | False |
 | 4 | UMP-45 \| Late Night Transit (Factory New) | 41.90 | +43.6% | -4.3% | T1 | False |
-| 5 | MAG-7 \| Sonar (Factory New) | 32.70 | +38.9% | +7.3% | T0 | True |
-| 6 | XM1014 \| Black Tie (Factory New) | 58.67 | +30.8% | +11.0% | T0 | False |
-| 7 | Zeus x27 \| Charged Up (Factory New) | 203.00 | +30.6% | +3.6% | T1 | False |
-| 8 | UMP-45 \| Arctic Wolf (Factory New) | 40.90 | +29.2% | -8.1% | T1 | False |
-| 9 | MP9 \| Latte Rush (Factory New) | 1000.00 | +24.6% | -2.7% | T1 | False |
-| 10 | AUG \| Radiation Hazard (Factory New) | 127.20 | +24.1% | +10.8% | T0 | False |
-| 11 | P250 \| Boreal Forest (Factory New) | 43.00 | +23.5% | -14.4% | T1 | False |
-| 12 | MP9 \| Sand Scale (Factory New) | 43.90 | +22.3% | +0.2% | T1 | False |
-| 13 | M4A4 \| Hellish (Factory New) | 1910.00 | +21.8% | -3.2% | T1 | False |
-| 14 | MAC-10 \| Derailment (Factory New) | 148.50 | +21.7% | +19.3% | T0 | False |
-| 15 | USP-S \| Road Rash (Factory New) | 1920.00 | +20.8% | -1.2% | T1 | False |
-| 16 | MAG-7 \| SWAG-7 (Factory New) | 57.90 | +20.6% | -21.4% | T1 | False |
-| 17 | Tec-9 \| Whiteout (Factory New) | 2380.00 | +20.0% | +12.1% | T0 | False |
-| 18 | CZ75-Auto \| Polymer (Factory New) | 43.90 | +18.2% | +6.7% | T0 | False |
-| 19 | USP-S \| Night Ops (Factory New) | 30.80 | +15.8% | -2.4% | T1 | False |
-| 20 | M4A4 \| Daybreak (Factory New) | 7800.00 | +14.2% | +19.2% | T0 | False |
-| 21 | CZ75-Auto \| Silver (Factory New) | 154.50 | +13.9% | +12.9% | T0 | False |
-| 22 | G3SG1 \| Stinger (Factory New) | 76.00 | +13.3% | +9.8% | T0 | False |
-| 23 | AWP \| LongDog (Factory New) | 7619.50 | +13.0% | -0.0% | T1 | False |
-| 24 | MAG-7 \| Copper Coated (Factory New) | 97.50 | +10.4% | +0.5% | T1 | False |
-| 25 | MAG-7 \| Petroglyph (Factory New) | 37.20 | +10.2% | -24.0% | T1 | False |
-| 26 | MP9 \| Setting Sun (Factory New) | 412.00 | +9.8% | +25.5% | T0 | False |
-| 27 | FAMAS \| CaliCamo (Factory New) | 201.72 | +8.6% | +47.1% | T0 | False |
-| 28 | Desert Eagle \| Urban DDPAT (Factory New) | 289.99 | +8.6% | -8.1% | T1 | False |
-| 29 | Five-SeveN \| Heat Treated (Factory New) | 269.50 | +8.5% | +1.5% | T1 | False |
-| 30 | Five-SeveN \| Fowl Play (Factory New) | 1010.00 | +8.4% | -1.7% | T1 | False |
+| 5 | Zeus x27 \| Charged Up (Factory New) | 203.00 | +30.6% | +3.6% | T1 | False |
+| 6 | UMP-45 \| Arctic Wolf (Factory New) | 40.90 | +29.2% | -8.1% | T1 | False |
+| 7 | MP9 \| Latte Rush (Factory New) | 1000.00 | +24.6% | -2.7% | T1 | False |
+| 8 | AUG \| Radiation Hazard (Factory New) | 127.20 | +24.1% | +10.8% | T0 | False |
+| 9 | P250 \| Boreal Forest (Factory New) | 43.00 | +23.5% | -14.4% | T1 | False |
+| 10 | MP9 \| Sand Scale (Factory New) | 43.90 | +22.3% | +0.2% | T1 | False |
+| 11 | M4A4 \| Hellish (Factory New) | 1910.00 | +21.8% | -3.2% | T1 | False |
+| 12 | MAC-10 \| Derailment (Factory New) | 148.50 | +21.7% | +19.3% | T0 | False |
+| 13 | USP-S \| Road Rash (Factory New) | 1920.00 | +20.8% | -1.2% | T1 | False |
+| 14 | Tec-9 \| Whiteout (Factory New) | 2380.00 | +20.0% | +12.1% | T0 | False |
+| 15 | CZ75-Auto \| Polymer (Factory New) | 43.90 | +18.2% | +6.7% | T0 | False |
+| 16 | USP-S \| Night Ops (Factory New) | 30.80 | +15.8% | -2.4% | T1 | False |
+| 17 | M4A4 \| Daybreak (Factory New) | 7800.00 | +14.2% | +19.2% | T0 | False |
+| 18 | CZ75-Auto \| Silver (Factory New) | 154.50 | +13.9% | +12.9% | T0 | False |
+| 19 | G3SG1 \| Stinger (Factory New) | 76.00 | +13.3% | +9.8% | T0 | False |
+| 20 | AWP \| LongDog (Factory New) | 7619.50 | +13.0% | -0.0% | T1 | False |
+| 21 | MP9 \| Setting Sun (Factory New) | 412.00 | +9.8% | +25.5% | T0 | False |
+| 22 | FAMAS \| CaliCamo (Factory New) | 201.72 | +8.6% | +47.1% | T0 | False |
+| 23 | Desert Eagle \| Urban DDPAT (Factory New) | 289.99 | +8.6% | -8.1% | T1 | False |
+| 24 | Five-SeveN \| Heat Treated (Factory New) | 269.50 | +8.5% | +1.5% | T1 | False |
+| 25 | Five-SeveN \| Fowl Play (Factory New) | 1010.00 | +8.4% | -1.7% | T1 | False |
+| 26 | Tec-9 \| Jambiya (Factory New) | 214.00 | +8.3% | -10.2% | T1 | False |
+| 27 | FAMAS \| Roll Cage (Factory New) | 1370.00 | +7.9% | -0.2% | T1 | False |
+| 28 | P2000 \| Ivory (Factory New) | 126.50 | +6.5% | -11.9% | T1 | False |
+| 29 | CZ75-Auto \| Red Astor (Factory New) | 115.50 | +6.3% | -9.5% | T1 | False |
+| 30 | Desert Eagle \| Calligraffiti (Factory New) | 114.35 | +5.5% | -9.2% | T1 | False |
 
 ## 2026-04-17
 
@@ -2635,67 +2633,67 @@
 | 2 | FAMAS \| 2A2F (Factory New) | 47.00 | +101.1% | -13.2% | T1 | True |
 | 3 | FAMAS \| Survivor Z (Factory New) | 42.88 | +65.9% | +39.5% | T0 | False |
 | 4 | UMP-45 \| Late Night Transit (Factory New) | 42.70 | +64.8% | -19.6% | T1 | False |
-| 5 | MAG-7 \| Sonar (Factory New) | 39.90 | +54.0% | -15.4% | T1 | True |
-| 6 | MAC-10 \| Derailment (Factory New) | 154.00 | +46.7% | -1.0% | T1 | False |
-| 7 | Zeus x27 \| Charged Up (Factory New) | 206.00 | +43.3% | -12.6% | T1 | False |
-| 8 | UMP-45 \| Arctic Wolf (Factory New) | 40.78 | +30.9% | -5.2% | T1 | False |
-| 9 | Five-SeveN \| Hot Shot (Factory New) | 564.00 | +30.1% | +31.2% | T0 | False |
-| 10 | Tec-9 \| Whiteout (Factory New) | 2390.00 | +28.5% | +0.6% | T1 | False |
-| 11 | MP9 \| Latte Rush (Factory New) | 980.00 | +26.8% | -7.5% | T1 | False |
-| 12 | USP-S \| Road Rash (Factory New) | 2098.00 | +25.5% | -9.6% | T1 | False |
-| 13 | XM1014 \| Black Tie (Factory New) | 58.97 | +25.1% | -5.1% | T1 | False |
-| 14 | FAMAS \| CaliCamo (Factory New) | 193.61 | +24.9% | +41.2% | T0 | False |
-| 15 | AUG \| Radiation Hazard (Factory New) | 118.20 | +24.6% | +1.6% | T1 | False |
-| 16 | USP-S \| Orange Anolis (Factory New) | 1866.00 | +24.5% | -2.3% | T1 | False |
-| 17 | MP9 \| Sand Scale (Factory New) | 52.78 | +24.5% | -14.1% | T1 | False |
-| 18 | M4A4 \| Hellish (Factory New) | 1950.00 | +22.2% | -2.3% | T1 | False |
-| 19 | Tec-9 \| Toxic (Factory New) | 440.00 | +19.8% | -3.7% | T1 | False |
-| 20 | AWP \| LongDog (Factory New) | 7750.00 | +19.7% | -8.1% | T1 | False |
-| 21 | Five-SeveN \| Heat Treated (Factory New) | 266.50 | +19.0% | -3.8% | T1 | False |
-| 22 | MP9 \| Setting Sun (Factory New) | 404.50 | +18.2% | -6.5% | T1 | False |
-| 23 | M4A4 \| Daybreak (Factory New) | 8699.00 | +16.6% | +8.0% | T0 | False |
-| 24 | CZ75-Auto \| Silver (Factory New) | 149.99 | +14.6% | +6.1% | T0 | False |
-| 25 | Glock-18 \| Reactor (Factory New) | 1108.50 | +14.5% | -5.8% | T1 | False |
-| 26 | CZ75-Auto \| Red Astor (Factory New) | 108.99 | +12.9% | -8.6% | T1 | False |
-| 27 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 327.85 | +12.2% | +2.5% | T1 | False |
-| 28 | G3SG1 \| Stinger (Factory New) | 85.66 | +12.2% | -5.4% | T1 | False |
-| 29 | UMP-45 \| Gold Bismuth (Factory New) | 196.50 | +12.1% | -13.2% | T1 | False |
-| 30 | CZ75-Auto \| Polymer (Factory New) | 49.00 | +11.8% | -6.3% | T1 | False |
+| 5 | MAC-10 \| Derailment (Factory New) | 154.00 | +46.7% | -1.0% | T1 | False |
+| 6 | Zeus x27 \| Charged Up (Factory New) | 206.00 | +43.3% | -12.6% | T1 | False |
+| 7 | UMP-45 \| Arctic Wolf (Factory New) | 40.78 | +30.9% | -5.2% | T1 | False |
+| 8 | Five-SeveN \| Hot Shot (Factory New) | 564.00 | +30.1% | +31.2% | T0 | False |
+| 9 | Tec-9 \| Whiteout (Factory New) | 2390.00 | +28.5% | +0.6% | T1 | False |
+| 10 | MP9 \| Latte Rush (Factory New) | 980.00 | +26.8% | -7.5% | T1 | False |
+| 11 | USP-S \| Road Rash (Factory New) | 2098.00 | +25.5% | -9.6% | T1 | False |
+| 12 | FAMAS \| CaliCamo (Factory New) | 193.61 | +24.9% | +41.2% | T0 | False |
+| 13 | AUG \| Radiation Hazard (Factory New) | 118.20 | +24.6% | +1.6% | T1 | False |
+| 14 | USP-S \| Orange Anolis (Factory New) | 1866.00 | +24.5% | -2.3% | T1 | False |
+| 15 | MP9 \| Sand Scale (Factory New) | 52.78 | +24.5% | -14.1% | T1 | False |
+| 16 | M4A4 \| Hellish (Factory New) | 1950.00 | +22.2% | -2.3% | T1 | False |
+| 17 | Tec-9 \| Toxic (Factory New) | 440.00 | +19.8% | -3.7% | T1 | False |
+| 18 | AWP \| LongDog (Factory New) | 7750.00 | +19.7% | -8.1% | T1 | False |
+| 19 | Five-SeveN \| Heat Treated (Factory New) | 266.50 | +19.0% | -3.8% | T1 | False |
+| 20 | MP9 \| Setting Sun (Factory New) | 404.50 | +18.2% | -6.5% | T1 | False |
+| 21 | M4A4 \| Daybreak (Factory New) | 8699.00 | +16.6% | +8.0% | T0 | False |
+| 22 | CZ75-Auto \| Silver (Factory New) | 149.99 | +14.6% | +6.1% | T0 | False |
+| 23 | Glock-18 \| Reactor (Factory New) | 1108.50 | +14.5% | -5.8% | T1 | False |
+| 24 | CZ75-Auto \| Red Astor (Factory New) | 108.99 | +12.9% | -8.6% | T1 | False |
+| 25 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 327.85 | +12.2% | +2.5% | T1 | False |
+| 26 | G3SG1 \| Stinger (Factory New) | 85.66 | +12.2% | -5.4% | T1 | False |
+| 27 | UMP-45 \| Gold Bismuth (Factory New) | 196.50 | +12.1% | -13.2% | T1 | False |
+| 28 | CZ75-Auto \| Polymer (Factory New) | 49.00 | +11.8% | -6.3% | T1 | False |
+| 29 | CZ75-Auto \| Syndicate (Factory New) | 272.50 | +11.4% | +2.7% | T1 | False |
+| 30 | P250 \| Contamination (Factory New) | 139.99 | +10.1% | +5.8% | T0 | False |
 
 ## 2026-04-18
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Urban Perforated (Factory New) | 288.04 | +123.3% | -58.6% | T1 | True |
-| 2 | Glock-18 \| Green Line (Factory New) | 68.00 | +94.0% | -6.6% | T1 | True |
-| 3 | FAMAS \| 2A2F (Factory New) | 47.00 | +71.3% | -2.3% | T1 | True |
-| 4 | FAMAS \| Survivor Z (Factory New) | 45.89 | +63.6% | +40.8% | T0 | False |
-| 5 | Five-SeveN \| Hot Shot (Factory New) | 616.00 | +55.3% | +8.4% | T0 | False |
-| 6 | UMP-45 \| Late Night Transit (Factory New) | 42.18 | +46.8% | -14.4% | T1 | False |
-| 7 | Zeus x27 \| Charged Up (Factory New) | 221.00 | +37.0% | -8.3% | T1 | False |
-| 8 | MAC-10 \| Derailment (Factory New) | 150.00 | +35.1% | +6.1% | T0 | False |
-| 9 | Tec-9 \| Whiteout (Factory New) | 2479.50 | +32.5% | -2.7% | T1 | False |
-| 10 | FAMAS \| CaliCamo (Factory New) | 185.50 | +27.5% | +40.4% | T0 | False |
-| 11 | MP9 \| Latte Rush (Factory New) | 1008.50 | +24.3% | -9.1% | T1 | False |
-| 12 | AWP \| LongDog (Factory New) | 7797.50 | +22.0% | -8.6% | T1 | False |
-| 13 | M4A4 \| Hellish (Factory New) | 1989.50 | +21.9% | -1.1% | T1 | False |
-| 14 | USP-S \| Orange Anolis (Factory New) | 1850.00 | +19.3% | -1.8% | T1 | False |
-| 15 | M4A4 \| Daybreak (Factory New) | 8689.50 | +13.5% | +6.7% | T0 | False |
-| 16 | Five-SeveN \| Heat Treated (Factory New) | 259.50 | +13.5% | -0.1% | T1 | False |
-| 17 | Tec-9 \| Toxic (Factory New) | 432.44 | +12.9% | +4.8% | T1 | False |
-| 18 | Glock-18 \| Reactor (Factory New) | 1062.59 | +12.3% | -1.4% | T1 | False |
-| 19 | CZ75-Auto \| Syndicate (Factory New) | 285.00 | +12.3% | +10.2% | T0 | False |
-| 20 | USP-S \| Road Rash (Factory New) | 2130.00 | +11.1% | -6.1% | T1 | False |
-| 21 | MP9 \| Hydra (Factory New) | 394.40 | +11.0% | +5.5% | T0 | False |
-| 22 | P2000 \| Dispatch (Factory New) | 362.00 | +9.6% | +17.7% | T0 | False |
-| 23 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 322.50 | +8.8% | +5.9% | T0 | False |
-| 24 | AK-47 \| Jaguar (Factory New) | 5088.00 | +7.7% | +1.0% | T1 | False |
-| 25 | UMP-45 \| Full Stop (Factory New) | 69.80 | +6.8% | -6.2% | T1 | False |
-| 26 | Galil AR \| Amber Fade (Factory New) | 535.50 | +5.8% | +22.7% | T0 | False |
-| 27 | Galil AR \| Cerberus (Factory New) | 2709.00 | +5.6% | +1.8% | T1 | False |
-| 28 | Five-SeveN \| Fowl Play (Factory New) | 1064.50 | +5.2% | +0.2% | T1 | False |
-| 29 | USP-S \| Cyrex (Factory New) | 126.50 | +5.0% | +18.0% | T0 | False |
-| 30 | G3SG1 \| New Roots (Factory New) | 179.50 | +4.7% | -0.8% | T1 | False |
+| 1 | Glock-18 \| Green Line (Factory New) | 68.00 | +94.0% | -6.6% | T1 | True |
+| 2 | FAMAS \| 2A2F (Factory New) | 47.00 | +71.3% | -2.3% | T1 | True |
+| 3 | FAMAS \| Survivor Z (Factory New) | 45.89 | +63.6% | +40.8% | T0 | False |
+| 4 | Five-SeveN \| Hot Shot (Factory New) | 616.00 | +55.3% | +8.4% | T0 | False |
+| 5 | UMP-45 \| Late Night Transit (Factory New) | 42.18 | +46.8% | -14.4% | T1 | False |
+| 6 | Zeus x27 \| Charged Up (Factory New) | 221.00 | +37.0% | -8.3% | T1 | False |
+| 7 | MAC-10 \| Derailment (Factory New) | 150.00 | +35.1% | +6.1% | T0 | False |
+| 8 | Tec-9 \| Whiteout (Factory New) | 2479.50 | +32.5% | -2.7% | T1 | False |
+| 9 | FAMAS \| CaliCamo (Factory New) | 185.50 | +27.5% | +40.4% | T0 | False |
+| 10 | MP9 \| Latte Rush (Factory New) | 1008.50 | +24.3% | -9.1% | T1 | False |
+| 11 | AWP \| LongDog (Factory New) | 7797.50 | +22.0% | -8.6% | T1 | False |
+| 12 | M4A4 \| Hellish (Factory New) | 1989.50 | +21.9% | -1.1% | T1 | False |
+| 13 | USP-S \| Orange Anolis (Factory New) | 1850.00 | +19.3% | -1.8% | T1 | False |
+| 14 | M4A4 \| Daybreak (Factory New) | 8689.50 | +13.5% | +6.7% | T0 | False |
+| 15 | Five-SeveN \| Heat Treated (Factory New) | 259.50 | +13.5% | -0.1% | T1 | False |
+| 16 | Tec-9 \| Toxic (Factory New) | 432.44 | +12.9% | +4.8% | T1 | False |
+| 17 | Glock-18 \| Reactor (Factory New) | 1062.59 | +12.3% | -1.4% | T1 | False |
+| 18 | CZ75-Auto \| Syndicate (Factory New) | 285.00 | +12.3% | +10.2% | T0 | False |
+| 19 | USP-S \| Road Rash (Factory New) | 2130.00 | +11.1% | -6.1% | T1 | False |
+| 20 | MP9 \| Hydra (Factory New) | 394.40 | +11.0% | +5.5% | T0 | False |
+| 21 | P2000 \| Dispatch (Factory New) | 362.00 | +9.6% | +17.7% | T0 | False |
+| 22 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 322.50 | +8.8% | +5.9% | T0 | False |
+| 23 | AK-47 \| Jaguar (Factory New) | 5088.00 | +7.7% | +1.0% | T1 | False |
+| 24 | UMP-45 \| Full Stop (Factory New) | 69.80 | +6.8% | -6.2% | T1 | False |
+| 25 | Galil AR \| Amber Fade (Factory New) | 535.50 | +5.8% | +22.7% | T0 | False |
+| 26 | Galil AR \| Cerberus (Factory New) | 2709.00 | +5.6% | +1.8% | T1 | False |
+| 27 | Five-SeveN \| Fowl Play (Factory New) | 1064.50 | +5.2% | +0.2% | T1 | False |
+| 28 | USP-S \| Cyrex (Factory New) | 126.50 | +5.0% | +18.0% | T0 | False |
+| 29 | G3SG1 \| New Roots (Factory New) | 179.50 | +4.7% | -0.8% | T1 | False |
+| 30 | SG 553 \| Colony IV (Factory New) | 699.99 | +4.7% | +0.4% | T1 | False |
 
 ## 2026-04-19
 
@@ -2711,26 +2709,26 @@
 | 8 | MP9 \| Latte Rush (Factory New) | 1015.00 | +24.2% | -10.6% | T1 | False |
 | 9 | M4A4 \| Hellish (Factory New) | 1939.99 | +23.3% | -4.1% | T1 | False |
 | 10 | AWP \| LongDog (Factory New) | 7598.00 | +23.2% | -10.1% | T1 | False |
-| 11 | R8 Revolver \| Junk Yard (Factory New) | 57.80 | +22.0% | +22.9% | T0 | False |
-| 12 | FAMAS \| Survivor Z (Factory New) | 53.00 | +21.3% | +56.4% | T0 | False |
-| 13 | USP-S \| Orange Anolis (Factory New) | 1850.00 | +19.6% | -10.2% | T1 | False |
-| 14 | Glock-18 \| Reactor (Factory New) | 1046.50 | +17.5% | -12.1% | T1 | False |
-| 15 | M4A4 \| Daybreak (Factory New) | 9139.00 | +17.3% | +0.1% | T1 | False |
-| 16 | M4A1-S \| Flashback (Factory New) | 426.50 | +16.5% | +18.1% | T0 | False |
-| 17 | Galil AR \| Amber Fade (Factory New) | 538.50 | +16.0% | +20.9% | T0 | False |
-| 18 | Tec-9 \| Toxic (Factory New) | 410.00 | +15.8% | +3.1% | T1 | False |
-| 19 | Galil AR \| Cerberus (Factory New) | 2650.00 | +14.2% | -5.9% | T1 | False |
-| 20 | CZ75-Auto \| Silver (Factory New) | 170.00 | +13.9% | +7.0% | T0 | False |
-| 21 | P2000 \| Dispatch (Factory New) | 361.00 | +13.6% | +16.8% | T0 | False |
-| 22 | MP9 \| Hydra (Factory New) | 389.90 | +13.2% | +3.9% | T1 | False |
-| 23 | AUG \| Radiation Hazard (Factory New) | 155.00 | +11.0% | +4.1% | T1 | False |
-| 24 | CZ75-Auto \| Syndicate (Factory New) | 278.50 | +10.4% | +14.8% | T0 | False |
-| 25 | FAMAS \| Styx (Factory New) | 1289.00 | +9.9% | -3.8% | T1 | False |
-| 26 | M4A4 \| Red DDPAT (Factory New) | 1932.50 | +9.5% | -5.8% | T1 | False |
-| 27 | Desert Eagle \| Midnight Storm (Factory New) | 1130.00 | +8.4% | +4.8% | T1 | False |
-| 28 | AK-47 \| Jaguar (Factory New) | 5079.00 | +7.9% | +1.8% | T1 | False |
-| 29 | Galil AR \| CAUTION! (Factory New) | 857.90 | +7.7% | -4.3% | T1 | False |
-| 30 | P250 \| Crimson Kimono (Factory New) | 327.97 | +7.5% | +28.1% | T0 | False |
+| 11 | FAMAS \| Survivor Z (Factory New) | 53.00 | +21.3% | +56.4% | T0 | False |
+| 12 | USP-S \| Orange Anolis (Factory New) | 1850.00 | +19.6% | -10.2% | T1 | False |
+| 13 | Glock-18 \| Reactor (Factory New) | 1046.50 | +17.5% | -12.1% | T1 | False |
+| 14 | M4A4 \| Daybreak (Factory New) | 9139.00 | +17.3% | +0.1% | T1 | False |
+| 15 | M4A1-S \| Flashback (Factory New) | 426.50 | +16.5% | +18.1% | T0 | False |
+| 16 | Galil AR \| Amber Fade (Factory New) | 538.50 | +16.0% | +20.9% | T0 | False |
+| 17 | Tec-9 \| Toxic (Factory New) | 410.00 | +15.8% | +3.1% | T1 | False |
+| 18 | Galil AR \| Cerberus (Factory New) | 2650.00 | +14.2% | -5.9% | T1 | False |
+| 19 | CZ75-Auto \| Silver (Factory New) | 170.00 | +13.9% | +7.0% | T0 | False |
+| 20 | P2000 \| Dispatch (Factory New) | 361.00 | +13.6% | +16.8% | T0 | False |
+| 21 | MP9 \| Hydra (Factory New) | 389.90 | +13.2% | +3.9% | T1 | False |
+| 22 | AUG \| Radiation Hazard (Factory New) | 155.00 | +11.0% | +4.1% | T1 | False |
+| 23 | CZ75-Auto \| Syndicate (Factory New) | 278.50 | +10.4% | +14.8% | T0 | False |
+| 24 | FAMAS \| Styx (Factory New) | 1289.00 | +9.9% | -3.8% | T1 | False |
+| 25 | M4A4 \| Red DDPAT (Factory New) | 1932.50 | +9.5% | -5.8% | T1 | False |
+| 26 | Desert Eagle \| Midnight Storm (Factory New) | 1130.00 | +8.4% | +4.8% | T1 | False |
+| 27 | AK-47 \| Jaguar (Factory New) | 5079.00 | +7.9% | +1.8% | T1 | False |
+| 28 | Galil AR \| CAUTION! (Factory New) | 857.90 | +7.7% | -4.3% | T1 | False |
+| 29 | P250 \| Crimson Kimono (Factory New) | 327.97 | +7.5% | +28.1% | T0 | False |
+| 30 | FAMAS \| CaliCamo (Factory New) | 182.50 | +7.5% | +37.0% | T0 | False |
 
 ## 2026-04-20
 
@@ -2739,68 +2737,68 @@
 | 1 | Glock-18 \| Green Line (Factory New) | 69.00 | +112.4% | -13.3% | T1 | True |
 | 2 | FAMAS \| 2A2F (Factory New) | 48.00 | +95.7% | -18.0% | T1 | True |
 | 3 | Five-SeveN \| Hot Shot (Factory New) | 610.00 | +77.1% | -3.8% | T1 | False |
-| 4 | R8 Revolver \| Junk Yard (Factory New) | 55.00 | +48.4% | +9.2% | T0 | False |
-| 5 | UMP-45 \| Late Night Transit (Factory New) | 41.60 | +43.7% | -11.7% | T1 | False |
-| 6 | MAC-10 \| Derailment (Factory New) | 155.00 | +41.4% | -5.9% | T1 | False |
-| 7 | Tec-9 \| Whiteout (Factory New) | 2457.50 | +38.4% | -4.6% | T1 | False |
-| 8 | Zeus x27 \| Charged Up (Factory New) | 212.00 | +35.2% | -6.7% | T1 | False |
-| 9 | Galil AR \| Amber Fade (Factory New) | 496.75 | +33.6% | +13.3% | T0 | False |
-| 10 | M4A4 \| Daybreak (Factory New) | 8887.50 | +29.7% | -5.2% | T1 | False |
-| 11 | Tec-9 \| Toxic (Factory New) | 397.50 | +29.1% | -3.5% | T1 | False |
-| 12 | MP9 \| Latte Rush (Factory New) | 1010.00 | +28.7% | -14.1% | T1 | False |
-| 13 | AWP \| LongDog (Factory New) | 7349.99 | +28.7% | -11.2% | T1 | False |
-| 14 | FAMAS \| Styx (Factory New) | 1233.00 | +27.5% | -9.5% | T1 | False |
-| 15 | USP-S \| Cyrex (Factory New) | 127.38 | +27.5% | +0.2% | T1 | False |
-| 16 | M4A1-S \| Flashback (Factory New) | 409.00 | +27.2% | +20.1% | T0 | False |
-| 17 | Galil AR \| Cerberus (Factory New) | 2480.00 | +26.6% | -9.4% | T1 | False |
-| 18 | AUG \| Radiation Hazard (Factory New) | 140.00 | +26.2% | -7.9% | T1 | False |
-| 19 | P250 \| Crimson Kimono (Factory New) | 293.50 | +25.6% | +11.7% | T0 | False |
-| 20 | M4A4 \| Hellish (Factory New) | 1898.00 | +25.3% | -5.3% | T1 | False |
-| 21 | Desert Eagle \| Midnight Storm (Factory New) | 1050.00 | +25.2% | -6.6% | T1 | False |
-| 22 | USP-S \| Orange Anolis (Factory New) | 1927.50 | +24.1% | -11.5% | T1 | False |
-| 23 | Glock-18 \| Reactor (Factory New) | 1006.25 | +23.9% | +0.8% | T1 | False |
-| 24 | P2000 \| Dispatch (Factory New) | 350.00 | +23.9% | +8.2% | T0 | False |
-| 25 | USP-S \| Ancient Visions (Factory New) | 1130.70 | +23.0% | -3.8% | T1 | False |
-| 26 | CZ75-Auto \| Syndicate (Factory New) | 279.00 | +21.0% | +8.8% | T0 | False |
-| 27 | Desert Eagle \| Night Heist (Factory New) | 1039.00 | +20.3% | -9.5% | T1 | False |
-| 28 | Tec-9 \| Bamboo Forest (Factory New) | 222.99 | +18.0% | -3.3% | T1 | False |
-| 29 | M4A4 \| Global Offensive (Factory New) | 630.00 | +18.0% | +0.4% | T1 | False |
-| 30 | FAMAS \| Meltdown (Factory New) | 1386.99 | +17.7% | -12.1% | T1 | False |
+| 4 | UMP-45 \| Late Night Transit (Factory New) | 41.60 | +43.7% | -11.7% | T1 | False |
+| 5 | MAC-10 \| Derailment (Factory New) | 155.00 | +41.4% | -5.9% | T1 | False |
+| 6 | Tec-9 \| Whiteout (Factory New) | 2457.50 | +38.4% | -4.6% | T1 | False |
+| 7 | Zeus x27 \| Charged Up (Factory New) | 212.00 | +35.2% | -6.7% | T1 | False |
+| 8 | Galil AR \| Amber Fade (Factory New) | 496.75 | +33.6% | +13.3% | T0 | False |
+| 9 | M4A4 \| Daybreak (Factory New) | 8887.50 | +29.7% | -5.2% | T1 | False |
+| 10 | Tec-9 \| Toxic (Factory New) | 397.50 | +29.1% | -3.5% | T1 | False |
+| 11 | MP9 \| Latte Rush (Factory New) | 1010.00 | +28.7% | -14.1% | T1 | False |
+| 12 | AWP \| LongDog (Factory New) | 7349.99 | +28.7% | -11.2% | T1 | False |
+| 13 | FAMAS \| Styx (Factory New) | 1233.00 | +27.5% | -9.5% | T1 | False |
+| 14 | USP-S \| Cyrex (Factory New) | 127.38 | +27.5% | +0.2% | T1 | False |
+| 15 | M4A1-S \| Flashback (Factory New) | 409.00 | +27.2% | +20.1% | T0 | False |
+| 16 | Galil AR \| Cerberus (Factory New) | 2480.00 | +26.6% | -9.4% | T1 | False |
+| 17 | AUG \| Radiation Hazard (Factory New) | 140.00 | +26.2% | -7.9% | T1 | False |
+| 18 | P250 \| Crimson Kimono (Factory New) | 293.50 | +25.6% | +11.7% | T0 | False |
+| 19 | M4A4 \| Hellish (Factory New) | 1898.00 | +25.3% | -5.3% | T1 | False |
+| 20 | Desert Eagle \| Midnight Storm (Factory New) | 1050.00 | +25.2% | -6.6% | T1 | False |
+| 21 | USP-S \| Orange Anolis (Factory New) | 1927.50 | +24.1% | -11.5% | T1 | False |
+| 22 | Glock-18 \| Reactor (Factory New) | 1006.25 | +23.9% | +0.8% | T1 | False |
+| 23 | P2000 \| Dispatch (Factory New) | 350.00 | +23.9% | +8.2% | T0 | False |
+| 24 | USP-S \| Ancient Visions (Factory New) | 1130.70 | +23.0% | -3.8% | T1 | False |
+| 25 | CZ75-Auto \| Syndicate (Factory New) | 279.00 | +21.0% | +8.8% | T0 | False |
+| 26 | Desert Eagle \| Night Heist (Factory New) | 1039.00 | +20.3% | -9.5% | T1 | False |
+| 27 | Tec-9 \| Bamboo Forest (Factory New) | 222.99 | +18.0% | -3.3% | T1 | False |
+| 28 | M4A4 \| Global Offensive (Factory New) | 630.00 | +18.0% | +0.4% | T1 | False |
+| 29 | FAMAS \| Meltdown (Factory New) | 1386.99 | +17.7% | -12.1% | T1 | False |
+| 30 | M4A4 \| Red DDPAT (Factory New) | 1806.25 | +17.7% | -3.4% | T1 | False |
 
 ## 2026-04-21
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Junk Yard (Factory New) | 49.45 | +88.0% | -0.8% | T1 | False |
-| 2 | Five-SeveN \| Hot Shot (Factory New) | 545.00 | +63.9% | -6.9% | T1 | False |
-| 3 | Galil AR \| Amber Fade (Factory New) | 455.00 | +62.9% | -11.4% | T1 | False |
-| 4 | P2000 \| Dispatch (Factory New) | 330.99 | +53.8% | -9.7% | T1 | False |
-| 5 | USP-S \| Cyrex (Factory New) | 118.00 | +48.0% | -12.6% | T1 | False |
-| 6 | FAMAS \| Survivor Z (Factory New) | 55.80 | +45.8% | +47.0% | T0 | False |
-| 7 | PP-Bizon \| Bamboo Print (Factory New) | 137.00 | +45.2% | -4.8% | T1 | False |
-| 8 | USP-S \| Ancient Visions (Factory New) | 1014.85 | +45.0% | -8.7% | T1 | False |
-| 9 | FAMAS \| Styx (Factory New) | 1130.00 | +41.6% | -12.7% | T1 | False |
-| 10 | M4A1-S \| Flashback (Factory New) | 379.50 | +38.9% | +7.6% | T0 | False |
-| 11 | P250 \| Crimson Kimono (Factory New) | 284.33 | +35.8% | -1.5% | T1 | False |
-| 12 | M4A4 \| Global Offensive (Factory New) | 593.25 | +33.6% | -9.2% | T1 | False |
-| 13 | Desert Eagle \| Midnight Storm (Factory New) | 994.25 | +33.1% | -7.5% | T1 | False |
-| 14 | Glock-18 \| Reactor (Factory New) | 966.00 | +32.7% | -3.8% | T1 | False |
-| 15 | MP7 \| Astrolabe (Factory New) | 94.46 | +31.9% | +32.0% | T0 | False |
-| 16 | Tec-9 \| Toxic (Factory New) | 385.00 | +31.7% | -9.6% | T1 | False |
-| 17 | FAMAS \| Meltdown (Factory New) | 1287.50 | +31.6% | -17.8% | T1 | False |
-| 18 | Five-SeveN \| Berries And Cherries (Factory New) | 1001.75 | +30.9% | -11.0% | T1 | False |
-| 19 | M4A4 \| Daybreak (Factory New) | 8338.00 | +30.4% | -4.3% | T1 | False |
-| 20 | FAMAS \| 2A2F (Factory New) | 47.59 | +29.2% | -21.5% | T1 | True |
-| 21 | USP-S \| Pathfinder (Factory New) | 790.00 | +29.2% | +36.2% | T0 | False |
-| 22 | USP-S \| Orange Anolis (Factory New) | 1866.70 | +28.9% | -13.5% | T1 | False |
-| 23 | Five-SeveN \| Withered Vine (Factory New) | 116.00 | +27.8% | -1.1% | T1 | False |
-| 24 | Desert Eagle \| Night Heist (Factory New) | 984.50 | +27.6% | -9.8% | T1 | False |
-| 25 | M4A4 \| Red DDPAT (Factory New) | 1680.00 | +27.5% | -10.8% | T1 | False |
-| 26 | P250 \| Mint Kimono (Factory New) | 155.75 | +27.0% | +7.3% | T0 | False |
-| 27 | Galil AR \| Cerberus (Factory New) | 2338.00 | +26.7% | -13.1% | T1 | False |
-| 28 | Galil AR \| Blue Titanium (Factory New) | 131.00 | +26.6% | +13.5% | T0 | False |
-| 29 | Glock-18 \| Green Line (Factory New) | 65.00 | +26.3% | -17.7% | T1 | True |
-| 30 | AUG \| Spalted Wood (Factory New) | 75.00 | +25.9% | -3.5% | T1 | False |
+| 1 | Five-SeveN \| Hot Shot (Factory New) | 545.00 | +63.9% | -6.9% | T1 | False |
+| 2 | Galil AR \| Amber Fade (Factory New) | 455.00 | +62.9% | -11.4% | T1 | False |
+| 3 | P2000 \| Dispatch (Factory New) | 330.99 | +53.8% | -9.7% | T1 | False |
+| 4 | USP-S \| Cyrex (Factory New) | 118.00 | +48.0% | -12.6% | T1 | False |
+| 5 | FAMAS \| Survivor Z (Factory New) | 55.80 | +45.8% | +47.0% | T0 | False |
+| 6 | PP-Bizon \| Bamboo Print (Factory New) | 137.00 | +45.2% | -4.8% | T1 | False |
+| 7 | USP-S \| Ancient Visions (Factory New) | 1014.85 | +45.0% | -8.7% | T1 | False |
+| 8 | FAMAS \| Styx (Factory New) | 1130.00 | +41.6% | -12.7% | T1 | False |
+| 9 | M4A1-S \| Flashback (Factory New) | 379.50 | +38.9% | +7.6% | T0 | False |
+| 10 | P250 \| Crimson Kimono (Factory New) | 284.33 | +35.8% | -1.5% | T1 | False |
+| 11 | M4A4 \| Global Offensive (Factory New) | 593.25 | +33.6% | -9.2% | T1 | False |
+| 12 | Desert Eagle \| Midnight Storm (Factory New) | 994.25 | +33.1% | -7.5% | T1 | False |
+| 13 | Glock-18 \| Reactor (Factory New) | 966.00 | +32.7% | -3.8% | T1 | False |
+| 14 | MP7 \| Astrolabe (Factory New) | 94.46 | +31.9% | +32.0% | T0 | False |
+| 15 | Tec-9 \| Toxic (Factory New) | 385.00 | +31.7% | -9.6% | T1 | False |
+| 16 | FAMAS \| Meltdown (Factory New) | 1287.50 | +31.6% | -17.8% | T1 | False |
+| 17 | Five-SeveN \| Berries And Cherries (Factory New) | 1001.75 | +30.9% | -11.0% | T1 | False |
+| 18 | M4A4 \| Daybreak (Factory New) | 8338.00 | +30.4% | -4.3% | T1 | False |
+| 19 | FAMAS \| 2A2F (Factory New) | 47.59 | +29.2% | -21.5% | T1 | True |
+| 20 | USP-S \| Pathfinder (Factory New) | 790.00 | +29.2% | +36.2% | T0 | False |
+| 21 | USP-S \| Orange Anolis (Factory New) | 1866.70 | +28.9% | -13.5% | T1 | False |
+| 22 | Five-SeveN \| Withered Vine (Factory New) | 116.00 | +27.8% | -1.1% | T1 | False |
+| 23 | Desert Eagle \| Night Heist (Factory New) | 984.50 | +27.6% | -9.8% | T1 | False |
+| 24 | M4A4 \| Red DDPAT (Factory New) | 1680.00 | +27.5% | -10.8% | T1 | False |
+| 25 | P250 \| Mint Kimono (Factory New) | 155.75 | +27.0% | +7.3% | T0 | False |
+| 26 | Galil AR \| Cerberus (Factory New) | 2338.00 | +26.7% | -13.1% | T1 | False |
+| 27 | Galil AR \| Blue Titanium (Factory New) | 131.00 | +26.6% | +13.5% | T0 | False |
+| 28 | Glock-18 \| Green Line (Factory New) | 65.00 | +26.3% | -17.7% | T1 | True |
+| 29 | AUG \| Spalted Wood (Factory New) | 75.00 | +25.9% | -3.5% | T1 | False |
+| 30 | Five-SeveN \| Case Hardened (Factory New) | 539.50 | +25.2% | -7.4% | T1 | False |
 
 ## 2026-04-22
 
@@ -2808,34 +2806,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Five-SeveN \| Hot Shot (Factory New) | 579.80 | +105.5% | -27.0% | T1 | False |
 | 2 | USP-S \| Pathfinder (Factory New) | 746.50 | +95.0% | +0.7% | T1 | False |
-| 3 | R8 Revolver \| Junk Yard (Factory New) | 43.89 | +88.2% | -4.5% | T1 | False |
-| 4 | P250 \| Mint Kimono (Factory New) | 150.50 | +84.0% | -5.7% | T1 | False |
-| 5 | PP-Bizon \| Bamboo Print (Factory New) | 124.00 | +71.2% | -9.7% | T1 | False |
-| 6 | P250 \| Crimson Kimono (Factory New) | 275.16 | +66.4% | -3.0% | T1 | False |
-| 7 | FAMAS \| Survivor Z (Factory New) | 50.00 | +65.1% | +46.2% | T0 | False |
-| 8 | P2000 \| Dispatch (Factory New) | 311.98 | +61.6% | -8.9% | T1 | False |
-| 9 | MP7 \| Astrolabe (Factory New) | 76.00 | +57.9% | +19.7% | T0 | False |
-| 10 | Dual Berettas \| Heist (Factory New) | 54.00 | +57.1% | +20.0% | T0 | False |
-| 11 | Galil AR \| Blue Titanium (Factory New) | 117.40 | +55.0% | +7.0% | T0 | False |
-| 12 | SSG 08 \| Carbon Fiber (Factory New) | 96.00 | +54.9% | -2.6% | T1 | True |
-| 13 | M4A4 \| Red DDPAT (Factory New) | 1589.50 | +53.8% | -18.5% | T1 | False |
-| 14 | Galil AR \| Dusk Ruins (Factory New) | 631.75 | +53.4% | -9.8% | T1 | False |
-| 15 | USP-S \| Cyrex (Factory New) | 107.00 | +53.3% | -14.4% | T1 | False |
-| 16 | Five-SeveN \| Nightshade (Factory New) | 152.00 | +52.3% | -2.2% | T1 | False |
-| 17 | Galil AR \| Amber Fade (Factory New) | 444.50 | +50.7% | -13.3% | T1 | False |
-| 18 | FAMAS \| Meltdown (Factory New) | 1188.00 | +50.1% | -15.3% | T1 | False |
-| 19 | Five-SeveN \| Withered Vine (Factory New) | 109.50 | +49.9% | -4.7% | T1 | False |
-| 20 | SCAR-20 \| Magna Carta (Factory New) | 147.99 | +49.9% | -20.8% | T1 | True |
-| 21 | FAMAS \| Faulty Wiring (Factory New) | 95.80 | +49.2% | +1.6% | T1 | False |
-| 22 | FAMAS \| Styx (Factory New) | 1018.88 | +49.0% | -15.0% | T1 | False |
-| 23 | Glock-18 \| Sacrifice (Factory New) | 94.89 | +48.5% | -16.1% | T1 | True |
-| 24 | Five-SeveN \| Forest Night (Factory New) | 40.00 | +48.0% | -22.8% | T1 | False |
-| 25 | P250 \| Contamination (Factory New) | 148.98 | +47.9% | +5.3% | T0 | False |
-| 26 | Tec-9 \| Toxic (Factory New) | 373.00 | +47.9% | -14.0% | T1 | False |
-| 27 | Dual Berettas \| Drift Wood (Factory New) | 60.00 | +47.7% | -18.1% | T1 | False |
-| 28 | MAC-10 \| Nuclear Garden (Factory New) | 359.50 | +47.2% | +29.8% | T0 | False |
-| 29 | FAMAS \| Night Borre (Factory New) | 147.00 | +47.2% | +16.5% | T0 | False |
-| 30 | FAMAS \| Decommissioned (Factory New) | 99.20 | +46.9% | -4.3% | T1 | False |
+| 3 | P250 \| Mint Kimono (Factory New) | 150.50 | +84.0% | -5.7% | T1 | False |
+| 4 | PP-Bizon \| Bamboo Print (Factory New) | 124.00 | +71.2% | -9.7% | T1 | False |
+| 5 | P250 \| Crimson Kimono (Factory New) | 275.16 | +66.4% | -3.0% | T1 | False |
+| 6 | FAMAS \| Survivor Z (Factory New) | 50.00 | +65.1% | +46.2% | T0 | False |
+| 7 | P2000 \| Dispatch (Factory New) | 311.98 | +61.6% | -8.9% | T1 | False |
+| 8 | MP7 \| Astrolabe (Factory New) | 76.00 | +57.9% | +19.7% | T0 | False |
+| 9 | Dual Berettas \| Heist (Factory New) | 54.00 | +57.1% | +20.0% | T0 | False |
+| 10 | Galil AR \| Blue Titanium (Factory New) | 117.40 | +55.0% | +7.0% | T0 | False |
+| 11 | SSG 08 \| Carbon Fiber (Factory New) | 96.00 | +54.9% | -2.6% | T1 | True |
+| 12 | M4A4 \| Red DDPAT (Factory New) | 1589.50 | +53.8% | -18.5% | T1 | False |
+| 13 | Galil AR \| Dusk Ruins (Factory New) | 631.75 | +53.4% | -9.8% | T1 | False |
+| 14 | USP-S \| Cyrex (Factory New) | 107.00 | +53.3% | -14.4% | T1 | False |
+| 15 | Five-SeveN \| Nightshade (Factory New) | 152.00 | +52.3% | -2.2% | T1 | False |
+| 16 | Galil AR \| Amber Fade (Factory New) | 444.50 | +50.7% | -13.3% | T1 | False |
+| 17 | FAMAS \| Meltdown (Factory New) | 1188.00 | +50.1% | -15.3% | T1 | False |
+| 18 | Five-SeveN \| Withered Vine (Factory New) | 109.50 | +49.9% | -4.7% | T1 | False |
+| 19 | SCAR-20 \| Magna Carta (Factory New) | 147.99 | +49.9% | -20.8% | T1 | True |
+| 20 | FAMAS \| Faulty Wiring (Factory New) | 95.80 | +49.2% | +1.6% | T1 | False |
+| 21 | FAMAS \| Styx (Factory New) | 1018.88 | +49.0% | -15.0% | T1 | False |
+| 22 | Glock-18 \| Sacrifice (Factory New) | 94.89 | +48.5% | -16.1% | T1 | True |
+| 23 | Five-SeveN \| Forest Night (Factory New) | 40.00 | +48.0% | -22.8% | T1 | False |
+| 24 | P250 \| Contamination (Factory New) | 148.98 | +47.9% | +5.3% | T0 | False |
+| 25 | Tec-9 \| Toxic (Factory New) | 373.00 | +47.9% | -14.0% | T1 | False |
+| 26 | Dual Berettas \| Drift Wood (Factory New) | 60.00 | +47.7% | -18.1% | T1 | False |
+| 27 | MAC-10 \| Nuclear Garden (Factory New) | 359.50 | +47.2% | +29.8% | T0 | False |
+| 28 | FAMAS \| Night Borre (Factory New) | 147.00 | +47.2% | +16.5% | T0 | False |
+| 29 | FAMAS \| Decommissioned (Factory New) | 99.20 | +46.9% | -4.3% | T1 | False |
+| 30 | Tec-9 \| Phoenix Chalk (Factory New) | 161.50 | +46.9% | +9.2% | T0 | False |
 
 ## 2026-04-23
 
@@ -2844,33 +2842,33 @@
 | 1 | Five-SeveN \| Hot Shot (Factory New) | 568.30 | +97.0% | -34.9% | T1 | False |
 | 2 | USP-S \| Pathfinder (Factory New) | 687.38 | +68.7% | -11.8% | T1 | False |
 | 3 | Tec-9 \| Phoenix Chalk (Factory New) | 142.30 | +56.5% | -26.6% | T1 | False |
-| 4 | R8 Revolver \| Junk Yard (Factory New) | 44.58 | +49.5% | -6.9% | T1 | False |
-| 5 | FAMAS \| CaliCamo (Factory New) | 205.00 | +47.1% | -7.2% | T1 | False |
-| 6 | M4A1-S \| Flashback (Factory New) | 392.50 | +44.4% | -1.7% | T1 | False |
-| 7 | P2000 \| Dispatch (Factory New) | 304.00 | +44.0% | -10.0% | T1 | False |
-| 8 | MAC-10 \| Nuclear Garden (Factory New) | 354.00 | +41.9% | +16.7% | T0 | False |
-| 9 | USP-S \| Cyrex (Factory New) | 108.90 | +39.5% | -21.4% | T1 | False |
-| 10 | MAC-10 \| Gold Brick (Factory New) | 886.96 | +38.1% | +2.0% | T1 | False |
-| 11 | P250 \| Crimson Kimono (Factory New) | 254.00 | +38.1% | -16.0% | T1 | False |
-| 12 | Tec-9 \| Blue Titanium (Factory New) | 127.25 | +37.8% | -15.7% | T1 | False |
-| 13 | P250 \| Forest Night (Factory New) | 82.00 | +37.0% | -15.0% | T1 | False |
-| 14 | CZ75-Auto \| Syndicate (Factory New) | 272.00 | +36.1% | -6.6% | T1 | False |
-| 15 | Galil AR \| Urban Rubble (Factory New) | 230.00 | +36.0% | -8.5% | T1 | False |
-| 16 | Galil AR \| Dusk Ruins (Factory New) | 579.00 | +35.7% | -14.5% | T1 | False |
-| 17 | PP-Bizon \| Bamboo Print (Factory New) | 119.00 | +35.4% | -13.0% | T1 | False |
-| 18 | Galil AR \| Amber Fade (Factory New) | 499.00 | +34.5% | -19.5% | T1 | False |
-| 19 | Galil AR \| Blue Titanium (Factory New) | 109.00 | +33.0% | -3.7% | T1 | False |
-| 20 | FAMAS \| Survivor Z (Factory New) | 50.00 | +32.8% | +35.0% | T0 | False |
-| 21 | Five-SeveN \| Withered Vine (Factory New) | 103.00 | +32.7% | -13.4% | T1 | False |
-| 22 | MP7 \| Tall Grass (Factory New) | 205.50 | +32.7% | -1.0% | T1 | False |
-| 23 | Desert Eagle \| Heirloom (Factory New) | 829.50 | +32.6% | -15.8% | T1 | False |
-| 24 | P250 \| Contamination (Factory New) | 115.99 | +32.3% | -11.8% | T1 | False |
-| 25 | Five-SeveN \| Nightshade (Factory New) | 125.50 | +32.1% | -5.5% | T1 | False |
-| 26 | Desert Eagle \| The Bronze (Factory New) | 96.00 | +31.6% | -17.6% | T1 | False |
-| 27 | P2000 \| Space Race (Factory New) | 319.00 | +31.4% | -12.5% | T1 | False |
-| 28 | P250 \| Mint Kimono (Factory New) | 123.00 | +29.4% | -16.6% | T1 | False |
-| 29 | MP9 \| Hydra (Factory New) | 363.50 | +28.0% | -13.5% | T1 | False |
-| 30 | FAMAS \| Night Borre (Factory New) | 137.00 | +26.6% | +1.4% | T1 | False |
+| 4 | FAMAS \| CaliCamo (Factory New) | 205.00 | +47.1% | -7.2% | T1 | False |
+| 5 | M4A1-S \| Flashback (Factory New) | 392.50 | +44.4% | -1.7% | T1 | False |
+| 6 | P2000 \| Dispatch (Factory New) | 304.00 | +44.0% | -10.0% | T1 | False |
+| 7 | MAC-10 \| Nuclear Garden (Factory New) | 354.00 | +41.9% | +16.7% | T0 | False |
+| 8 | USP-S \| Cyrex (Factory New) | 108.90 | +39.5% | -21.4% | T1 | False |
+| 9 | MAC-10 \| Gold Brick (Factory New) | 886.96 | +38.1% | +2.0% | T1 | False |
+| 10 | P250 \| Crimson Kimono (Factory New) | 254.00 | +38.1% | -16.0% | T1 | False |
+| 11 | Tec-9 \| Blue Titanium (Factory New) | 127.25 | +37.8% | -15.7% | T1 | False |
+| 12 | P250 \| Forest Night (Factory New) | 82.00 | +37.0% | -15.0% | T1 | False |
+| 13 | CZ75-Auto \| Syndicate (Factory New) | 272.00 | +36.1% | -6.6% | T1 | False |
+| 14 | Galil AR \| Urban Rubble (Factory New) | 230.00 | +36.0% | -8.5% | T1 | False |
+| 15 | Galil AR \| Dusk Ruins (Factory New) | 579.00 | +35.7% | -14.5% | T1 | False |
+| 16 | PP-Bizon \| Bamboo Print (Factory New) | 119.00 | +35.4% | -13.0% | T1 | False |
+| 17 | Galil AR \| Amber Fade (Factory New) | 499.00 | +34.5% | -19.5% | T1 | False |
+| 18 | Galil AR \| Blue Titanium (Factory New) | 109.00 | +33.0% | -3.7% | T1 | False |
+| 19 | FAMAS \| Survivor Z (Factory New) | 50.00 | +32.8% | +35.0% | T0 | False |
+| 20 | Five-SeveN \| Withered Vine (Factory New) | 103.00 | +32.7% | -13.4% | T1 | False |
+| 21 | MP7 \| Tall Grass (Factory New) | 205.50 | +32.7% | -1.0% | T1 | False |
+| 22 | Desert Eagle \| Heirloom (Factory New) | 829.50 | +32.6% | -15.8% | T1 | False |
+| 23 | P250 \| Contamination (Factory New) | 115.99 | +32.3% | -11.8% | T1 | False |
+| 24 | Five-SeveN \| Nightshade (Factory New) | 125.50 | +32.1% | -5.5% | T1 | False |
+| 25 | Desert Eagle \| The Bronze (Factory New) | 96.00 | +31.6% | -17.6% | T1 | False |
+| 26 | P2000 \| Space Race (Factory New) | 319.00 | +31.4% | -12.5% | T1 | False |
+| 27 | P250 \| Mint Kimono (Factory New) | 123.00 | +29.4% | -16.6% | T1 | False |
+| 28 | MP9 \| Hydra (Factory New) | 363.50 | +28.0% | -13.5% | T1 | False |
+| 29 | FAMAS \| Night Borre (Factory New) | 137.00 | +26.6% | +1.4% | T1 | False |
+| 30 | Tec-9 \| Toxic (Factory New) | 367.50 | +26.2% | -19.1% | T1 | False |
 
 ## 2026-04-24
 
@@ -2878,34 +2876,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Tec-9 \| Phoenix Chalk (Factory New) | 165.88 | +61.5% | -25.0% | T1 | False |
 | 2 | USP-S \| Pathfinder (Factory New) | 800.00 | +59.7% | -9.7% | T1 | False |
-| 3 | R8 Revolver \| Junk Yard (Factory New) | 56.50 | +51.4% | -8.7% | T1 | False |
-| 4 | FAMAS \| CaliCamo (Factory New) | 217.89 | +41.2% | -13.5% | T1 | False |
-| 5 | FAMAS \| Survivor Z (Factory New) | 64.69 | +39.5% | +15.6% | T0 | False |
-| 6 | P2000 \| Dispatch (Factory New) | 344.50 | +36.5% | -4.4% | T1 | False |
-| 7 | P250 \| Crimson Kimono (Factory New) | 332.00 | +33.9% | -3.9% | T1 | False |
-| 8 | Five-SeveN \| Hot Shot (Factory New) | 610.00 | +31.2% | -19.6% | T1 | False |
-| 9 | P250 \| Mint Kimono (Factory New) | 177.00 | +30.9% | -4.5% | T1 | False |
-| 10 | MAC-10 \| Gold Brick (Factory New) | 894.49 | +30.1% | -3.1% | T1 | False |
-| 11 | M4A1-S \| Flashback (Factory New) | 407.40 | +29.6% | +0.5% | T1 | False |
-| 12 | Five-SeveN \| Nightshade (Factory New) | 151.99 | +29.5% | -10.2% | T1 | False |
-| 13 | Tec-9 \| Blue Titanium (Factory New) | 127.50 | +29.5% | -13.3% | T1 | False |
-| 14 | Five-SeveN \| Orange Peel (Factory New) | 66.90 | +28.8% | -10.9% | T1 | False |
-| 15 | Tec-9 \| Blast From the Past (Factory New) | 225.87 | +27.1% | +3.9% | T1 | False |
-| 16 | MAG-7 \| Carbon Fiber (Factory New) | 30.77 | +26.4% | -12.8% | T1 | False |
-| 17 | R8 Revolver \| Survivalist (Factory New) | 35.00 | +26.4% | -26.5% | T1 | False |
-| 18 | P250 \| Forest Night (Factory New) | 80.00 | +26.1% | -13.0% | T1 | False |
-| 19 | P2000 \| Space Race (Factory New) | 388.50 | +25.2% | -10.1% | T1 | False |
-| 20 | MAC-10 \| Nuclear Garden (Factory New) | 394.00 | +23.6% | +20.6% | T0 | False |
-| 21 | Galil AR \| Blue Titanium (Factory New) | 129.50 | +23.4% | -2.4% | T1 | False |
-| 22 | PP-Bizon \| Bamboo Print (Factory New) | 144.00 | +23.0% | -2.0% | T1 | False |
-| 23 | USP-S \| Para Green (Factory New) | 738.00 | +20.8% | -6.1% | T1 | False |
-| 24 | Desert Eagle \| The Bronze (Factory New) | 104.90 | +20.7% | -13.6% | T1 | False |
-| 25 | Desert Eagle \| Heirloom (Factory New) | 960.00 | +20.6% | -18.2% | T1 | False |
-| 26 | Galil AR \| Amber Fade (Factory New) | 559.50 | +20.5% | -11.9% | T1 | False |
-| 27 | Galil AR \| Dusk Ruins (Factory New) | 650.00 | +20.2% | -13.6% | T1 | False |
-| 28 | G3SG1 \| Orange Kimono (Factory New) | 96.00 | +19.9% | -16.5% | T1 | False |
-| 29 | FAMAS \| Night Borre (Factory New) | 159.40 | +18.7% | +1.6% | T1 | False |
-| 30 | MP9 \| Hydra (Factory New) | 368.87 | +18.2% | -10.5% | T1 | False |
+| 3 | FAMAS \| CaliCamo (Factory New) | 217.89 | +41.2% | -13.5% | T1 | False |
+| 4 | FAMAS \| Survivor Z (Factory New) | 64.69 | +39.5% | +15.6% | T0 | False |
+| 5 | P2000 \| Dispatch (Factory New) | 344.50 | +36.5% | -4.4% | T1 | False |
+| 6 | P250 \| Crimson Kimono (Factory New) | 332.00 | +33.9% | -3.9% | T1 | False |
+| 7 | Five-SeveN \| Hot Shot (Factory New) | 610.00 | +31.2% | -19.6% | T1 | False |
+| 8 | P250 \| Mint Kimono (Factory New) | 177.00 | +30.9% | -4.5% | T1 | False |
+| 9 | MAC-10 \| Gold Brick (Factory New) | 894.49 | +30.1% | -3.1% | T1 | False |
+| 10 | M4A1-S \| Flashback (Factory New) | 407.40 | +29.6% | +0.5% | T1 | False |
+| 11 | Five-SeveN \| Nightshade (Factory New) | 151.99 | +29.5% | -10.2% | T1 | False |
+| 12 | Tec-9 \| Blue Titanium (Factory New) | 127.50 | +29.5% | -13.3% | T1 | False |
+| 13 | Five-SeveN \| Orange Peel (Factory New) | 66.90 | +28.8% | -10.9% | T1 | False |
+| 14 | Tec-9 \| Blast From the Past (Factory New) | 225.87 | +27.1% | +3.9% | T1 | False |
+| 15 | P250 \| Forest Night (Factory New) | 80.00 | +26.1% | -13.0% | T1 | False |
+| 16 | P2000 \| Space Race (Factory New) | 388.50 | +25.2% | -10.1% | T1 | False |
+| 17 | MAC-10 \| Nuclear Garden (Factory New) | 394.00 | +23.6% | +20.6% | T0 | False |
+| 18 | Galil AR \| Blue Titanium (Factory New) | 129.50 | +23.4% | -2.4% | T1 | False |
+| 19 | PP-Bizon \| Bamboo Print (Factory New) | 144.00 | +23.0% | -2.0% | T1 | False |
+| 20 | USP-S \| Para Green (Factory New) | 738.00 | +20.8% | -6.1% | T1 | False |
+| 21 | Desert Eagle \| The Bronze (Factory New) | 104.90 | +20.7% | -13.6% | T1 | False |
+| 22 | Desert Eagle \| Heirloom (Factory New) | 960.00 | +20.6% | -18.2% | T1 | False |
+| 23 | Galil AR \| Amber Fade (Factory New) | 559.50 | +20.5% | -11.9% | T1 | False |
+| 24 | Galil AR \| Dusk Ruins (Factory New) | 650.00 | +20.2% | -13.6% | T1 | False |
+| 25 | G3SG1 \| Orange Kimono (Factory New) | 96.00 | +19.9% | -16.5% | T1 | False |
+| 26 | FAMAS \| Night Borre (Factory New) | 159.40 | +18.7% | +1.6% | T1 | False |
+| 27 | MP9 \| Hydra (Factory New) | 368.87 | +18.2% | -10.5% | T1 | False |
+| 28 | P250 \| Whiteout (Factory New) | 2888.00 | +17.8% | -15.2% | T1 | False |
+| 29 | Glock-18 \| Steel Disruption (Factory New) | 497.50 | +17.8% | -10.5% | T1 | False |
+| 30 | SCAR-20 \| Magna Carta (Factory New) | 145.00 | +16.6% | -6.2% | T1 | True |
 
 ## 2026-04-25
 
@@ -2914,33 +2912,33 @@
 | 1 | USP-S \| Pathfinder (Factory New) | 840.00 | +64.6% | -14.1% | T1 | False |
 | 2 | Galil AR \| Blue Titanium (Factory New) | 138.88 | +62.5% | -20.0% | T1 | False |
 | 3 | MP7 \| Astrolabe (Factory New) | 95.20 | +61.4% | -15.2% | T1 | False |
-| 4 | R8 Revolver \| Junk Yard (Factory New) | 57.30 | +51.6% | -11.1% | T1 | False |
-| 5 | Dual Berettas \| Heist (Factory New) | 58.40 | +48.5% | -27.7% | T1 | False |
-| 6 | P250 \| Steel Disruption (Factory New) | 107.88 | +46.2% | -21.2% | T1 | False |
-| 7 | Tec-9 \| Phoenix Chalk (Factory New) | 173.00 | +46.2% | -23.7% | T1 | False |
-| 8 | P2000 \| Imperial Dragon (Factory New) | 410.00 | +44.8% | -27.5% | T1 | False |
-| 9 | Five-SeveN \| Nightshade (Factory New) | 155.00 | +43.5% | -20.4% | T1 | False |
-| 10 | MAC-10 \| Nuclear Garden (Factory New) | 444.50 | +43.4% | +9.6% | T0 | False |
-| 11 | PP-Bizon \| Bamboo Print (Factory New) | 146.00 | +42.3% | -22.9% | T1 | False |
-| 12 | FAMAS \| Survivor Z (Factory New) | 78.88 | +40.8% | -12.8% | T1 | False |
-| 13 | FAMAS \| Night Borre (Factory New) | 169.90 | +40.8% | -12.7% | T1 | False |
-| 14 | Tec-9 \| Blue Titanium (Factory New) | 139.00 | +40.5% | -24.0% | T1 | False |
-| 15 | FAMAS \| CaliCamo (Factory New) | 240.00 | +40.4% | -15.2% | T1 | False |
-| 16 | Five-SeveN \| Orange Peel (Factory New) | 62.97 | +39.2% | -17.4% | T1 | False |
-| 17 | Desert Eagle \| The Bronze (Factory New) | 110.00 | +38.0% | -18.8% | T1 | False |
-| 18 | R8 Revolver \| Phoenix Marker (Factory New) | 158.98 | +35.5% | -11.8% | T1 | False |
-| 19 | P250 \| Crimson Kimono (Factory New) | 308.50 | +34.9% | -16.9% | T1 | False |
-| 20 | MP7 \| Tall Grass (Factory New) | 234.00 | +34.1% | -2.9% | T1 | False |
-| 21 | M4A1-S \| Flashback (Factory New) | 446.00 | +31.9% | -8.1% | T1 | False |
-| 22 | MP7 \| Vault Heist (Factory New) | 223.50 | +31.5% | -24.1% | T1 | False |
-| 23 | Five-SeveN \| Withered Vine (Factory New) | 131.88 | +30.5% | -23.5% | T1 | False |
-| 24 | USP-S \| Para Green (Factory New) | 690.00 | +30.3% | -17.1% | T1 | False |
-| 25 | SSG 08 \| Spring Twilly (Factory New) | 76.80 | +29.4% | -28.9% | T1 | False |
-| 26 | FAMAS \| Cyanospatter (Factory New) | 128.50 | +29.0% | -15.0% | T1 | False |
-| 27 | Glock-18 \| Nuclear Garden (Factory New) | 218.90 | +27.8% | -9.8% | T1 | False |
-| 28 | P250 \| Mint Kimono (Factory New) | 167.80 | +27.5% | -11.0% | T1 | False |
-| 29 | Dual Berettas \| Royal Consorts (Factory New) | 180.50 | +26.9% | -26.6% | T1 | False |
-| 30 | P2000 \| Pathfinder (Factory New) | 258.50 | +26.6% | -12.3% | T1 | False |
+| 4 | Dual Berettas \| Heist (Factory New) | 58.40 | +48.5% | -27.7% | T1 | False |
+| 5 | P250 \| Steel Disruption (Factory New) | 107.88 | +46.2% | -21.2% | T1 | False |
+| 6 | Tec-9 \| Phoenix Chalk (Factory New) | 173.00 | +46.2% | -23.7% | T1 | False |
+| 7 | P2000 \| Imperial Dragon (Factory New) | 410.00 | +44.8% | -27.5% | T1 | False |
+| 8 | Five-SeveN \| Nightshade (Factory New) | 155.00 | +43.5% | -20.4% | T1 | False |
+| 9 | MAC-10 \| Nuclear Garden (Factory New) | 444.50 | +43.4% | +9.6% | T0 | False |
+| 10 | PP-Bizon \| Bamboo Print (Factory New) | 146.00 | +42.3% | -22.9% | T1 | False |
+| 11 | FAMAS \| Survivor Z (Factory New) | 78.88 | +40.8% | -12.8% | T1 | False |
+| 12 | FAMAS \| Night Borre (Factory New) | 169.90 | +40.8% | -12.7% | T1 | False |
+| 13 | Tec-9 \| Blue Titanium (Factory New) | 139.00 | +40.5% | -24.0% | T1 | False |
+| 14 | FAMAS \| CaliCamo (Factory New) | 240.00 | +40.4% | -15.2% | T1 | False |
+| 15 | Five-SeveN \| Orange Peel (Factory New) | 62.97 | +39.2% | -17.4% | T1 | False |
+| 16 | Desert Eagle \| The Bronze (Factory New) | 110.00 | +38.0% | -18.8% | T1 | False |
+| 17 | P250 \| Crimson Kimono (Factory New) | 308.50 | +34.9% | -16.9% | T1 | False |
+| 18 | MP7 \| Tall Grass (Factory New) | 234.00 | +34.1% | -2.9% | T1 | False |
+| 19 | M4A1-S \| Flashback (Factory New) | 446.00 | +31.9% | -8.1% | T1 | False |
+| 20 | MP7 \| Vault Heist (Factory New) | 223.50 | +31.5% | -24.1% | T1 | False |
+| 21 | Five-SeveN \| Withered Vine (Factory New) | 131.88 | +30.5% | -23.5% | T1 | False |
+| 22 | USP-S \| Para Green (Factory New) | 690.00 | +30.3% | -17.1% | T1 | False |
+| 23 | SSG 08 \| Spring Twilly (Factory New) | 76.80 | +29.4% | -28.9% | T1 | False |
+| 24 | FAMAS \| Cyanospatter (Factory New) | 128.50 | +29.0% | -15.0% | T1 | False |
+| 25 | Glock-18 \| Nuclear Garden (Factory New) | 218.90 | +27.8% | -9.8% | T1 | False |
+| 26 | P250 \| Mint Kimono (Factory New) | 167.80 | +27.5% | -11.0% | T1 | False |
+| 27 | Dual Berettas \| Royal Consorts (Factory New) | 180.50 | +26.9% | -26.6% | T1 | False |
+| 28 | P2000 \| Pathfinder (Factory New) | 258.50 | +26.6% | -12.3% | T1 | False |
+| 29 | Desert Eagle \| Heirloom (Factory New) | 1020.00 | +26.2% | -25.1% | T1 | False |
+| 30 | SSG 08 \| Carbon Fiber (Factory New) | 104.70 | +24.7% | -11.9% | T1 | False |
 
 ## 2026-04-26
 
@@ -2964,18 +2962,18 @@
 | 16 | FAMAS \| Cyanospatter (Factory New) | 118.90 | +34.0% | -20.3% | T1 | False |
 | 17 | PP-Bizon \| Bamboo Print (Factory New) | 141.00 | +32.3% | -12.2% | T1 | False |
 | 18 | UMP-45 \| Houndstooth (Factory New) | 64.59 | +30.8% | -28.8% | T1 | False |
-| 19 | R8 Revolver \| Phoenix Marker (Factory New) | 156.33 | +30.8% | -7.3% | T1 | False |
-| 20 | P2000 \| Pathfinder (Factory New) | 258.50 | +30.3% | -14.7% | T1 | False |
-| 21 | MAG-7 \| Carbon Fiber (Factory New) | 31.80 | +30.3% | -22.8% | T1 | False |
-| 22 | P250 \| Dark Filigree (Factory New) | 158.25 | +30.1% | -19.1% | T1 | False |
-| 23 | SSG 08 \| Carbon Fiber (Factory New) | 92.40 | +29.8% | -12.8% | T1 | False |
-| 24 | MP7 \| Vault Heist (Factory New) | 204.00 | +29.7% | -18.2% | T1 | False |
-| 25 | MP7 \| Tall Grass (Factory New) | 227.50 | +28.6% | -6.6% | T1 | False |
-| 26 | P250 \| Crimson Kimono (Factory New) | 328.50 | +28.1% | -9.9% | T1 | False |
-| 27 | Tec-9 \| Blue Titanium (Factory New) | 134.00 | +28.0% | -12.9% | T1 | False |
-| 28 | Dual Berettas \| Royal Consorts (Factory New) | 178.00 | +27.6% | -23.7% | T1 | False |
-| 29 | MP7 \| Asterion (Factory New) | 159.00 | +27.5% | -21.1% | T1 | False |
-| 30 | Glock-18 \| Nuclear Garden (Factory New) | 211.80 | +25.3% | -0.1% | T1 | False |
+| 19 | P2000 \| Pathfinder (Factory New) | 258.50 | +30.3% | -14.7% | T1 | False |
+| 20 | P250 \| Dark Filigree (Factory New) | 158.25 | +30.1% | -19.1% | T1 | False |
+| 21 | SSG 08 \| Carbon Fiber (Factory New) | 92.40 | +29.8% | -12.8% | T1 | False |
+| 22 | MP7 \| Vault Heist (Factory New) | 204.00 | +29.7% | -18.2% | T1 | False |
+| 23 | MP7 \| Tall Grass (Factory New) | 227.50 | +28.6% | -6.6% | T1 | False |
+| 24 | P250 \| Crimson Kimono (Factory New) | 328.50 | +28.1% | -9.9% | T1 | False |
+| 25 | Tec-9 \| Blue Titanium (Factory New) | 134.00 | +28.0% | -12.9% | T1 | False |
+| 26 | Dual Berettas \| Royal Consorts (Factory New) | 178.00 | +27.6% | -23.7% | T1 | False |
+| 27 | MP7 \| Asterion (Factory New) | 159.00 | +27.5% | -21.1% | T1 | False |
+| 28 | Glock-18 \| Nuclear Garden (Factory New) | 211.80 | +25.3% | -0.1% | T1 | False |
+| 29 | Desert Eagle \| Heirloom (Factory New) | 966.00 | +25.3% | -22.9% | T1 | False |
+| 30 | Dual Berettas \| Oil Change (Factory New) | 43.94 | +25.2% | -27.3% | T1 | False |
 
 ## 2026-04-27
 
@@ -3035,17 +3033,17 @@
 | 17 | Tec-9 \| Rust Leaf (Factory New) | 174.00 | +20.7% | -3.0% | T1 | False |
 | 18 | FAMAS \| Hexane (Factory New) | 147.00 | +19.8% | -10.5% | T1 | False |
 | 19 | Five-SeveN \| Orange Peel (Factory New) | 60.09 | +19.3% | -0.0% | T1 | False |
-| 20 | R8 Revolver \| Reboot (Factory New) | 99.50 | +18.9% | -5.9% | T1 | False |
-| 21 | USP-S \| Para Green (Factory New) | 696.62 | +17.4% | -15.5% | T1 | False |
-| 22 | AUG \| Navy Murano (Factory New) | 100.00 | +16.8% | +0.5% | T1 | False |
-| 23 | P250 \| Hive (Factory New) | 109.42 | +16.6% | -10.2% | T1 | False |
-| 24 | FAMAS \| Night Borre (Factory New) | 162.00 | +16.6% | -4.4% | T1 | False |
-| 25 | MP7 \| Akoben (Factory New) | 41.78 | +16.0% | -25.5% | T1 | False |
-| 26 | Tec-9 \| Phoenix Chalk (Factory New) | 177.00 | +15.6% | -8.4% | T1 | False |
-| 27 | SG 553 \| Barricade (Factory New) | 111.93 | +15.6% | -11.8% | T1 | False |
-| 28 | Dual Berettas \| Switch Board (Factory New) | 78.00 | +15.4% | -27.5% | T1 | False |
-| 29 | FAMAS \| Decommissioned (Factory New) | 93.00 | +15.4% | -17.9% | T1 | False |
-| 30 | MP7 \| Bloodsport (Factory New) | 693.49 | +15.1% | -26.8% | T1 | False |
+| 20 | USP-S \| Para Green (Factory New) | 696.62 | +17.4% | -15.5% | T1 | False |
+| 21 | AUG \| Navy Murano (Factory New) | 100.00 | +16.8% | +0.5% | T1 | False |
+| 22 | P250 \| Hive (Factory New) | 109.42 | +16.6% | -10.2% | T1 | False |
+| 23 | FAMAS \| Night Borre (Factory New) | 162.00 | +16.6% | -4.4% | T1 | False |
+| 24 | MP7 \| Akoben (Factory New) | 41.78 | +16.0% | -25.5% | T1 | False |
+| 25 | Tec-9 \| Phoenix Chalk (Factory New) | 177.00 | +15.6% | -8.4% | T1 | False |
+| 26 | SG 553 \| Barricade (Factory New) | 111.93 | +15.6% | -11.8% | T1 | False |
+| 27 | Dual Berettas \| Switch Board (Factory New) | 78.00 | +15.4% | -27.5% | T1 | False |
+| 28 | FAMAS \| Decommissioned (Factory New) | 93.00 | +15.4% | -17.9% | T1 | False |
+| 29 | MP7 \| Bloodsport (Factory New) | 693.49 | +15.1% | -26.8% | T1 | False |
+| 30 | Tec-9 \| Blast From the Past (Factory New) | 234.60 | +14.4% | +9.4% | T0 | False |
 
 ## 2026-04-29
 
@@ -3066,21 +3064,21 @@
 | 13 | AUG \| Condemned (Factory New) | 57.99 | +16.9% | -24.1% | T1 | False |
 | 14 | Tec-9 \| Hades (Factory New) | 270.00 | +16.7% | -12.3% | T1 | False |
 | 15 | FAMAS \| Night Borre (Factory New) | 182.99 | +16.5% | -24.2% | T1 | False |
-| 16 | R8 Revolver \| Crimson Web (Factory New) | 159.40 | +16.0% | -10.9% | T1 | False |
-| 17 | R8 Revolver \| Reboot (Factory New) | 95.00 | +15.8% | -4.7% | T1 | False |
-| 18 | AUG \| Navy Murano (Factory New) | 104.00 | +15.2% | +3.5% | T1 | False |
-| 19 | MAC-10 \| Surfwood (Factory New) | 84.90 | +13.1% | -13.7% | T1 | False |
-| 20 | FAMAS \| CaliCamo (Factory New) | 260.00 | +13.0% | -37.8% | T1 | False |
-| 21 | P250 \| Wingshot (Factory New) | 125.50 | +12.5% | -25.3% | T1 | False |
-| 22 | MP7 \| Tall Grass (Factory New) | 246.50 | +12.4% | +2.3% | T1 | False |
-| 23 | R8 Revolver \| Phoenix Marker (Factory New) | 176.00 | +12.1% | -13.6% | T1 | False |
-| 24 | P250 \| Hive (Factory New) | 113.40 | +12.0% | -17.3% | T1 | False |
-| 25 | Desert Eagle \| Heirloom (Factory New) | 1018.00 | +11.7% | -29.5% | T1 | False |
-| 26 | FAMAS \| Hexane (Factory New) | 160.00 | +11.6% | -16.0% | T1 | False |
-| 27 | P2000 \| Red FragCam (Factory New) | 150.30 | +11.4% | -17.4% | T1 | False |
-| 28 | M4A1-S \| Flashback (Factory New) | 533.98 | +10.9% | +1.7% | T1 | False |
-| 29 | Dual Berettas \| Marina (Factory New) | 182.49 | +10.7% | -9.6% | T1 | False |
-| 30 | SG 553 \| Barricade (Factory New) | 111.94 | +10.3% | -15.0% | T1 | False |
+| 16 | AUG \| Navy Murano (Factory New) | 104.00 | +15.2% | +3.5% | T1 | False |
+| 17 | MAC-10 \| Surfwood (Factory New) | 84.90 | +13.1% | -13.7% | T1 | False |
+| 18 | FAMAS \| CaliCamo (Factory New) | 260.00 | +13.0% | -37.8% | T1 | False |
+| 19 | P250 \| Wingshot (Factory New) | 125.50 | +12.5% | -25.3% | T1 | False |
+| 20 | MP7 \| Tall Grass (Factory New) | 246.50 | +12.4% | +2.3% | T1 | False |
+| 21 | P250 \| Hive (Factory New) | 113.40 | +12.0% | -17.3% | T1 | False |
+| 22 | Desert Eagle \| Heirloom (Factory New) | 1018.00 | +11.7% | -29.5% | T1 | False |
+| 23 | FAMAS \| Hexane (Factory New) | 160.00 | +11.6% | -16.0% | T1 | False |
+| 24 | P2000 \| Red FragCam (Factory New) | 150.30 | +11.4% | -17.4% | T1 | False |
+| 25 | M4A1-S \| Flashback (Factory New) | 533.98 | +10.9% | +1.7% | T1 | False |
+| 26 | Dual Berettas \| Marina (Factory New) | 182.49 | +10.7% | -9.6% | T1 | False |
+| 27 | SG 553 \| Barricade (Factory New) | 111.94 | +10.3% | -15.0% | T1 | False |
+| 28 | P250 \| Mehndi (Factory New) | 349.50 | +9.8% | -11.0% | T1 | False |
+| 29 | Tec-9 \| Phoenix Chalk (Factory New) | 189.50 | +9.2% | -25.5% | T1 | False |
+| 30 | Tec-9 \| Orange Murano (Factory New) | 156.00 | +9.1% | -12.5% | T1 | False |
 
 ## 2026-04-30
 
@@ -3098,24 +3096,23 @@
 | 10 | P2000 \| Pathfinder (Factory New) | 287.30 | +9.1% | -13.7% | T1 | False |
 | 11 | P250 \| Hive (Factory New) | 121.97 | +8.2% | -20.1% | T1 | False |
 | 12 | Tec-9 \| Hades (Factory New) | 277.00 | +8.0% | -12.4% | T1 | False |
-| 13 | R8 Revolver \| Crimson Web (Factory New) | 155.00 | +6.7% | -8.5% | T1 | False |
-| 14 | MAC-10 \| Surfwood (Factory New) | 87.80 | +6.4% | +2.4% | T1 | False |
-| 15 | R8 Revolver \| Reboot (Factory New) | 95.00 | +6.4% | -1.7% | T1 | False |
-| 16 | P250 \| Inferno (Factory New) | 111.00 | +6.1% | -13.0% | T1 | False |
-| 17 | Dual Berettas \| Marina (Factory New) | 181.39 | +5.6% | -10.5% | T1 | False |
-| 18 | Tec-9 \| Orange Murano (Factory New) | 161.50 | +4.3% | -10.6% | T1 | False |
-| 19 | P250 \| Iron Clad (Factory New) | 116.00 | +4.3% | -20.4% | T1 | False |
-| 20 | FAMAS \| Hexane (Factory New) | 172.99 | +3.8% | -18.4% | T1 | False |
-| 21 | AUG \| Condemned (Factory New) | 56.50 | +3.2% | -16.5% | T1 | False |
-| 22 | CZ75-Auto \| Red Astor (Factory New) | 117.50 | +3.0% | -31.8% | T1 | False |
-| 23 | R8 Revolver \| Phoenix Marker (Factory New) | 192.50 | +2.8% | -6.7% | T1 | False |
-| 24 | MAC-10 \| Gold Brick (Factory New) | 1065.50 | +2.0% | -0.4% | T1 | False |
-| 25 | FAMAS \| Night Borre (Factory New) | 208.88 | +1.4% | -14.7% | T1 | False |
-| 26 | SG 553 \| Barricade (Factory New) | 117.22 | +0.9% | -16.4% | T1 | False |
-| 27 | P2000 \| Obsidian (Factory New) | 400.00 | +0.7% | -7.9% | T1 | False |
-| 28 | G3SG1 \| High Seas (Factory New) | 71.79 | +0.7% | -22.2% | T1 | False |
-| 29 | MP9 \| Old Roots (Factory New) | 104.49 | +0.3% | -18.3% | T1 | False |
-| 30 | P250 \| Steel Disruption (Factory New) | 129.00 | +0.3% | -8.6% | T1 | False |
+| 13 | MAC-10 \| Surfwood (Factory New) | 87.80 | +6.4% | +2.4% | T1 | False |
+| 14 | P250 \| Inferno (Factory New) | 111.00 | +6.1% | -13.0% | T1 | False |
+| 15 | Dual Berettas \| Marina (Factory New) | 181.39 | +5.6% | -10.5% | T1 | False |
+| 16 | Tec-9 \| Orange Murano (Factory New) | 161.50 | +4.3% | -10.6% | T1 | False |
+| 17 | P250 \| Iron Clad (Factory New) | 116.00 | +4.3% | -20.4% | T1 | False |
+| 18 | FAMAS \| Hexane (Factory New) | 172.99 | +3.8% | -18.4% | T1 | False |
+| 19 | AUG \| Condemned (Factory New) | 56.50 | +3.2% | -16.5% | T1 | False |
+| 20 | CZ75-Auto \| Red Astor (Factory New) | 117.50 | +3.0% | -31.8% | T1 | False |
+| 21 | MAC-10 \| Gold Brick (Factory New) | 1065.50 | +2.0% | -0.4% | T1 | False |
+| 22 | FAMAS \| Night Borre (Factory New) | 208.88 | +1.4% | -14.7% | T1 | False |
+| 23 | SG 553 \| Barricade (Factory New) | 117.22 | +0.9% | -16.4% | T1 | False |
+| 24 | P2000 \| Obsidian (Factory New) | 400.00 | +0.7% | -7.9% | T1 | False |
+| 25 | G3SG1 \| High Seas (Factory New) | 71.79 | +0.7% | -22.2% | T1 | False |
+| 26 | MP9 \| Old Roots (Factory New) | 104.49 | +0.3% | -18.3% | T1 | False |
+| 27 | P250 \| Steel Disruption (Factory New) | 129.00 | +0.3% | -8.6% | T1 | False |
+| 28 | Glock-18 \| Red Tire (Factory New) | 381.00 | +0.0% | -7.8% | T1 | False |
+| 29 | Desert Eagle \| Pilot (Factory New) | 1490.00 | +0.0% | -8.9% | T1 | False |
 
 ## 2026-05-01
 
@@ -3125,32 +3122,32 @@
 | 2 | FAMAS \| Crypsis (Factory New) | 32.10 | +21.9% | -11.0% | T1 | False |
 | 3 | MAC-10 \| Nuclear Garden (Factory New) | 579.00 | +20.6% | -15.1% | T1 | False |
 | 4 | FAMAS \| Survivor Z (Factory New) | 89.00 | +15.6% | -19.0% | T1 | False |
-| 5 | MAG-7 \| Silver (Factory New) | 232.50 | +15.6% | -18.8% | T1 | False |
-| 6 | MP7 \| Astrolabe (Factory New) | 117.00 | +10.9% | +3.2% | T1 | False |
-| 7 | FAMAS \| Colony (Factory New) | 40.00 | +10.7% | -20.1% | T1 | False |
-| 8 | MP7 \| Tall Grass (Factory New) | 290.00 | +10.4% | +8.1% | T0 | False |
-| 9 | Dual Berettas \| Heist (Factory New) | 68.00 | +10.3% | -20.1% | T1 | False |
-| 10 | MP9 \| Setting Sun (Factory New) | 598.00 | +10.2% | -8.2% | T1 | False |
-| 11 | P90 \| Ancient Earth (Factory New) | 37.79 | +9.2% | -8.6% | T1 | False |
-| 12 | AUG \| Navy Murano (Factory New) | 100.00 | +9.0% | +0.3% | T1 | False |
-| 13 | AUG \| Condemned (Factory New) | 58.00 | +9.0% | -19.1% | T1 | False |
-| 14 | R8 Revolver \| Crimson Web (Factory New) | 175.00 | +8.3% | -13.9% | T1 | False |
-| 15 | R8 Revolver \| Reboot (Factory New) | 101.59 | +8.2% | -1.3% | T1 | False |
-| 16 | MAC-10 \| Surfwood (Factory New) | 88.88 | +7.9% | +2.0% | T1 | False |
-| 17 | Tec-9 \| Rust Leaf (Factory New) | 194.44 | +7.8% | -10.5% | T1 | False |
-| 18 | Dual Berettas \| Briar (Factory New) | 68.88 | +7.8% | +13.6% | T0 | False |
-| 19 | CZ75-Auto \| Syndicate (Factory New) | 379.99 | +7.0% | -18.1% | T1 | False |
-| 20 | P2000 \| Pathfinder (Factory New) | 299.98 | +6.9% | -14.9% | T1 | False |
-| 21 | P250 \| Steel Disruption (Factory New) | 129.00 | +5.1% | +3.7% | T1 | False |
-| 22 | R8 Revolver \| Phoenix Marker (Factory New) | 193.99 | +5.0% | -3.3% | T1 | False |
-| 23 | Glock-18 \| Nuclear Garden (Factory New) | 229.00 | +4.7% | +30.6% | T0 | False |
-| 24 | Dual Berettas \| Marina (Factory New) | 189.00 | +4.5% | -10.9% | T1 | False |
-| 25 | Tec-9 \| Hades (Factory New) | 295.00 | +4.2% | -11.6% | T1 | False |
-| 26 | P2000 \| Obsidian (Factory New) | 415.00 | +4.0% | -15.4% | T1 | False |
-| 27 | Tec-9 \| Blast From the Past (Factory New) | 284.50 | +3.9% | -7.7% | T1 | False |
-| 28 | Glock-18 \| Red Tire (Factory New) | 373.00 | +3.5% | -5.8% | T1 | False |
-| 29 | FAMAS \| Hexane (Factory New) | 186.00 | +3.4% | -13.0% | T1 | False |
-| 30 | P250 \| Hive (Factory New) | 124.00 | +2.7% | -15.0% | T1 | False |
+| 5 | MP7 \| Astrolabe (Factory New) | 117.00 | +10.9% | +3.2% | T1 | False |
+| 6 | FAMAS \| Colony (Factory New) | 40.00 | +10.7% | -20.1% | T1 | False |
+| 7 | MP7 \| Tall Grass (Factory New) | 290.00 | +10.4% | +8.1% | T0 | False |
+| 8 | Dual Berettas \| Heist (Factory New) | 68.00 | +10.3% | -20.1% | T1 | False |
+| 9 | MP9 \| Setting Sun (Factory New) | 598.00 | +10.2% | -8.2% | T1 | False |
+| 10 | P90 \| Ancient Earth (Factory New) | 37.79 | +9.2% | -8.6% | T1 | False |
+| 11 | AUG \| Navy Murano (Factory New) | 100.00 | +9.0% | +0.3% | T1 | False |
+| 12 | AUG \| Condemned (Factory New) | 58.00 | +9.0% | -19.1% | T1 | False |
+| 13 | MAC-10 \| Surfwood (Factory New) | 88.88 | +7.9% | +2.0% | T1 | False |
+| 14 | Tec-9 \| Rust Leaf (Factory New) | 194.44 | +7.8% | -10.5% | T1 | False |
+| 15 | Dual Berettas \| Briar (Factory New) | 68.88 | +7.8% | +13.6% | T0 | False |
+| 16 | CZ75-Auto \| Syndicate (Factory New) | 379.99 | +7.0% | -18.1% | T1 | False |
+| 17 | P2000 \| Pathfinder (Factory New) | 299.98 | +6.9% | -14.9% | T1 | False |
+| 18 | P250 \| Steel Disruption (Factory New) | 129.00 | +5.1% | +3.7% | T1 | False |
+| 19 | Glock-18 \| Nuclear Garden (Factory New) | 229.00 | +4.7% | +30.6% | T0 | False |
+| 20 | Dual Berettas \| Marina (Factory New) | 189.00 | +4.5% | -10.9% | T1 | False |
+| 21 | Tec-9 \| Hades (Factory New) | 295.00 | +4.2% | -11.6% | T1 | False |
+| 22 | P2000 \| Obsidian (Factory New) | 415.00 | +4.0% | -15.4% | T1 | False |
+| 23 | Tec-9 \| Blast From the Past (Factory New) | 284.50 | +3.9% | -7.7% | T1 | False |
+| 24 | Glock-18 \| Red Tire (Factory New) | 373.00 | +3.5% | -5.8% | T1 | False |
+| 25 | FAMAS \| Hexane (Factory New) | 186.00 | +3.4% | -13.0% | T1 | False |
+| 26 | P250 \| Hive (Factory New) | 124.00 | +2.7% | -15.0% | T1 | False |
+| 27 | Tec-9 \| Orange Murano (Factory New) | 163.80 | +2.3% | -17.0% | T1 | False |
+| 28 | G3SG1 \| New Roots (Factory New) | 188.50 | +2.0% | -3.7% | T1 | False |
+| 29 | FAMAS \| Night Borre (Factory New) | 209.00 | +1.6% | -14.0% | T1 | False |
+| 30 | P250 \| Wingshot (Factory New) | 144.00 | +1.1% | -24.5% | T1 | False |
 
 ## 2026-05-02
 
@@ -3159,39 +3156,33 @@
 | 1 | Dual Berettas \| Briar (Factory New) | 67.00 | +13.9% | +8.7% | T0 | False |
 | 2 | SG 553 \| Lush Ruins (Factory New) | 46.00 | +12.0% | +4.9% | T1 | False |
 | 3 | MAC-10 \| Nuclear Garden (Factory New) | 569.00 | +9.6% | -12.2% | T1 | False |
-| 4 | MAG-7 \| Silver (Factory New) | 225.50 | +7.8% | -9.5% | T1 | False |
-| 5 | R8 Revolver \| Reboot (Factory New) | 99.00 | +6.0% | +0.1% | T1 | False |
-| 6 | MAC-10 \| Surfwood (Factory New) | 88.00 | +5.0% | +12.2% | T0 | False |
-| 7 | AUG \| Navy Murano (Factory New) | 115.00 | +4.9% | -0.6% | T1 | False |
-| 8 | SG 553 \| Barricade (Factory New) | 118.50 | +4.1% | -9.0% | T1 | False |
-| 9 | SSG 08 \| Threat Detected (Factory New) | 317.50 | +3.5% | +16.7% | T0 | False |
-| 10 | P90 \| Ancient Earth (Factory New) | 35.00 | +2.9% | +5.4% | T0 | False |
-| 11 | R8 Revolver \| Crimson Web (Factory New) | 168.50 | +2.5% | -12.0% | T1 | False |
-| 12 | G3SG1 \| New Roots (Factory New) | 184.00 | +2.0% | -3.7% | T1 | False |
-| 13 | MP9 \| Setting Sun (Factory New) | 550.00 | +1.8% | -1.8% | T1 | False |
-| 14 | Tec-9 \| Hades (Factory New) | 302.00 | +1.7% | -14.2% | T1 | False |
-| 15 | P250 \| Forest Night (Factory New) | 111.00 | +1.6% | +2.0% | T1 | False |
-| 16 | Tec-9 \| Rust Leaf (Factory New) | 210.00 | +1.5% | -7.1% | T1 | False |
-| 17 | Glock-18 \| Blue Fissure (Factory New) | 329.76 | +1.2% | -9.3% | T1 | False |
-| 18 | P2000 \| Obsidian (Factory New) | 425.00 | +1.1% | -9.5% | T1 | False |
-| 19 | Tec-9 \| Blast From the Past (Factory New) | 300.00 | +1.1% | -0.2% | T1 | False |
+| 4 | MAC-10 \| Surfwood (Factory New) | 88.00 | +5.0% | +12.2% | T0 | False |
+| 5 | AUG \| Navy Murano (Factory New) | 115.00 | +4.9% | -0.6% | T1 | False |
+| 6 | SG 553 \| Barricade (Factory New) | 118.50 | +4.1% | -9.0% | T1 | False |
+| 7 | SSG 08 \| Threat Detected (Factory New) | 317.50 | +3.5% | +16.7% | T0 | False |
+| 8 | P90 \| Ancient Earth (Factory New) | 35.00 | +2.9% | +5.4% | T0 | False |
+| 9 | G3SG1 \| New Roots (Factory New) | 184.00 | +2.0% | -3.7% | T1 | False |
+| 10 | MP9 \| Setting Sun (Factory New) | 550.00 | +1.8% | -1.8% | T1 | False |
+| 11 | Tec-9 \| Hades (Factory New) | 302.00 | +1.7% | -14.2% | T1 | False |
+| 12 | P250 \| Forest Night (Factory New) | 111.00 | +1.6% | +2.0% | T1 | False |
+| 13 | Tec-9 \| Rust Leaf (Factory New) | 210.00 | +1.5% | -7.1% | T1 | False |
+| 14 | Glock-18 \| Blue Fissure (Factory New) | 329.76 | +1.2% | -9.3% | T1 | False |
+| 15 | P2000 \| Obsidian (Factory New) | 425.00 | +1.1% | -9.5% | T1 | False |
+| 16 | Tec-9 \| Blast From the Past (Factory New) | 300.00 | +1.1% | -0.2% | T1 | False |
 
 ## 2026-05-03
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | MAG-7 \| Silver (Factory New) | 227.98 | +9.4% | -9.9% | T1 | False |
-| 2 | Glock-18 \| Reactor (Factory New) | 1244.50 | +3.8% | +7.3% | T0 | False |
-| 3 | SG 553 \| Barricade (Factory New) | 115.00 | +3.6% | -8.1% | T1 | False |
-| 4 | MAC-10 \| Nuclear Garden (Factory New) | 615.00 | +2.4% | -3.2% | T1 | False |
-| 5 | MP9 \| Setting Sun (Factory New) | 559.50 | +2.3% | -0.3% | T1 | False |
-| 6 | R8 Revolver \| Reboot (Factory New) | 99.69 | +2.1% | -2.5% | T1 | False |
-| 7 | G3SG1 \| New Roots (Factory New) | 184.00 | +2.0% | -3.7% | T1 | False |
-| 8 | M4A1-S \| Flashback (Factory New) | 630.00 | +1.6% | +4.3% | T1 | False |
-| 9 | M4A4 \| Griffin (Factory New) | 843.00 | +1.5% | +1.8% | T1 | False |
-| 10 | R8 Revolver \| Junk Yard (Factory New) | 89.99 | +1.4% | -9.7% | T1 | False |
-| 11 | AUG \| Navy Murano (Factory New) | 120.50 | +1.1% | -1.9% | T1 | False |
-| 12 | Glock-18 \| Blue Fissure (Factory New) | 324.42 | +1.0% | -10.6% | T1 | False |
+| 1 | Glock-18 \| Reactor (Factory New) | 1244.50 | +3.8% | +7.3% | T0 | False |
+| 2 | SG 553 \| Barricade (Factory New) | 115.00 | +3.6% | -8.1% | T1 | False |
+| 3 | MAC-10 \| Nuclear Garden (Factory New) | 615.00 | +2.4% | -3.2% | T1 | False |
+| 4 | MP9 \| Setting Sun (Factory New) | 559.50 | +2.3% | -0.3% | T1 | False |
+| 5 | G3SG1 \| New Roots (Factory New) | 184.00 | +2.0% | -3.7% | T1 | False |
+| 6 | M4A1-S \| Flashback (Factory New) | 630.00 | +1.6% | +4.3% | T1 | False |
+| 7 | M4A4 \| Griffin (Factory New) | 843.00 | +1.5% | +1.8% | T1 | False |
+| 8 | AUG \| Navy Murano (Factory New) | 120.50 | +1.1% | -1.9% | T1 | False |
+| 9 | Glock-18 \| Blue Fissure (Factory New) | 324.42 | +1.0% | -10.6% | T1 | False |
 
 ## 2026-05-04
 
@@ -3210,13 +3201,12 @@
 | 11 | SSG 08 \| Threat Detected (Factory New) | 339.00 | +4.2% | +9.1% | T0 | False |
 | 12 | SG 553 \| Barricade (Factory New) | 114.50 | +3.3% | -9.4% | T1 | False |
 | 13 | AUG \| Navy Murano (Factory New) | 125.00 | +2.8% | -1.4% | T1 | False |
-| 14 | R8 Revolver \| Junk Yard (Factory New) | 88.50 | +2.1% | -6.8% | T1 | False |
-| 15 | FAMAS \| Crypsis (Factory New) | 39.60 | +2.1% | -8.0% | T1 | False |
-| 16 | FAMAS \| Mecha Industries (Factory New) | 710.00 | +1.8% | -3.7% | T1 | False |
-| 17 | AWP \| Atheris (Factory New) | 339.00 | +1.2% | +16.7% | T0 | False |
-| 18 | AWP \| Acheron (Factory New) | 86.99 | +0.7% | +53.3% | T0 | False |
-| 19 | Glock-18 \| Red Tire (Factory New) | 380.50 | +0.5% | +0.7% | T1 | False |
-| 20 | Glock-18 \| Green Line (Factory New) | 126.00 | +0.2% | +19.1% | T0 | False |
+| 14 | FAMAS \| Crypsis (Factory New) | 39.60 | +2.1% | -8.0% | T1 | False |
+| 15 | FAMAS \| Mecha Industries (Factory New) | 710.00 | +1.8% | -3.7% | T1 | False |
+| 16 | AWP \| Atheris (Factory New) | 339.00 | +1.2% | +16.7% | T0 | False |
+| 17 | AWP \| Acheron (Factory New) | 86.99 | +0.7% | +53.3% | T0 | False |
+| 18 | Glock-18 \| Red Tire (Factory New) | 380.50 | +0.5% | +0.7% | T1 | False |
+| 19 | Glock-18 \| Green Line (Factory New) | 126.00 | +0.2% | +19.1% | T0 | False |
 
 ## 2026-05-05
 
@@ -3317,30 +3307,30 @@
 | 4 | AK-47 \| Blue Laminate (Factory New) | 367.00 | +20.6% | -15.4% | T1 | False |
 | 5 | M4A1-S \| Nitro (Factory New) | 142.80 | +19.8% | -1.0% | T1 | False |
 | 6 | AWP \| Phobos (Factory New) | 38.00 | +18.6% | -25.4% | T1 | False |
-| 7 | XM1014 \| Blue Tire (Factory New) | 41.20 | +16.0% | -48.6% | T1 | True |
-| 8 | AWP \| Black Nile (Factory New) | 228.50 | +15.2% | -16.8% | T1 | False |
-| 9 | Desert Eagle \| The Bronze (Factory New) | 122.00 | +14.6% | -1.9% | T1 | False |
-| 10 | SSG 08 \| Spring Twilly (Factory New) | 81.88 | +13.7% | -16.8% | T1 | False |
-| 11 | AWP \| Atheris (Factory New) | 320.30 | +13.7% | -7.2% | T1 | False |
-| 12 | Dual Berettas \| Briar (Factory New) | 69.00 | +13.6% | -25.1% | T1 | False |
-| 13 | SSG 08 \| Threat Detected (Factory New) | 327.50 | +13.4% | -15.8% | T1 | False |
-| 14 | Galil AR \| Blue Titanium (Factory New) | 178.00 | +12.5% | -6.7% | T1 | False |
-| 15 | AK-47 \| Safety Net (Factory New) | 173.00 | +12.4% | -9.8% | T1 | False |
-| 16 | AWP \| POP AWP (Factory New) | 427.00 | +11.6% | -17.3% | T1 | False |
-| 17 | P250 \| Inferno (Factory New) | 122.00 | +11.4% | +9.7% | T0 | False |
-| 18 | AWP \| Exoskeleton (Factory New) | 360.00 | +10.6% | -9.4% | T1 | False |
-| 19 | AWP \| Sun in Leo (Factory New) | 560.00 | +10.4% | -10.9% | T1 | False |
-| 20 | M4A1-S \| Fizzy POP (Factory New) | 84.80 | +10.1% | -6.4% | T1 | False |
-| 21 | AWP \| Electric Hive (Factory New) | 896.66 | +9.9% | -21.1% | T1 | False |
-| 22 | SSG 08 \| Carbon Fiber (Factory New) | 112.00 | +9.8% | -37.2% | T1 | False |
-| 23 | FAMAS \| 2A2F (Factory New) | 79.30 | +9.5% | -25.3% | T1 | False |
-| 24 | P2000 \| Silver (Factory New) | 2089.00 | +9.1% | -18.4% | T1 | False |
-| 25 | FAMAS \| Cyanospatter (Factory New) | 142.50 | +9.1% | +8.5% | T0 | False |
-| 26 | M4A4 \| X-Ray (Factory New) | 1480.50 | +8.8% | -22.3% | T1 | False |
-| 27 | M4A1-S \| Flashback (Factory New) | 620.50 | +8.2% | -5.6% | T1 | False |
-| 28 | MP7 \| Tall Grass (Factory New) | 297.50 | +8.1% | -64.8% | T1 | True |
-| 29 | Primeiro Tenente \| Brazilian 1st Battalion | 371.00 | +7.4% | +18.3% | T0 | False |
-| 30 | AK-47 \| Emerald Pinstripe (Factory New) | 171.50 | +7.4% | -1.9% | T1 | False |
+| 7 | AWP \| Black Nile (Factory New) | 228.50 | +15.2% | -16.8% | T1 | False |
+| 8 | Desert Eagle \| The Bronze (Factory New) | 122.00 | +14.6% | -1.9% | T1 | False |
+| 9 | SSG 08 \| Spring Twilly (Factory New) | 81.88 | +13.7% | -16.8% | T1 | False |
+| 10 | AWP \| Atheris (Factory New) | 320.30 | +13.7% | -7.2% | T1 | False |
+| 11 | Dual Berettas \| Briar (Factory New) | 69.00 | +13.6% | -25.1% | T1 | False |
+| 12 | SSG 08 \| Threat Detected (Factory New) | 327.50 | +13.4% | -15.8% | T1 | False |
+| 13 | Galil AR \| Blue Titanium (Factory New) | 178.00 | +12.5% | -6.7% | T1 | False |
+| 14 | AK-47 \| Safety Net (Factory New) | 173.00 | +12.4% | -9.8% | T1 | False |
+| 15 | AWP \| POP AWP (Factory New) | 427.00 | +11.6% | -17.3% | T1 | False |
+| 16 | P250 \| Inferno (Factory New) | 122.00 | +11.4% | +9.7% | T0 | False |
+| 17 | AWP \| Exoskeleton (Factory New) | 360.00 | +10.6% | -9.4% | T1 | False |
+| 18 | AWP \| Sun in Leo (Factory New) | 560.00 | +10.4% | -10.9% | T1 | False |
+| 19 | M4A1-S \| Fizzy POP (Factory New) | 84.80 | +10.1% | -6.4% | T1 | False |
+| 20 | AWP \| Electric Hive (Factory New) | 896.66 | +9.9% | -21.1% | T1 | False |
+| 21 | SSG 08 \| Carbon Fiber (Factory New) | 112.00 | +9.8% | -37.2% | T1 | False |
+| 22 | FAMAS \| 2A2F (Factory New) | 79.30 | +9.5% | -25.3% | T1 | False |
+| 23 | P2000 \| Silver (Factory New) | 2089.00 | +9.1% | -18.4% | T1 | False |
+| 24 | FAMAS \| Cyanospatter (Factory New) | 142.50 | +9.1% | +8.5% | T0 | False |
+| 25 | M4A4 \| X-Ray (Factory New) | 1480.50 | +8.8% | -22.3% | T1 | False |
+| 26 | M4A1-S \| Flashback (Factory New) | 620.50 | +8.2% | -5.6% | T1 | False |
+| 27 | MP7 \| Tall Grass (Factory New) | 297.50 | +8.1% | -64.8% | T1 | True |
+| 28 | Primeiro Tenente \| Brazilian 1st Battalion | 371.00 | +7.4% | +18.3% | T0 | False |
+| 29 | AK-47 \| Emerald Pinstripe (Factory New) | 171.50 | +7.4% | -1.9% | T1 | False |
+| 30 | M4A4 \| Griffin (Factory New) | 773.50 | +7.2% | -12.9% | T1 | False |
 
 ## 2026-05-09
 
@@ -3363,19 +3353,19 @@
 | 15 | AWP \| Phobos (Factory New) | 39.80 | +20.3% | -29.3% | T1 | False |
 | 16 | USP-S \| Desert Tactical (Factory New) | 67.67 | +19.7% | -28.8% | T1 | False |
 | 17 | AK-47 \| Emerald Pinstripe (Factory New) | 172.00 | +19.4% | -16.5% | T1 | False |
-| 18 | R8 Revolver \| Survivalist (Factory New) | 31.89 | +19.1% | -22.9% | T1 | False |
-| 19 | AWP \| Safari Mesh (Factory New) | 99.50 | +18.9% | -24.3% | T1 | False |
-| 20 | Tec-9 \| Blue Titanium (Factory New) | 167.50 | +18.9% | -4.2% | T1 | False |
-| 21 | SSG 08 \| Threat Detected (Factory New) | 332.00 | +16.7% | -27.4% | T1 | False |
-| 22 | AWP \| Exoskeleton (Factory New) | 358.00 | +16.4% | -16.0% | T1 | False |
-| 23 | USP-S \| Night Ops (Factory New) | 31.30 | +14.2% | -26.2% | T1 | False |
-| 24 | AWP \| Atheris (Factory New) | 329.50 | +14.1% | -9.3% | T1 | False |
-| 25 | Five-SeveN \| Copper Galaxy (Factory New) | 236.00 | +14.1% | -29.6% | T1 | False |
-| 26 | AWP \| POP AWP (Factory New) | 446.50 | +13.9% | -22.4% | T1 | False |
-| 27 | FAMAS \| Cyanospatter (Factory New) | 138.00 | +13.6% | -1.3% | T1 | False |
-| 28 | MP9 \| Ruby Poison Dart (Factory New) | 43.89 | +13.6% | -33.3% | T1 | False |
-| 29 | P250 \| Franklin (Factory New) | 39.58 | +13.5% | -19.5% | T1 | False |
-| 30 | USP-S \| Guardian (Factory New) | 61.15 | +13.4% | -26.9% | T1 | False |
+| 18 | AWP \| Safari Mesh (Factory New) | 99.50 | +18.9% | -24.3% | T1 | False |
+| 19 | Tec-9 \| Blue Titanium (Factory New) | 167.50 | +18.9% | -4.2% | T1 | False |
+| 20 | SSG 08 \| Threat Detected (Factory New) | 332.00 | +16.7% | -27.4% | T1 | False |
+| 21 | AWP \| Exoskeleton (Factory New) | 358.00 | +16.4% | -16.0% | T1 | False |
+| 22 | USP-S \| Night Ops (Factory New) | 31.30 | +14.2% | -26.2% | T1 | False |
+| 23 | AWP \| Atheris (Factory New) | 329.50 | +14.1% | -9.3% | T1 | False |
+| 24 | Five-SeveN \| Copper Galaxy (Factory New) | 236.00 | +14.1% | -29.6% | T1 | False |
+| 25 | AWP \| POP AWP (Factory New) | 446.50 | +13.9% | -22.4% | T1 | False |
+| 26 | FAMAS \| Cyanospatter (Factory New) | 138.00 | +13.6% | -1.3% | T1 | False |
+| 27 | MP9 \| Ruby Poison Dart (Factory New) | 43.89 | +13.6% | -33.3% | T1 | False |
+| 28 | P250 \| Franklin (Factory New) | 39.58 | +13.5% | -19.5% | T1 | False |
+| 29 | USP-S \| Guardian (Factory New) | 61.15 | +13.4% | -26.9% | T1 | False |
+| 30 | Five-SeveN \| Nightshade (Factory New) | 193.50 | +13.3% | -20.0% | T1 | False |
 
 ## 2026-05-10
 
@@ -3405,12 +3395,12 @@
 | 22 | Galil AR \| Tornado (Factory New) | 230.00 | +20.1% | -3.5% | T1 | False |
 | 23 | AK-47 \| Safari Mesh (Factory New) | 88.40 | +19.6% | -26.2% | T1 | False |
 | 24 | M4A1-S \| Briefing (Factory New) | 498.50 | +19.5% | -16.0% | T1 | False |
-| 25 | R8 Revolver \| Survivalist (Factory New) | 30.80 | +19.4% | -27.0% | T1 | False |
-| 26 | AUG \| Aristocrat (Factory New) | 113.50 | +18.8% | -25.7% | T1 | False |
-| 27 | FAMAS \| Macabre (Factory New) | 172.00 | +17.2% | -40.2% | T1 | False |
-| 28 | P90 \| Cocoa Rampage (Factory New) | 32.98 | +17.1% | -37.4% | T1 | False |
-| 29 | MAG-7 \| Chainmail (Factory New) | 150.00 | +17.1% | -15.8% | T1 | False |
-| 30 | Aspirant \| Gendarmerie Nationale | 108.30 | +17.0% | -30.2% | T1 | False |
+| 25 | AUG \| Aristocrat (Factory New) | 113.50 | +18.8% | -25.7% | T1 | False |
+| 26 | FAMAS \| Macabre (Factory New) | 172.00 | +17.2% | -40.2% | T1 | False |
+| 27 | P90 \| Cocoa Rampage (Factory New) | 32.98 | +17.1% | -37.4% | T1 | False |
+| 28 | Aspirant \| Gendarmerie Nationale | 108.30 | +17.0% | -30.2% | T1 | False |
+| 29 | MAC-10 \| Whitefish (Factory New) | 36.58 | +16.9% | -46.8% | T1 | False |
+| 30 | MP9 \| Goo (Factory New) | 35.29 | +16.7% | -41.6% | T1 | False |
 
 ## 2026-05-11
 
@@ -3546,11 +3536,11 @@
 | 23 | MAC-10 \| Carnivore (Factory New) | 36.70 | +2.3% | -33.0% | T1 | False |
 | 24 | FAMAS \| Macabre (Factory New) | 164.70 | +2.2% | -27.1% | T1 | False |
 | 25 | MAC-10 \| Heat (Factory New) | 122.00 | +1.9% | -24.1% | T1 | False |
-| 26 | Sawed-Off \| Bamboo Shadow (Factory New) | 94.99 | +1.8% | -7.3% | T1 | False |
-| 27 | P90 \| Shapewood (Factory New) | 260.00 | +1.8% | -8.8% | T1 | False |
-| 28 | ★ Driver Gloves \| Racing Green (Field-Tested) | 237.49 | +1.5% | -5.8% | T1 | False |
-| 29 | MAC-10 \| Tatter (Factory New) | 113.31 | +1.4% | +3.9% | T1 | False |
-| 30 | Galil AR \| Aqua Terrace (Factory New) | 1380.00 | +1.1% | -13.5% | T1 | False |
+| 26 | P90 \| Shapewood (Factory New) | 260.00 | +1.8% | -8.8% | T1 | False |
+| 27 | ★ Driver Gloves \| Racing Green (Field-Tested) | 237.49 | +1.5% | -5.8% | T1 | False |
+| 28 | MAC-10 \| Tatter (Factory New) | 113.31 | +1.4% | +3.9% | T1 | False |
+| 29 | Galil AR \| Aqua Terrace (Factory New) | 1380.00 | +1.1% | -13.5% | T1 | False |
+| 30 | M4A1-S \| Briefing (Factory New) | 469.00 | +0.9% | +13.0% | T0 | False |
 
 ## 2026-05-15
 
@@ -3565,25 +3555,23 @@
 | 7 | G3SG1 \| Orange Kimono (Factory New) | 96.75 | +10.9% | -22.1% | T1 | False |
 | 8 | AK-47 \| Safari Mesh (Factory New) | 83.48 | +10.0% | -0.5% | T1 | False |
 | 9 | P250 \| Inferno (Factory New) | 110.00 | +9.7% | +12.9% | T0 | False |
-| 10 | R8 Revolver \| Junk Yard (Factory New) | 84.00 | +9.6% | +1.1% | T1 | False |
-| 11 | FAMAS \| Cyanospatter (Factory New) | 139.60 | +8.5% | +36.6% | T0 | False |
-| 12 | Galil AR \| Tornado (Factory New) | 233.80 | +6.7% | -4.1% | T1 | False |
-| 13 | Tec-9 \| Blue Titanium (Factory New) | 169.00 | +6.7% | +6.5% | T0 | False |
-| 14 | Dual Berettas \| Tread (Factory New) | 46.00 | +4.9% | -13.3% | T1 | False |
-| 15 | AUG \| Aristocrat (Factory New) | 98.20 | +4.4% | -22.2% | T1 | False |
-| 16 | Five-SeveN \| Boost Protocol (Factory New) | 74.40 | +4.3% | +3.4% | T1 | False |
-| 17 | AK-47 \| Steel Delta (Factory New) | 148.00 | +3.7% | +22.1% | T0 | False |
-| 18 | AUG \| Hot Rod (Factory New) | 2981.50 | +3.2% | -11.0% | T1 | False |
-| 19 | AUG \| Condemned (Factory New) | 53.66 | +2.6% | +39.8% | T0 | False |
-| 20 | Sawed-Off \| Jungle Thicket (Factory New) | 52.88 | +2.4% | -22.6% | T1 | False |
-| 21 | SCAR-20 \| Bloodsport (Factory New) | 169.40 | +2.3% | -8.8% | T1 | False |
-| 22 | Tec-9 \| Brother (Factory New) | 36.22 | +2.1% | -5.1% | T1 | False |
-| 23 | P90 \| Shapewood (Factory New) | 240.00 | +2.0% | -12.2% | T1 | False |
-| 24 | Five-SeveN \| Nightshade (Factory New) | 175.00 | +1.8% | +13.0% | T0 | False |
-| 25 | ★ Specialist Gloves \| Buckshot (Field-Tested) | 334.00 | +0.7% | -6.2% | T1 | False |
-| 26 | USP-S \| Royal Blue (Factory New) | 1025.99 | +0.6% | +16.5% | T0 | False |
-| 27 | Five-SeveN \| Candy Apple (Factory New) | 594.91 | +0.6% | -22.2% | T1 | False |
-| 28 | USP-S \| 27 (Factory New) | 56.59 | +0.5% | +2.2% | T1 | False |
+| 10 | FAMAS \| Cyanospatter (Factory New) | 139.60 | +8.5% | +36.6% | T0 | False |
+| 11 | Galil AR \| Tornado (Factory New) | 233.80 | +6.7% | -4.1% | T1 | False |
+| 12 | Tec-9 \| Blue Titanium (Factory New) | 169.00 | +6.7% | +6.5% | T0 | False |
+| 13 | Dual Berettas \| Tread (Factory New) | 46.00 | +4.9% | -13.3% | T1 | False |
+| 14 | AUG \| Aristocrat (Factory New) | 98.20 | +4.4% | -22.2% | T1 | False |
+| 15 | Five-SeveN \| Boost Protocol (Factory New) | 74.40 | +4.3% | +3.4% | T1 | False |
+| 16 | AK-47 \| Steel Delta (Factory New) | 148.00 | +3.7% | +22.1% | T0 | False |
+| 17 | AUG \| Hot Rod (Factory New) | 2981.50 | +3.2% | -11.0% | T1 | False |
+| 18 | AUG \| Condemned (Factory New) | 53.66 | +2.6% | +39.8% | T0 | False |
+| 19 | SCAR-20 \| Bloodsport (Factory New) | 169.40 | +2.3% | -8.8% | T1 | False |
+| 20 | Tec-9 \| Brother (Factory New) | 36.22 | +2.1% | -5.1% | T1 | False |
+| 21 | P90 \| Shapewood (Factory New) | 240.00 | +2.0% | -12.2% | T1 | False |
+| 22 | Five-SeveN \| Nightshade (Factory New) | 175.00 | +1.8% | +13.0% | T0 | False |
+| 23 | ★ Specialist Gloves \| Buckshot (Field-Tested) | 334.00 | +0.7% | -6.2% | T1 | False |
+| 24 | USP-S \| Royal Blue (Factory New) | 1025.99 | +0.6% | +16.5% | T0 | False |
+| 25 | Five-SeveN \| Candy Apple (Factory New) | 594.91 | +0.6% | -22.2% | T1 | False |
+| 26 | USP-S \| 27 (Factory New) | 56.59 | +0.5% | +2.2% | T1 | False |
 
 ## 2026-05-16
 
@@ -3608,8 +3596,7 @@
 | 2 | Dual Berettas \| Tread (Factory New) | 45.80 | +5.2% | -17.0% | T1 | False |
 | 3 | M4A4 \| Zirka (Factory New) | 660.00 | +2.4% | -8.2% | T1 | False |
 | 4 | MP5-SD \| Oxide Oasis (Factory New) | 2409.50 | +0.6% | -54.6% | T1 | False |
-| 5 | MAG-7 \| Counter Terrace (Factory New) | 1088.48 | +0.1% | -7.1% | T1 | False |
-| 6 | Desert Eagle \| Urban DDPAT (Factory New) | 259.90 | +0.1% | -7.2% | T1 | False |
+| 5 | Desert Eagle \| Urban DDPAT (Factory New) | 259.90 | +0.1% | -7.2% | T1 | False |
 
 ## 2026-05-18
 
@@ -3645,32 +3632,32 @@
 | 2 | MP9 \| Sand Scale (Factory New) | 44.79 | +33.8% | +36.6% | T0 | False |
 | 3 | Primeiro Tenente \| Brazilian 1st Battalion | 437.00 | +32.4% | -3.7% | T1 | False |
 | 4 | M4A1-S \| Guardian (Factory New) | 637.50 | +32.2% | -9.4% | T1 | False |
-| 5 | MAG-7 \| Sonar (Factory New) | 30.80 | +32.1% | +13.0% | T0 | False |
-| 6 | ★ Driver Gloves \| Convoy (Field-Tested) | 2780.00 | +24.7% | +6.5% | T0 | False |
-| 7 | Glock-18 \| Nuclear Garden (Factory New) | 400.00 | +23.3% | +21.3% | T0 | False |
-| 8 | ★ Specialist Gloves \| Foundation (Field-Tested) | 5357.50 | +22.6% | +7.2% | T0 | False |
-| 9 | FAMAS \| Cyanospatter (Factory New) | 189.00 | +21.1% | +22.0% | T0 | False |
-| 10 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1148.50 | +21.0% | +7.1% | T0 | False |
-| 11 | MP7 \| Astrolabe (Factory New) | 152.00 | +19.7% | +30.8% | T0 | False |
-| 12 | M4A4 \| Buzz Kill (Factory New) | 3227.00 | +18.7% | +11.2% | T0 | False |
-| 13 | P250 \| Nevermore (Factory New) | 31.60 | +18.3% | -15.7% | T1 | False |
-| 14 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1129.99 | +17.7% | +6.8% | T0 | False |
-| 15 | M4A1-S \| Briefing (Factory New) | 587.50 | +17.2% | +6.4% | T0 | False |
-| 16 | Dual Berettas \| Royal Consorts (Factory New) | 202.90 | +16.9% | +16.8% | T0 | False |
-| 17 | USP-S \| Cyrex (Factory New) | 143.88 | +16.3% | +50.6% | T0 | False |
-| 18 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3370.00 | +15.5% | +8.7% | T0 | False |
-| 19 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 5600.00 | +15.0% | +6.3% | T0 | False |
-| 20 | FAMAS \| Survivor Z (Factory New) | 155.40 | +14.5% | -0.2% | T1 | False |
-| 21 | Glock-18 \| Ironwork (Factory New) | 150.80 | +14.5% | +32.6% | T0 | False |
-| 22 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2749.99 | +13.5% | +10.6% | T0 | False |
-| 23 | Desert Eagle \| Heat Treated (Factory New) | 380.00 | +13.5% | +10.2% | T0 | False |
-| 24 | M4A1-S \| Flashback (Factory New) | 738.00 | +11.8% | +9.1% | T0 | False |
-| 25 | Glock-18 \| Water Elemental (Factory New) | 307.00 | +11.4% | +11.3% | T0 | False |
-| 26 | ★ Specialist Gloves \| Emerald Web (Minimal Wear) | 11350.00 | +11.2% | +14.9% | T0 | False |
-| 27 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 6700.00 | +10.8% | +4.8% | T1 | False |
-| 28 | ★ Hand Wraps \| Leather (Field-Tested) | 3430.00 | +10.4% | +37.6% | T0 | False |
-| 29 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 10888.00 | +10.3% | +13.2% | T0 | False |
-| 30 | ★ Moto Gloves \| Cool Mint (Field-Tested) | 8600.00 | +10.2% | +14.8% | T0 | False |
+| 5 | ★ Driver Gloves \| Convoy (Field-Tested) | 2780.00 | +24.7% | +6.5% | T0 | False |
+| 6 | Glock-18 \| Nuclear Garden (Factory New) | 400.00 | +23.3% | +21.3% | T0 | False |
+| 7 | ★ Specialist Gloves \| Foundation (Field-Tested) | 5357.50 | +22.6% | +7.2% | T0 | False |
+| 8 | FAMAS \| Cyanospatter (Factory New) | 189.00 | +21.1% | +22.0% | T0 | False |
+| 9 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1148.50 | +21.0% | +7.1% | T0 | False |
+| 10 | MP7 \| Astrolabe (Factory New) | 152.00 | +19.7% | +30.8% | T0 | False |
+| 11 | M4A4 \| Buzz Kill (Factory New) | 3227.00 | +18.7% | +11.2% | T0 | False |
+| 12 | P250 \| Nevermore (Factory New) | 31.60 | +18.3% | -15.7% | T1 | False |
+| 13 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1129.99 | +17.7% | +6.8% | T0 | False |
+| 14 | M4A1-S \| Briefing (Factory New) | 587.50 | +17.2% | +6.4% | T0 | False |
+| 15 | Dual Berettas \| Royal Consorts (Factory New) | 202.90 | +16.9% | +16.8% | T0 | False |
+| 16 | USP-S \| Cyrex (Factory New) | 143.88 | +16.3% | +50.6% | T0 | False |
+| 17 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3370.00 | +15.5% | +8.7% | T0 | False |
+| 18 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 5600.00 | +15.0% | +6.3% | T0 | False |
+| 19 | FAMAS \| Survivor Z (Factory New) | 155.40 | +14.5% | -0.2% | T1 | False |
+| 20 | Glock-18 \| Ironwork (Factory New) | 150.80 | +14.5% | +32.6% | T0 | False |
+| 21 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2749.99 | +13.5% | +10.6% | T0 | False |
+| 22 | Desert Eagle \| Heat Treated (Factory New) | 380.00 | +13.5% | +10.2% | T0 | False |
+| 23 | M4A1-S \| Flashback (Factory New) | 738.00 | +11.8% | +9.1% | T0 | False |
+| 24 | Glock-18 \| Water Elemental (Factory New) | 307.00 | +11.4% | +11.3% | T0 | False |
+| 25 | ★ Specialist Gloves \| Emerald Web (Minimal Wear) | 11350.00 | +11.2% | +14.9% | T0 | False |
+| 26 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 6700.00 | +10.8% | +4.8% | T1 | False |
+| 27 | ★ Hand Wraps \| Leather (Field-Tested) | 3430.00 | +10.4% | +37.6% | T0 | False |
+| 28 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 10888.00 | +10.3% | +13.2% | T0 | False |
+| 29 | ★ Moto Gloves \| Cool Mint (Field-Tested) | 8600.00 | +10.2% | +14.8% | T0 | False |
+| 30 | ★ Sport Gloves \| Hedge Maze (Field-Tested) | 27800.00 | +10.2% | +6.2% | T0 | False |
 
 ## 2026-05-21
 
@@ -3679,33 +3666,33 @@
 | 1 | AK-47 \| Green Laminate (Factory New) | 659.50 | +68.4% | -17.8% | T1 | False |
 | 2 | SG 553 \| Lush Ruins (Factory New) | 58.00 | +65.1% | -25.7% | T1 | False |
 | 3 | P90 \| Ancient Earth (Factory New) | 36.18 | +64.1% | -49.2% | T1 | True |
-| 4 | XM1014 \| Blue Tire (Factory New) | 43.90 | +60.9% | +25.5% | T0 | True |
-| 5 | AUG \| Condemned (Factory New) | 70.88 | +49.7% | +4.4% | T1 | False |
-| 6 | Glock-18 \| Ironwork (Factory New) | 140.00 | +49.6% | +48.0% | T0 | False |
-| 7 | Glock-18 \| Nuclear Garden (Factory New) | 381.98 | +48.9% | +37.8% | T0 | False |
-| 8 | M4A1-S \| Guardian (Factory New) | 603.00 | +48.5% | -18.5% | T1 | False |
-| 9 | Glock-18 \| Water Elemental (Factory New) | 291.90 | +48.4% | +0.4% | T1 | False |
-| 10 | P2000 \| Turf (Factory New) | 91.00 | +41.0% | +5.4% | T0 | False |
-| 11 | Galil AR \| Black Sand (Factory New) | 102.90 | +40.9% | +23.0% | T0 | False |
-| 12 | MP9 \| Sand Scale (Factory New) | 44.00 | +40.2% | +57.3% | T0 | False |
-| 13 | FAMAS \| Cyanospatter (Factory New) | 171.00 | +38.8% | -1.9% | T1 | False |
-| 14 | USP-S \| Cyrex (Factory New) | 137.00 | +38.7% | +50.3% | T0 | False |
-| 15 | MAG-7 \| Silver (Factory New) | 232.49 | +38.1% | +4.7% | T1 | False |
-| 16 | Desert Eagle \| Heat Treated (Factory New) | 348.00 | +36.8% | +6.3% | T0 | False |
-| 17 | AWP \| Acheron (Factory New) | 131.00 | +35.1% | +37.9% | T0 | False |
-| 18 | MP7 \| Astrolabe (Factory New) | 143.49 | +33.0% | +50.8% | T0 | False |
-| 19 | P250 \| Nevermore (Factory New) | 35.50 | +32.7% | -28.4% | T1 | False |
-| 20 | AK-47 \| Steel Delta (Factory New) | 176.39 | +32.2% | +22.2% | T0 | False |
-| 21 | P250 \| Inferno (Factory New) | 141.20 | +31.8% | +23.0% | T0 | False |
-| 22 | Primeiro Tenente \| Brazilian 1st Battalion | 422.00 | +30.8% | -1.7% | T1 | False |
-| 23 | Dual Berettas \| Royal Consorts (Factory New) | 182.92 | +30.2% | +26.3% | T0 | False |
-| 24 | MP7 \| Cirrus (Factory New) | 86.99 | +29.9% | +19.7% | T0 | False |
-| 25 | G3SG1 \| Stinger (Factory New) | 66.00 | +29.0% | +21.4% | T0 | False |
-| 26 | ★ Driver Gloves \| Convoy (Field-Tested) | 2709.00 | +26.4% | +20.6% | T0 | False |
-| 27 | FAMAS \| Survivor Z (Factory New) | 145.00 | +24.7% | -22.2% | T1 | False |
-| 28 | M4A1-S \| Flashback (Factory New) | 707.40 | +22.1% | +25.2% | T0 | False |
-| 29 | ★ Specialist Gloves \| Foundation (Field-Tested) | 4958.50 | +20.5% | +34.1% | T0 | False |
-| 30 | ★ Driver Gloves \| Diamondback (Field-Tested) | 3449.50 | +19.1% | +42.6% | T0 | False |
+| 4 | AUG \| Condemned (Factory New) | 70.88 | +49.7% | +4.4% | T1 | False |
+| 5 | Glock-18 \| Ironwork (Factory New) | 140.00 | +49.6% | +48.0% | T0 | False |
+| 6 | Glock-18 \| Nuclear Garden (Factory New) | 381.98 | +48.9% | +37.8% | T0 | False |
+| 7 | M4A1-S \| Guardian (Factory New) | 603.00 | +48.5% | -18.5% | T1 | False |
+| 8 | Glock-18 \| Water Elemental (Factory New) | 291.90 | +48.4% | +0.4% | T1 | False |
+| 9 | P2000 \| Turf (Factory New) | 91.00 | +41.0% | +5.4% | T0 | False |
+| 10 | Galil AR \| Black Sand (Factory New) | 102.90 | +40.9% | +23.0% | T0 | False |
+| 11 | MP9 \| Sand Scale (Factory New) | 44.00 | +40.2% | +57.3% | T0 | False |
+| 12 | FAMAS \| Cyanospatter (Factory New) | 171.00 | +38.8% | -1.9% | T1 | False |
+| 13 | USP-S \| Cyrex (Factory New) | 137.00 | +38.7% | +50.3% | T0 | False |
+| 14 | Desert Eagle \| Heat Treated (Factory New) | 348.00 | +36.8% | +6.3% | T0 | False |
+| 15 | AWP \| Acheron (Factory New) | 131.00 | +35.1% | +37.9% | T0 | False |
+| 16 | MP7 \| Astrolabe (Factory New) | 143.49 | +33.0% | +50.8% | T0 | False |
+| 17 | P250 \| Nevermore (Factory New) | 35.50 | +32.7% | -28.4% | T1 | False |
+| 18 | AK-47 \| Steel Delta (Factory New) | 176.39 | +32.2% | +22.2% | T0 | False |
+| 19 | P250 \| Inferno (Factory New) | 141.20 | +31.8% | +23.0% | T0 | False |
+| 20 | Primeiro Tenente \| Brazilian 1st Battalion | 422.00 | +30.8% | -1.7% | T1 | False |
+| 21 | Dual Berettas \| Royal Consorts (Factory New) | 182.92 | +30.2% | +26.3% | T0 | False |
+| 22 | MP7 \| Cirrus (Factory New) | 86.99 | +29.9% | +19.7% | T0 | False |
+| 23 | G3SG1 \| Stinger (Factory New) | 66.00 | +29.0% | +21.4% | T0 | False |
+| 24 | ★ Driver Gloves \| Convoy (Field-Tested) | 2709.00 | +26.4% | +20.6% | T0 | False |
+| 25 | FAMAS \| Survivor Z (Factory New) | 145.00 | +24.7% | -22.2% | T1 | False |
+| 26 | M4A1-S \| Flashback (Factory New) | 707.40 | +22.1% | +25.2% | T0 | False |
+| 27 | ★ Specialist Gloves \| Foundation (Field-Tested) | 4958.50 | +20.5% | +34.1% | T0 | False |
+| 28 | ★ Driver Gloves \| Diamondback (Field-Tested) | 3449.50 | +19.1% | +42.6% | T0 | False |
+| 29 | CZ75-Auto \| Polymer (Factory New) | 36.00 | +18.7% | +21.0% | T0 | True |
+| 30 | ★ Moto Gloves \| Spearmint (Field-Tested) | 13886.50 | +18.7% | +27.6% | T0 | False |
 
 ## 2026-05-22
 
@@ -3728,19 +3715,19 @@
 | 15 | FAMAS \| Cyanospatter (Factory New) | 169.00 | +36.6% | -26.8% | T1 | False |
 | 16 | P2000 \| Turf (Factory New) | 79.60 | +34.8% | -5.4% | T1 | False |
 | 17 | Galil AR \| Black Sand (Factory New) | 83.60 | +34.5% | +14.4% | T0 | False |
-| 18 | MAG-7 \| Silver (Factory New) | 174.00 | +34.4% | +1.3% | T1 | False |
-| 19 | FAMAS \| Survivor Z (Factory New) | 144.00 | +34.3% | -45.6% | T1 | False |
-| 20 | G3SG1 \| Stinger (Factory New) | 49.90 | +33.1% | -2.3% | T1 | False |
-| 21 | M4A1-S \| Guardian (Factory New) | 552.50 | +32.2% | -16.8% | T1 | False |
-| 22 | P2000 \| Acid Etched (Factory New) | 100.00 | +30.2% | -6.8% | T1 | False |
-| 23 | Street Soldier \| Phoenix | 152.88 | +29.7% | +7.6% | T0 | False |
-| 24 | P250 \| Nevermore (Factory New) | 34.70 | +28.7% | -41.0% | T1 | False |
-| 25 | Glock-18 \| Water Elemental (Factory New) | 259.50 | +28.5% | -0.9% | T1 | False |
-| 26 | Arno The Overgrown \| Guerrilla Warfare | 131.98 | +25.5% | +8.0% | T0 | False |
-| 27 | Col. Mangos Dabisi \| Guerrilla Warfare | 194.00 | +24.4% | +8.4% | T0 | False |
-| 28 | P90 \| Cold Blooded (Factory New) | 447.00 | +23.7% | +1.7% | T1 | False |
-| 29 | AK-47 \| Steel Delta (Factory New) | 149.99 | +22.1% | +4.7% | T1 | False |
-| 30 | ★ Driver Gloves \| Diamondback (Field-Tested) | 3180.00 | +22.0% | +44.8% | T0 | False |
+| 18 | FAMAS \| Survivor Z (Factory New) | 144.00 | +34.3% | -45.6% | T1 | False |
+| 19 | G3SG1 \| Stinger (Factory New) | 49.90 | +33.1% | -2.3% | T1 | False |
+| 20 | M4A1-S \| Guardian (Factory New) | 552.50 | +32.2% | -16.8% | T1 | False |
+| 21 | P2000 \| Acid Etched (Factory New) | 100.00 | +30.2% | -6.8% | T1 | False |
+| 22 | Street Soldier \| Phoenix | 152.88 | +29.7% | +7.6% | T0 | False |
+| 23 | P250 \| Nevermore (Factory New) | 34.70 | +28.7% | -41.0% | T1 | False |
+| 24 | Glock-18 \| Water Elemental (Factory New) | 259.50 | +28.5% | -0.9% | T1 | False |
+| 25 | Arno The Overgrown \| Guerrilla Warfare | 131.98 | +25.5% | +8.0% | T0 | False |
+| 26 | Col. Mangos Dabisi \| Guerrilla Warfare | 194.00 | +24.4% | +8.4% | T0 | False |
+| 27 | P90 \| Cold Blooded (Factory New) | 447.00 | +23.7% | +1.7% | T1 | False |
+| 28 | AK-47 \| Steel Delta (Factory New) | 149.99 | +22.1% | +4.7% | T1 | False |
+| 29 | ★ Driver Gloves \| Diamondback (Field-Tested) | 3180.00 | +22.0% | +44.8% | T0 | False |
+| 30 | SG 553 \| Colony IV (Factory New) | 477.50 | +20.9% | -8.8% | T1 | False |
 
 ## 2026-05-23
 
@@ -3773,9 +3760,9 @@
 | 25 | AUG \| Death by Puppy (Factory New) | 108.00 | +30.6% | -8.4% | T1 | False |
 | 26 | M4A1-S \| Blood Tiger (Factory New) | 162.00 | +30.4% | -6.2% | T1 | False |
 | 27 | G3SG1 \| Stinger (Factory New) | 60.18 | +29.7% | +26.3% | T0 | False |
-| 28 | MAG-7 \| Silver (Factory New) | 174.50 | +29.0% | -9.2% | T1 | False |
-| 29 | Col. Mangos Dabisi \| Guerrilla Warfare | 201.77 | +29.0% | +14.3% | T0 | False |
-| 30 | M4A4 \| Spider Lily (Factory New) | 488.00 | +27.9% | +29.5% | T0 | False |
+| 28 | Col. Mangos Dabisi \| Guerrilla Warfare | 201.77 | +29.0% | +14.3% | T0 | False |
+| 29 | M4A4 \| Spider Lily (Factory New) | 488.00 | +27.9% | +29.5% | T0 | False |
+| 30 | AK-47 \| Emerald Pinstripe (Factory New) | 194.50 | +26.9% | +20.2% | T0 | False |
 
 ## 2026-05-24
 
@@ -3798,19 +3785,19 @@
 | 15 | Glock-18 \| Bunsen Burner (Factory New) | 32.00 | +74.1% | +3.9% | T1 | False |
 | 16 | Tec-9 \| Bamboozle (Factory New) | 62.00 | +71.8% | -2.1% | T1 | False |
 | 17 | Street Soldier \| Phoenix | 126.25 | +71.7% | -4.9% | T1 | False |
-| 18 | R8 Revolver \| Nitro (Factory New) | 38.00 | +71.5% | -5.6% | T1 | False |
-| 19 | Desert Eagle \| Mudder (Factory New) | 125.50 | +71.2% | -14.2% | T1 | False |
-| 20 | P2000 \| Turf (Factory New) | 78.75 | +69.4% | +24.5% | T0 | False |
-| 21 | Glock-18 \| Warhawk (Factory New) | 69.44 | +68.0% | -20.8% | T1 | False |
-| 22 | Glock-18 \| Wraiths (Factory New) | 62.75 | +67.8% | -1.0% | T1 | False |
-| 23 | Glock-18 \| Grinder (Factory New) | 70.87 | +66.8% | +13.3% | T0 | False |
-| 24 | Tec-9 \| Safety Net (Factory New) | 119.50 | +65.9% | +0.8% | T1 | False |
-| 25 | AUG \| Condemned (Factory New) | 61.00 | +65.2% | -11.6% | T1 | False |
-| 26 | Desert Eagle \| Sputnik (Factory New) | 60.90 | +64.1% | +22.2% | T0 | False |
-| 27 | Col. Mangos Dabisi \| Guerrilla Warfare | 187.50 | +61.0% | +2.4% | T1 | False |
-| 28 | Galil AR \| Crimson Tsunami (Factory New) | 56.00 | +60.7% | +3.1% | T1 | False |
-| 29 | Desert Eagle \| The Bronze (Factory New) | 140.00 | +60.5% | -7.9% | T1 | False |
-| 30 | AK-47 \| Emerald Pinstripe (Factory New) | 176.50 | +60.5% | +26.9% | T0 | False |
+| 18 | Desert Eagle \| Mudder (Factory New) | 125.50 | +71.2% | -14.2% | T1 | False |
+| 19 | P2000 \| Turf (Factory New) | 78.75 | +69.4% | +24.5% | T0 | False |
+| 20 | Glock-18 \| Warhawk (Factory New) | 69.44 | +68.0% | -20.8% | T1 | False |
+| 21 | Glock-18 \| Wraiths (Factory New) | 62.75 | +67.8% | -1.0% | T1 | False |
+| 22 | Glock-18 \| Grinder (Factory New) | 70.87 | +66.8% | +13.3% | T0 | False |
+| 23 | Tec-9 \| Safety Net (Factory New) | 119.50 | +65.9% | +0.8% | T1 | False |
+| 24 | AUG \| Condemned (Factory New) | 61.00 | +65.2% | -11.6% | T1 | False |
+| 25 | Desert Eagle \| Sputnik (Factory New) | 60.90 | +64.1% | +22.2% | T0 | False |
+| 26 | Col. Mangos Dabisi \| Guerrilla Warfare | 187.50 | +61.0% | +2.4% | T1 | False |
+| 27 | Galil AR \| Crimson Tsunami (Factory New) | 56.00 | +60.7% | +3.1% | T1 | False |
+| 28 | Desert Eagle \| The Bronze (Factory New) | 140.00 | +60.5% | -7.9% | T1 | False |
+| 29 | AK-47 \| Emerald Pinstripe (Factory New) | 176.50 | +60.5% | +26.9% | T0 | False |
+| 30 | Arno The Overgrown \| Guerrilla Warfare | 114.50 | +58.7% | +4.0% | T1 | False |
 
 ## 2026-05-25
 
@@ -3837,15 +3824,15 @@
 | 19 | P250 \| Franklin (Factory New) | 34.53 | +93.7% | +23.2% | T0 | False |
 | 20 | FAMAS \| Night Borre (Factory New) | 118.00 | +93.1% | -6.7% | T1 | False |
 | 21 | G3SG1 \| Stinger (Factory New) | 44.80 | +91.8% | +20.8% | T0 | False |
-| 22 | MAG-7 \| Silver (Factory New) | 162.50 | +91.8% | -35.5% | T1 | False |
-| 23 | Five-SeveN \| Scumbria (Factory New) | 36.90 | +91.4% | -16.5% | T1 | False |
-| 24 | FAMAS \| Valence (Factory New) | 118.00 | +89.2% | +2.7% | T1 | False |
-| 25 | Glock-18 \| Wraiths (Factory New) | 44.80 | +89.1% | -18.6% | T1 | False |
-| 26 | Desert Eagle \| The Bronze (Factory New) | 127.50 | +89.1% | -23.0% | T1 | False |
-| 27 | FAMAS \| Eye of Athena (Factory New) | 188.00 | +89.1% | +0.8% | T1 | False |
-| 28 | P250 \| Steel Disruption (Factory New) | 79.80 | +88.4% | -15.2% | T1 | False |
-| 29 | AUG \| Plague (Factory New) | 37.14 | +88.4% | -15.2% | T1 | False |
-| 30 | P2000 \| Acid Etched (Factory New) | 79.75 | +87.9% | -8.1% | T1 | False |
+| 22 | Five-SeveN \| Scumbria (Factory New) | 36.90 | +91.4% | -16.5% | T1 | False |
+| 23 | FAMAS \| Valence (Factory New) | 118.00 | +89.2% | +2.7% | T1 | False |
+| 24 | Glock-18 \| Wraiths (Factory New) | 44.80 | +89.1% | -18.6% | T1 | False |
+| 25 | Desert Eagle \| The Bronze (Factory New) | 127.50 | +89.1% | -23.0% | T1 | False |
+| 26 | FAMAS \| Eye of Athena (Factory New) | 188.00 | +89.1% | +0.8% | T1 | False |
+| 27 | P250 \| Steel Disruption (Factory New) | 79.80 | +88.4% | -15.2% | T1 | False |
+| 28 | AUG \| Plague (Factory New) | 37.14 | +88.4% | -15.2% | T1 | False |
+| 29 | P2000 \| Acid Etched (Factory New) | 79.75 | +87.9% | -8.1% | T1 | False |
+| 30 | MP9 \| Sand Scale (Factory New) | 41.00 | +87.1% | +42.7% | T0 | False |
 
 ## 2026-05-26
 
@@ -3866,21 +3853,21 @@
 | 13 | Desert Eagle \| Sputnik (Factory New) | 50.66 | +71.1% | -15.7% | T1 | False |
 | 14 | P250 \| Franklin (Factory New) | 30.85 | +71.0% | +10.0% | T0 | False |
 | 15 | MAC-10 \| Last Dive (Factory New) | 33.90 | +70.6% | -19.6% | T1 | False |
-| 16 | MAG-7 \| BI83 Spectrum (Factory New) | 42.70 | +70.6% | -1.5% | T1 | False |
-| 17 | AUG \| Radiation Hazard (Factory New) | 92.00 | +70.3% | -19.9% | T1 | False |
-| 18 | FAMAS \| Night Borre (Factory New) | 98.50 | +68.5% | -27.3% | T1 | False |
-| 19 | Five-SeveN \| Kami (Factory New) | 34.10 | +66.2% | -23.7% | T1 | False |
-| 20 | Tec-9 \| Snek-9 (Factory New) | 40.70 | +65.9% | -5.7% | T1 | False |
-| 21 | AWP \| Phobos (Factory New) | 31.04 | +65.7% | +68.5% | T0 | True |
-| 22 | FAMAS \| Pulse (Factory New) | 133.99 | +65.4% | -11.1% | T1 | False |
-| 23 | MP7 \| Powercore (Factory New) | 110.00 | +64.1% | -14.8% | T1 | False |
-| 24 | P2000 \| Turf (Factory New) | 61.00 | +63.6% | +17.3% | T0 | False |
-| 25 | Glock-18 \| Wraiths (Factory New) | 49.90 | +62.3% | -20.8% | T1 | False |
-| 26 | Galil AR \| Black Sand (Factory New) | 68.90 | +61.8% | +39.3% | T0 | False |
-| 27 | Desert Eagle \| Mudder (Factory New) | 110.50 | +60.8% | -19.7% | T1 | False |
-| 28 | Five-SeveN \| Scumbria (Factory New) | 35.00 | +59.5% | -19.5% | T1 | False |
-| 29 | Glock-18 \| Grinder (Factory New) | 54.00 | +59.5% | +4.5% | T1 | False |
-| 30 | Street Soldier \| Phoenix | 114.49 | +59.0% | -14.7% | T1 | False |
+| 16 | AUG \| Radiation Hazard (Factory New) | 92.00 | +70.3% | -19.9% | T1 | False |
+| 17 | FAMAS \| Night Borre (Factory New) | 98.50 | +68.5% | -27.3% | T1 | False |
+| 18 | Five-SeveN \| Kami (Factory New) | 34.10 | +66.2% | -23.7% | T1 | False |
+| 19 | Tec-9 \| Snek-9 (Factory New) | 40.70 | +65.9% | -5.7% | T1 | False |
+| 20 | AWP \| Phobos (Factory New) | 31.04 | +65.7% | +68.5% | T0 | True |
+| 21 | FAMAS \| Pulse (Factory New) | 133.99 | +65.4% | -11.1% | T1 | False |
+| 22 | MP7 \| Powercore (Factory New) | 110.00 | +64.1% | -14.8% | T1 | False |
+| 23 | P2000 \| Turf (Factory New) | 61.00 | +63.6% | +17.3% | T0 | False |
+| 24 | Glock-18 \| Wraiths (Factory New) | 49.90 | +62.3% | -20.8% | T1 | False |
+| 25 | Galil AR \| Black Sand (Factory New) | 68.90 | +61.8% | +39.3% | T0 | False |
+| 26 | Desert Eagle \| Mudder (Factory New) | 110.50 | +60.8% | -19.7% | T1 | False |
+| 27 | Five-SeveN \| Scumbria (Factory New) | 35.00 | +59.5% | -19.5% | T1 | False |
+| 28 | Glock-18 \| Grinder (Factory New) | 54.00 | +59.5% | +4.5% | T1 | False |
+| 29 | Street Soldier \| Phoenix | 114.49 | +59.0% | -14.7% | T1 | False |
+| 30 | Tec-9 \| Bamboozle (Factory New) | 56.50 | +58.6% | -27.3% | T1 | False |
 
 ## 2026-05-27
 
@@ -3890,32 +3877,32 @@
 | 2 | M4A1-S \| Fizzy POP (Factory New) | 87.00 | +76.6% | -9.0% | T1 | True |
 | 3 | Five-SeveN \| Boost Protocol (Factory New) | 73.90 | +73.5% | +3.9% | T1 | True |
 | 4 | AUG \| Amber Fade (Factory New) | 38.50 | +67.3% | -31.8% | T1 | False |
-| 5 | R8 Revolver \| Memento (Factory New) | 32.96 | +62.6% | -3.5% | T1 | False |
-| 6 | Five-SeveN \| Buddy (Factory New) | 39.10 | +60.9% | -23.1% | T1 | False |
-| 7 | Five-SeveN \| Scumbria (Factory New) | 42.00 | +59.7% | -28.3% | T1 | False |
-| 8 | FAMAS \| Night Borre (Factory New) | 138.00 | +56.9% | -25.1% | T1 | False |
-| 9 | Desert Eagle \| Sputnik (Factory New) | 66.56 | +56.3% | -10.1% | T1 | False |
-| 10 | AWP \| Mortis (Factory New) | 107.50 | +55.0% | -0.5% | T1 | False |
-| 11 | MAC-10 \| Last Dive (Factory New) | 30.50 | +54.4% | -23.7% | T1 | False |
-| 12 | SSG 08 \| Necropos (Factory New) | 32.69 | +52.9% | -25.6% | T1 | False |
-| 13 | Desert Eagle \| The Bronze (Factory New) | 133.50 | +52.9% | -15.0% | T1 | False |
-| 14 | P90 \| Nostalgia (Factory New) | 87.90 | +52.7% | -21.1% | T1 | False |
-| 15 | P250 \| Forest Night (Factory New) | 73.00 | +51.4% | +8.6% | T0 | False |
-| 16 | P2000 \| Pulse (Factory New) | 38.19 | +50.8% | -10.5% | T1 | False |
-| 17 | USP-S \| Cyrex (Factory New) | 138.80 | +50.6% | +42.0% | T0 | False |
-| 18 | CZ75-Auto \| Tread Plate (Factory New) | 84.00 | +50.0% | -25.4% | T1 | False |
-| 19 | R8 Revolver \| Nitro (Factory New) | 32.00 | +49.9% | -22.4% | T1 | False |
-| 20 | Glock-18 \| Bunsen Burner (Factory New) | 35.69 | +49.4% | -8.2% | T1 | False |
-| 21 | Glock-18 \| Sacrifice (Factory New) | 69.69 | +49.1% | -13.5% | T1 | True |
-| 22 | MP7 \| Neon Ply (Factory New) | 250.00 | +48.0% | -35.3% | T1 | False |
-| 23 | USP-S \| 27 (Factory New) | 45.38 | +46.9% | -6.0% | T1 | False |
-| 24 | Glock-18 \| Glockingbird (Factory New) | 39.46 | +46.3% | -18.5% | T1 | False |
-| 25 | AUG \| Torque (Factory New) | 84.89 | +46.2% | -19.1% | T1 | False |
-| 26 | Galil AR \| Kami (Factory New) | 49.10 | +45.4% | -21.8% | T1 | False |
-| 27 | SSG 08 \| Death's Head (Factory New) | 217.98 | +44.4% | -7.0% | T1 | False |
-| 28 | M4A4 \| Griffin (Factory New) | 804.00 | +43.7% | +13.3% | T0 | False |
-| 29 | Tec-9 \| Snek-9 (Factory New) | 39.00 | +43.7% | -9.5% | T1 | False |
-| 30 | USP-S \| Orion (Factory New) | 944.50 | +43.4% | -9.8% | T1 | False |
+| 5 | Five-SeveN \| Buddy (Factory New) | 39.10 | +60.9% | -23.1% | T1 | False |
+| 6 | Five-SeveN \| Scumbria (Factory New) | 42.00 | +59.7% | -28.3% | T1 | False |
+| 7 | FAMAS \| Night Borre (Factory New) | 138.00 | +56.9% | -25.1% | T1 | False |
+| 8 | Desert Eagle \| Sputnik (Factory New) | 66.56 | +56.3% | -10.1% | T1 | False |
+| 9 | AWP \| Mortis (Factory New) | 107.50 | +55.0% | -0.5% | T1 | False |
+| 10 | MAC-10 \| Last Dive (Factory New) | 30.50 | +54.4% | -23.7% | T1 | False |
+| 11 | SSG 08 \| Necropos (Factory New) | 32.69 | +52.9% | -25.6% | T1 | False |
+| 12 | Desert Eagle \| The Bronze (Factory New) | 133.50 | +52.9% | -15.0% | T1 | False |
+| 13 | P90 \| Nostalgia (Factory New) | 87.90 | +52.7% | -21.1% | T1 | False |
+| 14 | P250 \| Forest Night (Factory New) | 73.00 | +51.4% | +8.6% | T0 | False |
+| 15 | P2000 \| Pulse (Factory New) | 38.19 | +50.8% | -10.5% | T1 | False |
+| 16 | USP-S \| Cyrex (Factory New) | 138.80 | +50.6% | +42.0% | T0 | False |
+| 17 | CZ75-Auto \| Tread Plate (Factory New) | 84.00 | +50.0% | -25.4% | T1 | False |
+| 18 | Glock-18 \| Bunsen Burner (Factory New) | 35.69 | +49.4% | -8.2% | T1 | False |
+| 19 | Glock-18 \| Sacrifice (Factory New) | 69.69 | +49.1% | -13.5% | T1 | True |
+| 20 | MP7 \| Neon Ply (Factory New) | 250.00 | +48.0% | -35.3% | T1 | False |
+| 21 | USP-S \| 27 (Factory New) | 45.38 | +46.9% | -6.0% | T1 | False |
+| 22 | Glock-18 \| Glockingbird (Factory New) | 39.46 | +46.3% | -18.5% | T1 | False |
+| 23 | AUG \| Torque (Factory New) | 84.89 | +46.2% | -19.1% | T1 | False |
+| 24 | Galil AR \| Kami (Factory New) | 49.10 | +45.4% | -21.8% | T1 | False |
+| 25 | SSG 08 \| Death's Head (Factory New) | 217.98 | +44.4% | -7.0% | T1 | False |
+| 26 | M4A4 \| Griffin (Factory New) | 804.00 | +43.7% | +13.3% | T0 | False |
+| 27 | Tec-9 \| Snek-9 (Factory New) | 39.00 | +43.7% | -9.5% | T1 | False |
+| 28 | USP-S \| Orion (Factory New) | 944.50 | +43.4% | -9.8% | T1 | False |
+| 29 | AUG \| Condemned (Factory New) | 54.00 | +43.1% | -32.3% | T1 | False |
+| 30 | MP5-SD \| Condition Zero (Factory New) | 49.00 | +42.9% | -24.2% | T1 | False |
 
 ## 2026-05-28
 
@@ -3992,35 +3979,35 @@
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | FAMAS \| ZX Spectron (Factory New) | 218.00 | +125.9% | +2.1% | T1 | False |
-| 2 | R8 Revolver \| Amber Fade (Factory New) | 50.90 | +92.4% | +6.2% | T0 | True |
-| 3 | AWP \| Phobos (Factory New) | 39.33 | +86.7% | -0.7% | T1 | True |
-| 4 | ★ Hand Wraps \| Leather (Field-Tested) | 3998.50 | +84.6% | -19.3% | T1 | False |
-| 5 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1243.00 | +81.8% | -22.4% | T1 | False |
-| 6 | AWP \| Electric Hive (Factory New) | 844.50 | +80.0% | -27.2% | T1 | False |
-| 7 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1550.00 | +78.7% | -17.5% | T1 | False |
-| 8 | Glock-18 \| Ironwork (Factory New) | 210.00 | +78.4% | +11.0% | T0 | False |
-| 9 | AWP \| Mortis (Factory New) | 135.40 | +77.6% | -25.9% | T1 | False |
-| 10 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1244.00 | +74.7% | -10.7% | T1 | False |
-| 11 | M4A1-S \| Nightmare (Factory New) | 1593.50 | +73.5% | +7.1% | T0 | False |
-| 12 | ★ Hand Wraps \| Slaughter (Field-Tested) | 3700.00 | +72.9% | -19.6% | T1 | False |
-| 13 | Tec-9 \| Flash Out (Factory New) | 32.00 | +72.7% | -3.5% | T1 | False |
-| 14 | Five-SeveN \| Boost Protocol (Factory New) | 88.90 | +72.0% | -9.3% | T1 | True |
-| 15 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1489.50 | +71.4% | -20.4% | T1 | False |
-| 16 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1180.00 | +68.7% | -16.9% | T1 | False |
-| 17 | AWP \| Hyper Beast (Factory New) | 1188.88 | +68.6% | -19.1% | T1 | False |
-| 18 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1519.50 | +67.8% | -17.3% | T1 | False |
-| 19 | Michael Syfers  \| FBI Sniper | 88.00 | +66.5% | -20.1% | T1 | False |
-| 20 | AWP \| PAW (Factory New) | 45.59 | +66.3% | -17.4% | T1 | False |
-| 21 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2490.00 | +65.5% | -12.0% | T1 | False |
-| 22 | P250 \| Forest Night (Factory New) | 68.99 | +63.8% | -14.3% | T1 | False |
-| 23 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 1824.50 | +63.6% | -11.2% | T1 | False |
-| 24 | M4A1-S \| Control Panel (Factory New) | 960.00 | +63.1% | -8.8% | T1 | False |
-| 25 | M4A4 \| Griffin (Factory New) | 857.70 | +62.0% | -7.9% | T1 | False |
-| 26 | ★ Sport Gloves \| Arid (Field-Tested) | 7757.50 | +61.4% | -14.6% | T1 | False |
-| 27 | ★ Hand Wraps \| Badlands (Field-Tested) | 2650.00 | +61.3% | -11.2% | T1 | False |
-| 28 | ★ Hand Wraps \| Leather (Minimal Wear) | 4980.00 | +60.9% | -18.6% | T1 | False |
-| 29 | AWP \| Graphite (Factory New) | 1010.00 | +59.6% | -5.9% | T1 | False |
-| 30 | AK-47 \| Breakthrough (Factory New) | 99.99 | +59.3% | -16.6% | T1 | False |
+| 2 | AWP \| Phobos (Factory New) | 39.33 | +86.7% | -0.7% | T1 | True |
+| 3 | ★ Hand Wraps \| Leather (Field-Tested) | 3998.50 | +84.6% | -19.3% | T1 | False |
+| 4 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1243.00 | +81.8% | -22.4% | T1 | False |
+| 5 | AWP \| Electric Hive (Factory New) | 844.50 | +80.0% | -27.2% | T1 | False |
+| 6 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1550.00 | +78.7% | -17.5% | T1 | False |
+| 7 | Glock-18 \| Ironwork (Factory New) | 210.00 | +78.4% | +11.0% | T0 | False |
+| 8 | AWP \| Mortis (Factory New) | 135.40 | +77.6% | -25.9% | T1 | False |
+| 9 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1244.00 | +74.7% | -10.7% | T1 | False |
+| 10 | M4A1-S \| Nightmare (Factory New) | 1593.50 | +73.5% | +7.1% | T0 | False |
+| 11 | ★ Hand Wraps \| Slaughter (Field-Tested) | 3700.00 | +72.9% | -19.6% | T1 | False |
+| 12 | Tec-9 \| Flash Out (Factory New) | 32.00 | +72.7% | -3.5% | T1 | False |
+| 13 | Five-SeveN \| Boost Protocol (Factory New) | 88.90 | +72.0% | -9.3% | T1 | True |
+| 14 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1489.50 | +71.4% | -20.4% | T1 | False |
+| 15 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1180.00 | +68.7% | -16.9% | T1 | False |
+| 16 | AWP \| Hyper Beast (Factory New) | 1188.88 | +68.6% | -19.1% | T1 | False |
+| 17 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1519.50 | +67.8% | -17.3% | T1 | False |
+| 18 | Michael Syfers  \| FBI Sniper | 88.00 | +66.5% | -20.1% | T1 | False |
+| 19 | AWP \| PAW (Factory New) | 45.59 | +66.3% | -17.4% | T1 | False |
+| 20 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2490.00 | +65.5% | -12.0% | T1 | False |
+| 21 | P250 \| Forest Night (Factory New) | 68.99 | +63.8% | -14.3% | T1 | False |
+| 22 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 1824.50 | +63.6% | -11.2% | T1 | False |
+| 23 | M4A1-S \| Control Panel (Factory New) | 960.00 | +63.1% | -8.8% | T1 | False |
+| 24 | M4A4 \| Griffin (Factory New) | 857.70 | +62.0% | -7.9% | T1 | False |
+| 25 | ★ Sport Gloves \| Arid (Field-Tested) | 7757.50 | +61.4% | -14.6% | T1 | False |
+| 26 | ★ Hand Wraps \| Badlands (Field-Tested) | 2650.00 | +61.3% | -11.2% | T1 | False |
+| 27 | ★ Hand Wraps \| Leather (Minimal Wear) | 4980.00 | +60.9% | -18.6% | T1 | False |
+| 28 | AWP \| Graphite (Factory New) | 1010.00 | +59.6% | -5.9% | T1 | False |
+| 29 | AK-47 \| Breakthrough (Factory New) | 99.99 | +59.3% | -16.6% | T1 | False |
+| 30 | AWP \| Capillary (Factory New) | 79.90 | +59.2% | -28.2% | T1 | False |
 
 ## 2026-05-31
 
@@ -4047,15 +4034,15 @@
 | 19 | ★ Hand Wraps \| Leather (Field-Tested) | 3745.00 | +70.6% | -17.0% | T1 | False |
 | 20 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1441.50 | +70.5% | -23.1% | T1 | False |
 | 21 | FAMAS \| Mecha Industries (Factory New) | 796.50 | +70.3% | -7.3% | T1 | False |
-| 22 | R8 Revolver \| Amber Fade (Factory New) | 47.40 | +69.1% | +1.6% | T1 | True |
-| 23 | Five-SeveN \| Boost Protocol (Factory New) | 83.90 | +67.1% | -10.3% | T1 | True |
-| 24 | ★ Hand Wraps \| Slaughter (Field-Tested) | 3410.00 | +66.0% | -22.0% | T1 | False |
-| 25 | Glock-18 \| Gold Toof (Factory New) | 1076.99 | +65.9% | +2.1% | T1 | False |
-| 26 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 7088.00 | +64.8% | -22.9% | T1 | False |
-| 27 | M4A1-S \| Control Panel (Factory New) | 920.00 | +64.2% | -10.3% | T1 | False |
-| 28 | M4A4 \| Griffin (Factory New) | 827.00 | +64.1% | -16.6% | T1 | False |
-| 29 | AWP \| Electric Hive (Factory New) | 789.50 | +63.7% | -16.5% | T1 | False |
-| 30 | AK-47 \| Orbit Mk01 (Factory New) | 752.30 | +63.7% | -25.5% | T1 | False |
+| 22 | Five-SeveN \| Boost Protocol (Factory New) | 83.90 | +67.1% | -10.3% | T1 | True |
+| 23 | ★ Hand Wraps \| Slaughter (Field-Tested) | 3410.00 | +66.0% | -22.0% | T1 | False |
+| 24 | Glock-18 \| Gold Toof (Factory New) | 1076.99 | +65.9% | +2.1% | T1 | False |
+| 25 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 7088.00 | +64.8% | -22.9% | T1 | False |
+| 26 | M4A1-S \| Control Panel (Factory New) | 920.00 | +64.2% | -10.3% | T1 | False |
+| 27 | M4A4 \| Griffin (Factory New) | 827.00 | +64.1% | -16.6% | T1 | False |
+| 28 | AWP \| Electric Hive (Factory New) | 789.50 | +63.7% | -16.5% | T1 | False |
+| 29 | AK-47 \| Orbit Mk01 (Factory New) | 752.30 | +63.7% | -25.5% | T1 | False |
+| 30 | ★ Hand Wraps \| Badlands (Field-Tested) | 2439.00 | +62.9% | -15.6% | T1 | False |
 
 ## 2026-06-01
 
@@ -4063,34 +4050,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | AWP \| Phobos (Factory New) | 40.89 | +125.4% | -34.1% | T1 | True |
 | 2 | FAMAS \| ZX Spectron (Factory New) | 220.00 | +105.4% | -21.0% | T1 | False |
-| 3 | R8 Revolver \| Amber Fade (Factory New) | 51.90 | +100.8% | -30.6% | T1 | True |
-| 4 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1165.00 | +90.9% | -7.5% | T1 | False |
-| 5 | AK-47 \| Breakthrough (Factory New) | 99.90 | +86.4% | -33.7% | T1 | False |
-| 6 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1139.99 | +77.2% | -12.1% | T1 | False |
-| 7 | AWP \| PAW (Factory New) | 44.88 | +73.2% | -24.8% | T1 | False |
-| 8 | ★ Driver Gloves \| Convoy (Field-Tested) | 3599.50 | +71.9% | -12.0% | T1 | False |
-| 9 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1101.00 | +71.5% | -12.2% | T1 | False |
-| 10 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 1700.00 | +68.8% | -0.2% | T1 | False |
-| 11 | Glock-18 \| Ironwork (Factory New) | 217.50 | +67.7% | +1.6% | T1 | False |
-| 12 | AWP \| Worm God (Factory New) | 31.00 | +67.7% | -32.7% | T1 | True |
-| 13 | Tec-9 \| Bamboo Forest (Factory New) | 210.65 | +67.1% | +0.5% | T1 | False |
-| 14 | ★ Hand Wraps \| Badlands (Field-Tested) | 2577.00 | +66.9% | -22.2% | T1 | False |
-| 15 | M4A1-S \| Control Panel (Factory New) | 970.00 | +66.4% | -15.5% | T1 | False |
-| 16 | M4A1-S \| Nightmare (Factory New) | 1527.00 | +63.7% | -2.4% | T1 | False |
-| 17 | FAMAS \| Mecha Industries (Factory New) | 843.00 | +63.6% | -13.4% | T1 | False |
-| 18 | ★ Specialist Gloves \| Foundation (Field-Tested) | 6000.00 | +62.8% | -16.5% | T1 | False |
-| 19 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4047.00 | +62.8% | -10.4% | T1 | False |
-| 20 | ★ Sport Gloves \| Arid (Field-Tested) | 7498.00 | +62.1% | -14.9% | T1 | False |
-| 21 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1488.38 | +61.4% | -1.6% | T1 | False |
-| 22 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2364.00 | +60.7% | -19.7% | T1 | False |
-| 23 | Glock-18 \| Trace Lock (Factory New) | 48.90 | +60.7% | -30.2% | T1 | False |
-| 24 | G3SG1 \| High Seas (Factory New) | 53.37 | +60.1% | -2.4% | T1 | False |
-| 25 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1477.00 | +55.3% | -8.5% | T1 | False |
-| 26 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 7030.00 | +53.9% | -15.0% | T1 | False |
-| 27 | Glock-18 \| Neo-Noir (Factory New) | 1349.50 | +52.4% | -15.4% | T1 | False |
-| 28 | AWP \| Oni Taiji (Factory New) | 4289.50 | +52.1% | -16.9% | T1 | False |
-| 29 | ★ Hand Wraps \| Slaughter (Field-Tested) | 3680.00 | +51.6% | -16.8% | T1 | False |
-| 30 | Desert Eagle \| Night Heist (Factory New) | 1029.00 | +50.7% | -22.6% | T1 | False |
+| 3 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1165.00 | +90.9% | -7.5% | T1 | False |
+| 4 | AK-47 \| Breakthrough (Factory New) | 99.90 | +86.4% | -33.7% | T1 | False |
+| 5 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1139.99 | +77.2% | -12.1% | T1 | False |
+| 6 | AWP \| PAW (Factory New) | 44.88 | +73.2% | -24.8% | T1 | False |
+| 7 | ★ Driver Gloves \| Convoy (Field-Tested) | 3599.50 | +71.9% | -12.0% | T1 | False |
+| 8 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1101.00 | +71.5% | -12.2% | T1 | False |
+| 9 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 1700.00 | +68.8% | -0.2% | T1 | False |
+| 10 | Glock-18 \| Ironwork (Factory New) | 217.50 | +67.7% | +1.6% | T1 | False |
+| 11 | AWP \| Worm God (Factory New) | 31.00 | +67.7% | -32.7% | T1 | True |
+| 12 | Tec-9 \| Bamboo Forest (Factory New) | 210.65 | +67.1% | +0.5% | T1 | False |
+| 13 | ★ Hand Wraps \| Badlands (Field-Tested) | 2577.00 | +66.9% | -22.2% | T1 | False |
+| 14 | M4A1-S \| Control Panel (Factory New) | 970.00 | +66.4% | -15.5% | T1 | False |
+| 15 | M4A1-S \| Nightmare (Factory New) | 1527.00 | +63.7% | -2.4% | T1 | False |
+| 16 | FAMAS \| Mecha Industries (Factory New) | 843.00 | +63.6% | -13.4% | T1 | False |
+| 17 | ★ Specialist Gloves \| Foundation (Field-Tested) | 6000.00 | +62.8% | -16.5% | T1 | False |
+| 18 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4047.00 | +62.8% | -10.4% | T1 | False |
+| 19 | ★ Sport Gloves \| Arid (Field-Tested) | 7498.00 | +62.1% | -14.9% | T1 | False |
+| 20 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1488.38 | +61.4% | -1.6% | T1 | False |
+| 21 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2364.00 | +60.7% | -19.7% | T1 | False |
+| 22 | Glock-18 \| Trace Lock (Factory New) | 48.90 | +60.7% | -30.2% | T1 | False |
+| 23 | G3SG1 \| High Seas (Factory New) | 53.37 | +60.1% | -2.4% | T1 | False |
+| 24 | ★ Bloodhound Gloves \| Guerrilla (Minimal Wear) | 1477.00 | +55.3% | -8.5% | T1 | False |
+| 25 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 7030.00 | +53.9% | -15.0% | T1 | False |
+| 26 | Glock-18 \| Neo-Noir (Factory New) | 1349.50 | +52.4% | -15.4% | T1 | False |
+| 27 | AWP \| Oni Taiji (Factory New) | 4289.50 | +52.1% | -16.9% | T1 | False |
+| 28 | ★ Hand Wraps \| Slaughter (Field-Tested) | 3680.00 | +51.6% | -16.8% | T1 | False |
+| 29 | Desert Eagle \| Night Heist (Factory New) | 1029.00 | +50.7% | -22.6% | T1 | False |
+| 30 | MP7 \| Cirrus (Factory New) | 108.00 | +50.2% | -21.6% | T1 | False |
 
 ## 2026-06-02
 
@@ -4100,32 +4087,32 @@
 | 2 | AK-47 \| Breakthrough (Factory New) | 98.40 | +73.9% | -33.8% | T1 | False |
 | 3 | AWP \| Phobos (Factory New) | 46.89 | +68.5% | -29.7% | T1 | True |
 | 4 | ★ Driver Gloves \| Convoy (Field-Tested) | 3818.00 | +60.9% | -14.8% | T1 | False |
-| 5 | R8 Revolver \| Amber Fade (Factory New) | 62.50 | +55.9% | -18.1% | T1 | True |
-| 6 | FAMAS \| ZX Spectron (Factory New) | 282.00 | +54.5% | -14.3% | T1 | False |
-| 7 | M4A1-S \| Nightmare (Factory New) | 1750.00 | +52.9% | -6.2% | T1 | False |
-| 8 | Tec-9 \| Bamboo Forest (Factory New) | 222.00 | +45.9% | +2.8% | T1 | False |
-| 9 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4200.00 | +45.9% | -9.6% | T1 | False |
-| 10 | FAMAS \| Mecha Industries (Factory New) | 920.00 | +45.3% | +0.7% | T1 | False |
-| 11 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1228.50 | +44.7% | +4.1% | T1 | False |
-| 12 | AWP \| PAW (Factory New) | 49.00 | +43.5% | -18.6% | T1 | False |
-| 13 | G3SG1 \| High Seas (Factory New) | 53.05 | +40.8% | -9.0% | T1 | False |
-| 14 | Glock-18 \| Gold Toof (Factory New) | 1339.00 | +39.7% | -11.1% | T1 | False |
-| 15 | Galil AR \| Black Sand (Factory New) | 149.40 | +39.3% | -24.8% | T1 | False |
-| 16 | Glock-18 \| Trace Lock (Factory New) | 52.80 | +39.2% | -24.9% | T1 | False |
-| 17 | M4A1-S \| Mecha Industries (Factory New) | 1878.00 | +36.6% | -13.5% | T1 | False |
-| 18 | SSG 08 \| Big Iron (Factory New) | 345.00 | +35.7% | -23.4% | T1 | False |
-| 19 | XM1014 \| Black Tie (Factory New) | 48.00 | +35.3% | -13.9% | T1 | False |
-| 20 | Glock-18 \| Neo-Noir (Factory New) | 1575.80 | +34.6% | -12.1% | T1 | False |
-| 21 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3179.50 | +34.2% | +25.3% | T0 | False |
-| 22 | USP-S \| Cyrex (Factory New) | 269.30 | +34.1% | -1.7% | T1 | False |
-| 23 | XM1014 \| Solitude (Factory New) | 355.99 | +33.0% | +7.9% | T0 | False |
-| 24 | MP9 \| Sand Scale (Factory New) | 94.00 | +32.8% | -5.7% | T1 | False |
-| 25 | SSG 08 \| Ghost Crusader (Factory New) | 154.50 | +32.5% | -16.8% | T1 | False |
-| 26 | AWP \| Graphite (Factory New) | 1039.50 | +32.3% | -9.0% | T1 | False |
-| 27 | MP7 \| Cirrus (Factory New) | 119.50 | +32.2% | -9.1% | T1 | False |
-| 28 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1220.00 | +31.9% | -1.9% | T1 | False |
-| 29 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 7399.50 | +31.6% | -0.8% | T1 | False |
-| 30 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1555.00 | +31.5% | +2.1% | T1 | False |
+| 5 | FAMAS \| ZX Spectron (Factory New) | 282.00 | +54.5% | -14.3% | T1 | False |
+| 6 | M4A1-S \| Nightmare (Factory New) | 1750.00 | +52.9% | -6.2% | T1 | False |
+| 7 | Tec-9 \| Bamboo Forest (Factory New) | 222.00 | +45.9% | +2.8% | T1 | False |
+| 8 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4200.00 | +45.9% | -9.6% | T1 | False |
+| 9 | FAMAS \| Mecha Industries (Factory New) | 920.00 | +45.3% | +0.7% | T1 | False |
+| 10 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1228.50 | +44.7% | +4.1% | T1 | False |
+| 11 | AWP \| PAW (Factory New) | 49.00 | +43.5% | -18.6% | T1 | False |
+| 12 | G3SG1 \| High Seas (Factory New) | 53.05 | +40.8% | -9.0% | T1 | False |
+| 13 | Glock-18 \| Gold Toof (Factory New) | 1339.00 | +39.7% | -11.1% | T1 | False |
+| 14 | Galil AR \| Black Sand (Factory New) | 149.40 | +39.3% | -24.8% | T1 | False |
+| 15 | Glock-18 \| Trace Lock (Factory New) | 52.80 | +39.2% | -24.9% | T1 | False |
+| 16 | M4A1-S \| Mecha Industries (Factory New) | 1878.00 | +36.6% | -13.5% | T1 | False |
+| 17 | SSG 08 \| Big Iron (Factory New) | 345.00 | +35.7% | -23.4% | T1 | False |
+| 18 | Glock-18 \| Neo-Noir (Factory New) | 1575.80 | +34.6% | -12.1% | T1 | False |
+| 19 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3179.50 | +34.2% | +25.3% | T0 | False |
+| 20 | USP-S \| Cyrex (Factory New) | 269.30 | +34.1% | -1.7% | T1 | False |
+| 21 | MP9 \| Sand Scale (Factory New) | 94.00 | +32.8% | -5.7% | T1 | False |
+| 22 | SSG 08 \| Ghost Crusader (Factory New) | 154.50 | +32.5% | -16.8% | T1 | False |
+| 23 | AWP \| Graphite (Factory New) | 1039.50 | +32.3% | -9.0% | T1 | False |
+| 24 | MP7 \| Cirrus (Factory New) | 119.50 | +32.2% | -9.1% | T1 | False |
+| 25 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1220.00 | +31.9% | -1.9% | T1 | False |
+| 26 | ★ Specialist Gloves \| Foundation (Minimal Wear) | 7399.50 | +31.6% | -0.8% | T1 | False |
+| 27 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 1555.00 | +31.5% | +2.1% | T1 | False |
+| 28 | ★ Specialist Gloves \| Foundation (Field-Tested) | 6166.00 | +31.5% | -3.0% | T1 | False |
+| 29 | M4A1-S \| Flashback (Factory New) | 930.30 | +30.8% | -5.1% | T1 | False |
+| 30 | Glock-18 \| Bullet Queen (Factory New) | 985.00 | +30.7% | -8.1% | T1 | False |
 
 ## 2026-06-03
 
@@ -4135,137 +4122,137 @@
 | 2 | ★ Driver Gloves \| Convoy (Field-Tested) | 4079.50 | +62.5% | -19.8% | T1 | False |
 | 3 | M4A1-S \| Nightmare (Factory New) | 1929.00 | +56.1% | -15.3% | T1 | False |
 | 4 | AWP \| Phobos (Factory New) | 53.00 | +52.5% | -26.8% | T1 | True |
-| 5 | R8 Revolver \| Amber Fade (Factory New) | 62.40 | +48.6% | -20.8% | T1 | True |
-| 6 | FAMAS \| Mecha Industries (Factory New) | 942.50 | +47.4% | -11.6% | T1 | False |
-| 7 | MP7 \| Cirrus (Factory New) | 120.50 | +47.1% | -19.2% | T1 | False |
-| 8 | Galil AR \| Black Sand (Factory New) | 152.50 | +46.0% | -24.9% | T1 | False |
-| 9 | AK-47 \| Breakthrough (Factory New) | 99.90 | +43.5% | -23.7% | T1 | False |
-| 10 | XM1014 \| Solitude (Factory New) | 353.50 | +42.5% | -5.6% | T1 | False |
-| 11 | G3SG1 \| High Seas (Factory New) | 62.40 | +42.4% | -8.4% | T1 | False |
-| 12 | USP-S \| Cyrex (Factory New) | 272.49 | +42.0% | -12.1% | T1 | False |
-| 13 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4665.00 | +41.5% | -15.2% | T1 | False |
-| 14 | FAMAS \| ZX Spectron (Factory New) | 352.00 | +41.4% | -14.3% | T1 | False |
-| 15 | Glock-18 \| Bullet Queen (Factory New) | 1060.00 | +38.1% | -15.4% | T1 | False |
-| 16 | Glock-18 \| Gold Toof (Factory New) | 1499.00 | +37.0% | -11.5% | T1 | False |
-| 17 | Tec-9 \| Bamboo Forest (Factory New) | 244.00 | +35.3% | -5.8% | T1 | False |
-| 18 | M4A1-S \| Flashback (Factory New) | 959.50 | +33.8% | -16.6% | T1 | False |
-| 19 | MAG-7 \| Sonar (Factory New) | 43.80 | +30.5% | -22.9% | T1 | False |
-| 20 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1459.50 | +29.8% | +10.4% | T0 | False |
-| 21 | M4A1-S \| Mecha Industries (Factory New) | 1865.00 | +29.7% | -22.1% | T1 | False |
-| 22 | Dual Berettas \| Royal Consorts (Factory New) | 278.00 | +27.5% | -25.6% | T1 | False |
-| 23 | Glock-18 \| Neo-Noir (Factory New) | 1678.50 | +27.5% | -18.6% | T1 | False |
-| 24 | Sawed-Off \| Jungle Thicket (Factory New) | 43.88 | +27.3% | -10.5% | T1 | False |
-| 25 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3380.00 | +27.3% | +15.5% | T0 | False |
-| 26 | Tec-9 \| Flash Out (Factory New) | 41.80 | +26.9% | -2.7% | T1 | False |
-| 27 | AK-47 \| Neon Revolution (Factory New) | 2070.00 | +26.2% | -15.3% | T1 | False |
-| 28 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2200.00 | +25.1% | -0.1% | T1 | False |
-| 29 | PP-Bizon \| Blue Streak (Factory New) | 103.00 | +25.0% | -21.7% | T1 | False |
-| 30 | SSG 08 \| Ghost Crusader (Factory New) | 145.00 | +24.3% | -20.2% | T1 | False |
+| 5 | FAMAS \| Mecha Industries (Factory New) | 942.50 | +47.4% | -11.6% | T1 | False |
+| 6 | MP7 \| Cirrus (Factory New) | 120.50 | +47.1% | -19.2% | T1 | False |
+| 7 | Galil AR \| Black Sand (Factory New) | 152.50 | +46.0% | -24.9% | T1 | False |
+| 8 | AK-47 \| Breakthrough (Factory New) | 99.90 | +43.5% | -23.7% | T1 | False |
+| 9 | G3SG1 \| High Seas (Factory New) | 62.40 | +42.4% | -8.4% | T1 | False |
+| 10 | USP-S \| Cyrex (Factory New) | 272.49 | +42.0% | -12.1% | T1 | False |
+| 11 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4665.00 | +41.5% | -15.2% | T1 | False |
+| 12 | FAMAS \| ZX Spectron (Factory New) | 352.00 | +41.4% | -14.3% | T1 | False |
+| 13 | Glock-18 \| Bullet Queen (Factory New) | 1060.00 | +38.1% | -15.4% | T1 | False |
+| 14 | Glock-18 \| Gold Toof (Factory New) | 1499.00 | +37.0% | -11.5% | T1 | False |
+| 15 | Tec-9 \| Bamboo Forest (Factory New) | 244.00 | +35.3% | -5.8% | T1 | False |
+| 16 | M4A1-S \| Flashback (Factory New) | 959.50 | +33.8% | -16.6% | T1 | False |
+| 17 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1459.50 | +29.8% | +10.4% | T0 | False |
+| 18 | M4A1-S \| Mecha Industries (Factory New) | 1865.00 | +29.7% | -22.1% | T1 | False |
+| 19 | Dual Berettas \| Royal Consorts (Factory New) | 278.00 | +27.5% | -25.6% | T1 | False |
+| 20 | Glock-18 \| Neo-Noir (Factory New) | 1678.50 | +27.5% | -18.6% | T1 | False |
+| 21 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3380.00 | +27.3% | +15.5% | T0 | False |
+| 22 | Tec-9 \| Flash Out (Factory New) | 41.80 | +26.9% | -2.7% | T1 | False |
+| 23 | AK-47 \| Neon Revolution (Factory New) | 2070.00 | +26.2% | -15.3% | T1 | False |
+| 24 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2200.00 | +25.1% | -0.1% | T1 | False |
+| 25 | PP-Bizon \| Blue Streak (Factory New) | 103.00 | +25.0% | -21.7% | T1 | False |
+| 26 | SSG 08 \| Ghost Crusader (Factory New) | 145.00 | +24.3% | -20.2% | T1 | False |
+| 27 | ★ Moto Gloves \| Boom! (Field-Tested) | 4147.50 | +23.5% | -0.7% | T1 | False |
+| 28 | MP9 \| Sand Scale (Factory New) | 88.69 | +22.5% | -4.7% | T1 | False |
+| 29 | ★ Bloodhound Gloves \| Guerrilla (Field-Tested) | 1400.00 | +22.4% | -6.1% | T1 | False |
+| 30 | AK-47 \| Rat Rod (Factory New) | 599.50 | +20.9% | +15.3% | T0 | False |
 
 ## 2026-06-04
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Solitude (Factory New) | 342.00 | +65.8% | -18.3% | T1 | False |
-| 2 | P2000 \| Ivory (Factory New) | 70.96 | +62.1% | -10.2% | T1 | False |
-| 3 | AWP \| Phobos (Factory New) | 50.00 | +52.8% | -40.9% | T1 | True |
-| 4 | Glock-18 \| Ironwork (Factory New) | 228.00 | +52.8% | -13.6% | T1 | False |
-| 5 | Tec-9 \| Flash Out (Factory New) | 40.00 | +50.6% | -27.4% | T1 | False |
-| 6 | Tec-9 \| Bamboo Forest (Factory New) | 265.00 | +47.7% | -16.9% | T1 | False |
-| 7 | M4A1-S \| Nightmare (Factory New) | 1999.00 | +46.3% | -19.4% | T1 | False |
-| 8 | R8 Revolver \| Amber Fade (Factory New) | 58.00 | +43.2% | -37.1% | T1 | True |
-| 9 | Desert Eagle \| Kumicho Dragon (Factory New) | 580.00 | +42.7% | -26.1% | T1 | False |
-| 10 | ★ Driver Gloves \| Convoy (Field-Tested) | 3860.00 | +42.5% | -25.5% | T1 | False |
-| 11 | Glock-18 \| Bullet Queen (Factory New) | 1005.00 | +41.9% | -27.9% | T1 | False |
-| 12 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3549.50 | +39.7% | -15.7% | T1 | False |
-| 13 | FAMAS \| ZX Spectron (Factory New) | 345.00 | +39.6% | -22.7% | T1 | False |
-| 14 | G3SG1 \| High Seas (Factory New) | 60.00 | +35.0% | -12.2% | T1 | False |
-| 15 | Galil AR \| Black Sand (Factory New) | 138.50 | +33.2% | -33.8% | T1 | False |
-| 16 | SG 553 \| Phantom (Factory New) | 40.03 | +32.9% | -39.9% | T1 | False |
-| 17 | USP-S \| Cyrex (Factory New) | 257.50 | +31.9% | -6.8% | T1 | False |
-| 18 | Sawed-Off \| Jungle Thicket (Factory New) | 40.87 | +31.1% | -12.3% | T1 | False |
-| 19 | MAC-10 \| Copper Borre (Factory New) | 809.00 | +31.0% | -16.5% | T1 | False |
-| 20 | Glock-18 \| Gold Toof (Factory New) | 1475.00 | +29.6% | -19.5% | T1 | False |
-| 21 | MP7 \| Cirrus (Factory New) | 105.00 | +29.2% | -25.0% | T1 | False |
-| 22 | M4A1-S \| Mecha Industries (Factory New) | 1898.00 | +27.1% | -27.1% | T1 | False |
-| 23 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4499.99 | +25.8% | -22.4% | T1 | False |
-| 24 | CZ75-Auto \| Polymer (Factory New) | 44.00 | +25.3% | -32.8% | T1 | False |
-| 25 | AK-47 \| Breakthrough (Factory New) | 110.00 | +23.9% | -20.2% | T1 | False |
-| 26 | AWP \| Elite Build (Factory New) | 750.00 | +23.4% | -24.4% | T1 | False |
-| 27 | AWP \| PAW (Factory New) | 56.10 | +23.2% | -23.4% | T1 | False |
-| 28 | SSG 08 \| Ghost Crusader (Factory New) | 146.00 | +22.8% | -24.4% | T1 | False |
-| 29 | AWP \| Graphite (Factory New) | 1294.00 | +22.5% | -26.7% | T1 | False |
-| 30 | FAMAS \| Mecha Industries (Factory New) | 942.50 | +22.3% | -14.4% | T1 | False |
+| 1 | P2000 \| Ivory (Factory New) | 70.96 | +62.1% | -10.2% | T1 | False |
+| 2 | AWP \| Phobos (Factory New) | 50.00 | +52.8% | -40.9% | T1 | True |
+| 3 | Glock-18 \| Ironwork (Factory New) | 228.00 | +52.8% | -13.6% | T1 | False |
+| 4 | Tec-9 \| Flash Out (Factory New) | 40.00 | +50.6% | -27.4% | T1 | False |
+| 5 | Tec-9 \| Bamboo Forest (Factory New) | 265.00 | +47.7% | -16.9% | T1 | False |
+| 6 | M4A1-S \| Nightmare (Factory New) | 1999.00 | +46.3% | -19.4% | T1 | False |
+| 7 | Desert Eagle \| Kumicho Dragon (Factory New) | 580.00 | +42.7% | -26.1% | T1 | False |
+| 8 | ★ Driver Gloves \| Convoy (Field-Tested) | 3860.00 | +42.5% | -25.5% | T1 | False |
+| 9 | Glock-18 \| Bullet Queen (Factory New) | 1005.00 | +41.9% | -27.9% | T1 | False |
+| 10 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3549.50 | +39.7% | -15.7% | T1 | False |
+| 11 | FAMAS \| ZX Spectron (Factory New) | 345.00 | +39.6% | -22.7% | T1 | False |
+| 12 | G3SG1 \| High Seas (Factory New) | 60.00 | +35.0% | -12.2% | T1 | False |
+| 13 | Galil AR \| Black Sand (Factory New) | 138.50 | +33.2% | -33.8% | T1 | False |
+| 14 | SG 553 \| Phantom (Factory New) | 40.03 | +32.9% | -39.9% | T1 | False |
+| 15 | USP-S \| Cyrex (Factory New) | 257.50 | +31.9% | -6.8% | T1 | False |
+| 16 | MAC-10 \| Copper Borre (Factory New) | 809.00 | +31.0% | -16.5% | T1 | False |
+| 17 | Glock-18 \| Gold Toof (Factory New) | 1475.00 | +29.6% | -19.5% | T1 | False |
+| 18 | MP7 \| Cirrus (Factory New) | 105.00 | +29.2% | -25.0% | T1 | False |
+| 19 | M4A1-S \| Mecha Industries (Factory New) | 1898.00 | +27.1% | -27.1% | T1 | False |
+| 20 | ★ Driver Gloves \| Convoy (Minimal Wear) | 4499.99 | +25.8% | -22.4% | T1 | False |
+| 21 | CZ75-Auto \| Polymer (Factory New) | 44.00 | +25.3% | -32.8% | T1 | False |
+| 22 | AK-47 \| Breakthrough (Factory New) | 110.00 | +23.9% | -20.2% | T1 | False |
+| 23 | AWP \| Elite Build (Factory New) | 750.00 | +23.4% | -24.4% | T1 | False |
+| 24 | AWP \| PAW (Factory New) | 56.10 | +23.2% | -23.4% | T1 | False |
+| 25 | SSG 08 \| Ghost Crusader (Factory New) | 146.00 | +22.8% | -24.4% | T1 | False |
+| 26 | AWP \| Graphite (Factory New) | 1294.00 | +22.5% | -26.7% | T1 | False |
+| 27 | FAMAS \| Mecha Industries (Factory New) | 942.50 | +22.3% | -14.4% | T1 | False |
+| 28 | Glock-18 \| Neo-Noir (Factory New) | 1670.00 | +21.5% | -25.0% | T1 | False |
+| 29 | P2000 \| Turf (Factory New) | 118.00 | +20.1% | -26.7% | T1 | False |
+| 30 | ★ Moto Gloves \| Boom! (Field-Tested) | 4050.00 | +19.8% | -20.0% | T1 | False |
 
 ## 2026-06-05
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Amber Fade (Factory New) | 73.50 | +73.2% | -37.0% | T1 | True |
-| 2 | P2000 \| Ivory (Factory New) | 68.20 | +66.5% | +5.5% | T0 | False |
-| 3 | XM1014 \| Solitude (Factory New) | 340.49 | +59.0% | -20.0% | T1 | False |
-| 4 | Desert Eagle \| Kumicho Dragon (Factory New) | 599.50 | +40.1% | -23.3% | T1 | False |
-| 5 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4100.00 | +34.7% | -11.8% | T1 | False |
-| 6 | AWP \| Phobos (Factory New) | 56.80 | +31.7% | -18.9% | T1 | True |
-| 7 | ★ Driver Gloves \| Convoy (Field-Tested) | 4499.50 | +31.6% | -19.6% | T1 | False |
-| 8 | AK-47 \| Breakthrough (Factory New) | 114.50 | +31.5% | -21.6% | T1 | False |
-| 9 | Glock-18 \| Ironwork (Factory New) | 295.99 | +31.5% | +17.0% | T0 | False |
-| 10 | USP-S \| Cyrex (Factory New) | 286.99 | +30.8% | +16.5% | T0 | False |
-| 11 | Tec-9 \| Bamboo Forest (Factory New) | 281.00 | +30.7% | -4.6% | T1 | False |
-| 12 | Five-SeveN \| Withered Vine (Factory New) | 47.00 | +29.7% | -36.4% | T1 | True |
-| 13 | MAG-7 \| Sonar (Factory New) | 44.20 | +28.6% | -14.7% | T1 | False |
-| 14 | G3SG1 \| High Seas (Factory New) | 62.90 | +24.8% | -18.5% | T1 | False |
-| 15 | Glock-18 \| Gold Toof (Factory New) | 1616.68 | +24.3% | -13.8% | T1 | False |
-| 16 | MP7 \| Cirrus (Factory New) | 122.49 | +23.2% | -1.5% | T1 | False |
-| 17 | FAMAS \| ZX Spectron (Factory New) | 364.50 | +21.7% | -11.3% | T1 | False |
-| 18 | SG 553 \| Phantom (Factory New) | 39.00 | +21.0% | -40.1% | T1 | False |
-| 19 | Galil AR \| Black Sand (Factory New) | 155.40 | +20.2% | -5.1% | T1 | False |
-| 20 | ★ Driver Gloves \| Convoy (Minimal Wear) | 5250.00 | +20.0% | -21.2% | T1 | False |
-| 21 | Dual Berettas \| Panther (Factory New) | 57.59 | +19.6% | +12.9% | T0 | False |
-| 22 | Glock-18 \| Bullet Queen (Factory New) | 1020.00 | +19.0% | -23.7% | T1 | False |
-| 23 | XM1014 \| Tranquility (Factory New) | 239.00 | +18.8% | -6.1% | T1 | False |
-| 24 | XM1014 \| Black Tie (Factory New) | 54.00 | +18.3% | -6.0% | T1 | False |
-| 25 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5160.00 | +16.6% | -10.0% | T1 | False |
-| 26 | UMP-45 \| Houndstooth (Factory New) | 57.76 | +16.3% | +65.0% | T0 | False |
-| 27 | AK-47 \| Slate (Factory New) | 106.66 | +16.3% | -10.9% | T1 | False |
-| 28 | M4A1-S \| Nightmare (Factory New) | 2090.00 | +15.9% | -22.5% | T1 | False |
-| 29 | FAMAS \| Djinn (Factory New) | 489.99 | +15.6% | -16.3% | T1 | False |
-| 30 | M4A1-S \| Mecha Industries (Factory New) | 2020.00 | +15.6% | -21.3% | T1 | False |
+| 1 | P2000 \| Ivory (Factory New) | 68.20 | +66.5% | +5.5% | T0 | False |
+| 2 | Desert Eagle \| Kumicho Dragon (Factory New) | 599.50 | +40.1% | -23.3% | T1 | False |
+| 3 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4100.00 | +34.7% | -11.8% | T1 | False |
+| 4 | AWP \| Phobos (Factory New) | 56.80 | +31.7% | -18.9% | T1 | True |
+| 5 | ★ Driver Gloves \| Convoy (Field-Tested) | 4499.50 | +31.6% | -19.6% | T1 | False |
+| 6 | AK-47 \| Breakthrough (Factory New) | 114.50 | +31.5% | -21.6% | T1 | False |
+| 7 | Glock-18 \| Ironwork (Factory New) | 295.99 | +31.5% | +17.0% | T0 | False |
+| 8 | USP-S \| Cyrex (Factory New) | 286.99 | +30.8% | +16.5% | T0 | False |
+| 9 | Tec-9 \| Bamboo Forest (Factory New) | 281.00 | +30.7% | -4.6% | T1 | False |
+| 10 | Five-SeveN \| Withered Vine (Factory New) | 47.00 | +29.7% | -36.4% | T1 | True |
+| 11 | G3SG1 \| High Seas (Factory New) | 62.90 | +24.8% | -18.5% | T1 | False |
+| 12 | Glock-18 \| Gold Toof (Factory New) | 1616.68 | +24.3% | -13.8% | T1 | False |
+| 13 | MP7 \| Cirrus (Factory New) | 122.49 | +23.2% | -1.5% | T1 | False |
+| 14 | FAMAS \| ZX Spectron (Factory New) | 364.50 | +21.7% | -11.3% | T1 | False |
+| 15 | SG 553 \| Phantom (Factory New) | 39.00 | +21.0% | -40.1% | T1 | False |
+| 16 | Galil AR \| Black Sand (Factory New) | 155.40 | +20.2% | -5.1% | T1 | False |
+| 17 | ★ Driver Gloves \| Convoy (Minimal Wear) | 5250.00 | +20.0% | -21.2% | T1 | False |
+| 18 | Dual Berettas \| Panther (Factory New) | 57.59 | +19.6% | +12.9% | T0 | False |
+| 19 | Glock-18 \| Bullet Queen (Factory New) | 1020.00 | +19.0% | -23.7% | T1 | False |
+| 20 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5160.00 | +16.6% | -10.0% | T1 | False |
+| 21 | UMP-45 \| Houndstooth (Factory New) | 57.76 | +16.3% | +65.0% | T0 | False |
+| 22 | AK-47 \| Slate (Factory New) | 106.66 | +16.3% | -10.9% | T1 | False |
+| 23 | M4A1-S \| Nightmare (Factory New) | 2090.00 | +15.9% | -22.5% | T1 | False |
+| 24 | FAMAS \| Djinn (Factory New) | 489.99 | +15.6% | -16.3% | T1 | False |
+| 25 | M4A1-S \| Mecha Industries (Factory New) | 2020.00 | +15.6% | -21.3% | T1 | False |
+| 26 | ★ Moto Gloves \| Boom! (Field-Tested) | 4750.00 | +15.3% | -15.7% | T1 | False |
+| 27 | Glock-18 \| Neo-Noir (Factory New) | 1839.50 | +14.9% | -17.0% | T1 | False |
+| 28 | Desert Eagle \| Trigger Discipline (Factory New) | 51.00 | +14.6% | -23.4% | T1 | False |
+| 29 | FAMAS \| Mecha Industries (Factory New) | 1178.06 | +14.5% | -6.9% | T1 | False |
+| 30 | CZ75-Auto \| Eco (Factory New) | 175.00 | +14.5% | -21.6% | T1 | False |
 
 ## 2026-06-06
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | P2000 \| Ivory (Factory New) | 62.53 | +69.8% | +25.5% | T0 | False |
-| 2 | XM1014 \| Solitude (Factory New) | 354.50 | +56.9% | -20.1% | T1 | False |
-| 3 | Desert Eagle \| Kumicho Dragon (Factory New) | 589.00 | +48.5% | -26.6% | T1 | False |
-| 4 | Five-SeveN \| Withered Vine (Factory New) | 46.90 | +46.3% | -29.2% | T1 | True |
-| 5 | XM1014 \| Tranquility (Factory New) | 241.38 | +43.5% | -18.5% | T1 | False |
-| 6 | Tec-9 \| Bamboo Forest (Factory New) | 292.00 | +32.6% | -11.4% | T1 | False |
-| 7 | Dual Berettas \| Panther (Factory New) | 54.90 | +32.3% | +0.8% | T1 | False |
-| 8 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4050.00 | +28.8% | -12.8% | T1 | False |
-| 9 | G3SG1 \| High Seas (Factory New) | 69.60 | +24.7% | -13.6% | T1 | False |
-| 10 | XM1014 \| Black Tie (Factory New) | 51.98 | +23.5% | -13.6% | T1 | False |
-| 11 | Glock-18 \| Bullet Queen (Factory New) | 1180.00 | +19.9% | -21.2% | T1 | False |
-| 12 | SSG 08 \| Ghost Crusader (Factory New) | 156.90 | +19.8% | -23.5% | T1 | False |
-| 13 | Glock-18 \| Gold Toof (Factory New) | 1615.00 | +18.3% | -13.3% | T1 | False |
-| 14 | P2000 \| Pulse (Factory New) | 61.80 | +16.6% | -4.2% | T1 | False |
-| 15 | PP-Bizon \| Cobalt Halftone (Factory New) | 148.00 | +15.1% | -15.9% | T1 | False |
-| 16 | Five-SeveN \| Retrobution (Factory New) | 136.00 | +14.9% | -19.0% | T1 | False |
-| 17 | M4A1-S \| Mecha Industries (Factory New) | 2038.00 | +14.7% | -21.5% | T1 | False |
-| 18 | MAG-7 \| Hard Water (Factory New) | 64.00 | +14.6% | -23.3% | T1 | False |
-| 19 | Dual Berettas \| Cartel (Factory New) | 37.45 | +14.2% | -18.4% | T1 | False |
-| 20 | Glock-18 \| Grinder (Factory New) | 99.10 | +14.1% | -21.2% | T1 | False |
-| 21 | AUG \| Daedalus (Factory New) | 51.90 | +14.0% | -16.7% | T1 | False |
-| 22 | Glock-18 \| Blue Fissure (Factory New) | 279.99 | +13.8% | -11.1% | T1 | False |
-| 23 | FAMAS \| Macabre (Factory New) | 145.00 | +13.3% | -15.9% | T1 | False |
-| 24 | AK-47 \| Neon Revolution (Factory New) | 2120.00 | +12.5% | -22.3% | T1 | False |
-| 25 | Desert Eagle \| Trigger Discipline (Factory New) | 49.39 | +12.2% | -16.8% | T1 | False |
-| 26 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5050.00 | +12.1% | -6.8% | T1 | False |
-| 27 | Desert Eagle \| Hypnotic (Factory New) | 1688.00 | +11.9% | -17.7% | T1 | False |
-| 28 | ★ Driver Gloves \| Convoy (Field-Tested) | 4399.50 | +11.8% | -13.6% | T1 | False |
-| 29 | UMP-45 \| Primal Saber (Factory New) | 160.99 | +11.8% | -15.6% | T1 | False |
-| 30 | CZ75-Auto \| Eco (Factory New) | 175.00 | +11.1% | -27.7% | T1 | False |
+| 2 | Desert Eagle \| Kumicho Dragon (Factory New) | 589.00 | +48.5% | -26.6% | T1 | False |
+| 3 | Five-SeveN \| Withered Vine (Factory New) | 46.90 | +46.3% | -29.2% | T1 | True |
+| 4 | Tec-9 \| Bamboo Forest (Factory New) | 292.00 | +32.6% | -11.4% | T1 | False |
+| 5 | Dual Berettas \| Panther (Factory New) | 54.90 | +32.3% | +0.8% | T1 | False |
+| 6 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4050.00 | +28.8% | -12.8% | T1 | False |
+| 7 | G3SG1 \| High Seas (Factory New) | 69.60 | +24.7% | -13.6% | T1 | False |
+| 8 | Glock-18 \| Bullet Queen (Factory New) | 1180.00 | +19.9% | -21.2% | T1 | False |
+| 9 | SSG 08 \| Ghost Crusader (Factory New) | 156.90 | +19.8% | -23.5% | T1 | False |
+| 10 | Glock-18 \| Gold Toof (Factory New) | 1615.00 | +18.3% | -13.3% | T1 | False |
+| 11 | P2000 \| Pulse (Factory New) | 61.80 | +16.6% | -4.2% | T1 | False |
+| 12 | PP-Bizon \| Cobalt Halftone (Factory New) | 148.00 | +15.1% | -15.9% | T1 | False |
+| 13 | Five-SeveN \| Retrobution (Factory New) | 136.00 | +14.9% | -19.0% | T1 | False |
+| 14 | M4A1-S \| Mecha Industries (Factory New) | 2038.00 | +14.7% | -21.5% | T1 | False |
+| 15 | Dual Berettas \| Cartel (Factory New) | 37.45 | +14.2% | -18.4% | T1 | False |
+| 16 | Glock-18 \| Grinder (Factory New) | 99.10 | +14.1% | -21.2% | T1 | False |
+| 17 | AUG \| Daedalus (Factory New) | 51.90 | +14.0% | -16.7% | T1 | False |
+| 18 | Glock-18 \| Blue Fissure (Factory New) | 279.99 | +13.8% | -11.1% | T1 | False |
+| 19 | FAMAS \| Macabre (Factory New) | 145.00 | +13.3% | -15.9% | T1 | False |
+| 20 | AK-47 \| Neon Revolution (Factory New) | 2120.00 | +12.5% | -22.3% | T1 | False |
+| 21 | Desert Eagle \| Trigger Discipline (Factory New) | 49.39 | +12.2% | -16.8% | T1 | False |
+| 22 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5050.00 | +12.1% | -6.8% | T1 | False |
+| 23 | Desert Eagle \| Hypnotic (Factory New) | 1688.00 | +11.9% | -17.7% | T1 | False |
+| 24 | ★ Driver Gloves \| Convoy (Field-Tested) | 4399.50 | +11.8% | -13.6% | T1 | False |
+| 25 | UMP-45 \| Primal Saber (Factory New) | 160.99 | +11.8% | -15.6% | T1 | False |
+| 26 | CZ75-Auto \| Eco (Factory New) | 175.00 | +11.1% | -27.7% | T1 | False |
+| 27 | AK-47 \| Slate (Factory New) | 107.90 | +11.1% | -5.3% | T1 | False |
+| 28 | Glock-18 \| Ironwork (Factory New) | 315.00 | +11.0% | +23.5% | T0 | False |
+| 29 | MP7 \| Impire (Factory New) | 135.79 | +10.6% | -26.4% | T1 | False |
+| 30 | M4A4 \| The Emperor (Factory New) | 1795.00 | +10.4% | -16.8% | T1 | False |
 
 ## 2026-06-07
 
@@ -4274,33 +4261,33 @@
 | 1 | P2000 \| Ivory (Factory New) | 56.85 | +87.8% | +51.0% | T0 | False |
 | 2 | AUG \| Condemned (Factory New) | 79.80 | +87.0% | -58.3% | T1 | True |
 | 3 | Five-SeveN \| Withered Vine (Factory New) | 37.80 | +39.2% | -23.9% | T1 | True |
-| 4 | XM1014 \| Solitude (Factory New) | 347.50 | +32.3% | -20.2% | T1 | False |
-| 5 | XM1014 \| Tranquility (Factory New) | 230.00 | +28.7% | -10.9% | T1 | False |
-| 6 | XM1014 \| Black Tie (Factory New) | 49.79 | +27.7% | -21.4% | T1 | False |
-| 7 | Dual Berettas \| Panther (Factory New) | 51.00 | +25.4% | -3.6% | T1 | False |
-| 8 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4270.00 | +23.6% | -11.3% | T1 | False |
-| 9 | Desert Eagle \| Kumicho Dragon (Factory New) | 560.00 | +17.7% | -12.6% | T1 | False |
-| 10 | Glock-18 \| Sacrifice (Factory New) | 99.99 | +17.6% | -3.1% | T1 | False |
-| 11 | Tec-9 \| Bamboo Forest (Factory New) | 298.00 | +16.9% | +4.0% | T1 | False |
-| 12 | Glock-18 \| Blue Fissure (Factory New) | 279.94 | +13.4% | -12.1% | T1 | False |
-| 13 | AK-47 \| Slate (Factory New) | 109.89 | +12.0% | -6.3% | T1 | False |
-| 14 | Tec-9 \| Flash Out (Factory New) | 51.00 | +11.0% | -6.9% | T1 | False |
-| 15 | Desert Eagle \| The Bronze (Factory New) | 213.00 | +10.5% | +52.0% | T0 | False |
-| 16 | Desert Eagle \| Hypnotic (Factory New) | 1669.50 | +9.9% | -10.2% | T1 | False |
-| 17 | MAG-7 \| Counter Terrace (Factory New) | 998.98 | +9.4% | -4.4% | T1 | False |
-| 18 | P2000 \| Pulse (Factory New) | 57.60 | +9.0% | +3.3% | T1 | False |
-| 19 | M4A1-S \| Imminent Danger (Factory New) | 9237.41 | +8.5% | -9.0% | T1 | False |
-| 20 | Glock-18 \| Green Line (Factory New) | 117.00 | +7.7% | +30.0% | T0 | False |
-| 21 | UMP-45 \| Plastique (Factory New) | 33.97 | +6.6% | -26.8% | T1 | False |
-| 22 | Sawed-Off \| Limelight (Factory New) | 57.75 | +6.2% | -12.1% | T1 | False |
-| 23 | P90 \| Shapewood (Factory New) | 208.00 | +6.0% | -7.9% | T1 | False |
-| 24 | R8 Revolver \| Llama Cannon (Factory New) | 208.00 | +5.5% | -6.7% | T1 | False |
-| 25 | AUG \| Daedalus (Factory New) | 49.00 | +5.3% | -7.3% | T1 | False |
-| 26 | Five-SeveN \| Triumvirate (Factory New) | 160.00 | +5.0% | +35.5% | T0 | False |
-| 27 | Glock-18 \| Bullet Queen (Factory New) | 1094.50 | +4.7% | -12.4% | T1 | False |
-| 28 | Five-SeveN \| Retrobution (Factory New) | 126.00 | +4.7% | -12.6% | T1 | False |
-| 29 | AUG \| Torque (Factory New) | 90.20 | +4.6% | -17.2% | T1 | False |
-| 30 | XM1014 \| Watchdog (Factory New) | 54.00 | +4.1% | +4.3% | T1 | False |
+| 4 | Dual Berettas \| Panther (Factory New) | 51.00 | +25.4% | -3.6% | T1 | False |
+| 5 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4270.00 | +23.6% | -11.3% | T1 | False |
+| 6 | Desert Eagle \| Kumicho Dragon (Factory New) | 560.00 | +17.7% | -12.6% | T1 | False |
+| 7 | Glock-18 \| Sacrifice (Factory New) | 99.99 | +17.6% | -3.1% | T1 | False |
+| 8 | Tec-9 \| Bamboo Forest (Factory New) | 298.00 | +16.9% | +4.0% | T1 | False |
+| 9 | Glock-18 \| Blue Fissure (Factory New) | 279.94 | +13.4% | -12.1% | T1 | False |
+| 10 | AK-47 \| Slate (Factory New) | 109.89 | +12.0% | -6.3% | T1 | False |
+| 11 | Tec-9 \| Flash Out (Factory New) | 51.00 | +11.0% | -6.9% | T1 | False |
+| 12 | Desert Eagle \| The Bronze (Factory New) | 213.00 | +10.5% | +52.0% | T0 | False |
+| 13 | Desert Eagle \| Hypnotic (Factory New) | 1669.50 | +9.9% | -10.2% | T1 | False |
+| 14 | P2000 \| Pulse (Factory New) | 57.60 | +9.0% | +3.3% | T1 | False |
+| 15 | M4A1-S \| Imminent Danger (Factory New) | 9237.41 | +8.5% | -9.0% | T1 | False |
+| 16 | Glock-18 \| Green Line (Factory New) | 117.00 | +7.7% | +30.0% | T0 | False |
+| 17 | UMP-45 \| Plastique (Factory New) | 33.97 | +6.6% | -26.8% | T1 | False |
+| 18 | P90 \| Shapewood (Factory New) | 208.00 | +6.0% | -7.9% | T1 | False |
+| 19 | AUG \| Daedalus (Factory New) | 49.00 | +5.3% | -7.3% | T1 | False |
+| 20 | Five-SeveN \| Triumvirate (Factory New) | 160.00 | +5.0% | +35.5% | T0 | False |
+| 21 | Glock-18 \| Bullet Queen (Factory New) | 1094.50 | +4.7% | -12.4% | T1 | False |
+| 22 | Five-SeveN \| Retrobution (Factory New) | 126.00 | +4.7% | -12.6% | T1 | False |
+| 23 | AUG \| Torque (Factory New) | 90.20 | +4.6% | -17.2% | T1 | False |
+| 24 | PP-Bizon \| Cobalt Halftone (Factory New) | 130.00 | +3.9% | -17.2% | T1 | False |
+| 25 | ★ Hand Wraps \| Constrictor (Field-Tested) | 356.50 | +3.9% | -8.3% | T1 | False |
+| 26 | PP-Bizon \| Brass (Factory New) | 30.40 | +3.8% | -23.6% | T1 | False |
+| 27 | UMP-45 \| Primal Saber (Factory New) | 145.47 | +3.4% | -7.2% | T1 | False |
+| 28 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5079.50 | +3.4% | -4.7% | T1 | False |
+| 29 | P250 \| Mehndi (Factory New) | 297.90 | +3.0% | -7.9% | T1 | False |
+| 30 | M4A4 \| Turbine (Factory New) | 162.38 | +2.9% | -10.4% | T1 | False |
 
 ## 2026-06-08
 
@@ -4310,32 +4297,32 @@
 | 2 | Desert Eagle \| The Bronze (Factory New) | 202.25 | +38.9% | +39.1% | T0 | False |
 | 3 | Glock-18 \| Sacrifice (Factory New) | 112.50 | +32.7% | +2.6% | T1 | False |
 | 4 | Desert Eagle \| Kumicho Dragon (Factory New) | 679.00 | +31.5% | -20.2% | T1 | False |
-| 5 | XM1014 \| Watchdog (Factory New) | 54.70 | +31.3% | -26.2% | T1 | False |
-| 6 | XM1014 \| Solitude (Factory New) | 432.50 | +24.7% | -18.1% | T1 | False |
-| 7 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4720.00 | +23.6% | -11.3% | T1 | False |
-| 8 | Tec-9 \| Flash Out (Factory New) | 45.99 | +23.6% | -12.6% | T1 | False |
-| 9 | Dual Berettas \| Panther (Factory New) | 57.79 | +21.0% | +8.5% | T0 | False |
-| 10 | UMP-45 \| Houndstooth (Factory New) | 64.79 | +20.3% | +17.8% | T0 | False |
-| 11 | XM1014 \| Tranquility (Factory New) | 240.00 | +16.7% | -15.8% | T1 | False |
-| 12 | Glock-18 \| Bullet Queen (Factory New) | 1258.00 | +16.0% | -18.5% | T1 | False |
-| 13 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5790.00 | +14.1% | -3.5% | T1 | False |
-| 14 | Five-SeveN \| Withered Vine (Factory New) | 38.00 | +12.7% | -23.6% | T1 | True |
-| 15 | P250 \| Bengal Tiger (Factory New) | 360.00 | +12.6% | -3.5% | T1 | False |
-| 16 | AK-47 \| Slate (Factory New) | 109.49 | +12.1% | -9.3% | T1 | False |
-| 17 | AK-47 \| Rat Rod (Factory New) | 804.50 | +11.7% | +4.5% | T1 | False |
-| 18 | Glock-18 \| Gold Toof (Factory New) | 1890.00 | +9.1% | -10.8% | T1 | False |
-| 19 | P90 \| Shapewood (Factory New) | 208.00 | +8.4% | -6.3% | T1 | False |
-| 20 | M4A1-S \| Imminent Danger (Factory New) | 9328.41 | +8.2% | -8.8% | T1 | False |
-| 21 | Desert Eagle \| Hypnotic (Factory New) | 1649.60 | +7.5% | -11.8% | T1 | False |
-| 22 | SG 553 \| Berry Gel Coat (Factory New) | 39.90 | +7.4% | -4.8% | T1 | False |
-| 23 | Desert Eagle \| Ocean Drive (Factory New) | 2398.00 | +7.2% | -10.1% | T1 | False |
-| 24 | Glock-18 \| Green Line (Factory New) | 117.00 | +6.3% | +18.1% | T0 | False |
-| 25 | Glock-18 \| Water Elemental (Factory New) | 422.50 | +5.3% | +1.8% | T1 | False |
-| 26 | Glock-18 \| Blue Fissure (Factory New) | 279.94 | +4.9% | -14.1% | T1 | False |
-| 27 | MAC-10 \| Surfwood (Factory New) | 77.61 | +4.5% | +5.8% | T0 | False |
-| 28 | MAC-10 \| Copper Borre (Factory New) | 887.99 | +3.3% | -8.6% | T1 | False |
-| 29 | ★ Moto Gloves \| Boom! (Field-Tested) | 5720.00 | +3.3% | -11.9% | T1 | False |
-| 30 | Five-SeveN \| Nightshade (Factory New) | 245.00 | +3.2% | +10.5% | T0 | False |
+| 5 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4720.00 | +23.6% | -11.3% | T1 | False |
+| 6 | Tec-9 \| Flash Out (Factory New) | 45.99 | +23.6% | -12.6% | T1 | False |
+| 7 | Dual Berettas \| Panther (Factory New) | 57.79 | +21.0% | +8.5% | T0 | False |
+| 8 | UMP-45 \| Houndstooth (Factory New) | 64.79 | +20.3% | +17.8% | T0 | False |
+| 9 | Glock-18 \| Bullet Queen (Factory New) | 1258.00 | +16.0% | -18.5% | T1 | False |
+| 10 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5790.00 | +14.1% | -3.5% | T1 | False |
+| 11 | Five-SeveN \| Withered Vine (Factory New) | 38.00 | +12.7% | -23.6% | T1 | True |
+| 12 | P250 \| Bengal Tiger (Factory New) | 360.00 | +12.6% | -3.5% | T1 | False |
+| 13 | AK-47 \| Slate (Factory New) | 109.49 | +12.1% | -9.3% | T1 | False |
+| 14 | AK-47 \| Rat Rod (Factory New) | 804.50 | +11.7% | +4.5% | T1 | False |
+| 15 | Glock-18 \| Gold Toof (Factory New) | 1890.00 | +9.1% | -10.8% | T1 | False |
+| 16 | P90 \| Shapewood (Factory New) | 208.00 | +8.4% | -6.3% | T1 | False |
+| 17 | M4A1-S \| Imminent Danger (Factory New) | 9328.41 | +8.2% | -8.8% | T1 | False |
+| 18 | Desert Eagle \| Hypnotic (Factory New) | 1649.60 | +7.5% | -11.8% | T1 | False |
+| 19 | SG 553 \| Berry Gel Coat (Factory New) | 39.90 | +7.4% | -4.8% | T1 | False |
+| 20 | Desert Eagle \| Ocean Drive (Factory New) | 2398.00 | +7.2% | -10.1% | T1 | False |
+| 21 | Glock-18 \| Green Line (Factory New) | 117.00 | +6.3% | +18.1% | T0 | False |
+| 22 | Glock-18 \| Water Elemental (Factory New) | 422.50 | +5.3% | +1.8% | T1 | False |
+| 23 | Glock-18 \| Blue Fissure (Factory New) | 279.94 | +4.9% | -14.1% | T1 | False |
+| 24 | MAC-10 \| Surfwood (Factory New) | 77.61 | +4.5% | +5.8% | T0 | False |
+| 25 | MAC-10 \| Copper Borre (Factory New) | 887.99 | +3.3% | -8.6% | T1 | False |
+| 26 | ★ Moto Gloves \| Boom! (Field-Tested) | 5720.00 | +3.3% | -11.9% | T1 | False |
+| 27 | Five-SeveN \| Nightshade (Factory New) | 245.00 | +3.2% | +10.5% | T0 | False |
+| 28 | SCAR-20 \| Magna Carta (Factory New) | 135.00 | +2.8% | -12.9% | T1 | False |
+| 29 | M4A4 \| The Emperor (Factory New) | 1979.00 | +2.5% | -2.6% | T1 | False |
+| 30 | Dual Berettas \| Marina (Factory New) | 177.46 | +2.3% | +1.7% | T1 | False |
 
 ## 2026-06-09
 
@@ -4346,66 +4333,66 @@
 | 3 | UMP-45 \| Houndstooth (Factory New) | 63.77 | +27.8% | +1.1% | T1 | False |
 | 4 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4918.50 | +25.3% | -5.4% | T1 | False |
 | 5 | Five-SeveN \| Triumvirate (Factory New) | 189.50 | +24.7% | +27.3% | T0 | False |
-| 6 | XM1014 \| Watchdog (Factory New) | 62.50 | +22.4% | -2.1% | T1 | False |
-| 7 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5499.00 | +20.3% | -10.0% | T1 | False |
-| 8 | Dual Berettas \| Panther (Factory New) | 62.88 | +18.8% | +5.0% | T1 | False |
-| 9 | Dual Berettas \| Marina (Factory New) | 177.46 | +18.1% | -16.9% | T1 | False |
-| 10 | Glock-18 \| Sacrifice (Factory New) | 97.50 | +17.4% | +4.9% | T1 | False |
-| 11 | AK-47 \| Rat Rod (Factory New) | 743.00 | +15.8% | -2.9% | T1 | False |
-| 12 | Desert Eagle \| Kumicho Dragon (Factory New) | 644.00 | +14.9% | -15.7% | T1 | False |
-| 13 | Desert Eagle \| Hypnotic (Factory New) | 1748.50 | +12.6% | -7.7% | T1 | False |
-| 14 | P250 \| Bengal Tiger (Factory New) | 360.00 | +12.6% | -3.5% | T1 | False |
-| 15 | Tec-9 \| Flash Out (Factory New) | 44.50 | +11.0% | -11.2% | T1 | False |
-| 16 | AUG \| Navy Murano (Factory New) | 170.00 | +10.7% | +7.9% | T0 | False |
-| 17 | AK-47 \| Slate (Factory New) | 114.49 | +10.5% | -6.8% | T1 | False |
-| 18 | P2000 \| Pulse (Factory New) | 76.80 | +10.2% | -5.4% | T1 | False |
-| 19 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 3200.00 | +9.2% | -8.4% | T1 | False |
-| 20 | XM1014 \| Tranquility (Factory New) | 273.00 | +8.8% | -11.6% | T1 | False |
-| 21 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 15599.50 | +8.8% | -10.1% | T1 | False |
-| 22 | CZ75-Auto \| Eco (Factory New) | 194.66 | +8.7% | -12.6% | T1 | False |
-| 23 | P90 \| Shapewood (Factory New) | 200.00 | +8.1% | -6.1% | T1 | False |
-| 24 | SSG 08 \| Detour (Factory New) | 419.00 | +8.0% | -18.0% | T1 | False |
-| 25 | XM1014 \| Solitude (Factory New) | 445.00 | +7.9% | -17.1% | T1 | False |
-| 26 | ★ Moto Gloves \| Boom! (Field-Tested) | 5665.50 | +7.7% | -10.1% | T1 | False |
-| 27 | M4A1-S \| Imminent Danger (Factory New) | 9328.41 | +7.6% | -10.3% | T1 | False |
-| 28 | Glock-18 \| Green Line (Factory New) | 128.00 | +6.7% | +19.4% | T0 | False |
-| 29 | ★ Moto Gloves \| Cool Mint (Field-Tested) | 13959.00 | +6.6% | -8.7% | T1 | False |
-| 30 | Desert Eagle \| Ocean Drive (Factory New) | 2600.00 | +6.0% | -7.0% | T1 | False |
+| 6 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5499.00 | +20.3% | -10.0% | T1 | False |
+| 7 | Dual Berettas \| Panther (Factory New) | 62.88 | +18.8% | +5.0% | T1 | False |
+| 8 | Dual Berettas \| Marina (Factory New) | 177.46 | +18.1% | -16.9% | T1 | False |
+| 9 | Glock-18 \| Sacrifice (Factory New) | 97.50 | +17.4% | +4.9% | T1 | False |
+| 10 | AK-47 \| Rat Rod (Factory New) | 743.00 | +15.8% | -2.9% | T1 | False |
+| 11 | Desert Eagle \| Kumicho Dragon (Factory New) | 644.00 | +14.9% | -15.7% | T1 | False |
+| 12 | Desert Eagle \| Hypnotic (Factory New) | 1748.50 | +12.6% | -7.7% | T1 | False |
+| 13 | P250 \| Bengal Tiger (Factory New) | 360.00 | +12.6% | -3.5% | T1 | False |
+| 14 | Tec-9 \| Flash Out (Factory New) | 44.50 | +11.0% | -11.2% | T1 | False |
+| 15 | AUG \| Navy Murano (Factory New) | 170.00 | +10.7% | +7.9% | T0 | False |
+| 16 | AK-47 \| Slate (Factory New) | 114.49 | +10.5% | -6.8% | T1 | False |
+| 17 | P2000 \| Pulse (Factory New) | 76.80 | +10.2% | -5.4% | T1 | False |
+| 18 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 3200.00 | +9.2% | -8.4% | T1 | False |
+| 19 | ★ Moto Gloves \| Cool Mint (Minimal Wear) | 15599.50 | +8.8% | -10.1% | T1 | False |
+| 20 | CZ75-Auto \| Eco (Factory New) | 194.66 | +8.7% | -12.6% | T1 | False |
+| 21 | P90 \| Shapewood (Factory New) | 200.00 | +8.1% | -6.1% | T1 | False |
+| 22 | SSG 08 \| Detour (Factory New) | 419.00 | +8.0% | -18.0% | T1 | False |
+| 23 | ★ Moto Gloves \| Boom! (Field-Tested) | 5665.50 | +7.7% | -10.1% | T1 | False |
+| 24 | M4A1-S \| Imminent Danger (Factory New) | 9328.41 | +7.6% | -10.3% | T1 | False |
+| 25 | Glock-18 \| Green Line (Factory New) | 128.00 | +6.7% | +19.4% | T0 | False |
+| 26 | ★ Moto Gloves \| Cool Mint (Field-Tested) | 13959.00 | +6.6% | -8.7% | T1 | False |
+| 27 | Desert Eagle \| Ocean Drive (Factory New) | 2600.00 | +6.0% | -7.0% | T1 | False |
+| 28 | P90 \| Sunset Lily (Factory New) | 114.99 | +4.7% | -5.1% | T1 | False |
+| 29 | Five-SeveN \| Heat Treated (Factory New) | 229.00 | +4.6% | +3.8% | T1 | False |
+| 30 | Glock-18 \| Fade (Factory New) | 12399.50 | +4.6% | +1.7% | T1 | False |
 
 ## 2026-06-10
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Watchdog (Factory New) | 56.00 | +40.0% | -12.9% | T1 | False |
-| 2 | Five-SeveN \| Triumvirate (Factory New) | 175.00 | +35.7% | +25.3% | T0 | False |
-| 3 | UMP-45 \| Houndstooth (Factory New) | 69.95 | +35.6% | -0.2% | T1 | False |
-| 4 | Desert Eagle \| The Bronze (Factory New) | 193.25 | +26.0% | +40.0% | T0 | False |
-| 5 | P2000 \| Ivory (Factory New) | 68.90 | +24.2% | +23.4% | T0 | False |
-| 6 | Dual Berettas \| Marina (Factory New) | 188.00 | +17.3% | -16.4% | T1 | False |
-| 7 | XM1014 \| Tranquility (Factory New) | 284.00 | +16.4% | -12.5% | T1 | False |
-| 8 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4699.88 | +15.5% | -3.5% | T1 | False |
-| 9 | CZ75-Auto \| Eco (Factory New) | 173.65 | +15.5% | -9.0% | T1 | False |
-| 10 | AK-47 \| Rat Rod (Factory New) | 750.00 | +15.3% | -2.0% | T1 | False |
-| 11 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5479.50 | +13.2% | -3.6% | T1 | False |
-| 12 | Dual Berettas \| Panther (Factory New) | 63.20 | +12.5% | +8.5% | T0 | False |
-| 13 | AUG \| Navy Murano (Factory New) | 170.00 | +12.3% | +6.4% | T0 | False |
-| 14 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2520.00 | +11.7% | +1.0% | T1 | False |
-| 15 | Glock-18 \| Sacrifice (Factory New) | 106.00 | +11.7% | +22.8% | T0 | False |
-| 16 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 2188.00 | +10.4% | +6.6% | T0 | False |
-| 17 | Five-SeveN \| Nightshade (Factory New) | 274.50 | +10.1% | +38.1% | T0 | False |
-| 18 | Tec-9 \| Rust Leaf (Factory New) | 189.99 | +9.2% | -6.9% | T1 | False |
-| 19 | Five-SeveN \| Withered Vine (Factory New) | 48.70 | +9.2% | +7.2% | T0 | True |
-| 20 | P2000 \| Pulse (Factory New) | 69.00 | +8.3% | +0.3% | T1 | False |
-| 21 | Desert Eagle \| Ocean Drive (Factory New) | 2609.00 | +8.2% | -3.5% | T1 | False |
-| 22 | P2000 \| Granite Marbleized (Factory New) | 67.77 | +6.5% | -4.9% | T1 | False |
-| 23 | Dual Berettas \| Anodized Navy (Factory New) | 102.50 | +6.1% | -2.5% | T1 | False |
-| 24 | Glock-18 \| Green Line (Factory New) | 137.50 | +5.9% | +25.5% | T0 | False |
-| 25 | ★ Sport Gloves \| Superconductor (Minimal Wear) | 22888.00 | +5.1% | -3.1% | T1 | False |
-| 26 | AK-47 \| Slate (Factory New) | 113.00 | +4.9% | -3.3% | T1 | False |
-| 27 | Glock-18 \| Fade (Factory New) | 12000.00 | +4.0% | +1.8% | T1 | False |
-| 28 | Tec-9 \| Re-Entry (Factory New) | 56.50 | +4.0% | +10.1% | T0 | False |
-| 29 | Zeus x27 \| Charged Up (Factory New) | 198.80 | +3.9% | +4.3% | T1 | False |
-| 30 | UMP-45 \| Late Night Transit (Factory New) | 37.00 | +3.6% | +10.0% | T0 | False |
+| 1 | Five-SeveN \| Triumvirate (Factory New) | 175.00 | +35.7% | +25.3% | T0 | False |
+| 2 | UMP-45 \| Houndstooth (Factory New) | 69.95 | +35.6% | -0.2% | T1 | False |
+| 3 | Desert Eagle \| The Bronze (Factory New) | 193.25 | +26.0% | +40.0% | T0 | False |
+| 4 | P2000 \| Ivory (Factory New) | 68.90 | +24.2% | +23.4% | T0 | False |
+| 5 | Dual Berettas \| Marina (Factory New) | 188.00 | +17.3% | -16.4% | T1 | False |
+| 6 | ★ Moto Gloves \| Eclipse (Field-Tested) | 4699.88 | +15.5% | -3.5% | T1 | False |
+| 7 | CZ75-Auto \| Eco (Factory New) | 173.65 | +15.5% | -9.0% | T1 | False |
+| 8 | AK-47 \| Rat Rod (Factory New) | 750.00 | +15.3% | -2.0% | T1 | False |
+| 9 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 5479.50 | +13.2% | -3.6% | T1 | False |
+| 10 | Dual Berettas \| Panther (Factory New) | 63.20 | +12.5% | +8.5% | T0 | False |
+| 11 | AUG \| Navy Murano (Factory New) | 170.00 | +12.3% | +6.4% | T0 | False |
+| 12 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2520.00 | +11.7% | +1.0% | T1 | False |
+| 13 | Glock-18 \| Sacrifice (Factory New) | 106.00 | +11.7% | +22.8% | T0 | False |
+| 14 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 2188.00 | +10.4% | +6.6% | T0 | False |
+| 15 | Five-SeveN \| Nightshade (Factory New) | 274.50 | +10.1% | +38.1% | T0 | False |
+| 16 | Tec-9 \| Rust Leaf (Factory New) | 189.99 | +9.2% | -6.9% | T1 | False |
+| 17 | Five-SeveN \| Withered Vine (Factory New) | 48.70 | +9.2% | +7.2% | T0 | True |
+| 18 | P2000 \| Pulse (Factory New) | 69.00 | +8.3% | +0.3% | T1 | False |
+| 19 | Desert Eagle \| Ocean Drive (Factory New) | 2609.00 | +8.2% | -3.5% | T1 | False |
+| 20 | P2000 \| Granite Marbleized (Factory New) | 67.77 | +6.5% | -4.9% | T1 | False |
+| 21 | Dual Berettas \| Anodized Navy (Factory New) | 102.50 | +6.1% | -2.5% | T1 | False |
+| 22 | Glock-18 \| Green Line (Factory New) | 137.50 | +5.9% | +25.5% | T0 | False |
+| 23 | ★ Sport Gloves \| Superconductor (Minimal Wear) | 22888.00 | +5.1% | -3.1% | T1 | False |
+| 24 | AK-47 \| Slate (Factory New) | 113.00 | +4.9% | -3.3% | T1 | False |
+| 25 | Glock-18 \| Fade (Factory New) | 12000.00 | +4.0% | +1.8% | T1 | False |
+| 26 | Tec-9 \| Re-Entry (Factory New) | 56.50 | +4.0% | +10.1% | T0 | False |
+| 27 | Zeus x27 \| Charged Up (Factory New) | 198.80 | +3.9% | +4.3% | T1 | False |
+| 28 | UMP-45 \| Late Night Transit (Factory New) | 37.00 | +3.6% | +10.0% | T0 | False |
+| 29 | AK-47 \| Ice Coaled (Factory New) | 114.90 | +3.5% | -5.6% | T1 | False |
+| 30 | AUG \| Condemned (Factory New) | 75.00 | +3.4% | -12.5% | T1 | True |
 
 ## 2026-06-11
 
@@ -4415,29 +4402,25 @@
 | 2 | Dual Berettas \| Marina (Factory New) | 188.00 | +29.8% | -16.2% | T1 | False |
 | 3 | Five-SeveN \| Triumvirate (Factory New) | 160.00 | +25.5% | +7.7% | T0 | False |
 | 4 | P250 \| Bengal Tiger (Factory New) | 360.00 | +12.6% | -3.9% | T1 | False |
-| 5 | XM1014 \| Blue Tire (Factory New) | 38.89 | +12.6% | +13.1% | T0 | False |
-| 6 | Dual Berettas \| Panther (Factory New) | 61.70 | +12.0% | +11.7% | T0 | False |
-| 7 | AUG \| Navy Murano (Factory New) | 164.95 | +11.9% | +9.6% | T0 | False |
-| 8 | AK-47 \| Rat Rod (Factory New) | 720.00 | +9.1% | -3.4% | T1 | False |
-| 9 | Desert Eagle \| The Bronze (Factory New) | 195.00 | +8.5% | +31.7% | T0 | False |
-| 10 | Glock-18 \| Sacrifice (Factory New) | 96.80 | +5.1% | +38.2% | T0 | False |
-| 11 | Dual Berettas \| Anodized Navy (Factory New) | 94.60 | +5.0% | +9.1% | T0 | False |
-| 12 | XM1014 \| Watchdog (Factory New) | 49.50 | +4.7% | -3.6% | T1 | False |
-| 13 | SG 553 \| Berry Gel Coat (Factory New) | 39.40 | +4.2% | -3.9% | T1 | False |
-| 14 | Glock-18 \| Green Line (Factory New) | 129.00 | +3.7% | +20.2% | T0 | False |
-| 15 | AK-47 \| Slate (Factory New) | 114.40 | +3.3% | -0.3% | T1 | False |
-| 16 | XM1014 \| Tranquility (Factory New) | 265.00 | +2.7% | -5.7% | T1 | False |
-| 17 | SSG 08 \| Death's Head (Factory New) | 346.00 | +2.5% | -4.6% | T1 | False |
-| 18 | Sergeant Bombson \| SWAT | 120.00 | +2.4% | +28.8% | T0 | False |
-| 19 | ★ Hydra Gloves \| Mangrove (Field-Tested) | 222.90 | +2.3% | -3.7% | T1 | False |
-| 20 | Sawed-Off \| Kiss♥Love (Factory New) | 122.40 | +1.6% | -1.0% | T1 | False |
-| 21 | P90 \| Shapewood (Factory New) | 207.50 | +1.5% | -5.2% | T1 | False |
-| 22 | UMP-45 \| Wild Child (Factory New) | 107.70 | +1.4% | +0.1% | T1 | False |
-| 23 | UMP-45 \| Late Night Transit (Factory New) | 36.25 | +1.2% | +11.2% | T0 | False |
-| 24 | ★ Hand Wraps \| Duct Tape (Field-Tested) | 336.40 | +0.7% | -5.9% | T1 | False |
-| 25 | AUG \| Plague (Factory New) | 54.40 | +0.4% | +4.4% | T1 | False |
-| 26 | MAC-10 \| Surfwood (Factory New) | 74.20 | +0.4% | +15.0% | T0 | False |
-| 27 | Galil AR \| Stone Cold (Factory New) | 217.00 | +0.2% | +15.4% | T0 | False |
+| 5 | Dual Berettas \| Panther (Factory New) | 61.70 | +12.0% | +11.7% | T0 | False |
+| 6 | AUG \| Navy Murano (Factory New) | 164.95 | +11.9% | +9.6% | T0 | False |
+| 7 | AK-47 \| Rat Rod (Factory New) | 720.00 | +9.1% | -3.4% | T1 | False |
+| 8 | Desert Eagle \| The Bronze (Factory New) | 195.00 | +8.5% | +31.7% | T0 | False |
+| 9 | Glock-18 \| Sacrifice (Factory New) | 96.80 | +5.1% | +38.2% | T0 | False |
+| 10 | Dual Berettas \| Anodized Navy (Factory New) | 94.60 | +5.0% | +9.1% | T0 | False |
+| 11 | SG 553 \| Berry Gel Coat (Factory New) | 39.40 | +4.2% | -3.9% | T1 | False |
+| 12 | Glock-18 \| Green Line (Factory New) | 129.00 | +3.7% | +20.2% | T0 | False |
+| 13 | AK-47 \| Slate (Factory New) | 114.40 | +3.3% | -0.3% | T1 | False |
+| 14 | SSG 08 \| Death's Head (Factory New) | 346.00 | +2.5% | -4.6% | T1 | False |
+| 15 | Sergeant Bombson \| SWAT | 120.00 | +2.4% | +28.8% | T0 | False |
+| 16 | ★ Hydra Gloves \| Mangrove (Field-Tested) | 222.90 | +2.3% | -3.7% | T1 | False |
+| 17 | P90 \| Shapewood (Factory New) | 207.50 | +1.5% | -5.2% | T1 | False |
+| 18 | UMP-45 \| Wild Child (Factory New) | 107.70 | +1.4% | +0.1% | T1 | False |
+| 19 | UMP-45 \| Late Night Transit (Factory New) | 36.25 | +1.2% | +11.2% | T0 | False |
+| 20 | ★ Hand Wraps \| Duct Tape (Field-Tested) | 336.40 | +0.7% | -5.9% | T1 | False |
+| 21 | AUG \| Plague (Factory New) | 54.40 | +0.4% | +4.4% | T1 | False |
+| 22 | MAC-10 \| Surfwood (Factory New) | 74.20 | +0.4% | +15.0% | T0 | False |
+| 23 | Galil AR \| Stone Cold (Factory New) | 217.00 | +0.2% | +15.4% | T0 | False |
 
 ## 2026-06-12
 
@@ -4467,12 +4450,12 @@
 | 22 | P2000 \| Ivory (Factory New) | 114.50 | +5.5% | +7.2% | T0 | False |
 | 23 | Glock-18 \| Warhawk (Factory New) | 72.69 | +4.6% | +18.9% | T0 | False |
 | 24 | ★ Sport Gloves \| Superconductor (Minimal Wear) | 22666.00 | +4.5% | -3.7% | T1 | False |
-| 25 | XM1014 \| Elegant Vines (Factory New) | 213.00 | +4.1% | +0.0% | T1 | False |
-| 26 | Glock-18 \| Fade (Factory New) | 11610.25 | +3.9% | +6.0% | T0 | False |
-| 27 | AUG \| Condemned (Factory New) | 65.00 | +3.8% | -3.8% | T1 | True |
-| 28 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2480.00 | +3.5% | -4.3% | T1 | False |
-| 29 | XM1014 \| Watchdog (Factory New) | 59.80 | +3.3% | -3.8% | T1 | False |
-| 30 | P90 \| Run and Hide (Factory New) | 2295.00 | +3.0% | -5.7% | T1 | False |
+| 25 | Glock-18 \| Fade (Factory New) | 11610.25 | +3.9% | +6.0% | T0 | False |
+| 26 | AUG \| Condemned (Factory New) | 65.00 | +3.8% | -3.8% | T1 | True |
+| 27 | ★ Bloodhound Gloves \| Snakebite (Minimal Wear) | 2480.00 | +3.5% | -4.3% | T1 | False |
+| 28 | P90 \| Run and Hide (Factory New) | 2295.00 | +3.0% | -5.7% | T1 | False |
+| 29 | MP9 \| Sand Scale (Factory New) | 120.00 | +2.9% | -6.9% | T1 | False |
+| 30 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 2199.00 | +2.7% | +1.8% | T1 | False |
 
 ## 2026-06-13
 
@@ -4639,15 +4622,15 @@
 | 19 | Galil AR \| Black Sand (Factory New) | 171.50 | +35.0% | -9.4% | T1 | False |
 | 20 | MP9 \| Hypnotic (Factory New) | 137.00 | +34.4% | -13.3% | T1 | False |
 | 21 | SSG 08 \| Spring Twilly (Factory New) | 65.00 | +34.0% | -12.2% | T1 | False |
-| 22 | R8 Revolver \| Blaze (Factory New) | 34.00 | +31.2% | -21.3% | T1 | False |
-| 23 | M4A1-S \| Leaded Glass (Factory New) | 336.00 | +30.8% | -1.0% | T1 | False |
-| 24 | Five-SeveN \| Boost Protocol (Factory New) | 150.33 | +30.0% | -8.4% | T1 | False |
-| 25 | Glock-18 \| Bunsen Burner (Factory New) | 46.89 | +30.0% | +11.9% | T0 | False |
-| 26 | Glock-18 \| Ironwork (Factory New) | 441.90 | +29.8% | -11.5% | T1 | False |
-| 27 | AUG \| Amber Fade (Factory New) | 55.00 | +29.0% | -20.3% | T1 | False |
-| 28 | Glock-18 \| Off World (Factory New) | 55.00 | +28.0% | +23.2% | T0 | False |
-| 29 | USP-S \| Ancient Visions (Factory New) | 440.00 | +27.9% | -21.6% | T1 | False |
-| 30 | Dual Berettas \| Switch Board (Factory New) | 38.98 | +27.5% | -19.6% | T1 | False |
+| 22 | M4A1-S \| Leaded Glass (Factory New) | 336.00 | +30.8% | -1.0% | T1 | False |
+| 23 | Five-SeveN \| Boost Protocol (Factory New) | 150.33 | +30.0% | -8.4% | T1 | False |
+| 24 | Glock-18 \| Bunsen Burner (Factory New) | 46.89 | +30.0% | +11.9% | T0 | False |
+| 25 | Glock-18 \| Ironwork (Factory New) | 441.90 | +29.8% | -11.5% | T1 | False |
+| 26 | AUG \| Amber Fade (Factory New) | 55.00 | +29.0% | -20.3% | T1 | False |
+| 27 | Glock-18 \| Off World (Factory New) | 55.00 | +28.0% | +23.2% | T0 | False |
+| 28 | USP-S \| Ancient Visions (Factory New) | 440.00 | +27.9% | -21.6% | T1 | False |
+| 29 | Dual Berettas \| Switch Board (Factory New) | 38.98 | +27.5% | -19.6% | T1 | False |
+| 30 | AWP \| Acheron (Factory New) | 174.40 | +27.2% | -7.9% | T1 | False |
 
 ## 2026-06-18
 
@@ -4850,14 +4833,14 @@
 | 20 | P250 \| Hive (Factory New) | 138.49 | +11.8% | -3.8% | T1 | False |
 | 21 | Dual Berettas \| Briar (Factory New) | 46.77 | +11.8% | +4.4% | T1 | False |
 | 22 | Galil AR \| Firefight (Factory New) | 99.00 | +11.6% | +8.9% | T0 | False |
-| 23 | XM1014 \| Blue Tire (Factory New) | 32.97 | +11.3% | +26.8% | T0 | True |
-| 24 | Five-SeveN \| Nightshade (Factory New) | 336.40 | +10.2% | -26.8% | T1 | False |
-| 25 | P250 \| Muertos (Factory New) | 173.00 | +10.2% | +30.2% | T0 | False |
-| 26 | MAC-10 \| Classic Crate (Factory New) | 37.65 | +10.1% | -16.6% | T1 | False |
-| 27 | CZ75-Auto \| Vendetta (Factory New) | 41.74 | +9.6% | -26.8% | T1 | False |
-| 28 | MAC-10 \| Last Dive (Factory New) | 35.42 | +8.9% | -2.2% | T1 | False |
-| 29 | G3SG1 \| Azure Zebra (Factory New) | 31.28 | +8.8% | -17.2% | T1 | False |
-| 30 | Glock-18 \| Ramese's Reach (Factory New) | 478.00 | +7.7% | -3.0% | T1 | False |
+| 23 | Five-SeveN \| Nightshade (Factory New) | 336.40 | +10.2% | -26.8% | T1 | False |
+| 24 | P250 \| Muertos (Factory New) | 173.00 | +10.2% | +30.2% | T0 | False |
+| 25 | MAC-10 \| Classic Crate (Factory New) | 37.65 | +10.1% | -16.6% | T1 | False |
+| 26 | CZ75-Auto \| Vendetta (Factory New) | 41.74 | +9.6% | -26.8% | T1 | False |
+| 27 | MAC-10 \| Last Dive (Factory New) | 35.42 | +8.9% | -2.2% | T1 | False |
+| 28 | G3SG1 \| Azure Zebra (Factory New) | 31.28 | +8.8% | -17.2% | T1 | False |
+| 29 | Glock-18 \| Ramese's Reach (Factory New) | 478.00 | +7.7% | -3.0% | T1 | False |
+| 30 | MAC-10 \| Palm (Factory New) | 30.42 | +6.6% | -15.9% | T1 | False |
 
 ## 2026-06-24
 
@@ -4881,18 +4864,18 @@
 | 16 | USP-S \| Cortex (Factory New) | 196.99 | +23.2% | +0.6% | T1 | False |
 | 17 | Glock-18 \| Off World (Factory New) | 68.00 | +23.2% | +6.5% | T0 | False |
 | 18 | Five-SeveN \| Triumvirate (Factory New) | 298.00 | +22.3% | +63.7% | T0 | True |
-| 19 | R8 Revolver \| Nitro (Factory New) | 35.90 | +22.1% | -24.3% | T1 | False |
-| 20 | AWP \| Fever Dream (Factory New) | 198.40 | +20.9% | -12.8% | T1 | False |
-| 21 | Glock-18 \| Ramese's Reach (Factory New) | 493.00 | +20.2% | -4.0% | T1 | False |
-| 22 | P250 \| Hive (Factory New) | 145.00 | +19.6% | -3.5% | T1 | False |
-| 23 | UMP-45 \| Minotaur's Labyrinth (Factory New) | 656.91 | +19.2% | -3.7% | T1 | False |
-| 24 | Galil AR \| Firefight (Factory New) | 102.30 | +18.9% | +1.6% | T1 | False |
-| 25 | Five-SeveN \| Retrobution (Factory New) | 169.50 | +17.0% | -14.7% | T1 | False |
-| 26 | M4A4 \| Magnesium (Factory New) | 50.00 | +16.4% | +62.7% | T0 | False |
-| 27 | USP-S \| Guardian (Factory New) | 62.50 | +16.3% | +17.5% | T0 | False |
-| 28 | Glock-18 \| Wraiths (Factory New) | 81.80 | +16.2% | +10.3% | T0 | False |
-| 29 | Glock-18 \| Vogue (Factory New) | 97.00 | +16.2% | -0.9% | T1 | False |
-| 30 | Glock-18 \| Clear Polymer (Factory New) | 37.02 | +16.1% | +3.6% | T1 | False |
+| 19 | AWP \| Fever Dream (Factory New) | 198.40 | +20.9% | -12.8% | T1 | False |
+| 20 | Glock-18 \| Ramese's Reach (Factory New) | 493.00 | +20.2% | -4.0% | T1 | False |
+| 21 | P250 \| Hive (Factory New) | 145.00 | +19.6% | -3.5% | T1 | False |
+| 22 | UMP-45 \| Minotaur's Labyrinth (Factory New) | 656.91 | +19.2% | -3.7% | T1 | False |
+| 23 | Galil AR \| Firefight (Factory New) | 102.30 | +18.9% | +1.6% | T1 | False |
+| 24 | Five-SeveN \| Retrobution (Factory New) | 169.50 | +17.0% | -14.7% | T1 | False |
+| 25 | M4A4 \| Magnesium (Factory New) | 50.00 | +16.4% | +62.7% | T0 | False |
+| 26 | USP-S \| Guardian (Factory New) | 62.50 | +16.3% | +17.5% | T0 | False |
+| 27 | Glock-18 \| Wraiths (Factory New) | 81.80 | +16.2% | +10.3% | T0 | False |
+| 28 | Glock-18 \| Vogue (Factory New) | 97.00 | +16.2% | -0.9% | T1 | False |
+| 29 | Glock-18 \| Clear Polymer (Factory New) | 37.02 | +16.1% | +3.6% | T1 | False |
+| 30 | Glock-18 \| Sacrifice (Factory New) | 140.00 | +15.5% | -9.7% | T1 | False |
 
 ## 2026-06-25
 
@@ -4925,9 +4908,9 @@
 | 25 | UMP-45 \| Minotaur's Labyrinth (Factory New) | 647.91 | +19.9% | -3.7% | T1 | False |
 | 26 | AK-47 \| The Outsiders (Factory New) | 517.00 | +19.9% | -1.7% | T1 | False |
 | 27 | USP-S \| Guardian (Factory New) | 58.00 | +19.7% | +4.9% | T1 | False |
-| 28 | R8 Revolver \| Nitro (Factory New) | 34.00 | +19.5% | -21.2% | T1 | False |
-| 29 | Galil AR \| Vandal (Factory New) | 140.00 | +19.4% | +24.9% | T0 | False |
-| 30 | P250 \| Hive (Factory New) | 138.00 | +19.3% | -6.5% | T1 | False |
+| 28 | Galil AR \| Vandal (Factory New) | 140.00 | +19.4% | +24.9% | T0 | False |
+| 29 | P250 \| Hive (Factory New) | 138.00 | +19.3% | -6.5% | T1 | False |
+| 30 | Galil AR \| Crimson Tsunami (Factory New) | 67.83 | +19.2% | +5.6% | T0 | False |
 
 ## 2026-06-26
 
@@ -4938,31 +4921,31 @@
 | 3 | Desert Eagle \| Trigger Discipline (Factory New) | 56.60 | +79.4% | -6.9% | T1 | False |
 | 4 | SSG 08 \| Necropos (Factory New) | 43.99 | +75.5% | -12.8% | T1 | True |
 | 5 | Glock-18 \| Bunsen Burner (Factory New) | 56.50 | +51.5% | -1.6% | T1 | False |
-| 6 | XM1014 \| Blue Tire (Factory New) | 41.00 | +48.5% | -26.0% | T1 | True |
-| 7 | FAMAS \| Valence (Factory New) | 196.90 | +45.1% | +4.3% | T1 | False |
-| 8 | Five-SeveN \| Triumvirate (Factory New) | 245.48 | +44.8% | +45.7% | T0 | True |
-| 9 | P2000 \| Handgun (Factory New) | 120.00 | +41.1% | +7.9% | T0 | False |
-| 10 | MAG-7 \| Justice (Factory New) | 164.40 | +34.6% | +3.2% | T1 | False |
-| 11 | MP9 \| Deadly Poison (Factory New) | 54.33 | +34.4% | -2.2% | T1 | False |
-| 12 | Glock-18 \| Weasel (Factory New) | 191.00 | +34.2% | +28.8% | T0 | False |
-| 13 | Desert Eagle \| Blue Ply (Factory New) | 44.50 | +31.6% | +12.6% | T0 | False |
-| 14 | Five-SeveN \| Scumbria (Factory New) | 54.00 | +30.8% | +12.1% | T0 | False |
-| 15 | Dual Berettas \| Briar (Factory New) | 45.23 | +30.2% | +1.1% | T1 | False |
-| 16 | AUG \| Arctic Wolf (Factory New) | 113.00 | +29.8% | +12.3% | T0 | False |
-| 17 | P250 \| Cyber Shell (Factory New) | 39.69 | +29.8% | +28.2% | T0 | False |
-| 18 | P250 \| Muertos (Factory New) | 207.00 | +29.5% | +14.1% | T0 | False |
-| 19 | Five-SeveN \| Buddy (Factory New) | 59.84 | +28.8% | +13.9% | T0 | False |
-| 20 | FAMAS \| Decommissioned (Factory New) | 58.99 | +27.6% | +38.9% | T0 | False |
-| 21 | P250 \| Forest Night (Factory New) | 138.00 | +25.0% | -9.4% | T1 | False |
-| 22 | P250 \| Hive (Factory New) | 140.00 | +24.6% | +23.7% | T0 | False |
-| 23 | Glock-18 \| Clear Polymer (Factory New) | 38.50 | +24.1% | +11.5% | T0 | False |
-| 24 | AWP \| Phobos (Factory New) | 87.39 | +23.8% | -8.1% | T1 | False |
-| 25 | Tec-9 \| Flash Out (Factory New) | 56.29 | +23.1% | +3.1% | T1 | False |
-| 26 | MP9 \| Goo (Factory New) | 38.98 | +22.6% | +39.7% | T0 | False |
-| 27 | CZ75-Auto \| Pole Position (Factory New) | 37.90 | +22.4% | +19.0% | T0 | False |
-| 28 | Galil AR \| Rocket Pop (Factory New) | 87.99 | +22.2% | +8.8% | T0 | False |
-| 29 | Glock-18 \| Oxide Blaze (Factory New) | 36.30 | +21.1% | +46.4% | T0 | False |
-| 30 | Glock-18 \| Off World (Factory New) | 70.00 | +21.0% | +24.5% | T0 | False |
+| 6 | FAMAS \| Valence (Factory New) | 196.90 | +45.1% | +4.3% | T1 | False |
+| 7 | Five-SeveN \| Triumvirate (Factory New) | 245.48 | +44.8% | +45.7% | T0 | True |
+| 8 | P2000 \| Handgun (Factory New) | 120.00 | +41.1% | +7.9% | T0 | False |
+| 9 | MP9 \| Deadly Poison (Factory New) | 54.33 | +34.4% | -2.2% | T1 | False |
+| 10 | Glock-18 \| Weasel (Factory New) | 191.00 | +34.2% | +28.8% | T0 | False |
+| 11 | Desert Eagle \| Blue Ply (Factory New) | 44.50 | +31.6% | +12.6% | T0 | False |
+| 12 | Five-SeveN \| Scumbria (Factory New) | 54.00 | +30.8% | +12.1% | T0 | False |
+| 13 | Dual Berettas \| Briar (Factory New) | 45.23 | +30.2% | +1.1% | T1 | False |
+| 14 | AUG \| Arctic Wolf (Factory New) | 113.00 | +29.8% | +12.3% | T0 | False |
+| 15 | P250 \| Cyber Shell (Factory New) | 39.69 | +29.8% | +28.2% | T0 | False |
+| 16 | P250 \| Muertos (Factory New) | 207.00 | +29.5% | +14.1% | T0 | False |
+| 17 | Five-SeveN \| Buddy (Factory New) | 59.84 | +28.8% | +13.9% | T0 | False |
+| 18 | FAMAS \| Decommissioned (Factory New) | 58.99 | +27.6% | +38.9% | T0 | False |
+| 19 | P250 \| Forest Night (Factory New) | 138.00 | +25.0% | -9.4% | T1 | False |
+| 20 | P250 \| Hive (Factory New) | 140.00 | +24.6% | +23.7% | T0 | False |
+| 21 | Glock-18 \| Clear Polymer (Factory New) | 38.50 | +24.1% | +11.5% | T0 | False |
+| 22 | AWP \| Phobos (Factory New) | 87.39 | +23.8% | -8.1% | T1 | False |
+| 23 | Tec-9 \| Flash Out (Factory New) | 56.29 | +23.1% | +3.1% | T1 | False |
+| 24 | MP9 \| Goo (Factory New) | 38.98 | +22.6% | +39.7% | T0 | False |
+| 25 | CZ75-Auto \| Pole Position (Factory New) | 37.90 | +22.4% | +19.0% | T0 | False |
+| 26 | Galil AR \| Rocket Pop (Factory New) | 87.99 | +22.2% | +8.8% | T0 | False |
+| 27 | Glock-18 \| Oxide Blaze (Factory New) | 36.30 | +21.1% | +46.4% | T0 | False |
+| 28 | Glock-18 \| Off World (Factory New) | 70.00 | +21.0% | +24.5% | T0 | False |
+| 29 | Dual Berettas \| Urban Shock (Factory New) | 44.66 | +21.0% | +12.4% | T0 | False |
+| 30 | P2000 \| Pulse (Factory New) | 84.68 | +20.4% | +14.3% | T0 | False |
 
 ## 2026-06-27
 
@@ -4970,34 +4953,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MP9 \| Orange Peel (Factory New) | 32.90 | +107.1% | +4.6% | T1 | False |
 | 2 | Five-SeveN \| Triumvirate (Factory New) | 259.00 | +89.1% | -16.8% | T1 | True |
-| 3 | XM1014 \| Blue Tire (Factory New) | 39.00 | +78.3% | -5.6% | T1 | True |
-| 4 | Desert Eagle \| Trigger Discipline (Factory New) | 58.00 | +70.5% | -16.4% | T1 | False |
-| 5 | Glock-18 \| Bunsen Burner (Factory New) | 53.77 | +60.3% | -3.5% | T1 | False |
-| 6 | P250 \| Cyber Shell (Factory New) | 40.83 | +47.2% | +2.7% | T1 | False |
-| 7 | P2000 \| Granite Marbleized (Factory New) | 61.99 | +46.2% | +24.4% | T0 | False |
-| 8 | P2000 \| Handgun (Factory New) | 118.99 | +33.5% | +7.3% | T0 | False |
-| 9 | Tec-9 \| Flash Out (Factory New) | 54.90 | +30.5% | -4.8% | T1 | False |
-| 10 | MP9 \| Goo (Factory New) | 37.00 | +30.3% | +15.7% | T0 | False |
-| 11 | MAG-7 \| Justice (Factory New) | 164.93 | +29.8% | +9.5% | T0 | False |
-| 12 | FAMAS \| Valence (Factory New) | 193.88 | +29.4% | +3.8% | T1 | False |
-| 13 | Tec-9 \| Cracked Opal (Factory New) | 34.80 | +28.6% | +12.3% | T0 | False |
-| 14 | FAMAS \| Decommissioned (Factory New) | 58.65 | +28.0% | +24.8% | T0 | False |
-| 15 | MAC-10 \| Button Masher (Factory New) | 39.75 | +26.9% | -9.4% | T1 | False |
-| 16 | Dual Berettas \| Cartel (Factory New) | 35.76 | +26.4% | +13.7% | T0 | False |
-| 17 | Dual Berettas \| Briar (Factory New) | 43.90 | +25.2% | +2.4% | T1 | False |
-| 18 | AUG \| Arctic Wolf (Factory New) | 113.00 | +24.2% | +14.6% | T0 | False |
-| 19 | MAC-10 \| Surfwood (Factory New) | 96.50 | +24.0% | -5.1% | T1 | False |
-| 20 | FAMAS \| Faulty Wiring (Factory New) | 47.76 | +23.1% | +12.0% | T0 | False |
-| 21 | UMP-45 \| Minotaur's Labyrinth (Factory New) | 643.90 | +19.9% | -3.8% | T1 | False |
-| 22 | CZ75-Auto \| Pole Position (Factory New) | 38.00 | +18.6% | +14.5% | T0 | False |
-| 23 | Galil AR \| Rocket Pop (Factory New) | 86.90 | +18.2% | +0.6% | T1 | False |
-| 24 | Five-SeveN \| Urban Hazard (Factory New) | 32.00 | +18.1% | +4.6% | T1 | False |
-| 25 | P250 \| Muertos (Factory New) | 197.99 | +17.8% | +19.2% | T0 | False |
-| 26 | P250 \| Hive (Factory New) | 143.38 | +17.5% | +36.6% | T0 | False |
-| 27 | P250 \| Forest Night (Factory New) | 139.00 | +16.3% | -3.7% | T1 | False |
-| 28 | Desert Eagle \| Blue Ply (Factory New) | 44.00 | +15.4% | +4.5% | T1 | False |
-| 29 | Glock-18 \| Clear Polymer (Factory New) | 35.00 | +15.1% | +6.2% | T0 | False |
-| 30 | Five-SeveN \| Buddy (Factory New) | 53.98 | +15.0% | +15.4% | T0 | False |
+| 3 | Desert Eagle \| Trigger Discipline (Factory New) | 58.00 | +70.5% | -16.4% | T1 | False |
+| 4 | Glock-18 \| Bunsen Burner (Factory New) | 53.77 | +60.3% | -3.5% | T1 | False |
+| 5 | P250 \| Cyber Shell (Factory New) | 40.83 | +47.2% | +2.7% | T1 | False |
+| 6 | P2000 \| Granite Marbleized (Factory New) | 61.99 | +46.2% | +24.4% | T0 | False |
+| 7 | P2000 \| Handgun (Factory New) | 118.99 | +33.5% | +7.3% | T0 | False |
+| 8 | Tec-9 \| Flash Out (Factory New) | 54.90 | +30.5% | -4.8% | T1 | False |
+| 9 | MP9 \| Goo (Factory New) | 37.00 | +30.3% | +15.7% | T0 | False |
+| 10 | FAMAS \| Valence (Factory New) | 193.88 | +29.4% | +3.8% | T1 | False |
+| 11 | Tec-9 \| Cracked Opal (Factory New) | 34.80 | +28.6% | +12.3% | T0 | False |
+| 12 | FAMAS \| Decommissioned (Factory New) | 58.65 | +28.0% | +24.8% | T0 | False |
+| 13 | MAC-10 \| Button Masher (Factory New) | 39.75 | +26.9% | -9.4% | T1 | False |
+| 14 | Dual Berettas \| Cartel (Factory New) | 35.76 | +26.4% | +13.7% | T0 | False |
+| 15 | Dual Berettas \| Briar (Factory New) | 43.90 | +25.2% | +2.4% | T1 | False |
+| 16 | AUG \| Arctic Wolf (Factory New) | 113.00 | +24.2% | +14.6% | T0 | False |
+| 17 | MAC-10 \| Surfwood (Factory New) | 96.50 | +24.0% | -5.1% | T1 | False |
+| 18 | FAMAS \| Faulty Wiring (Factory New) | 47.76 | +23.1% | +12.0% | T0 | False |
+| 19 | UMP-45 \| Minotaur's Labyrinth (Factory New) | 643.90 | +19.9% | -3.8% | T1 | False |
+| 20 | CZ75-Auto \| Pole Position (Factory New) | 38.00 | +18.6% | +14.5% | T0 | False |
+| 21 | Galil AR \| Rocket Pop (Factory New) | 86.90 | +18.2% | +0.6% | T1 | False |
+| 22 | Five-SeveN \| Urban Hazard (Factory New) | 32.00 | +18.1% | +4.6% | T1 | False |
+| 23 | P250 \| Muertos (Factory New) | 197.99 | +17.8% | +19.2% | T0 | False |
+| 24 | P250 \| Hive (Factory New) | 143.38 | +17.5% | +36.6% | T0 | False |
+| 25 | P250 \| Forest Night (Factory New) | 139.00 | +16.3% | -3.7% | T1 | False |
+| 26 | Desert Eagle \| Blue Ply (Factory New) | 44.00 | +15.4% | +4.5% | T1 | False |
+| 27 | Glock-18 \| Clear Polymer (Factory New) | 35.00 | +15.1% | +6.2% | T0 | False |
+| 28 | Five-SeveN \| Buddy (Factory New) | 53.98 | +15.0% | +15.4% | T0 | False |
+| 29 | FAMAS \| Neural Net (Factory New) | 80.99 | +14.3% | +14.5% | T0 | False |
+| 30 | M4A4 \| Magnesium (Factory New) | 68.00 | +13.5% | +44.2% | T0 | False |
 
 ## 2026-06-28
 
@@ -5008,31 +4991,31 @@
 | 3 | P2000 \| Granite Marbleized (Factory New) | 77.90 | +72.9% | +7.9% | T0 | False |
 | 4 | Glock-18 \| Bunsen Burner (Factory New) | 53.00 | +57.6% | -20.3% | T1 | False |
 | 5 | P250 \| Cyber Shell (Factory New) | 40.00 | +41.5% | -13.2% | T1 | False |
-| 6 | XM1014 \| Blue Tire (Factory New) | 36.00 | +37.2% | +34.1% | T0 | True |
-| 7 | MAG-7 \| Justice (Factory New) | 164.93 | +36.8% | +20.1% | T0 | False |
-| 8 | MP9 \| Goo (Factory New) | 40.00 | +34.6% | +11.8% | T0 | False |
-| 9 | MAC-10 \| Surfwood (Factory New) | 95.00 | +33.5% | -8.7% | T1 | False |
-| 10 | Tec-9 \| Flash Out (Factory New) | 54.00 | +32.2% | -12.7% | T1 | False |
-| 11 | FAMAS \| Faulty Wiring (Factory New) | 43.90 | +25.5% | +7.5% | T0 | False |
-| 12 | P2000 \| Handgun (Factory New) | 120.00 | +23.9% | +3.7% | T1 | False |
-| 13 | FAMAS \| Decommissioned (Factory New) | 56.57 | +23.8% | +18.5% | T0 | False |
-| 14 | Dual Berettas \| Cartel (Factory New) | 35.65 | +21.9% | +18.4% | T0 | False |
-| 15 | M4A4 \| Magnesium (Factory New) | 72.30 | +20.3% | +48.1% | T0 | False |
-| 16 | P250 \| Forest Night (Factory New) | 137.00 | +19.4% | -7.7% | T1 | False |
-| 17 | USP-S \| Stainless (Factory New) | 369.80 | +17.7% | +5.6% | T0 | False |
-| 18 | Tec-9 \| Cracked Opal (Factory New) | 34.00 | +17.4% | +10.8% | T0 | False |
-| 19 | Glock-18 \| Ramese's Reach (Factory New) | 470.00 | +16.0% | +9.6% | T0 | False |
-| 20 | PP-Bizon \| Water Sigil (Factory New) | 35.92 | +15.2% | +5.2% | T0 | False |
-| 21 | AUG \| Arctic Wolf (Factory New) | 111.93 | +14.5% | +9.9% | T0 | False |
-| 22 | Five-SeveN \| Urban Hazard (Factory New) | 32.60 | +13.7% | +5.9% | T0 | False |
-| 23 | USP-S \| Guardian (Factory New) | 62.40 | +12.4% | +2.7% | T1 | False |
-| 24 | Galil AR \| Vandal (Factory New) | 139.48 | +12.1% | +21.6% | T0 | False |
-| 25 | Tec-9 \| Jambiya (Factory New) | 91.00 | +12.1% | +19.9% | T0 | False |
-| 26 | Tec-9 \| Snek-9 (Factory New) | 59.50 | +11.9% | +6.5% | T0 | False |
-| 27 | UMP-45 \| Plastique (Factory New) | 30.81 | +10.9% | -2.9% | T1 | False |
-| 28 | Five-SeveN \| Orange Peel (Factory New) | 44.80 | +10.9% | -1.0% | T1 | False |
-| 29 | P250 \| Muertos (Factory New) | 204.49 | +10.7% | +21.0% | T0 | False |
-| 30 | USP-S \| Black Lotus (Factory New) | 267.13 | +10.1% | +3.0% | T1 | False |
+| 6 | MP9 \| Goo (Factory New) | 40.00 | +34.6% | +11.8% | T0 | False |
+| 7 | MAC-10 \| Surfwood (Factory New) | 95.00 | +33.5% | -8.7% | T1 | False |
+| 8 | Tec-9 \| Flash Out (Factory New) | 54.00 | +32.2% | -12.7% | T1 | False |
+| 9 | FAMAS \| Faulty Wiring (Factory New) | 43.90 | +25.5% | +7.5% | T0 | False |
+| 10 | P2000 \| Handgun (Factory New) | 120.00 | +23.9% | +3.7% | T1 | False |
+| 11 | FAMAS \| Decommissioned (Factory New) | 56.57 | +23.8% | +18.5% | T0 | False |
+| 12 | Dual Berettas \| Cartel (Factory New) | 35.65 | +21.9% | +18.4% | T0 | False |
+| 13 | M4A4 \| Magnesium (Factory New) | 72.30 | +20.3% | +48.1% | T0 | False |
+| 14 | P250 \| Forest Night (Factory New) | 137.00 | +19.4% | -7.7% | T1 | False |
+| 15 | USP-S \| Stainless (Factory New) | 369.80 | +17.7% | +5.6% | T0 | False |
+| 16 | Tec-9 \| Cracked Opal (Factory New) | 34.00 | +17.4% | +10.8% | T0 | False |
+| 17 | Glock-18 \| Ramese's Reach (Factory New) | 470.00 | +16.0% | +9.6% | T0 | False |
+| 18 | PP-Bizon \| Water Sigil (Factory New) | 35.92 | +15.2% | +5.2% | T0 | False |
+| 19 | AUG \| Arctic Wolf (Factory New) | 111.93 | +14.5% | +9.9% | T0 | False |
+| 20 | Five-SeveN \| Urban Hazard (Factory New) | 32.60 | +13.7% | +5.9% | T0 | False |
+| 21 | USP-S \| Guardian (Factory New) | 62.40 | +12.4% | +2.7% | T1 | False |
+| 22 | Galil AR \| Vandal (Factory New) | 139.48 | +12.1% | +21.6% | T0 | False |
+| 23 | Tec-9 \| Jambiya (Factory New) | 91.00 | +12.1% | +19.9% | T0 | False |
+| 24 | Tec-9 \| Snek-9 (Factory New) | 59.50 | +11.9% | +6.5% | T0 | False |
+| 25 | UMP-45 \| Plastique (Factory New) | 30.81 | +10.9% | -2.9% | T1 | False |
+| 26 | Five-SeveN \| Orange Peel (Factory New) | 44.80 | +10.9% | -1.0% | T1 | False |
+| 27 | P250 \| Muertos (Factory New) | 204.49 | +10.7% | +21.0% | T0 | False |
+| 28 | USP-S \| Black Lotus (Factory New) | 267.13 | +10.1% | +3.0% | T1 | False |
+| 29 | MAC-10 \| Button Masher (Factory New) | 39.54 | +9.9% | -0.8% | T1 | False |
+| 30 | Desert Eagle \| Blue Ply (Factory New) | 45.50 | +9.9% | +8.2% | T0 | False |
 
 ## 2026-06-29
 
@@ -5047,27 +5030,27 @@
 | 7 | MAC-10 \| Surfwood (Factory New) | 94.00 | +35.5% | -4.4% | T1 | False |
 | 8 | P250 \| Cyber Shell (Factory New) | 43.99 | +35.1% | -15.3% | T1 | False |
 | 9 | MP9 \| Goo (Factory New) | 39.50 | +35.0% | +12.2% | T0 | False |
-| 10 | XM1014 \| Blue Tire (Factory New) | 38.00 | +35.0% | +32.6% | T0 | True |
-| 11 | FAMAS \| Valence (Factory New) | 235.50 | +29.2% | -6.3% | T1 | False |
-| 12 | Galil AR \| Vandal (Factory New) | 139.49 | +28.2% | -5.6% | T1 | False |
-| 13 | Tec-9 \| Flash Out (Factory New) | 54.70 | +26.9% | -14.9% | T1 | False |
-| 14 | MAG-7 \| Justice (Factory New) | 164.40 | +26.0% | +18.2% | T0 | False |
-| 15 | Desert Eagle \| Night (Factory New) | 663.64 | +23.6% | -9.0% | T1 | False |
-| 16 | Dual Berettas \| Cartel (Factory New) | 35.44 | +23.0% | +12.4% | T0 | False |
-| 17 | Tec-9 \| Snek-9 (Factory New) | 61.00 | +20.7% | -0.4% | T1 | False |
-| 18 | FAMAS \| Survivor Z (Factory New) | 54.70 | +19.1% | +17.3% | T0 | False |
-| 19 | Tec-9 \| Jambiya (Factory New) | 85.26 | +19.1% | +13.2% | T0 | False |
-| 20 | AUG \| Arctic Wolf (Factory New) | 128.00 | +18.5% | +5.2% | T0 | False |
-| 21 | USP-S \| Stainless (Factory New) | 367.40 | +18.2% | +1.5% | T1 | False |
-| 22 | M4A4 \| Magnesium (Factory New) | 63.80 | +17.7% | +30.0% | T0 | False |
-| 23 | Tec-9 \| Titanium Bit (Factory New) | 197.90 | +17.6% | +1.2% | T1 | False |
-| 24 | FAMAS \| Eye of Athena (Factory New) | 334.99 | +17.2% | -11.6% | T1 | False |
-| 25 | PP-Bizon \| Water Sigil (Factory New) | 36.03 | +17.0% | -1.7% | T1 | False |
-| 26 | Galil AR \| Kami (Factory New) | 67.00 | +16.3% | +2.5% | T1 | False |
-| 27 | FAMAS \| Decommissioned (Factory New) | 58.40 | +16.0% | +12.6% | T0 | False |
-| 28 | Glock-18 \| Oxide Blaze (Factory New) | 35.99 | +16.0% | +20.7% | T0 | False |
-| 29 | P250 \| Contaminant (Factory New) | 59.79 | +15.7% | -1.9% | T1 | False |
-| 30 | Glock-18 \| Catacombs (Factory New) | 44.99 | +15.5% | +9.4% | T0 | False |
+| 10 | FAMAS \| Valence (Factory New) | 235.50 | +29.2% | -6.3% | T1 | False |
+| 11 | Galil AR \| Vandal (Factory New) | 139.49 | +28.2% | -5.6% | T1 | False |
+| 12 | Tec-9 \| Flash Out (Factory New) | 54.70 | +26.9% | -14.9% | T1 | False |
+| 13 | Desert Eagle \| Night (Factory New) | 663.64 | +23.6% | -9.0% | T1 | False |
+| 14 | Dual Berettas \| Cartel (Factory New) | 35.44 | +23.0% | +12.4% | T0 | False |
+| 15 | Tec-9 \| Snek-9 (Factory New) | 61.00 | +20.7% | -0.4% | T1 | False |
+| 16 | FAMAS \| Survivor Z (Factory New) | 54.70 | +19.1% | +17.3% | T0 | False |
+| 17 | Tec-9 \| Jambiya (Factory New) | 85.26 | +19.1% | +13.2% | T0 | False |
+| 18 | AUG \| Arctic Wolf (Factory New) | 128.00 | +18.5% | +5.2% | T0 | False |
+| 19 | USP-S \| Stainless (Factory New) | 367.40 | +18.2% | +1.5% | T1 | False |
+| 20 | M4A4 \| Magnesium (Factory New) | 63.80 | +17.7% | +30.0% | T0 | False |
+| 21 | Tec-9 \| Titanium Bit (Factory New) | 197.90 | +17.6% | +1.2% | T1 | False |
+| 22 | FAMAS \| Eye of Athena (Factory New) | 334.99 | +17.2% | -11.6% | T1 | False |
+| 23 | PP-Bizon \| Water Sigil (Factory New) | 36.03 | +17.0% | -1.7% | T1 | False |
+| 24 | Galil AR \| Kami (Factory New) | 67.00 | +16.3% | +2.5% | T1 | False |
+| 25 | FAMAS \| Decommissioned (Factory New) | 58.40 | +16.0% | +12.6% | T0 | False |
+| 26 | Glock-18 \| Oxide Blaze (Factory New) | 35.99 | +16.0% | +20.7% | T0 | False |
+| 27 | P250 \| Contaminant (Factory New) | 59.79 | +15.7% | -1.9% | T1 | False |
+| 28 | Glock-18 \| Catacombs (Factory New) | 44.99 | +15.5% | +9.4% | T0 | False |
+| 29 | Five-SeveN \| Urban Hazard (Factory New) | 32.50 | +15.3% | +5.7% | T0 | False |
+| 30 | P250 \| Muertos (Factory New) | 229.00 | +15.0% | +19.8% | T0 | False |
 
 ## 2026-06-30
 
@@ -5092,17 +5075,17 @@
 | 17 | MP9 \| Goo (Factory New) | 38.88 | +29.2% | +16.0% | T0 | False |
 | 18 | MP9 \| Orange Peel (Factory New) | 47.00 | +28.8% | -4.1% | T1 | False |
 | 19 | P2000 \| Acid Etched (Factory New) | 99.50 | +27.8% | +13.4% | T0 | False |
-| 20 | XM1014 \| Blue Tire (Factory New) | 37.90 | +26.8% | +22.1% | T0 | True |
-| 21 | USP-S \| Guardian (Factory New) | 63.70 | +26.4% | -13.4% | T1 | False |
-| 22 | AUG \| Arctic Wolf (Factory New) | 126.30 | +26.0% | -2.2% | T1 | False |
-| 23 | MAG-7 \| Justice (Factory New) | 163.98 | +25.6% | +16.8% | T0 | False |
-| 24 | Dual Berettas \| Cartel (Factory New) | 34.89 | +24.1% | +5.1% | T0 | False |
-| 25 | Galil AR \| Vandal (Factory New) | 137.00 | +24.1% | +8.2% | T0 | False |
-| 26 | P250 \| Wingshot (Factory New) | 83.87 | +23.9% | +12.0% | T0 | False |
-| 27 | CZ75-Auto \| Pole Position (Factory New) | 39.89 | +23.7% | +0.3% | T1 | False |
-| 28 | USP-S \| Black Lotus (Factory New) | 265.00 | +23.0% | +1.6% | T1 | False |
-| 29 | P250 \| Inferno (Factory New) | 134.75 | +22.4% | +6.6% | T0 | False |
-| 30 | FAMAS \| Neural Net (Factory New) | 85.00 | +22.0% | +17.5% | T0 | False |
+| 20 | USP-S \| Guardian (Factory New) | 63.70 | +26.4% | -13.4% | T1 | False |
+| 21 | AUG \| Arctic Wolf (Factory New) | 126.30 | +26.0% | -2.2% | T1 | False |
+| 22 | Dual Berettas \| Cartel (Factory New) | 34.89 | +24.1% | +5.1% | T0 | False |
+| 23 | Galil AR \| Vandal (Factory New) | 137.00 | +24.1% | +8.2% | T0 | False |
+| 24 | P250 \| Wingshot (Factory New) | 83.87 | +23.9% | +12.0% | T0 | False |
+| 25 | CZ75-Auto \| Pole Position (Factory New) | 39.89 | +23.7% | +0.3% | T1 | False |
+| 26 | USP-S \| Black Lotus (Factory New) | 265.00 | +23.0% | +1.6% | T1 | False |
+| 27 | P250 \| Inferno (Factory New) | 134.75 | +22.4% | +6.6% | T0 | False |
+| 28 | FAMAS \| Neural Net (Factory New) | 85.00 | +22.0% | +17.5% | T0 | False |
+| 29 | USP-S \| Stainless (Factory New) | 366.70 | +21.5% | +5.3% | T0 | False |
+| 30 | Desert Eagle \| Night (Factory New) | 663.10 | +20.9% | -7.0% | T1 | False |
 
 ## 2026-07-01
 
@@ -5113,31 +5096,31 @@
 | 3 | M4A4 \| Magnesium (Factory New) | 63.70 | +62.7% | -17.4% | T1 | False |
 | 4 | P250 \| Cyber Shell (Factory New) | 42.39 | +51.2% | -8.7% | T1 | False |
 | 5 | Glock-18 \| Bunsen Burner (Factory New) | 49.80 | +46.4% | -26.8% | T1 | False |
-| 6 | MAG-7 \| Justice (Factory New) | 162.95 | +44.8% | -5.5% | T1 | False |
-| 7 | Galil AR \| Kami (Factory New) | 58.00 | +41.2% | -10.0% | T1 | False |
-| 8 | P250 \| Contaminant (Factory New) | 53.90 | +39.2% | -16.3% | T1 | False |
-| 9 | SG 553 \| Triarch (Factory New) | 42.00 | +39.2% | -0.3% | T1 | False |
-| 10 | CZ75-Auto \| Pole Position (Factory New) | 40.58 | +37.4% | -15.8% | T1 | False |
-| 11 | Tec-9 \| Jambiya (Factory New) | 81.51 | +35.0% | -2.1% | T1 | False |
-| 12 | Glock-18 \| Oxide Blaze (Factory New) | 33.24 | +33.7% | -4.5% | T1 | False |
-| 13 | P2000 \| Pulse (Factory New) | 84.28 | +33.6% | -14.5% | T1 | False |
-| 14 | P250 \| Wingshot (Factory New) | 81.77 | +32.6% | -10.0% | T1 | False |
-| 15 | Five-SeveN \| Kami (Factory New) | 45.50 | +32.5% | +5.4% | T0 | False |
-| 16 | FAMAS \| Decommissioned (Factory New) | 58.00 | +31.5% | -2.8% | T1 | False |
-| 17 | XM1014 \| Blue Tire (Factory New) | 37.89 | +31.3% | +22.1% | T0 | True |
-| 18 | Five-SeveN \| Anodized Gunmetal (Factory New) | 118.48 | +31.2% | -9.5% | T1 | False |
-| 19 | MAC-10 \| Carnivore (Factory New) | 31.99 | +30.5% | -12.7% | T1 | False |
-| 20 | USP-S \| Stainless (Factory New) | 359.00 | +29.3% | -4.0% | T1 | False |
-| 21 | MP9 \| Goo (Factory New) | 38.09 | +29.1% | +33.5% | T0 | False |
-| 22 | P2000 \| Granite Marbleized (Factory New) | 81.89 | +29.0% | +6.6% | T0 | False |
-| 23 | P2000 \| Acid Etched (Factory New) | 95.20 | +29.0% | -4.9% | T1 | False |
-| 24 | Five-SeveN \| Buddy (Factory New) | 57.10 | +28.2% | -10.6% | T1 | False |
-| 25 | Tec-9 \| Snek-9 (Factory New) | 52.70 | +28.1% | -10.3% | T1 | False |
-| 26 | AUG \| Arctic Wolf (Factory New) | 120.40 | +26.9% | -6.9% | T1 | False |
-| 27 | MP7 \| Vault Heist (Factory New) | 103.00 | +26.9% | -6.0% | T1 | False |
-| 28 | Tec-9 \| Mummy's Rot (Factory New) | 108.50 | +25.5% | -10.6% | T1 | False |
-| 29 | Galil AR \| Rocket Pop (Factory New) | 86.70 | +24.1% | -11.4% | T1 | False |
-| 30 | PP-Bizon \| Harvester (Factory New) | 31.90 | +23.7% | -8.8% | T1 | False |
+| 6 | Galil AR \| Kami (Factory New) | 58.00 | +41.2% | -10.0% | T1 | False |
+| 7 | P250 \| Contaminant (Factory New) | 53.90 | +39.2% | -16.3% | T1 | False |
+| 8 | SG 553 \| Triarch (Factory New) | 42.00 | +39.2% | -0.3% | T1 | False |
+| 9 | CZ75-Auto \| Pole Position (Factory New) | 40.58 | +37.4% | -15.8% | T1 | False |
+| 10 | Tec-9 \| Jambiya (Factory New) | 81.51 | +35.0% | -2.1% | T1 | False |
+| 11 | Glock-18 \| Oxide Blaze (Factory New) | 33.24 | +33.7% | -4.5% | T1 | False |
+| 12 | P2000 \| Pulse (Factory New) | 84.28 | +33.6% | -14.5% | T1 | False |
+| 13 | P250 \| Wingshot (Factory New) | 81.77 | +32.6% | -10.0% | T1 | False |
+| 14 | Five-SeveN \| Kami (Factory New) | 45.50 | +32.5% | +5.4% | T0 | False |
+| 15 | FAMAS \| Decommissioned (Factory New) | 58.00 | +31.5% | -2.8% | T1 | False |
+| 16 | Five-SeveN \| Anodized Gunmetal (Factory New) | 118.48 | +31.2% | -9.5% | T1 | False |
+| 17 | MAC-10 \| Carnivore (Factory New) | 31.99 | +30.5% | -12.7% | T1 | False |
+| 18 | USP-S \| Stainless (Factory New) | 359.00 | +29.3% | -4.0% | T1 | False |
+| 19 | MP9 \| Goo (Factory New) | 38.09 | +29.1% | +33.5% | T0 | False |
+| 20 | P2000 \| Granite Marbleized (Factory New) | 81.89 | +29.0% | +6.6% | T0 | False |
+| 21 | P2000 \| Acid Etched (Factory New) | 95.20 | +29.0% | -4.9% | T1 | False |
+| 22 | Five-SeveN \| Buddy (Factory New) | 57.10 | +28.2% | -10.6% | T1 | False |
+| 23 | Tec-9 \| Snek-9 (Factory New) | 52.70 | +28.1% | -10.3% | T1 | False |
+| 24 | AUG \| Arctic Wolf (Factory New) | 120.40 | +26.9% | -6.9% | T1 | False |
+| 25 | MP7 \| Vault Heist (Factory New) | 103.00 | +26.9% | -6.0% | T1 | False |
+| 26 | Tec-9 \| Mummy's Rot (Factory New) | 108.50 | +25.5% | -10.6% | T1 | False |
+| 27 | Galil AR \| Rocket Pop (Factory New) | 86.70 | +24.1% | -11.4% | T1 | False |
+| 28 | PP-Bizon \| Harvester (Factory New) | 31.90 | +23.7% | -8.8% | T1 | False |
+| 29 | FAMAS \| Faulty Wiring (Factory New) | 43.00 | +23.1% | +3.3% | T1 | False |
+| 30 | Five-SeveN \| Urban Hazard (Factory New) | 31.40 | +22.6% | -10.5% | T1 | False |
 
 ## 2026-07-02
 
@@ -5146,33 +5129,33 @@
 | 1 | Five-SeveN \| Triumvirate (Factory New) | 370.00 | +75.5% | -33.6% | T1 | True |
 | 2 | M4A4 \| Magnesium (Factory New) | 69.00 | +54.4% | -28.0% | T1 | False |
 | 3 | Five-SeveN \| Anodized Gunmetal (Factory New) | 116.96 | +48.1% | -24.6% | T1 | False |
-| 4 | MAG-7 \| Justice (Factory New) | 161.90 | +47.6% | -8.5% | T1 | False |
-| 5 | P250 \| Contaminant (Factory New) | 56.79 | +47.0% | -23.5% | T1 | False |
-| 6 | MP9 \| Goo (Factory New) | 42.98 | +39.5% | +4.1% | T1 | False |
-| 7 | P250 \| Wingshot (Factory New) | 85.90 | +37.6% | -18.3% | T1 | False |
-| 8 | Tec-9 \| Rust Leaf (Factory New) | 140.00 | +37.0% | -38.3% | T1 | True |
-| 9 | P2000 \| Granite Marbleized (Factory New) | 110.00 | +33.4% | -0.8% | T1 | False |
-| 10 | P250 \| Cyber Shell (Factory New) | 44.56 | +31.4% | -10.1% | T1 | False |
-| 11 | AUG \| Condemned (Factory New) | 64.00 | +29.6% | -21.0% | T1 | False |
-| 12 | XM1014 \| Blue Tire (Factory New) | 38.00 | +26.0% | +21.1% | T0 | True |
-| 13 | Tec-9 \| Mummy's Rot (Factory New) | 109.99 | +25.7% | -16.6% | T1 | False |
-| 14 | Glock-18 \| Bunsen Burner (Factory New) | 67.60 | +25.6% | -31.0% | T1 | False |
-| 15 | SG 553 \| Triarch (Factory New) | 42.90 | +25.1% | +5.2% | T0 | False |
-| 16 | Galil AR \| Kami (Factory New) | 62.19 | +24.9% | -13.1% | T1 | False |
-| 17 | Galil AR \| Vandal (Factory New) | 165.00 | +24.9% | -20.2% | T1 | False |
-| 18 | SSG 08 \| Abyss (Factory New) | 36.60 | +21.9% | -15.9% | T1 | False |
-| 19 | MAC-10 \| Pipe Down (Factory New) | 51.76 | +21.7% | -11.8% | T1 | False |
-| 20 | P2000 \| Pulse (Factory New) | 88.90 | +21.5% | -21.4% | T1 | False |
-| 21 | Tec-9 \| Jambiya (Factory New) | 83.49 | +21.5% | -6.3% | T1 | False |
-| 22 | M4A4 \| Etch Lord (Factory New) | 42.20 | +21.2% | -13.9% | T1 | False |
-| 23 | Glock-18 \| Weasel (Factory New) | 278.00 | +19.1% | -10.9% | T1 | False |
-| 24 | FAMAS \| Decommissioned (Factory New) | 66.00 | +18.2% | -13.0% | T1 | False |
-| 25 | MP7 \| Powercore (Factory New) | 124.98 | +18.0% | -6.4% | T1 | False |
-| 26 | MP7 \| Ocean Foam (Factory New) | 144.50 | +17.6% | -6.8% | T1 | False |
-| 27 | SG 553 \| Tiger Moth (Factory New) | 43.50 | +17.4% | -12.2% | T1 | False |
-| 28 | MAC-10 \| Carnivore (Factory New) | 31.80 | +16.9% | -21.4% | T1 | False |
-| 29 | Five-SeveN \| Kami (Factory New) | 47.35 | +16.7% | -3.3% | T1 | False |
-| 30 | P250 \| Undertow (Factory New) | 311.99 | +16.5% | +18.4% | T0 | False |
+| 4 | P250 \| Contaminant (Factory New) | 56.79 | +47.0% | -23.5% | T1 | False |
+| 5 | MP9 \| Goo (Factory New) | 42.98 | +39.5% | +4.1% | T1 | False |
+| 6 | P250 \| Wingshot (Factory New) | 85.90 | +37.6% | -18.3% | T1 | False |
+| 7 | Tec-9 \| Rust Leaf (Factory New) | 140.00 | +37.0% | -38.3% | T1 | True |
+| 8 | P2000 \| Granite Marbleized (Factory New) | 110.00 | +33.4% | -0.8% | T1 | False |
+| 9 | P250 \| Cyber Shell (Factory New) | 44.56 | +31.4% | -10.1% | T1 | False |
+| 10 | AUG \| Condemned (Factory New) | 64.00 | +29.6% | -21.0% | T1 | False |
+| 11 | Tec-9 \| Mummy's Rot (Factory New) | 109.99 | +25.7% | -16.6% | T1 | False |
+| 12 | Glock-18 \| Bunsen Burner (Factory New) | 67.60 | +25.6% | -31.0% | T1 | False |
+| 13 | SG 553 \| Triarch (Factory New) | 42.90 | +25.1% | +5.2% | T0 | False |
+| 14 | Galil AR \| Kami (Factory New) | 62.19 | +24.9% | -13.1% | T1 | False |
+| 15 | Galil AR \| Vandal (Factory New) | 165.00 | +24.9% | -20.2% | T1 | False |
+| 16 | SSG 08 \| Abyss (Factory New) | 36.60 | +21.9% | -15.9% | T1 | False |
+| 17 | MAC-10 \| Pipe Down (Factory New) | 51.76 | +21.7% | -11.8% | T1 | False |
+| 18 | P2000 \| Pulse (Factory New) | 88.90 | +21.5% | -21.4% | T1 | False |
+| 19 | Tec-9 \| Jambiya (Factory New) | 83.49 | +21.5% | -6.3% | T1 | False |
+| 20 | M4A4 \| Etch Lord (Factory New) | 42.20 | +21.2% | -13.9% | T1 | False |
+| 21 | Glock-18 \| Weasel (Factory New) | 278.00 | +19.1% | -10.9% | T1 | False |
+| 22 | FAMAS \| Decommissioned (Factory New) | 66.00 | +18.2% | -13.0% | T1 | False |
+| 23 | MP7 \| Powercore (Factory New) | 124.98 | +18.0% | -6.4% | T1 | False |
+| 24 | MP7 \| Ocean Foam (Factory New) | 144.50 | +17.6% | -6.8% | T1 | False |
+| 25 | SG 553 \| Tiger Moth (Factory New) | 43.50 | +17.4% | -12.2% | T1 | False |
+| 26 | MAC-10 \| Carnivore (Factory New) | 31.80 | +16.9% | -21.4% | T1 | False |
+| 27 | Five-SeveN \| Kami (Factory New) | 47.35 | +16.7% | -3.3% | T1 | False |
+| 28 | P250 \| Undertow (Factory New) | 311.99 | +16.5% | +18.4% | T0 | False |
+| 29 | P2000 \| Acid Etched (Factory New) | 103.30 | +16.3% | -14.3% | T1 | False |
+| 30 | SG 553 \| Fallout Warning (Factory New) | 49.60 | +16.2% | -7.4% | T1 | False |
 
 ## 2026-07-03
 
@@ -5199,15 +5182,15 @@
 | 19 | Glock-18 \| Catacombs (Factory New) | 49.99 | +31.6% | -18.0% | T1 | False |
 | 20 | MP7 \| Vault Heist (Factory New) | 109.50 | +31.6% | -16.6% | T1 | False |
 | 21 | Dual Berettas \| Cartel (Factory New) | 41.99 | +31.1% | -16.8% | T1 | False |
-| 22 | R8 Revolver \| Crimson Web (Factory New) | 85.09 | +30.6% | -16.1% | T1 | False |
-| 23 | Five-SeveN \| Urban Hazard (Factory New) | 39.00 | +30.2% | -20.7% | T1 | False |
-| 24 | Galil AR \| Akoben (Factory New) | 31.50 | +29.5% | -18.4% | T1 | False |
-| 25 | Glock-18 \| Weasel (Factory New) | 257.00 | +28.8% | -18.1% | T1 | False |
-| 26 | P250 \| Cyber Shell (Factory New) | 49.60 | +28.2% | -20.7% | T1 | False |
-| 27 | MAC-10 \| Carnivore (Factory New) | 35.50 | +27.7% | -23.7% | T1 | False |
-| 28 | SG 553 \| Triarch (Factory New) | 48.99 | +27.5% | +3.4% | T1 | False |
-| 29 | Tec-9 \| Phoenix Chalk (Factory New) | 111.00 | +27.2% | -14.6% | T1 | False |
-| 30 | PP-Bizon \| Photic Zone (Factory New) | 33.00 | +27.1% | -22.2% | T1 | False |
+| 22 | Five-SeveN \| Urban Hazard (Factory New) | 39.00 | +30.2% | -20.7% | T1 | False |
+| 23 | Galil AR \| Akoben (Factory New) | 31.50 | +29.5% | -18.4% | T1 | False |
+| 24 | Glock-18 \| Weasel (Factory New) | 257.00 | +28.8% | -18.1% | T1 | False |
+| 25 | P250 \| Cyber Shell (Factory New) | 49.60 | +28.2% | -20.7% | T1 | False |
+| 26 | MAC-10 \| Carnivore (Factory New) | 35.50 | +27.7% | -23.7% | T1 | False |
+| 27 | SG 553 \| Triarch (Factory New) | 48.99 | +27.5% | +3.4% | T1 | False |
+| 28 | Tec-9 \| Phoenix Chalk (Factory New) | 111.00 | +27.2% | -14.6% | T1 | False |
+| 29 | PP-Bizon \| Photic Zone (Factory New) | 33.00 | +27.1% | -22.2% | T1 | False |
+| 30 | Dual Berettas \| Royal Consorts (Factory New) | 355.00 | +27.0% | -14.3% | T1 | False |
 
 ## 2026-07-04
 
@@ -5259,25 +5242,25 @@
 | 9 | P250 \| Wingshot (Factory New) | 90.59 | +38.1% | -30.8% | T1 | False |
 | 10 | Dual Berettas \| Switch Board (Factory New) | 48.00 | +37.1% | +5.6% | T0 | False |
 | 11 | P2000 \| Panther Camo (Factory New) | 39.40 | +36.6% | -21.7% | T1 | False |
-| 12 | XM1014 \| Blue Tire (Factory New) | 66.50 | +34.1% | -8.9% | T1 | False |
-| 13 | Glock-18 \| Off World (Factory New) | 80.00 | +28.7% | -30.7% | T1 | False |
-| 14 | SG 553 \| Triarch (Factory New) | 48.00 | +28.4% | +0.2% | T1 | False |
-| 15 | Galil AR \| Crimson Tsunami (Factory New) | 79.00 | +28.3% | -29.8% | T1 | False |
-| 16 | SG 553 \| Darkwing (Factory New) | 34.00 | +28.1% | -12.8% | T1 | False |
-| 17 | M4A4 \| Etch Lord (Factory New) | 41.00 | +27.5% | -24.7% | T1 | False |
-| 18 | Five-SeveN \| Anodized Gunmetal (Factory New) | 118.99 | +24.9% | -24.5% | T1 | False |
-| 19 | MP7 \| Ocean Foam (Factory New) | 139.99 | +24.1% | -15.5% | T1 | False |
-| 20 | Desert Eagle \| Conspiracy (Factory New) | 179.80 | +23.9% | -15.2% | T1 | False |
-| 21 | Glock-18 \| Weasel (Factory New) | 245.00 | +23.6% | -25.0% | T1 | False |
-| 22 | UMP-45 \| Houndstooth (Factory New) | 68.78 | +23.6% | -39.6% | T1 | False |
-| 23 | Glock-18 \| Catacombs (Factory New) | 44.90 | +23.4% | -24.0% | T1 | False |
-| 24 | Galil AR \| Firefight (Factory New) | 122.40 | +23.0% | -21.0% | T1 | False |
-| 25 | Five-SeveN \| Kami (Factory New) | 53.89 | +22.2% | -19.1% | T1 | False |
-| 26 | FAMAS \| Survivor Z (Factory New) | 63.00 | +22.1% | -11.6% | T1 | False |
-| 27 | USP-S \| Cortex (Factory New) | 249.49 | +21.8% | -17.6% | T1 | False |
-| 28 | Galil AR \| Vandal (Factory New) | 157.00 | +21.6% | -27.6% | T1 | False |
-| 29 | P250 \| Muertos (Factory New) | 249.50 | +21.0% | -34.0% | T1 | False |
-| 30 | MP7 \| Vault Heist (Factory New) | 110.00 | +20.8% | -9.8% | T1 | False |
+| 12 | Glock-18 \| Off World (Factory New) | 80.00 | +28.7% | -30.7% | T1 | False |
+| 13 | SG 553 \| Triarch (Factory New) | 48.00 | +28.4% | +0.2% | T1 | False |
+| 14 | Galil AR \| Crimson Tsunami (Factory New) | 79.00 | +28.3% | -29.8% | T1 | False |
+| 15 | SG 553 \| Darkwing (Factory New) | 34.00 | +28.1% | -12.8% | T1 | False |
+| 16 | M4A4 \| Etch Lord (Factory New) | 41.00 | +27.5% | -24.7% | T1 | False |
+| 17 | Five-SeveN \| Anodized Gunmetal (Factory New) | 118.99 | +24.9% | -24.5% | T1 | False |
+| 18 | MP7 \| Ocean Foam (Factory New) | 139.99 | +24.1% | -15.5% | T1 | False |
+| 19 | Desert Eagle \| Conspiracy (Factory New) | 179.80 | +23.9% | -15.2% | T1 | False |
+| 20 | Glock-18 \| Weasel (Factory New) | 245.00 | +23.6% | -25.0% | T1 | False |
+| 21 | UMP-45 \| Houndstooth (Factory New) | 68.78 | +23.6% | -39.6% | T1 | False |
+| 22 | Glock-18 \| Catacombs (Factory New) | 44.90 | +23.4% | -24.0% | T1 | False |
+| 23 | Galil AR \| Firefight (Factory New) | 122.40 | +23.0% | -21.0% | T1 | False |
+| 24 | Five-SeveN \| Kami (Factory New) | 53.89 | +22.2% | -19.1% | T1 | False |
+| 25 | FAMAS \| Survivor Z (Factory New) | 63.00 | +22.1% | -11.6% | T1 | False |
+| 26 | USP-S \| Cortex (Factory New) | 249.49 | +21.8% | -17.6% | T1 | False |
+| 27 | Galil AR \| Vandal (Factory New) | 157.00 | +21.6% | -27.6% | T1 | False |
+| 28 | P250 \| Muertos (Factory New) | 249.50 | +21.0% | -34.0% | T1 | False |
+| 29 | MP7 \| Vault Heist (Factory New) | 110.00 | +20.8% | -9.8% | T1 | False |
+| 30 | Five-SeveN \| Candy Apple (Factory New) | 516.86 | +20.5% | -5.0% | T1 | False |
 
 ## 2026-07-06
 
@@ -5288,31 +5271,31 @@
 | 3 | P250 \| Hive (Factory New) | 173.50 | +42.8% | -37.6% | T1 | False |
 | 4 | P250 \| Undertow (Factory New) | 330.00 | +37.5% | -9.8% | T1 | False |
 | 5 | Dual Berettas \| Switch Board (Factory New) | 48.58 | +36.8% | +3.6% | T1 | False |
-| 6 | R8 Revolver \| Memento (Factory New) | 52.99 | +36.2% | +32.6% | T0 | False |
-| 7 | P2000 \| Panther Camo (Factory New) | 38.86 | +34.3% | -24.4% | T1 | False |
-| 8 | MP9 \| Music Box (Factory New) | 73.00 | +33.7% | -9.9% | T1 | False |
-| 9 | XM1014 \| Blue Tire (Factory New) | 54.00 | +32.6% | +13.2% | T0 | False |
-| 10 | MP7 \| Ocean Foam (Factory New) | 139.98 | +31.2% | -22.5% | T1 | False |
-| 11 | SG 553 \| Triarch (Factory New) | 47.77 | +31.1% | +0.0% | T1 | False |
-| 12 | M4A4 \| Magnesium (Factory New) | 79.50 | +30.0% | -29.8% | T1 | False |
-| 13 | Five-SeveN \| Anodized Gunmetal (Factory New) | 122.79 | +25.2% | -25.1% | T1 | False |
-| 14 | Five-SeveN \| Kami (Factory New) | 53.16 | +24.8% | -22.0% | T1 | False |
-| 15 | SG 553 \| Fallout Warning (Factory New) | 47.62 | +22.5% | -30.6% | T1 | False |
-| 16 | Galil AR \| Control (Factory New) | 30.60 | +22.2% | -22.8% | T1 | False |
-| 17 | AUG \| Condemned (Factory New) | 52.50 | +21.3% | -30.7% | T1 | False |
-| 18 | Dual Berettas \| Dualing Dragons (Factory New) | 44.30 | +21.1% | -9.8% | T1 | False |
-| 19 | P250 \| Black & Tan (Factory New) | 47.30 | +20.9% | -18.4% | T1 | False |
-| 20 | Glock-18 \| Oxide Blaze (Factory New) | 37.80 | +20.7% | -18.1% | T1 | False |
-| 21 | P250 \| Muertos (Factory New) | 262.50 | +19.8% | -31.8% | T1 | False |
-| 22 | R8 Revolver \| Crimson Web (Factory New) | 90.99 | +19.5% | -19.4% | T1 | False |
-| 23 | SG 553 \| Darkwing (Factory New) | 32.90 | +19.3% | -11.6% | T1 | False |
-| 24 | Galil AR \| Firefight (Factory New) | 118.90 | +18.6% | -17.2% | T1 | False |
-| 25 | MAG-7 \| Justice (Factory New) | 233.00 | +18.2% | -30.2% | T1 | False |
-| 26 | M4A4 \| Etch Lord (Factory New) | 41.35 | +17.8% | -20.7% | T1 | False |
-| 27 | FAMAS \| Survivor Z (Factory New) | 60.00 | +17.3% | -13.3% | T1 | False |
-| 28 | Dual Berettas \| Royal Consorts (Factory New) | 348.00 | +17.0% | -20.6% | T1 | False |
-| 29 | Tec-9 \| Cracked Opal (Factory New) | 42.70 | +16.1% | -12.3% | T1 | False |
-| 30 | PP-Bizon \| Fuel Rod (Factory New) | 48.79 | +15.5% | -23.2% | T1 | False |
+| 6 | P2000 \| Panther Camo (Factory New) | 38.86 | +34.3% | -24.4% | T1 | False |
+| 7 | MP9 \| Music Box (Factory New) | 73.00 | +33.7% | -9.9% | T1 | False |
+| 8 | MP7 \| Ocean Foam (Factory New) | 139.98 | +31.2% | -22.5% | T1 | False |
+| 9 | SG 553 \| Triarch (Factory New) | 47.77 | +31.1% | +0.0% | T1 | False |
+| 10 | M4A4 \| Magnesium (Factory New) | 79.50 | +30.0% | -29.8% | T1 | False |
+| 11 | Five-SeveN \| Anodized Gunmetal (Factory New) | 122.79 | +25.2% | -25.1% | T1 | False |
+| 12 | Five-SeveN \| Kami (Factory New) | 53.16 | +24.8% | -22.0% | T1 | False |
+| 13 | SG 553 \| Fallout Warning (Factory New) | 47.62 | +22.5% | -30.6% | T1 | False |
+| 14 | Galil AR \| Control (Factory New) | 30.60 | +22.2% | -22.8% | T1 | False |
+| 15 | AUG \| Condemned (Factory New) | 52.50 | +21.3% | -30.7% | T1 | False |
+| 16 | Dual Berettas \| Dualing Dragons (Factory New) | 44.30 | +21.1% | -9.8% | T1 | False |
+| 17 | P250 \| Black & Tan (Factory New) | 47.30 | +20.9% | -18.4% | T1 | False |
+| 18 | Glock-18 \| Oxide Blaze (Factory New) | 37.80 | +20.7% | -18.1% | T1 | False |
+| 19 | P250 \| Muertos (Factory New) | 262.50 | +19.8% | -31.8% | T1 | False |
+| 20 | SG 553 \| Darkwing (Factory New) | 32.90 | +19.3% | -11.6% | T1 | False |
+| 21 | Galil AR \| Firefight (Factory New) | 118.90 | +18.6% | -17.2% | T1 | False |
+| 22 | M4A4 \| Etch Lord (Factory New) | 41.35 | +17.8% | -20.7% | T1 | False |
+| 23 | FAMAS \| Survivor Z (Factory New) | 60.00 | +17.3% | -13.3% | T1 | False |
+| 24 | Dual Berettas \| Royal Consorts (Factory New) | 348.00 | +17.0% | -20.6% | T1 | False |
+| 25 | Tec-9 \| Cracked Opal (Factory New) | 42.70 | +16.1% | -12.3% | T1 | False |
+| 26 | PP-Bizon \| Fuel Rod (Factory New) | 48.79 | +15.5% | -23.2% | T1 | False |
+| 27 | Desert Eagle \| Conspiracy (Factory New) | 179.90 | +15.5% | -12.3% | T1 | False |
+| 28 | Glock-18 \| Weasel (Factory New) | 253.49 | +15.5% | -21.2% | T1 | False |
+| 29 | Five-SeveN \| Scumbria (Factory New) | 66.19 | +15.1% | -20.2% | T1 | False |
+| 30 | UMP-45 \| Houndstooth (Factory New) | 60.00 | +15.0% | -35.6% | T1 | False |
 
 ## 2026-07-07
 
@@ -5328,26 +5311,26 @@
 | 8 | FAMAS \| Decommissioned (Factory New) | 72.00 | +33.1% | -21.8% | T1 | False |
 | 9 | Glock-18 \| Oxide Blaze (Factory New) | 40.00 | +33.0% | -20.5% | T1 | False |
 | 10 | USP-S \| Blood Tiger (Factory New) | 181.00 | +28.0% | -22.9% | T1 | False |
-| 11 | R8 Revolver \| Memento (Factory New) | 46.00 | +27.5% | +10.3% | T0 | False |
-| 12 | FAMAS \| Survivor Z (Factory New) | 64.99 | +27.1% | -14.4% | T1 | False |
-| 13 | M4A4 \| Magnesium (Factory New) | 81.69 | +26.6% | -32.1% | T1 | False |
-| 14 | AUG \| Condemned (Factory New) | 62.00 | +26.0% | -26.8% | T1 | False |
-| 15 | Dual Berettas \| Dualing Dragons (Factory New) | 43.43 | +25.1% | -15.1% | T1 | False |
-| 16 | SG 553 \| Fallout Warning (Factory New) | 46.32 | +24.7% | -32.3% | T1 | False |
-| 17 | Five-SeveN \| Kami (Factory New) | 51.99 | +24.5% | -23.7% | T1 | False |
-| 18 | USP-S \| Cortex (Factory New) | 240.00 | +24.4% | -12.8% | T1 | False |
-| 19 | P250 \| Black & Tan (Factory New) | 47.10 | +23.8% | -13.6% | T1 | False |
-| 20 | Five-SeveN \| Anodized Gunmetal (Factory New) | 117.99 | +23.7% | -27.5% | T1 | False |
-| 21 | Dual Berettas \| Royal Consorts (Factory New) | 345.00 | +23.1% | -23.6% | T1 | False |
-| 22 | MP7 \| Ocean Foam (Factory New) | 138.31 | +22.6% | -17.8% | T1 | False |
-| 23 | M4A1-S \| Decimator (Factory New) | 375.00 | +22.6% | -12.7% | T1 | False |
-| 24 | XM1014 \| Blue Tire (Factory New) | 52.99 | +22.1% | +25.6% | T0 | False |
-| 25 | Aspirant \| Gendarmerie Nationale | 88.60 | +21.3% | +20.6% | T0 | False |
-| 26 | AK-47 \| Frontside Misty (Factory New) | 825.00 | +21.1% | -3.0% | T1 | False |
-| 27 | CZ75-Auto \| Polymer (Factory New) | 41.10 | +21.0% | -14.0% | T1 | False |
-| 28 | MAC-10 \| Classic Crate (Factory New) | 35.03 | +20.4% | -13.6% | T1 | False |
-| 29 | Tec-9 \| Jambiya (Factory New) | 98.08 | +20.2% | -20.0% | T1 | False |
-| 30 | M4A1-S \| Guardian (Factory New) | 536.38 | +20.0% | -8.0% | T1 | False |
+| 11 | FAMAS \| Survivor Z (Factory New) | 64.99 | +27.1% | -14.4% | T1 | False |
+| 12 | M4A4 \| Magnesium (Factory New) | 81.69 | +26.6% | -32.1% | T1 | False |
+| 13 | AUG \| Condemned (Factory New) | 62.00 | +26.0% | -26.8% | T1 | False |
+| 14 | Dual Berettas \| Dualing Dragons (Factory New) | 43.43 | +25.1% | -15.1% | T1 | False |
+| 15 | SG 553 \| Fallout Warning (Factory New) | 46.32 | +24.7% | -32.3% | T1 | False |
+| 16 | Five-SeveN \| Kami (Factory New) | 51.99 | +24.5% | -23.7% | T1 | False |
+| 17 | USP-S \| Cortex (Factory New) | 240.00 | +24.4% | -12.8% | T1 | False |
+| 18 | P250 \| Black & Tan (Factory New) | 47.10 | +23.8% | -13.6% | T1 | False |
+| 19 | Five-SeveN \| Anodized Gunmetal (Factory New) | 117.99 | +23.7% | -27.5% | T1 | False |
+| 20 | Dual Berettas \| Royal Consorts (Factory New) | 345.00 | +23.1% | -23.6% | T1 | False |
+| 21 | MP7 \| Ocean Foam (Factory New) | 138.31 | +22.6% | -17.8% | T1 | False |
+| 22 | M4A1-S \| Decimator (Factory New) | 375.00 | +22.6% | -12.7% | T1 | False |
+| 23 | Aspirant \| Gendarmerie Nationale | 88.60 | +21.3% | +20.6% | T0 | False |
+| 24 | AK-47 \| Frontside Misty (Factory New) | 825.00 | +21.1% | -3.0% | T1 | False |
+| 25 | CZ75-Auto \| Polymer (Factory New) | 41.10 | +21.0% | -14.0% | T1 | False |
+| 26 | MAC-10 \| Classic Crate (Factory New) | 35.03 | +20.4% | -13.6% | T1 | False |
+| 27 | Tec-9 \| Jambiya (Factory New) | 98.08 | +20.2% | -20.0% | T1 | False |
+| 28 | M4A1-S \| Guardian (Factory New) | 536.38 | +20.0% | -8.0% | T1 | False |
+| 29 | Dual Berettas \| Switch Board (Factory New) | 48.67 | +19.8% | +3.8% | T1 | False |
+| 30 | M4A4 \| Etch Lord (Factory New) | 40.89 | +19.8% | -21.3% | T1 | False |
 
 ## 2026-07-08
 
@@ -5360,169 +5343,169 @@
 | 5 | MP9 \| Goo (Factory New) | 50.99 | +33.5% | -5.9% | T1 | False |
 | 6 | FAMAS \| Survivor Z (Factory New) | 63.39 | +30.4% | -21.3% | T1 | False |
 | 7 | MP9 \| Music Box (Factory New) | 69.69 | +30.0% | -17.7% | T1 | False |
-| 8 | R8 Revolver \| Memento (Factory New) | 52.92 | +29.8% | +8.4% | T0 | False |
-| 9 | AUG \| Stymphalian (Factory New) | 73.10 | +29.3% | -24.2% | T1 | False |
-| 10 | P250 \| Undertow (Factory New) | 325.00 | +26.1% | +1.9% | T1 | False |
-| 11 | Dual Berettas \| Switch Board (Factory New) | 54.69 | +25.5% | -5.4% | T1 | False |
-| 12 | SG 553 \| Fallout Warning (Factory New) | 45.28 | +23.3% | -32.0% | T1 | False |
-| 13 | XM1014 \| Blue Tire (Factory New) | 49.79 | +22.1% | +27.4% | T0 | False |
-| 14 | USP-S \| Jawbreaker (Factory New) | 138.10 | +18.6% | -16.9% | T1 | False |
-| 15 | P250 \| Black & Tan (Factory New) | 46.00 | +16.3% | -12.7% | T1 | False |
-| 16 | Dual Berettas \| Heist (Factory New) | 30.66 | +16.1% | -9.1% | T1 | False |
-| 17 | M4A1-S \| Decimator (Factory New) | 370.00 | +14.5% | -10.1% | T1 | False |
-| 18 | Tec-9 \| Titanium Bit (Factory New) | 238.00 | +13.8% | +43.0% | T0 | False |
-| 19 | Vypa Sista of the Revolution \| Guerrilla Warfare | 278.40 | +13.5% | -9.6% | T1 | False |
-| 20 | MAG-7 \| Counter Terrace (Factory New) | 784.40 | +12.7% | -20.6% | T1 | False |
-| 21 | CZ75-Auto \| Polymer (Factory New) | 40.67 | +12.4% | -2.8% | T1 | False |
-| 22 | Dual Berettas \| Anodized Navy (Factory New) | 96.68 | +12.3% | -8.0% | T1 | False |
-| 23 | USP-S \| Cortex (Factory New) | 244.50 | +12.2% | -10.6% | T1 | False |
-| 24 | R8 Revolver \| Crazy 8 (Factory New) | 30.50 | +11.5% | -26.6% | T1 | False |
-| 25 | USP-S \| Purple DDPAT (Factory New) | 232.40 | +11.4% | +16.1% | T0 | False |
-| 26 | AK-47 \| Frontside Misty (Factory New) | 821.00 | +10.9% | -0.4% | T1 | False |
-| 27 | MAC-10 \| Amber Fade (Factory New) | 214.71 | +10.9% | -8.9% | T1 | False |
-| 28 | P2000 \| Panther Camo (Factory New) | 40.00 | +10.4% | -24.7% | T1 | False |
-| 29 | Sawed-Off \| Apocalypto (Factory New) | 30.29 | +9.1% | -11.4% | T1 | False |
-| 30 | Glock-18 \| Vogue (Factory New) | 115.50 | +9.1% | -19.3% | T1 | False |
+| 8 | AUG \| Stymphalian (Factory New) | 73.10 | +29.3% | -24.2% | T1 | False |
+| 9 | P250 \| Undertow (Factory New) | 325.00 | +26.1% | +1.9% | T1 | False |
+| 10 | Dual Berettas \| Switch Board (Factory New) | 54.69 | +25.5% | -5.4% | T1 | False |
+| 11 | SG 553 \| Fallout Warning (Factory New) | 45.28 | +23.3% | -32.0% | T1 | False |
+| 12 | USP-S \| Jawbreaker (Factory New) | 138.10 | +18.6% | -16.9% | T1 | False |
+| 13 | P250 \| Black & Tan (Factory New) | 46.00 | +16.3% | -12.7% | T1 | False |
+| 14 | Dual Berettas \| Heist (Factory New) | 30.66 | +16.1% | -9.1% | T1 | False |
+| 15 | M4A1-S \| Decimator (Factory New) | 370.00 | +14.5% | -10.1% | T1 | False |
+| 16 | Tec-9 \| Titanium Bit (Factory New) | 238.00 | +13.8% | +43.0% | T0 | False |
+| 17 | Vypa Sista of the Revolution \| Guerrilla Warfare | 278.40 | +13.5% | -9.6% | T1 | False |
+| 18 | CZ75-Auto \| Polymer (Factory New) | 40.67 | +12.4% | -2.8% | T1 | False |
+| 19 | Dual Berettas \| Anodized Navy (Factory New) | 96.68 | +12.3% | -8.0% | T1 | False |
+| 20 | USP-S \| Cortex (Factory New) | 244.50 | +12.2% | -10.6% | T1 | False |
+| 21 | USP-S \| Purple DDPAT (Factory New) | 232.40 | +11.4% | +16.1% | T0 | False |
+| 22 | AK-47 \| Frontside Misty (Factory New) | 821.00 | +10.9% | -0.4% | T1 | False |
+| 23 | MAC-10 \| Amber Fade (Factory New) | 214.71 | +10.9% | -8.9% | T1 | False |
+| 24 | P2000 \| Panther Camo (Factory New) | 40.00 | +10.4% | -24.7% | T1 | False |
+| 25 | Glock-18 \| Vogue (Factory New) | 115.50 | +9.1% | -19.3% | T1 | False |
+| 26 | PP-Bizon \| Chemical Green (Factory New) | 102.90 | +8.8% | -14.5% | T1 | False |
+| 27 | Desert Eagle \| The Bronze (Factory New) | 298.99 | +8.3% | -4.2% | T1 | False |
+| 28 | P2000 \| Pathfinder (Factory New) | 145.72 | +8.3% | -15.3% | T1 | False |
+| 29 | MAC-10 \| Surfwood (Factory New) | 126.89 | +7.6% | +104.3% | T0 | True |
+| 30 | AUG \| Anodized Navy (Factory New) | 210.00 | +7.6% | -13.6% | T1 | False |
 
 ## 2026-07-09
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | AUG \| Luxe Trim (Factory New) | 39.80 | +71.5% | -17.5% | T1 | False |
-| 2 | R8 Revolver \| Memento (Factory New) | 52.04 | +48.0% | -5.6% | T1 | False |
-| 3 | Aspirant \| Gendarmerie Nationale | 96.50 | +33.6% | -3.8% | T1 | False |
-| 4 | Vypa Sista of the Revolution \| Guerrilla Warfare | 288.00 | +24.9% | -18.9% | T1 | False |
-| 5 | MP9 \| Music Box (Factory New) | 83.88 | +24.6% | -12.5% | T1 | False |
-| 6 | P250 \| Hive (Factory New) | 171.00 | +23.1% | -20.9% | T1 | False |
-| 7 | Dual Berettas \| Dualing Dragons (Factory New) | 41.70 | +22.9% | -16.8% | T1 | False |
-| 8 | XM1014 \| Blue Tire (Factory New) | 51.70 | +21.1% | +34.6% | T0 | False |
-| 9 | AUG \| Stymphalian (Factory New) | 73.10 | +20.1% | -20.1% | T1 | False |
-| 10 | P250 \| Undertow (Factory New) | 351.80 | +18.4% | +7.0% | T0 | False |
-| 11 | Dual Berettas \| Switch Board (Factory New) | 54.59 | +17.3% | -5.9% | T1 | False |
-| 12 | FAMAS \| Survivor Z (Factory New) | 65.20 | +15.5% | -14.9% | T1 | False |
-| 13 | P250 \| Black & Tan (Factory New) | 48.80 | +15.4% | -11.2% | T1 | False |
-| 14 | MAG-7 \| Counter Terrace (Factory New) | 769.91 | +13.0% | -18.5% | T1 | False |
-| 15 | Crasswater The Forgotten \| Guerrilla Warfare | 152.83 | +12.2% | -12.4% | T1 | False |
-| 16 | MAC-10 \| Amber Fade (Factory New) | 210.46 | +12.1% | -8.3% | T1 | False |
-| 17 | M4A1-S \| Decimator (Factory New) | 380.99 | +12.0% | -8.2% | T1 | False |
-| 18 | Officer Jacques Beltram \| Gendarmerie Nationale | 123.89 | +11.8% | -14.6% | T1 | False |
-| 19 | Desert Eagle \| The Bronze (Factory New) | 338.00 | +11.8% | -4.1% | T1 | False |
-| 20 | CZ75-Auto \| Polymer (Factory New) | 42.74 | +11.7% | +11.2% | T0 | False |
-| 21 | P2000 \| Panther Camo (Factory New) | 48.80 | +10.5% | -19.7% | T1 | False |
-| 22 | AK-47 \| Frontside Misty (Factory New) | 868.40 | +10.5% | -1.7% | T1 | False |
-| 23 | MP9 \| Dark Age (Factory New) | 403.91 | +10.4% | -4.1% | T1 | False |
-| 24 | FAMAS \| Faulty Wiring (Factory New) | 57.00 | +9.8% | -11.7% | T1 | False |
-| 25 | USP-S \| Purple DDPAT (Factory New) | 233.19 | +8.9% | +29.1% | T0 | False |
-| 26 | Dual Berettas \| Anodized Navy (Factory New) | 99.70 | +8.8% | -2.2% | T1 | False |
-| 27 | PP-Bizon \| Chemical Green (Factory New) | 102.00 | +8.7% | -15.3% | T1 | False |
-| 28 | P2000 \| Pathfinder (Factory New) | 145.72 | +7.9% | -15.3% | T1 | False |
-| 29 | MAC-10 \| Whitefish (Factory New) | 32.90 | +7.9% | +8.0% | T0 | False |
-| 30 | Tec-9 \| Titanium Bit (Factory New) | 229.00 | +7.2% | +51.7% | T0 | False |
+| 2 | Aspirant \| Gendarmerie Nationale | 96.50 | +33.6% | -3.8% | T1 | False |
+| 3 | Vypa Sista of the Revolution \| Guerrilla Warfare | 288.00 | +24.9% | -18.9% | T1 | False |
+| 4 | MP9 \| Music Box (Factory New) | 83.88 | +24.6% | -12.5% | T1 | False |
+| 5 | P250 \| Hive (Factory New) | 171.00 | +23.1% | -20.9% | T1 | False |
+| 6 | Dual Berettas \| Dualing Dragons (Factory New) | 41.70 | +22.9% | -16.8% | T1 | False |
+| 7 | AUG \| Stymphalian (Factory New) | 73.10 | +20.1% | -20.1% | T1 | False |
+| 8 | P250 \| Undertow (Factory New) | 351.80 | +18.4% | +7.0% | T0 | False |
+| 9 | Dual Berettas \| Switch Board (Factory New) | 54.59 | +17.3% | -5.9% | T1 | False |
+| 10 | FAMAS \| Survivor Z (Factory New) | 65.20 | +15.5% | -14.9% | T1 | False |
+| 11 | P250 \| Black & Tan (Factory New) | 48.80 | +15.4% | -11.2% | T1 | False |
+| 12 | Crasswater The Forgotten \| Guerrilla Warfare | 152.83 | +12.2% | -12.4% | T1 | False |
+| 13 | MAC-10 \| Amber Fade (Factory New) | 210.46 | +12.1% | -8.3% | T1 | False |
+| 14 | M4A1-S \| Decimator (Factory New) | 380.99 | +12.0% | -8.2% | T1 | False |
+| 15 | Officer Jacques Beltram \| Gendarmerie Nationale | 123.89 | +11.8% | -14.6% | T1 | False |
+| 16 | Desert Eagle \| The Bronze (Factory New) | 338.00 | +11.8% | -4.1% | T1 | False |
+| 17 | CZ75-Auto \| Polymer (Factory New) | 42.74 | +11.7% | +11.2% | T0 | False |
+| 18 | P2000 \| Panther Camo (Factory New) | 48.80 | +10.5% | -19.7% | T1 | False |
+| 19 | AK-47 \| Frontside Misty (Factory New) | 868.40 | +10.5% | -1.7% | T1 | False |
+| 20 | MP9 \| Dark Age (Factory New) | 403.91 | +10.4% | -4.1% | T1 | False |
+| 21 | FAMAS \| Faulty Wiring (Factory New) | 57.00 | +9.8% | -11.7% | T1 | False |
+| 22 | USP-S \| Purple DDPAT (Factory New) | 233.19 | +8.9% | +29.1% | T0 | False |
+| 23 | Dual Berettas \| Anodized Navy (Factory New) | 99.70 | +8.8% | -2.2% | T1 | False |
+| 24 | PP-Bizon \| Chemical Green (Factory New) | 102.00 | +8.7% | -15.3% | T1 | False |
+| 25 | P2000 \| Pathfinder (Factory New) | 145.72 | +7.9% | -15.3% | T1 | False |
+| 26 | MAC-10 \| Whitefish (Factory New) | 32.90 | +7.9% | +8.0% | T0 | False |
+| 27 | Tec-9 \| Titanium Bit (Factory New) | 229.00 | +7.2% | +51.7% | T0 | False |
+| 28 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 96.88 | +6.8% | -5.1% | T1 | False |
+| 29 | Street Soldier \| Phoenix | 140.00 | +6.8% | -10.6% | T1 | False |
+| 30 | P250 \| Mehndi (Factory New) | 272.26 | +6.6% | -15.0% | T1 | False |
 
 ## 2026-07-10
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | R8 Revolver \| Memento (Factory New) | 51.52 | +85.7% | -25.6% | T1 | False |
-| 2 | Aspirant \| Gendarmerie Nationale | 93.20 | +51.7% | -18.9% | T1 | False |
-| 3 | XM1014 \| Blue Tire (Factory New) | 51.80 | +36.2% | +41.3% | T0 | False |
-| 4 | Vypa Sista of the Revolution \| Guerrilla Warfare | 286.00 | +24.4% | -20.4% | T1 | False |
-| 5 | Tec-9 \| Isaac (Factory New) | 193.00 | +22.0% | +10.4% | T0 | False |
-| 6 | USP-S \| Purple DDPAT (Factory New) | 227.00 | +18.9% | +23.6% | T0 | False |
-| 7 | AK-47 \| Frontside Misty (Factory New) | 879.00 | +17.6% | -6.9% | T1 | False |
-| 8 | G3SG1 \| Black Sand (Factory New) | 35.15 | +16.9% | -4.9% | T1 | False |
-| 9 | Dual Berettas \| Switch Board (Factory New) | 55.90 | +16.8% | -20.2% | T1 | False |
-| 10 | MP9 \| Music Box (Factory New) | 86.00 | +16.4% | -1.1% | T1 | False |
-| 11 | AUG \| Luxe Trim (Factory New) | 40.30 | +13.8% | +8.3% | T0 | False |
-| 12 | MAC-10 \| Amber Fade (Factory New) | 207.28 | +13.4% | -7.8% | T1 | False |
-| 13 | MAG-7 \| Counter Terrace (Factory New) | 767.91 | +13.2% | -16.5% | T1 | False |
-| 14 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 93.53 | +11.8% | -9.2% | T1 | False |
-| 15 | P250 \| Mehndi (Factory New) | 271.72 | +11.6% | -15.2% | T1 | False |
-| 16 | P250 \| Black & Tan (Factory New) | 48.69 | +11.5% | -5.2% | T1 | False |
-| 17 | M4A1-S \| Decimator (Factory New) | 377.50 | +11.5% | -12.5% | T1 | False |
-| 18 | USP-S \| Cortex (Factory New) | 266.00 | +10.3% | -12.0% | T1 | False |
-| 19 | Officer Jacques Beltram \| Gendarmerie Nationale | 118.00 | +10.0% | -12.6% | T1 | False |
-| 20 | PP-Bizon \| Chemical Green (Factory New) | 102.16 | +9.2% | -16.1% | T1 | False |
-| 21 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 135.50 | +7.3% | -8.8% | T1 | False |
-| 22 | AUG \| Anodized Navy (Factory New) | 210.00 | +7.3% | -13.6% | T1 | False |
-| 23 | M4A1-S \| Golden Coil (Factory New) | 1699.40 | +7.3% | -2.0% | T1 | False |
-| 24 | Chem-Haz Capitaine \| Gendarmerie Nationale | 148.99 | +7.2% | -11.7% | T1 | False |
-| 25 | AUG \| Stymphalian (Factory New) | 73.80 | +6.6% | -18.1% | T1 | False |
-| 26 | USP-S \| Jawbreaker (Factory New) | 146.90 | +6.4% | -14.6% | T1 | False |
-| 27 | Desert Eagle \| Heirloom (Factory New) | 759.00 | +6.3% | -3.6% | T1 | False |
-| 28 | SCAR-20 \| Cyrex (Factory New) | 243.45 | +6.1% | -12.4% | T1 | False |
-| 29 | MAC-10 \| Classic Crate (Factory New) | 39.00 | +5.8% | -7.6% | T1 | False |
-| 30 | Tec-9 \| Titanium Bit (Factory New) | 232.33 | +5.6% | +42.8% | T0 | False |
+| 1 | Aspirant \| Gendarmerie Nationale | 93.20 | +51.7% | -18.9% | T1 | False |
+| 2 | Vypa Sista of the Revolution \| Guerrilla Warfare | 286.00 | +24.4% | -20.4% | T1 | False |
+| 3 | Tec-9 \| Isaac (Factory New) | 193.00 | +22.0% | +10.4% | T0 | False |
+| 4 | USP-S \| Purple DDPAT (Factory New) | 227.00 | +18.9% | +23.6% | T0 | False |
+| 5 | AK-47 \| Frontside Misty (Factory New) | 879.00 | +17.6% | -6.9% | T1 | False |
+| 6 | G3SG1 \| Black Sand (Factory New) | 35.15 | +16.9% | -4.9% | T1 | False |
+| 7 | Dual Berettas \| Switch Board (Factory New) | 55.90 | +16.8% | -20.2% | T1 | False |
+| 8 | MP9 \| Music Box (Factory New) | 86.00 | +16.4% | -1.1% | T1 | False |
+| 9 | AUG \| Luxe Trim (Factory New) | 40.30 | +13.8% | +8.3% | T0 | False |
+| 10 | MAC-10 \| Amber Fade (Factory New) | 207.28 | +13.4% | -7.8% | T1 | False |
+| 11 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 93.53 | +11.8% | -9.2% | T1 | False |
+| 12 | P250 \| Mehndi (Factory New) | 271.72 | +11.6% | -15.2% | T1 | False |
+| 13 | P250 \| Black & Tan (Factory New) | 48.69 | +11.5% | -5.2% | T1 | False |
+| 14 | M4A1-S \| Decimator (Factory New) | 377.50 | +11.5% | -12.5% | T1 | False |
+| 15 | USP-S \| Cortex (Factory New) | 266.00 | +10.3% | -12.0% | T1 | False |
+| 16 | Officer Jacques Beltram \| Gendarmerie Nationale | 118.00 | +10.0% | -12.6% | T1 | False |
+| 17 | PP-Bizon \| Chemical Green (Factory New) | 102.16 | +9.2% | -16.1% | T1 | False |
+| 18 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 135.50 | +7.3% | -8.8% | T1 | False |
+| 19 | AUG \| Anodized Navy (Factory New) | 210.00 | +7.3% | -13.6% | T1 | False |
+| 20 | M4A1-S \| Golden Coil (Factory New) | 1699.40 | +7.3% | -2.0% | T1 | False |
+| 21 | Chem-Haz Capitaine \| Gendarmerie Nationale | 148.99 | +7.2% | -11.7% | T1 | False |
+| 22 | AUG \| Stymphalian (Factory New) | 73.80 | +6.6% | -18.1% | T1 | False |
+| 23 | USP-S \| Jawbreaker (Factory New) | 146.90 | +6.4% | -14.6% | T1 | False |
+| 24 | Desert Eagle \| Heirloom (Factory New) | 759.00 | +6.3% | -3.6% | T1 | False |
+| 25 | SCAR-20 \| Cyrex (Factory New) | 243.45 | +6.1% | -12.4% | T1 | False |
+| 26 | MAC-10 \| Classic Crate (Factory New) | 39.00 | +5.8% | -7.6% | T1 | False |
+| 27 | Tec-9 \| Titanium Bit (Factory New) | 232.33 | +5.6% | +42.8% | T0 | False |
+| 28 | Tec-9 \| Fuel Injector (Factory New) | 372.00 | +5.4% | -3.0% | T1 | False |
+| 29 | UMP-45 \| Momentum (Factory New) | 71.00 | +5.2% | -13.8% | T1 | False |
+| 30 | MAC-10 \| Whitefish (Factory New) | 32.59 | +5.0% | +9.3% | T0 | False |
 
 ## 2026-07-11
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Surfwood (Factory New) | 129.80 | +73.9% | +33.1% | T0 | True |
-| 2 | R8 Revolver \| Memento (Factory New) | 51.20 | +71.4% | -24.9% | T1 | False |
-| 3 | Aspirant \| Gendarmerie Nationale | 91.60 | +65.9% | -27.0% | T1 | False |
-| 4 | USP-S \| Purple DDPAT (Factory New) | 228.80 | +35.9% | +14.0% | T0 | False |
-| 5 | Tec-9 \| Titanium Bit (Factory New) | 253.90 | +34.4% | +31.2% | T0 | False |
-| 6 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 91.50 | +26.5% | -22.5% | T1 | False |
-| 7 | Vypa Sista of the Revolution \| Guerrilla Warfare | 287.00 | +22.4% | -21.1% | T1 | False |
-| 8 | G3SG1 \| Black Sand (Factory New) | 35.15 | +17.0% | -4.9% | T1 | False |
-| 9 | John 'Van Healen' Kask \| SWAT | 86.08 | +14.0% | -4.9% | T1 | False |
-| 10 | MAG-7 \| Counter Terrace (Factory New) | 766.91 | +13.3% | -16.5% | T1 | False |
-| 11 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 145.00 | +13.0% | -16.0% | T1 | False |
-| 12 | AK-47 \| Frontside Misty (Factory New) | 866.89 | +12.9% | -8.1% | T1 | False |
-| 13 | Lieutenant 'Tree Hugger' Farlow \| SWAT | 116.70 | +11.9% | -13.5% | T1 | False |
-| 14 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 134.00 | +11.5% | -15.6% | T1 | False |
-| 15 | 'Blueberries' Buckshot \| NSWC SEAL | 97.99 | +11.1% | -14.5% | T1 | False |
-| 16 | Markus Delrow \| FBI HRT | 53.90 | +10.3% | -2.1% | T1 | False |
-| 17 | Chem-Haz Specialist \| SWAT | 78.80 | +10.2% | -13.4% | T1 | False |
-| 18 | Chem-Haz Capitaine \| Gendarmerie Nationale | 149.40 | +9.6% | -16.1% | T1 | False |
-| 19 | Dual Berettas \| Switch Board (Factory New) | 62.80 | +9.5% | -24.0% | T1 | False |
-| 20 | Crasswater The Forgotten \| Guerrilla Warfare | 150.49 | +8.5% | -13.6% | T1 | False |
-| 21 | Dragomir \| Sabre Footsoldier | 61.90 | +7.8% | -11.3% | T1 | False |
-| 22 | P250 \| Mehndi (Factory New) | 258.98 | +7.7% | -13.3% | T1 | False |
-| 23 | M4A1-S \| Decimator (Factory New) | 394.00 | +7.7% | -11.6% | T1 | False |
-| 24 | Elite Trapper Solman \| Guerrilla Warfare | 226.50 | +7.0% | -10.8% | T1 | False |
-| 25 | Bio-Haz Specialist \| SWAT | 78.48 | +6.9% | -10.6% | T1 | False |
-| 26 | Tec-9 \| Rust Leaf (Factory New) | 175.50 | +6.8% | -18.1% | T1 | True |
-| 27 | Jungle Rebel \| Elite Crew | 168.33 | +6.5% | -13.5% | T1 | False |
-| 28 | Primeiro Tenente \| Brazilian 1st Battalion | 760.00 | +6.3% | -13.8% | T1 | False |
-| 29 | Arno The Overgrown \| Guerrilla Warfare | 130.00 | +6.2% | -16.0% | T1 | False |
-| 30 | MP9 \| Music Box (Factory New) | 85.00 | +6.1% | +1.5% | T1 | False |
+| 2 | Aspirant \| Gendarmerie Nationale | 91.60 | +65.9% | -27.0% | T1 | False |
+| 3 | USP-S \| Purple DDPAT (Factory New) | 228.80 | +35.9% | +14.0% | T0 | False |
+| 4 | Tec-9 \| Titanium Bit (Factory New) | 253.90 | +34.4% | +31.2% | T0 | False |
+| 5 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 91.50 | +26.5% | -22.5% | T1 | False |
+| 6 | Vypa Sista of the Revolution \| Guerrilla Warfare | 287.00 | +22.4% | -21.1% | T1 | False |
+| 7 | G3SG1 \| Black Sand (Factory New) | 35.15 | +17.0% | -4.9% | T1 | False |
+| 8 | John 'Van Healen' Kask \| SWAT | 86.08 | +14.0% | -4.9% | T1 | False |
+| 9 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 145.00 | +13.0% | -16.0% | T1 | False |
+| 10 | AK-47 \| Frontside Misty (Factory New) | 866.89 | +12.9% | -8.1% | T1 | False |
+| 11 | Lieutenant 'Tree Hugger' Farlow \| SWAT | 116.70 | +11.9% | -13.5% | T1 | False |
+| 12 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 134.00 | +11.5% | -15.6% | T1 | False |
+| 13 | 'Blueberries' Buckshot \| NSWC SEAL | 97.99 | +11.1% | -14.5% | T1 | False |
+| 14 | Markus Delrow \| FBI HRT | 53.90 | +10.3% | -2.1% | T1 | False |
+| 15 | Chem-Haz Specialist \| SWAT | 78.80 | +10.2% | -13.4% | T1 | False |
+| 16 | Chem-Haz Capitaine \| Gendarmerie Nationale | 149.40 | +9.6% | -16.1% | T1 | False |
+| 17 | Dual Berettas \| Switch Board (Factory New) | 62.80 | +9.5% | -24.0% | T1 | False |
+| 18 | Crasswater The Forgotten \| Guerrilla Warfare | 150.49 | +8.5% | -13.6% | T1 | False |
+| 19 | Dragomir \| Sabre Footsoldier | 61.90 | +7.8% | -11.3% | T1 | False |
+| 20 | P250 \| Mehndi (Factory New) | 258.98 | +7.7% | -13.3% | T1 | False |
+| 21 | M4A1-S \| Decimator (Factory New) | 394.00 | +7.7% | -11.6% | T1 | False |
+| 22 | Elite Trapper Solman \| Guerrilla Warfare | 226.50 | +7.0% | -10.8% | T1 | False |
+| 23 | Bio-Haz Specialist \| SWAT | 78.48 | +6.9% | -10.6% | T1 | False |
+| 24 | Tec-9 \| Rust Leaf (Factory New) | 175.50 | +6.8% | -18.1% | T1 | True |
+| 25 | Jungle Rebel \| Elite Crew | 168.33 | +6.5% | -13.5% | T1 | False |
+| 26 | Primeiro Tenente \| Brazilian 1st Battalion | 760.00 | +6.3% | -13.8% | T1 | False |
+| 27 | Arno The Overgrown \| Guerrilla Warfare | 130.00 | +6.2% | -16.0% | T1 | False |
+| 28 | MP9 \| Music Box (Factory New) | 85.00 | +6.1% | +1.5% | T1 | False |
+| 29 | CZ75-Auto \| Tread Plate (Factory New) | 90.00 | +5.7% | -5.1% | T1 | False |
+| 30 | USP-S \| Stainless (Factory New) | 469.00 | +5.7% | -12.8% | T1 | False |
 
 ## 2026-07-12
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Surfwood (Factory New) | 119.90 | +80.9% | +40.3% | T0 | True |
-| 2 | R8 Revolver \| Memento (Factory New) | 50.70 | +79.3% | -27.1% | T1 | False |
-| 3 | Aspirant \| Gendarmerie Nationale | 91.04 | +61.2% | -30.2% | T1 | False |
-| 4 | Tec-9 \| Titanium Bit (Factory New) | 242.00 | +41.2% | +32.4% | T0 | False |
-| 5 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 91.20 | +22.7% | -18.3% | T1 | False |
-| 6 | USP-S \| Purple DDPAT (Factory New) | 218.10 | +22.0% | +13.5% | T0 | False |
-| 7 | G3SG1 \| Black Sand (Factory New) | 35.15 | +16.4% | -4.4% | T1 | False |
-| 8 | Vypa Sista of the Revolution \| Guerrilla Warfare | 286.55 | +13.5% | -17.2% | T1 | False |
-| 9 | John 'Van Healen' Kask \| SWAT | 82.99 | +12.9% | +0.4% | T1 | False |
-| 10 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 145.99 | +11.4% | -14.9% | T1 | False |
-| 11 | Chem-Haz Capitaine \| Gendarmerie Nationale | 146.98 | +9.3% | -11.7% | T1 | False |
-| 12 | Tec-9 \| Isaac (Factory New) | 209.50 | +8.2% | +17.1% | T0 | False |
-| 13 | Tec-9 \| Blue Titanium (Factory New) | 379.48 | +8.0% | -6.4% | T1 | False |
-| 14 | Primeiro Tenente \| Brazilian 1st Battalion | 731.00 | +7.0% | -15.1% | T1 | False |
-| 15 | ★ Hand Wraps \| Duct Tape (Minimal Wear) | 456.00 | +6.7% | +0.4% | T1 | False |
-| 16 | Lieutenant 'Tree Hugger' Farlow \| SWAT | 116.48 | +6.6% | -9.9% | T1 | False |
-| 17 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 133.78 | +6.5% | -9.1% | T1 | False |
-| 18 | Markus Delrow \| FBI HRT | 54.80 | +6.4% | -1.6% | T1 | False |
-| 19 | CZ75-Auto \| Tread Plate (Factory New) | 90.39 | +6.0% | -7.1% | T1 | False |
-| 20 | Chem-Haz Specialist \| SWAT | 78.30 | +5.7% | -10.6% | T1 | False |
-| 21 | Dual Berettas \| Switch Board (Factory New) | 66.99 | +5.6% | -27.3% | T1 | False |
-| 22 | AUG \| Flame Jörmungandr (Factory New) | 2241.00 | +5.2% | -4.4% | T1 | False |
-| 23 | AK-47 \| Frontside Misty (Factory New) | 880.00 | +5.2% | -6.5% | T1 | False |
-| 24 | PP-Bizon \| Chemical Green (Factory New) | 101.65 | +5.1% | -12.7% | T1 | False |
-| 25 | Bio-Haz Specialist \| SWAT | 78.77 | +5.1% | -9.9% | T1 | False |
-| 26 | Dragomir \| Sabre Footsoldier | 60.00 | +4.1% | -8.8% | T1 | False |
-| 27 | 3rd Commando Company \| KSK | 76.18 | +3.6% | -9.0% | T1 | False |
-| 28 | Elite Trapper Solman \| Guerrilla Warfare | 225.50 | +3.5% | -9.2% | T1 | False |
-| 29 | ★ Hand Wraps \| Arboreal (Minimal Wear) | 495.00 | +3.1% | -0.9% | T1 | False |
-| 30 | Crasswater The Forgotten \| Guerrilla Warfare | 148.50 | +2.7% | -8.9% | T1 | False |
+| 2 | Aspirant \| Gendarmerie Nationale | 91.04 | +61.2% | -30.2% | T1 | False |
+| 3 | Tec-9 \| Titanium Bit (Factory New) | 242.00 | +41.2% | +32.4% | T0 | False |
+| 4 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 91.20 | +22.7% | -18.3% | T1 | False |
+| 5 | USP-S \| Purple DDPAT (Factory New) | 218.10 | +22.0% | +13.5% | T0 | False |
+| 6 | G3SG1 \| Black Sand (Factory New) | 35.15 | +16.4% | -4.4% | T1 | False |
+| 7 | Vypa Sista of the Revolution \| Guerrilla Warfare | 286.55 | +13.5% | -17.2% | T1 | False |
+| 8 | John 'Van Healen' Kask \| SWAT | 82.99 | +12.9% | +0.4% | T1 | False |
+| 9 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 145.99 | +11.4% | -14.9% | T1 | False |
+| 10 | Chem-Haz Capitaine \| Gendarmerie Nationale | 146.98 | +9.3% | -11.7% | T1 | False |
+| 11 | Tec-9 \| Isaac (Factory New) | 209.50 | +8.2% | +17.1% | T0 | False |
+| 12 | Tec-9 \| Blue Titanium (Factory New) | 379.48 | +8.0% | -6.4% | T1 | False |
+| 13 | Primeiro Tenente \| Brazilian 1st Battalion | 731.00 | +7.0% | -15.1% | T1 | False |
+| 14 | ★ Hand Wraps \| Duct Tape (Minimal Wear) | 456.00 | +6.7% | +0.4% | T1 | False |
+| 15 | Lieutenant 'Tree Hugger' Farlow \| SWAT | 116.48 | +6.6% | -9.9% | T1 | False |
+| 16 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 133.78 | +6.5% | -9.1% | T1 | False |
+| 17 | Markus Delrow \| FBI HRT | 54.80 | +6.4% | -1.6% | T1 | False |
+| 18 | CZ75-Auto \| Tread Plate (Factory New) | 90.39 | +6.0% | -7.1% | T1 | False |
+| 19 | Chem-Haz Specialist \| SWAT | 78.30 | +5.7% | -10.6% | T1 | False |
+| 20 | Dual Berettas \| Switch Board (Factory New) | 66.99 | +5.6% | -27.3% | T1 | False |
+| 21 | AUG \| Flame Jörmungandr (Factory New) | 2241.00 | +5.2% | -4.4% | T1 | False |
+| 22 | AK-47 \| Frontside Misty (Factory New) | 880.00 | +5.2% | -6.5% | T1 | False |
+| 23 | PP-Bizon \| Chemical Green (Factory New) | 101.65 | +5.1% | -12.7% | T1 | False |
+| 24 | Bio-Haz Specialist \| SWAT | 78.77 | +5.1% | -9.9% | T1 | False |
+| 25 | Dragomir \| Sabre Footsoldier | 60.00 | +4.1% | -8.8% | T1 | False |
+| 26 | 3rd Commando Company \| KSK | 76.18 | +3.6% | -9.0% | T1 | False |
+| 27 | Elite Trapper Solman \| Guerrilla Warfare | 225.50 | +3.5% | -9.2% | T1 | False |
+| 28 | ★ Hand Wraps \| Arboreal (Minimal Wear) | 495.00 | +3.1% | -0.9% | T1 | False |
+| 29 | Crasswater The Forgotten \| Guerrilla Warfare | 148.50 | +2.7% | -8.9% | T1 | False |
+| 30 | M4A1-S \| Golden Coil (Factory New) | 1707.00 | +2.7% | +2.9% | T1 | False |
 
 ## 2026-07-13
 
@@ -5531,33 +5514,33 @@
 | 1 | MAC-10 \| Surfwood (Factory New) | 122.99 | +73.0% | +60.0% | T0 | True |
 | 2 | Aspirant \| Gendarmerie Nationale | 93.99 | +51.4% | -21.4% | T1 | False |
 | 3 | Tec-9 \| Titanium Bit (Factory New) | 245.50 | +41.9% | +48.9% | T0 | False |
-| 4 | R8 Revolver \| Memento (Factory New) | 49.53 | +32.6% | -25.2% | T1 | False |
-| 5 | Sawed-Off \| Jungle Thicket (Factory New) | 42.54 | +31.8% | -10.6% | T1 | False |
-| 6 | USP-S \| Purple DDPAT (Factory New) | 226.77 | +25.6% | +24.8% | T0 | False |
-| 7 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 88.80 | +22.8% | -11.2% | T1 | False |
-| 8 | G3SG1 \| Black Sand (Factory New) | 35.15 | +16.1% | -4.5% | T1 | False |
-| 9 | Tec-9 \| Isaac (Factory New) | 203.00 | +15.3% | +9.0% | T0 | False |
-| 10 | XM1014 \| Blue Tire (Factory New) | 75.00 | +13.2% | +5.0% | T0 | False |
-| 11 | John 'Van Healen' Kask \| SWAT | 82.00 | +12.6% | +5.5% | T0 | False |
-| 12 | Vypa Sista of the Revolution \| Guerrilla Warfare | 293.50 | +11.5% | -14.9% | T1 | False |
-| 13 | Tec-9 \| Blue Titanium (Factory New) | 368.80 | +11.2% | -3.4% | T1 | False |
-| 14 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 131.00 | +8.8% | -7.5% | T1 | False |
-| 15 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 143.00 | +8.4% | -9.5% | T1 | False |
-| 16 | Chem-Haz Specialist \| SWAT | 77.50 | +8.2% | -8.4% | T1 | False |
-| 17 | PP-Bizon \| Seabird (Factory New) | 76.80 | +7.9% | +10.9% | T0 | False |
-| 18 | Chem-Haz Capitaine \| Gendarmerie Nationale | 144.88 | +6.8% | -11.5% | T1 | False |
-| 19 | M4A1-S \| Golden Coil (Factory New) | 1654.00 | +5.9% | +3.0% | T1 | False |
-| 20 | MP7 \| Vault Heist (Factory New) | 138.00 | +5.7% | +29.2% | T0 | False |
-| 21 | CZ75-Auto \| Tread Plate (Factory New) | 89.00 | +5.3% | -7.2% | T1 | False |
-| 22 | AUG \| Flame Jörmungandr (Factory New) | 2220.00 | +5.2% | -4.5% | T1 | False |
-| 23 | ★ Hand Wraps \| Duct Tape (Minimal Wear) | 447.00 | +4.9% | +1.6% | T1 | False |
-| 24 | Arno The Overgrown \| Guerrilla Warfare | 126.00 | +4.9% | -10.8% | T1 | False |
-| 25 | MP5-SD \| Bamboo Garden (Factory New) | 44.96 | +4.9% | +13.9% | T0 | False |
-| 26 | 1st Lieutenant Farlow \| SWAT | 62.00 | +4.4% | -10.0% | T1 | False |
-| 27 | AK-47 \| Phantom Disruptor (Factory New) | 215.48 | +3.8% | +2.2% | T1 | False |
-| 28 | P90 \| Schematic (Factory New) | 60.00 | +3.7% | -16.8% | T1 | False |
-| 29 | Dual Berettas \| Switch Board (Factory New) | 69.00 | +3.6% | -10.0% | T1 | False |
-| 30 | Markus Delrow \| FBI HRT | 54.40 | +3.5% | +2.0% | T1 | False |
+| 4 | USP-S \| Purple DDPAT (Factory New) | 226.77 | +25.6% | +24.8% | T0 | False |
+| 5 | Sous-Lieutenant Medic \| Gendarmerie Nationale | 88.80 | +22.8% | -11.2% | T1 | False |
+| 6 | G3SG1 \| Black Sand (Factory New) | 35.15 | +16.1% | -4.5% | T1 | False |
+| 7 | Tec-9 \| Isaac (Factory New) | 203.00 | +15.3% | +9.0% | T0 | False |
+| 8 | John 'Van Healen' Kask \| SWAT | 82.00 | +12.6% | +5.5% | T0 | False |
+| 9 | Vypa Sista of the Revolution \| Guerrilla Warfare | 293.50 | +11.5% | -14.9% | T1 | False |
+| 10 | Tec-9 \| Blue Titanium (Factory New) | 368.80 | +11.2% | -3.4% | T1 | False |
+| 11 | Cmdr. Mae 'Dead Cold' Jamison \| SWAT | 131.00 | +8.8% | -7.5% | T1 | False |
+| 12 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 143.00 | +8.4% | -9.5% | T1 | False |
+| 13 | Chem-Haz Specialist \| SWAT | 77.50 | +8.2% | -8.4% | T1 | False |
+| 14 | PP-Bizon \| Seabird (Factory New) | 76.80 | +7.9% | +10.9% | T0 | False |
+| 15 | Chem-Haz Capitaine \| Gendarmerie Nationale | 144.88 | +6.8% | -11.5% | T1 | False |
+| 16 | M4A1-S \| Golden Coil (Factory New) | 1654.00 | +5.9% | +3.0% | T1 | False |
+| 17 | MP7 \| Vault Heist (Factory New) | 138.00 | +5.7% | +29.2% | T0 | False |
+| 18 | CZ75-Auto \| Tread Plate (Factory New) | 89.00 | +5.3% | -7.2% | T1 | False |
+| 19 | AUG \| Flame Jörmungandr (Factory New) | 2220.00 | +5.2% | -4.5% | T1 | False |
+| 20 | ★ Hand Wraps \| Duct Tape (Minimal Wear) | 447.00 | +4.9% | +1.6% | T1 | False |
+| 21 | Arno The Overgrown \| Guerrilla Warfare | 126.00 | +4.9% | -10.8% | T1 | False |
+| 22 | MP5-SD \| Bamboo Garden (Factory New) | 44.96 | +4.9% | +13.9% | T0 | False |
+| 23 | 1st Lieutenant Farlow \| SWAT | 62.00 | +4.4% | -10.0% | T1 | False |
+| 24 | AK-47 \| Phantom Disruptor (Factory New) | 215.48 | +3.8% | +2.2% | T1 | False |
+| 25 | P90 \| Schematic (Factory New) | 60.00 | +3.7% | -16.8% | T1 | False |
+| 26 | Dual Berettas \| Switch Board (Factory New) | 69.00 | +3.6% | -10.0% | T1 | False |
+| 27 | Markus Delrow \| FBI HRT | 54.40 | +3.5% | +2.0% | T1 | False |
+| 28 | Lieutenant 'Tree Hugger' Farlow \| SWAT | 115.00 | +3.2% | -7.6% | T1 | False |
+| 29 | Primeiro Tenente \| Brazilian 1st Battalion | 743.50 | +2.9% | -15.2% | T1 | False |
+| 30 | Officer Jacques Beltram \| Gendarmerie Nationale | 125.97 | +2.8% | -5.1% | T1 | False |
 
 ## 2026-07-14
 
@@ -5565,34 +5548,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Surfwood (Factory New) | 127.80 | +95.9% | +39.3% | T0 | True |
 | 2 | Tec-9 \| Titanium Bit (Factory New) | 247.00 | +52.3% | +43.8% | T0 | False |
-| 3 | Sawed-Off \| Jungle Thicket (Factory New) | 41.00 | +28.5% | -12.0% | T1 | False |
-| 4 | XM1014 \| Blue Tire (Factory New) | 72.80 | +25.6% | +6.4% | T0 | False |
-| 5 | MP9 \| Goo (Factory New) | 63.20 | +24.1% | +19.4% | T0 | False |
-| 6 | Aspirant \| Gendarmerie Nationale | 91.10 | +20.6% | -28.9% | T1 | False |
-| 7 | Markus Delrow \| FBI HRT | 55.40 | +18.7% | -3.5% | T1 | False |
-| 8 | John 'Van Healen' Kask \| SWAT | 82.32 | +15.5% | +3.6% | T1 | False |
-| 9 | G3SG1 \| Black Sand (Factory New) | 35.15 | +14.7% | -4.4% | T1 | False |
-| 10 | Tec-9 \| Isaac (Factory New) | 198.00 | +12.9% | +6.1% | T0 | False |
-| 11 | R8 Revolver \| Memento (Factory New) | 64.89 | +10.3% | -16.6% | T1 | False |
-| 12 | M4A4 \| Red DDPAT (Factory New) | 523.74 | +10.2% | +21.7% | T0 | False |
-| 13 | USP-S \| Purple DDPAT (Factory New) | 220.50 | +8.8% | +11.6% | T0 | False |
-| 14 | Tec-9 \| Blue Titanium (Factory New) | 363.00 | +8.3% | -7.3% | T1 | False |
-| 15 | AK-47 \| Phantom Disruptor (Factory New) | 201.00 | +8.3% | -8.2% | T1 | False |
-| 16 | MP7 \| Vault Heist (Factory New) | 126.50 | +5.7% | +21.3% | T0 | False |
-| 17 | PP-Bizon \| Seabird (Factory New) | 74.00 | +5.3% | +8.9% | T0 | False |
-| 18 | Dragomir \| Sabre Footsoldier | 59.08 | +5.2% | -10.8% | T1 | False |
-| 19 | AUG \| Flame Jörmungandr (Factory New) | 2215.00 | +5.0% | -4.4% | T1 | False |
-| 20 | MP5-SD \| Bamboo Garden (Factory New) | 45.10 | +4.1% | +14.2% | T0 | False |
-| 21 | MAC-10 \| Last Dive (Factory New) | 45.88 | +4.1% | -3.5% | T1 | False |
-| 22 | Dual Berettas \| Panther (Factory New) | 79.20 | +3.8% | -4.3% | T1 | False |
-| 23 | Dual Berettas \| Switch Board (Factory New) | 68.97 | +3.8% | -8.8% | T1 | False |
-| 24 | MAC-10 \| Whitefish (Factory New) | 34.00 | +3.7% | +7.6% | T0 | False |
-| 25 | Chem-Haz Specialist \| SWAT | 73.90 | +2.8% | -9.1% | T1 | False |
-| 26 | ★ Bloodhound Gloves \| Charred (Field-Tested) | 1779.00 | +2.3% | -2.4% | T1 | False |
-| 27 | Galil AR \| CAUTION! (Factory New) | 545.00 | +2.1% | -10.1% | T1 | False |
-| 28 | Desert Eagle \| Heirloom (Factory New) | 767.50 | +2.0% | -0.6% | T1 | False |
-| 29 | Chem-Haz Capitaine \| Gendarmerie Nationale | 146.00 | +1.9% | -11.0% | T1 | False |
-| 30 | ★ Driver Gloves \| Queen Jaguar (Minimal Wear) | 709.00 | +1.4% | -5.0% | T1 | False |
+| 3 | MP9 \| Goo (Factory New) | 63.20 | +24.1% | +19.4% | T0 | False |
+| 4 | Aspirant \| Gendarmerie Nationale | 91.10 | +20.6% | -28.9% | T1 | False |
+| 5 | Markus Delrow \| FBI HRT | 55.40 | +18.7% | -3.5% | T1 | False |
+| 6 | John 'Van Healen' Kask \| SWAT | 82.32 | +15.5% | +3.6% | T1 | False |
+| 7 | G3SG1 \| Black Sand (Factory New) | 35.15 | +14.7% | -4.4% | T1 | False |
+| 8 | Tec-9 \| Isaac (Factory New) | 198.00 | +12.9% | +6.1% | T0 | False |
+| 9 | M4A4 \| Red DDPAT (Factory New) | 523.74 | +10.2% | +21.7% | T0 | False |
+| 10 | USP-S \| Purple DDPAT (Factory New) | 220.50 | +8.8% | +11.6% | T0 | False |
+| 11 | Tec-9 \| Blue Titanium (Factory New) | 363.00 | +8.3% | -7.3% | T1 | False |
+| 12 | AK-47 \| Phantom Disruptor (Factory New) | 201.00 | +8.3% | -8.2% | T1 | False |
+| 13 | MP7 \| Vault Heist (Factory New) | 126.50 | +5.7% | +21.3% | T0 | False |
+| 14 | PP-Bizon \| Seabird (Factory New) | 74.00 | +5.3% | +8.9% | T0 | False |
+| 15 | Dragomir \| Sabre Footsoldier | 59.08 | +5.2% | -10.8% | T1 | False |
+| 16 | AUG \| Flame Jörmungandr (Factory New) | 2215.00 | +5.0% | -4.4% | T1 | False |
+| 17 | MP5-SD \| Bamboo Garden (Factory New) | 45.10 | +4.1% | +14.2% | T0 | False |
+| 18 | MAC-10 \| Last Dive (Factory New) | 45.88 | +4.1% | -3.5% | T1 | False |
+| 19 | Dual Berettas \| Panther (Factory New) | 79.20 | +3.8% | -4.3% | T1 | False |
+| 20 | Dual Berettas \| Switch Board (Factory New) | 68.97 | +3.8% | -8.8% | T1 | False |
+| 21 | MAC-10 \| Whitefish (Factory New) | 34.00 | +3.7% | +7.6% | T0 | False |
+| 22 | Chem-Haz Specialist \| SWAT | 73.90 | +2.8% | -9.1% | T1 | False |
+| 23 | ★ Bloodhound Gloves \| Charred (Field-Tested) | 1779.00 | +2.3% | -2.4% | T1 | False |
+| 24 | Galil AR \| CAUTION! (Factory New) | 545.00 | +2.1% | -10.1% | T1 | False |
+| 25 | Desert Eagle \| Heirloom (Factory New) | 767.50 | +2.0% | -0.6% | T1 | False |
+| 26 | Chem-Haz Capitaine \| Gendarmerie Nationale | 146.00 | +1.9% | -11.0% | T1 | False |
+| 27 | ★ Driver Gloves \| Queen Jaguar (Minimal Wear) | 709.00 | +1.4% | -5.0% | T1 | False |
+| 28 | Chef d'Escadron Rouchard \| Gendarmerie Nationale | 142.00 | +1.4% | -10.6% | T1 | False |
+| 29 | M4A1-S \| Golden Coil (Factory New) | 1640.00 | +1.3% | -1.9% | T1 | False |
+| 30 | ★ Specialist Gloves \| Mogul (Field-Tested) | 653.00 | +1.3% | +1.2% | T1 | False |
 
 ## 2026-07-15
 
@@ -5600,34 +5583,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Surfwood (Factory New) | 132.77 | +104.3% | +45.7% | T0 | True |
 | 2 | Tec-9 \| Titanium Bit (Factory New) | 249.99 | +43.0% | +52.0% | T0 | False |
-| 3 | XM1014 \| Blue Tire (Factory New) | 63.00 | +27.4% | -1.8% | T1 | False |
-| 4 | Sawed-Off \| Jungle Thicket (Factory New) | 42.63 | +26.7% | -10.9% | T1 | False |
-| 5 | USP-S \| Purple DDPAT (Factory New) | 270.50 | +16.1% | -1.9% | T1 | False |
-| 6 | Tec-9 \| Isaac (Factory New) | 206.00 | +16.1% | -5.4% | T1 | False |
-| 7 | Markus Delrow \| FBI HRT | 54.50 | +15.9% | -8.3% | T1 | False |
-| 8 | PP-Bizon \| Seabird (Factory New) | 75.00 | +13.3% | +9.3% | T0 | False |
-| 9 | MP7 \| Vault Heist (Factory New) | 131.50 | +11.5% | +4.4% | T1 | False |
-| 10 | MP5-SD \| Bamboo Garden (Factory New) | 45.00 | +10.1% | +5.2% | T0 | False |
-| 11 | Tec-9 \| Blue Titanium (Factory New) | 372.50 | +9.9% | -11.8% | T1 | False |
-| 12 | MAC-10 \| Whitefish (Factory New) | 35.80 | +9.9% | +8.4% | T0 | False |
-| 13 | AK-47 \| Phantom Disruptor (Factory New) | 209.00 | +8.6% | -14.0% | T1 | False |
-| 14 | R8 Revolver \| Memento (Factory New) | 69.90 | +8.4% | -20.5% | T1 | False |
-| 15 | Tec-9 \| Rust Leaf (Factory New) | 149.50 | +7.9% | +10.7% | T0 | True |
-| 16 | M4A4 \| Red DDPAT (Factory New) | 499.18 | +7.5% | +15.9% | T0 | False |
-| 17 | AUG \| Flame Jörmungandr (Factory New) | 2215.00 | +4.8% | -4.6% | T1 | False |
-| 18 | John 'Van Healen' Kask \| SWAT | 80.89 | +4.8% | +2.4% | T1 | False |
-| 19 | AWP \| Black Nile (Factory New) | 184.00 | +4.5% | +7.3% | T0 | False |
-| 20 | Desert Eagle \| Fennec Fox (Factory New) | 3077.00 | +4.4% | +2.0% | T1 | False |
-| 21 | Galil AR \| Dusk Ruins (Factory New) | 284.50 | +3.3% | +14.4% | T0 | False |
-| 22 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2485.00 | +3.3% | -6.6% | T1 | False |
-| 23 | Glock-18 \| Ramese's Reach (Factory New) | 663.50 | +2.9% | -0.1% | T1 | False |
-| 24 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1688.00 | +2.4% | +0.8% | T1 | False |
-| 25 | Galil AR \| CAUTION! (Factory New) | 538.50 | +2.3% | -9.6% | T1 | False |
-| 26 | ★ Hand Wraps \| Arboreal (Minimal Wear) | 500.00 | +2.0% | +5.3% | T0 | False |
-| 27 | P250 \| Undertow (Factory New) | 456.00 | +1.9% | -3.5% | T1 | False |
-| 28 | Desert Eagle \| Heirloom (Factory New) | 749.00 | +1.8% | -8.2% | T1 | False |
-| 29 | ★ Specialist Gloves \| Foundation (Field-Tested) | 8139.50 | +1.7% | -10.4% | T1 | False |
-| 30 | ★ Bloodhound Gloves \| Charred (Field-Tested) | 1780.00 | +1.4% | -6.4% | T1 | False |
+| 3 | USP-S \| Purple DDPAT (Factory New) | 270.50 | +16.1% | -1.9% | T1 | False |
+| 4 | Tec-9 \| Isaac (Factory New) | 206.00 | +16.1% | -5.4% | T1 | False |
+| 5 | Markus Delrow \| FBI HRT | 54.50 | +15.9% | -8.3% | T1 | False |
+| 6 | PP-Bizon \| Seabird (Factory New) | 75.00 | +13.3% | +9.3% | T0 | False |
+| 7 | MP7 \| Vault Heist (Factory New) | 131.50 | +11.5% | +4.4% | T1 | False |
+| 8 | MP5-SD \| Bamboo Garden (Factory New) | 45.00 | +10.1% | +5.2% | T0 | False |
+| 9 | Tec-9 \| Blue Titanium (Factory New) | 372.50 | +9.9% | -11.8% | T1 | False |
+| 10 | MAC-10 \| Whitefish (Factory New) | 35.80 | +9.9% | +8.4% | T0 | False |
+| 11 | AK-47 \| Phantom Disruptor (Factory New) | 209.00 | +8.6% | -14.0% | T1 | False |
+| 12 | Tec-9 \| Rust Leaf (Factory New) | 149.50 | +7.9% | +10.7% | T0 | True |
+| 13 | M4A4 \| Red DDPAT (Factory New) | 499.18 | +7.5% | +15.9% | T0 | False |
+| 14 | AUG \| Flame Jörmungandr (Factory New) | 2215.00 | +4.8% | -4.6% | T1 | False |
+| 15 | John 'Van Healen' Kask \| SWAT | 80.89 | +4.8% | +2.4% | T1 | False |
+| 16 | AWP \| Black Nile (Factory New) | 184.00 | +4.5% | +7.3% | T0 | False |
+| 17 | Desert Eagle \| Fennec Fox (Factory New) | 3077.00 | +4.4% | +2.0% | T1 | False |
+| 18 | Galil AR \| Dusk Ruins (Factory New) | 284.50 | +3.3% | +14.4% | T0 | False |
+| 19 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2485.00 | +3.3% | -6.6% | T1 | False |
+| 20 | Glock-18 \| Ramese's Reach (Factory New) | 663.50 | +2.9% | -0.1% | T1 | False |
+| 21 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1688.00 | +2.4% | +0.8% | T1 | False |
+| 22 | Galil AR \| CAUTION! (Factory New) | 538.50 | +2.3% | -9.6% | T1 | False |
+| 23 | ★ Hand Wraps \| Arboreal (Minimal Wear) | 500.00 | +2.0% | +5.3% | T0 | False |
+| 24 | P250 \| Undertow (Factory New) | 456.00 | +1.9% | -3.5% | T1 | False |
+| 25 | Desert Eagle \| Heirloom (Factory New) | 749.00 | +1.8% | -8.2% | T1 | False |
+| 26 | ★ Specialist Gloves \| Foundation (Field-Tested) | 8139.50 | +1.7% | -10.4% | T1 | False |
+| 27 | ★ Bloodhound Gloves \| Charred (Field-Tested) | 1780.00 | +1.4% | -6.4% | T1 | False |
+| 28 | ★ Driver Gloves \| Convoy (Field-Tested) | 3919.50 | +1.3% | -10.4% | T1 | False |
+| 29 | Desert Eagle \| Kumicho Dragon (Factory New) | 610.00 | +1.3% | -5.3% | T1 | False |
+| 30 | MP5-SD \| Oxide Oasis (Factory New) | 1218.50 | +1.3% | +3.1% | T1 | False |
 
 ## 2026-07-16
 
@@ -5635,34 +5618,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Surfwood (Factory New) | 126.50 | +107.9% | +41.8% | T0 | True |
 | 2 | Tec-9 \| Titanium Bit (Factory New) | 270.00 | +51.7% | +40.4% | T0 | False |
-| 3 | XM1014 \| Blue Tire (Factory New) | 65.40 | +34.6% | -4.2% | T1 | False |
-| 4 | USP-S \| Purple DDPAT (Factory New) | 269.00 | +29.1% | -8.6% | T1 | False |
-| 5 | MP7 \| Vault Heist (Factory New) | 134.40 | +28.1% | -1.5% | T1 | False |
-| 6 | Sawed-Off \| Jungle Thicket (Factory New) | 42.63 | +26.8% | -9.5% | T1 | False |
-| 7 | Tec-9 \| Isaac (Factory New) | 207.50 | +25.1% | -13.9% | T1 | False |
-| 8 | M4A4 \| Red DDPAT (Factory New) | 542.00 | +19.5% | +9.5% | T0 | False |
-| 9 | Tec-9 \| Rust Leaf (Factory New) | 140.38 | +18.6% | +7.3% | T0 | True |
-| 10 | MP5-SD \| Bamboo Garden (Factory New) | 44.88 | +17.1% | -0.3% | T1 | False |
-| 11 | PP-Bizon \| Seabird (Factory New) | 72.90 | +15.7% | +3.5% | T1 | False |
-| 12 | Tec-9 \| Blue Titanium (Factory New) | 370.00 | +15.4% | -13.6% | T1 | False |
-| 13 | Markus Delrow \| FBI HRT | 55.80 | +15.4% | -13.5% | T1 | False |
-| 14 | MAC-10 \| Carnivore (Factory New) | 38.90 | +14.5% | +1.9% | T1 | False |
-| 15 | Galil AR \| Dusk Ruins (Factory New) | 297.18 | +13.7% | +9.2% | T0 | False |
-| 16 | Desert Eagle \| Fennec Fox (Factory New) | 2976.90 | +13.2% | -3.0% | T1 | False |
-| 17 | Desert Eagle \| Night Heist (Factory New) | 824.50 | +11.9% | -2.9% | T1 | False |
-| 18 | AK-47 \| Phantom Disruptor (Factory New) | 209.00 | +11.6% | -13.7% | T1 | False |
-| 19 | CZ75-Auto \| Polymer (Factory New) | 49.77 | +11.2% | +8.1% | T0 | False |
-| 20 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1787.00 | +8.7% | -2.7% | T1 | False |
-| 21 | MAC-10 \| Whitefish (Factory New) | 34.80 | +8.0% | +2.8% | T1 | False |
-| 22 | Glock-18 \| Franklin (Factory New) | 989.00 | +7.9% | -2.9% | T1 | False |
-| 23 | Galil AR \| Phoenix Blacklight (Factory New) | 1200.00 | +7.3% | -8.8% | T1 | False |
-| 24 | CZ75-Auto \| Emerald (Factory New) | 251.50 | +7.1% | -8.4% | T1 | False |
-| 25 | P250 \| Undertow (Factory New) | 459.50 | +7.0% | -17.1% | T1 | False |
-| 26 | AWP \| Black Nile (Factory New) | 175.87 | +6.8% | +3.6% | T1 | False |
-| 27 | ★ Bloodhound Gloves \| Charred (Field-Tested) | 1818.38 | +6.7% | -6.2% | T1 | False |
-| 28 | MP9 \| Goo (Factory New) | 79.50 | +6.7% | +32.9% | T0 | False |
-| 29 | AWP \| Silk Tiger (Factory New) | 3899.50 | +6.5% | -5.7% | T1 | False |
-| 30 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1670.00 | +6.1% | -0.6% | T1 | False |
+| 3 | USP-S \| Purple DDPAT (Factory New) | 269.00 | +29.1% | -8.6% | T1 | False |
+| 4 | MP7 \| Vault Heist (Factory New) | 134.40 | +28.1% | -1.5% | T1 | False |
+| 5 | Tec-9 \| Isaac (Factory New) | 207.50 | +25.1% | -13.9% | T1 | False |
+| 6 | M4A4 \| Red DDPAT (Factory New) | 542.00 | +19.5% | +9.5% | T0 | False |
+| 7 | Tec-9 \| Rust Leaf (Factory New) | 140.38 | +18.6% | +7.3% | T0 | True |
+| 8 | MP5-SD \| Bamboo Garden (Factory New) | 44.88 | +17.1% | -0.3% | T1 | False |
+| 9 | PP-Bizon \| Seabird (Factory New) | 72.90 | +15.7% | +3.5% | T1 | False |
+| 10 | Tec-9 \| Blue Titanium (Factory New) | 370.00 | +15.4% | -13.6% | T1 | False |
+| 11 | Markus Delrow \| FBI HRT | 55.80 | +15.4% | -13.5% | T1 | False |
+| 12 | MAC-10 \| Carnivore (Factory New) | 38.90 | +14.5% | +1.9% | T1 | False |
+| 13 | Galil AR \| Dusk Ruins (Factory New) | 297.18 | +13.7% | +9.2% | T0 | False |
+| 14 | Desert Eagle \| Fennec Fox (Factory New) | 2976.90 | +13.2% | -3.0% | T1 | False |
+| 15 | Desert Eagle \| Night Heist (Factory New) | 824.50 | +11.9% | -2.9% | T1 | False |
+| 16 | AK-47 \| Phantom Disruptor (Factory New) | 209.00 | +11.6% | -13.7% | T1 | False |
+| 17 | CZ75-Auto \| Polymer (Factory New) | 49.77 | +11.2% | +8.1% | T0 | False |
+| 18 | ★ Bloodhound Gloves \| Bronzed (Minimal Wear) | 1787.00 | +8.7% | -2.7% | T1 | False |
+| 19 | MAC-10 \| Whitefish (Factory New) | 34.80 | +8.0% | +2.8% | T1 | False |
+| 20 | Glock-18 \| Franklin (Factory New) | 989.00 | +7.9% | -2.9% | T1 | False |
+| 21 | Galil AR \| Phoenix Blacklight (Factory New) | 1200.00 | +7.3% | -8.8% | T1 | False |
+| 22 | CZ75-Auto \| Emerald (Factory New) | 251.50 | +7.1% | -8.4% | T1 | False |
+| 23 | P250 \| Undertow (Factory New) | 459.50 | +7.0% | -17.1% | T1 | False |
+| 24 | AWP \| Black Nile (Factory New) | 175.87 | +6.8% | +3.6% | T1 | False |
+| 25 | ★ Bloodhound Gloves \| Charred (Field-Tested) | 1818.38 | +6.7% | -6.2% | T1 | False |
+| 26 | MP9 \| Goo (Factory New) | 79.50 | +6.7% | +32.9% | T0 | False |
+| 27 | AWP \| Silk Tiger (Factory New) | 3899.50 | +6.5% | -5.7% | T1 | False |
+| 28 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1670.00 | +6.1% | -0.6% | T1 | False |
+| 29 | ★ Specialist Gloves \| Forest DDPAT (Field-Tested) | 2329.00 | +5.9% | -7.1% | T1 | False |
+| 30 | Tec-9 \| Phoenix Chalk (Factory New) | 128.80 | +5.9% | +5.1% | T0 | False |
 
 ## 2026-07-17
 
@@ -5670,69 +5653,69 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Surfwood (Factory New) | 123.40 | +94.5% | +54.6% | T0 | True |
 | 2 | Tec-9 \| Titanium Bit (Factory New) | 258.00 | +42.8% | +46.1% | T0 | False |
-| 3 | XM1014 \| Blue Tire (Factory New) | 65.00 | +41.3% | -6.7% | T1 | False |
-| 4 | Tec-9 \| Rust Leaf (Factory New) | 131.88 | +30.7% | +3.5% | T1 | True |
-| 5 | MP7 \| Vault Heist (Factory New) | 125.50 | +29.1% | -5.0% | T1 | False |
-| 6 | CZ75-Auto \| Polymer (Factory New) | 47.57 | +27.9% | +0.6% | T1 | False |
-| 7 | M4A4 \| Red DDPAT (Factory New) | 514.99 | +27.2% | +7.5% | T0 | False |
-| 8 | Sawed-Off \| Jungle Thicket (Factory New) | 42.00 | +25.0% | -8.4% | T1 | False |
-| 9 | USP-S \| Purple DDPAT (Factory New) | 256.00 | +23.6% | -11.2% | T1 | False |
-| 10 | MP5-SD \| Bamboo Garden (Factory New) | 44.40 | +23.4% | -9.4% | T1 | False |
-| 11 | Galil AR \| Dusk Ruins (Factory New) | 288.90 | +21.5% | +8.6% | T0 | False |
-| 12 | PP-Bizon \| Seabird (Factory New) | 74.50 | +19.9% | -3.6% | T1 | False |
-| 13 | P250 \| Undertow (Factory New) | 465.50 | +17.6% | -13.7% | T1 | False |
-| 14 | Tec-9 \| Phoenix Chalk (Factory New) | 131.50 | +17.0% | +3.5% | T1 | False |
-| 15 | Desert Eagle \| Fennec Fox (Factory New) | 2899.00 | +16.0% | -5.9% | T1 | False |
-| 16 | Markus Delrow \| FBI HRT | 56.00 | +15.3% | -14.0% | T1 | False |
-| 17 | Desert Eagle \| Night Heist (Factory New) | 785.00 | +14.9% | -5.5% | T1 | False |
-| 18 | FAMAS \| CaliCamo (Factory New) | 30.77 | +14.6% | +5.3% | T0 | False |
-| 19 | MAC-10 \| Carnivore (Factory New) | 35.00 | +14.1% | -0.4% | T1 | False |
-| 20 | Dual Berettas \| Heist (Factory New) | 37.39 | +13.6% | +3.4% | T1 | False |
-| 21 | Galil AR \| Phoenix Blacklight (Factory New) | 1179.00 | +13.2% | -7.2% | T1 | False |
-| 22 | MP9 \| Goo (Factory New) | 69.00 | +11.4% | +33.6% | T0 | False |
-| 23 | AWP \| Silk Tiger (Factory New) | 3750.00 | +11.3% | -8.4% | T1 | False |
-| 24 | AWP \| Black Nile (Factory New) | 176.90 | +11.2% | +2.8% | T1 | False |
-| 25 | Glock-18 \| Franklin (Factory New) | 959.00 | +10.9% | -4.8% | T1 | False |
-| 26 | MP7 \| Asterion (Factory New) | 125.00 | +10.5% | +1.3% | T1 | False |
-| 27 | USP-S \| Orange Anolis (Factory New) | 439.50 | +10.5% | +3.9% | T1 | False |
-| 28 | Tec-9 \| Isaac (Factory New) | 199.00 | +10.4% | -17.4% | T1 | False |
-| 29 | Tec-9 \| Blue Titanium (Factory New) | 355.00 | +9.8% | -11.9% | T1 | False |
-| 30 | MAC-10 \| Whitefish (Factory New) | 36.42 | +9.3% | +15.0% | T0 | False |
+| 3 | Tec-9 \| Rust Leaf (Factory New) | 131.88 | +30.7% | +3.5% | T1 | True |
+| 4 | MP7 \| Vault Heist (Factory New) | 125.50 | +29.1% | -5.0% | T1 | False |
+| 5 | CZ75-Auto \| Polymer (Factory New) | 47.57 | +27.9% | +0.6% | T1 | False |
+| 6 | M4A4 \| Red DDPAT (Factory New) | 514.99 | +27.2% | +7.5% | T0 | False |
+| 7 | USP-S \| Purple DDPAT (Factory New) | 256.00 | +23.6% | -11.2% | T1 | False |
+| 8 | MP5-SD \| Bamboo Garden (Factory New) | 44.40 | +23.4% | -9.4% | T1 | False |
+| 9 | Galil AR \| Dusk Ruins (Factory New) | 288.90 | +21.5% | +8.6% | T0 | False |
+| 10 | PP-Bizon \| Seabird (Factory New) | 74.50 | +19.9% | -3.6% | T1 | False |
+| 11 | P250 \| Undertow (Factory New) | 465.50 | +17.6% | -13.7% | T1 | False |
+| 12 | Tec-9 \| Phoenix Chalk (Factory New) | 131.50 | +17.0% | +3.5% | T1 | False |
+| 13 | Desert Eagle \| Fennec Fox (Factory New) | 2899.00 | +16.0% | -5.9% | T1 | False |
+| 14 | Markus Delrow \| FBI HRT | 56.00 | +15.3% | -14.0% | T1 | False |
+| 15 | Desert Eagle \| Night Heist (Factory New) | 785.00 | +14.9% | -5.5% | T1 | False |
+| 16 | FAMAS \| CaliCamo (Factory New) | 30.77 | +14.6% | +5.3% | T0 | False |
+| 17 | MAC-10 \| Carnivore (Factory New) | 35.00 | +14.1% | -0.4% | T1 | False |
+| 18 | Dual Berettas \| Heist (Factory New) | 37.39 | +13.6% | +3.4% | T1 | False |
+| 19 | Galil AR \| Phoenix Blacklight (Factory New) | 1179.00 | +13.2% | -7.2% | T1 | False |
+| 20 | MP9 \| Goo (Factory New) | 69.00 | +11.4% | +33.6% | T0 | False |
+| 21 | AWP \| Silk Tiger (Factory New) | 3750.00 | +11.3% | -8.4% | T1 | False |
+| 22 | AWP \| Black Nile (Factory New) | 176.90 | +11.2% | +2.8% | T1 | False |
+| 23 | Glock-18 \| Franklin (Factory New) | 959.00 | +10.9% | -4.8% | T1 | False |
+| 24 | MP7 \| Asterion (Factory New) | 125.00 | +10.5% | +1.3% | T1 | False |
+| 25 | USP-S \| Orange Anolis (Factory New) | 439.50 | +10.5% | +3.9% | T1 | False |
+| 26 | Tec-9 \| Isaac (Factory New) | 199.00 | +10.4% | -17.4% | T1 | False |
+| 27 | Tec-9 \| Blue Titanium (Factory New) | 355.00 | +9.8% | -11.9% | T1 | False |
+| 28 | MAC-10 \| Whitefish (Factory New) | 36.42 | +9.3% | +15.0% | T0 | False |
+| 29 | G3SG1 \| New Roots (Factory New) | 42.00 | +8.6% | +5.1% | T0 | False |
+| 30 | AUG \| Luxe Trim (Factory New) | 71.60 | +8.3% | +20.2% | T0 | False |
 
 ## 2026-07-18
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
-| 1 | XM1014 \| Blue Tire (Factory New) | 64.90 | +34.8% | +1.5% | T1 | False |
-| 2 | MAC-10 \| Surfwood (Factory New) | 131.00 | +33.1% | +30.3% | T0 | True |
-| 3 | AUG \| Luxe Trim (Factory New) | 60.00 | +32.3% | +10.9% | T0 | False |
-| 4 | Tec-9 \| Titanium Bit (Factory New) | 277.80 | +31.2% | +30.5% | T0 | False |
-| 5 | MP7 \| Vault Heist (Factory New) | 133.00 | +29.5% | -8.2% | T1 | False |
-| 6 | Galil AR \| Dusk Ruins (Factory New) | 288.00 | +28.0% | -4.8% | T1 | False |
-| 7 | FAMAS \| CaliCamo (Factory New) | 30.50 | +27.8% | -11.6% | T1 | False |
-| 8 | Sawed-Off \| Jungle Thicket (Factory New) | 42.00 | +25.0% | -9.9% | T1 | False |
-| 9 | CZ75-Auto \| Polymer (Factory New) | 44.90 | +24.6% | +0.3% | T1 | False |
-| 10 | MP5-SD \| Bamboo Garden (Factory New) | 44.20 | +22.7% | -12.2% | T1 | False |
-| 11 | Dual Berettas \| Heist (Factory New) | 35.69 | +22.7% | -12.3% | T1 | False |
-| 12 | M4A4 \| Red DDPAT (Factory New) | 509.50 | +19.8% | +6.5% | T0 | False |
-| 13 | PP-Bizon \| Seabird (Factory New) | 74.90 | +14.4% | -8.0% | T1 | False |
-| 14 | Desert Eagle \| Fennec Fox (Factory New) | 2978.40 | +14.1% | -9.6% | T1 | False |
-| 15 | USP-S \| Purple DDPAT (Factory New) | 281.88 | +14.0% | -19.4% | T1 | False |
-| 16 | AWP \| Black Nile (Factory New) | 174.50 | +13.3% | -2.0% | T1 | False |
-| 17 | P250 \| Undertow (Factory New) | 449.00 | +13.0% | -13.9% | T1 | False |
-| 18 | Tec-9 \| Phoenix Chalk (Factory New) | 126.50 | +12.7% | -1.8% | T1 | False |
-| 19 | Desert Eagle \| Night Heist (Factory New) | 814.90 | +12.7% | -9.0% | T1 | False |
-| 20 | Tec-9 \| Isaac (Factory New) | 233.00 | +12.3% | -18.2% | T1 | False |
-| 21 | MP7 \| Asterion (Factory New) | 124.00 | +11.3% | -2.3% | T1 | False |
-| 22 | G3SG1 \| New Roots (Factory New) | 40.00 | +10.0% | +4.9% | T1 | False |
-| 23 | AWP \| Silk Tiger (Factory New) | 3796.00 | +9.2% | -12.8% | T1 | False |
-| 24 | Five-SeveN \| Urban Hazard (Factory New) | 41.00 | +9.2% | -14.9% | T1 | False |
-| 25 | MP9 \| Goo (Factory New) | 65.00 | +8.7% | +50.1% | T0 | False |
-| 26 | Galil AR \| Amber Fade (Factory New) | 133.00 | +8.5% | +18.2% | T0 | False |
-| 27 | Glock-18 \| Franklin (Factory New) | 979.00 | +8.4% | -7.1% | T1 | False |
-| 28 | Tec-9 \| Mummy's Rot (Factory New) | 128.00 | +8.3% | +7.0% | T0 | False |
-| 29 | MAC-10 \| Carnivore (Factory New) | 36.90 | +8.1% | -0.5% | T1 | False |
-| 30 | Galil AR \| Phoenix Blacklight (Factory New) | 1175.67 | +7.3% | -8.0% | T1 | False |
+| 1 | MAC-10 \| Surfwood (Factory New) | 131.00 | +33.1% | +30.3% | T0 | True |
+| 2 | AUG \| Luxe Trim (Factory New) | 60.00 | +32.3% | +10.9% | T0 | False |
+| 3 | Tec-9 \| Titanium Bit (Factory New) | 277.80 | +31.2% | +30.5% | T0 | False |
+| 4 | MP7 \| Vault Heist (Factory New) | 133.00 | +29.5% | -8.2% | T1 | False |
+| 5 | Galil AR \| Dusk Ruins (Factory New) | 288.00 | +28.0% | -4.8% | T1 | False |
+| 6 | FAMAS \| CaliCamo (Factory New) | 30.50 | +27.8% | -11.6% | T1 | False |
+| 7 | CZ75-Auto \| Polymer (Factory New) | 44.90 | +24.6% | +0.3% | T1 | False |
+| 8 | MP5-SD \| Bamboo Garden (Factory New) | 44.20 | +22.7% | -12.2% | T1 | False |
+| 9 | Dual Berettas \| Heist (Factory New) | 35.69 | +22.7% | -12.3% | T1 | False |
+| 10 | M4A4 \| Red DDPAT (Factory New) | 509.50 | +19.8% | +6.5% | T0 | False |
+| 11 | PP-Bizon \| Seabird (Factory New) | 74.90 | +14.4% | -8.0% | T1 | False |
+| 12 | Desert Eagle \| Fennec Fox (Factory New) | 2978.40 | +14.1% | -9.6% | T1 | False |
+| 13 | USP-S \| Purple DDPAT (Factory New) | 281.88 | +14.0% | -19.4% | T1 | False |
+| 14 | AWP \| Black Nile (Factory New) | 174.50 | +13.3% | -2.0% | T1 | False |
+| 15 | P250 \| Undertow (Factory New) | 449.00 | +13.0% | -13.9% | T1 | False |
+| 16 | Tec-9 \| Phoenix Chalk (Factory New) | 126.50 | +12.7% | -1.8% | T1 | False |
+| 17 | Desert Eagle \| Night Heist (Factory New) | 814.90 | +12.7% | -9.0% | T1 | False |
+| 18 | Tec-9 \| Isaac (Factory New) | 233.00 | +12.3% | -18.2% | T1 | False |
+| 19 | MP7 \| Asterion (Factory New) | 124.00 | +11.3% | -2.3% | T1 | False |
+| 20 | G3SG1 \| New Roots (Factory New) | 40.00 | +10.0% | +4.9% | T1 | False |
+| 21 | AWP \| Silk Tiger (Factory New) | 3796.00 | +9.2% | -12.8% | T1 | False |
+| 22 | Five-SeveN \| Urban Hazard (Factory New) | 41.00 | +9.2% | -14.9% | T1 | False |
+| 23 | MP9 \| Goo (Factory New) | 65.00 | +8.7% | +50.1% | T0 | False |
+| 24 | Galil AR \| Amber Fade (Factory New) | 133.00 | +8.5% | +18.2% | T0 | False |
+| 25 | Glock-18 \| Franklin (Factory New) | 979.00 | +8.4% | -7.1% | T1 | False |
+| 26 | Tec-9 \| Mummy's Rot (Factory New) | 128.00 | +8.3% | +7.0% | T0 | False |
+| 27 | MAC-10 \| Carnivore (Factory New) | 36.90 | +8.1% | -0.5% | T1 | False |
+| 28 | Galil AR \| Phoenix Blacklight (Factory New) | 1175.67 | +7.3% | -8.0% | T1 | False |
+| 29 | UMP-45 \| Houndstooth (Factory New) | 49.78 | +7.2% | -20.1% | T1 | False |
+| 30 | MP7 \| Tall Grass (Factory New) | 60.70 | +6.3% | +3.6% | T1 | False |
 
 ## 2026-07-19
 
@@ -5745,29 +5728,29 @@
 | 5 | MP5-SD \| Bamboo Garden (Factory New) | 43.25 | +32.2% | -18.4% | T1 | False |
 | 6 | MP7 \| Vault Heist (Factory New) | 130.00 | +31.0% | -13.7% | T1 | False |
 | 7 | Dual Berettas \| Heist (Factory New) | 34.22 | +29.9% | -24.7% | T1 | False |
-| 8 | XM1014 \| Blue Tire (Factory New) | 68.00 | +28.2% | +11.8% | T0 | False |
-| 9 | M4A4 \| Red DDPAT (Factory New) | 525.00 | +26.0% | +0.2% | T1 | False |
-| 10 | AWP \| Black Nile (Factory New) | 166.99 | +24.7% | -5.4% | T1 | False |
-| 11 | CZ75-Auto \| Polymer (Factory New) | 44.00 | +23.4% | +6.6% | T0 | False |
-| 12 | MP9 \| Goo (Factory New) | 67.39 | +23.4% | +22.6% | T0 | False |
-| 13 | Tec-9 \| Phoenix Chalk (Factory New) | 125.50 | +22.7% | -4.1% | T1 | False |
-| 14 | Desert Eagle \| Night Heist (Factory New) | 804.98 | +21.8% | -13.8% | T1 | False |
-| 15 | Sawed-Off \| Jungle Thicket (Factory New) | 42.00 | +20.5% | -5.5% | T1 | False |
-| 16 | Galil AR \| Amber Fade (Factory New) | 135.90 | +19.5% | +13.6% | T0 | False |
-| 17 | Tec-9 \| Brother (Factory New) | 52.17 | +17.9% | -6.4% | T1 | False |
-| 18 | Tec-9 \| Isaac (Factory New) | 223.00 | +17.1% | -25.7% | T1 | False |
-| 19 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1640.00 | +15.8% | -8.6% | T1 | False |
-| 20 | Desert Eagle \| Fennec Fox (Factory New) | 2942.90 | +14.2% | -10.9% | T1 | False |
-| 21 | USP-S \| Purple DDPAT (Factory New) | 307.00 | +13.5% | -14.7% | T1 | False |
-| 22 | R8 Revolver \| Phoenix Marker (Factory New) | 119.00 | +13.1% | -2.0% | T1 | False |
-| 23 | MP9 \| Music Box (Factory New) | 98.90 | +13.1% | -13.6% | T1 | False |
-| 24 | MP7 \| Tall Grass (Factory New) | 55.00 | +12.9% | -2.3% | T1 | False |
-| 25 | AUG \| Daedalus (Factory New) | 54.07 | +12.9% | -5.5% | T1 | False |
-| 26 | AUG \| Carved Jade (Factory New) | 237.90 | +12.5% | -5.0% | T1 | False |
-| 27 | PP-Bizon \| Seabird (Factory New) | 76.54 | +11.8% | -12.7% | T1 | False |
-| 28 | Glock-18 \| Franklin (Factory New) | 969.00 | +11.6% | -12.7% | T1 | False |
-| 29 | G3SG1 \| New Roots (Factory New) | 39.48 | +11.4% | +15.6% | T0 | False |
-| 30 | Galil AR \| Phoenix Blacklight (Factory New) | 1170.00 | +10.7% | -10.8% | T1 | False |
+| 8 | M4A4 \| Red DDPAT (Factory New) | 525.00 | +26.0% | +0.2% | T1 | False |
+| 9 | AWP \| Black Nile (Factory New) | 166.99 | +24.7% | -5.4% | T1 | False |
+| 10 | CZ75-Auto \| Polymer (Factory New) | 44.00 | +23.4% | +6.6% | T0 | False |
+| 11 | MP9 \| Goo (Factory New) | 67.39 | +23.4% | +22.6% | T0 | False |
+| 12 | Tec-9 \| Phoenix Chalk (Factory New) | 125.50 | +22.7% | -4.1% | T1 | False |
+| 13 | Desert Eagle \| Night Heist (Factory New) | 804.98 | +21.8% | -13.8% | T1 | False |
+| 14 | Galil AR \| Amber Fade (Factory New) | 135.90 | +19.5% | +13.6% | T0 | False |
+| 15 | Tec-9 \| Brother (Factory New) | 52.17 | +17.9% | -6.4% | T1 | False |
+| 16 | Tec-9 \| Isaac (Factory New) | 223.00 | +17.1% | -25.7% | T1 | False |
+| 17 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1640.00 | +15.8% | -8.6% | T1 | False |
+| 18 | Desert Eagle \| Fennec Fox (Factory New) | 2942.90 | +14.2% | -10.9% | T1 | False |
+| 19 | USP-S \| Purple DDPAT (Factory New) | 307.00 | +13.5% | -14.7% | T1 | False |
+| 20 | MP9 \| Music Box (Factory New) | 98.90 | +13.1% | -13.6% | T1 | False |
+| 21 | MP7 \| Tall Grass (Factory New) | 55.00 | +12.9% | -2.3% | T1 | False |
+| 22 | AUG \| Daedalus (Factory New) | 54.07 | +12.9% | -5.5% | T1 | False |
+| 23 | AUG \| Carved Jade (Factory New) | 237.90 | +12.5% | -5.0% | T1 | False |
+| 24 | PP-Bizon \| Seabird (Factory New) | 76.54 | +11.8% | -12.7% | T1 | False |
+| 25 | Glock-18 \| Franklin (Factory New) | 969.00 | +11.6% | -12.7% | T1 | False |
+| 26 | G3SG1 \| New Roots (Factory New) | 39.48 | +11.4% | +15.6% | T0 | False |
+| 27 | Galil AR \| Phoenix Blacklight (Factory New) | 1170.00 | +10.7% | -10.8% | T1 | False |
+| 28 | AWP \| Silk Tiger (Factory New) | 3748.00 | +10.3% | -14.5% | T1 | False |
+| 29 | UMP-45 \| Houndstooth (Factory New) | 49.49 | +10.3% | -18.5% | T1 | False |
+| 30 | Tec-9 \| Mummy's Rot (Factory New) | 123.00 | +9.9% | +6.8% | T0 | False |
 
 ## 2026-07-20
 
@@ -5789,20 +5772,20 @@
 | 14 | Desert Eagle \| Night Heist (Factory New) | 745.00 | +28.2% | -17.5% | T1 | False |
 | 15 | MP9 \| Goo (Factory New) | 63.75 | +26.6% | +13.2% | T0 | False |
 | 16 | CZ75-Auto \| Polymer (Factory New) | 42.15 | +25.8% | +11.2% | T0 | False |
-| 17 | R8 Revolver \| Phoenix Marker (Factory New) | 113.50 | +25.3% | -17.2% | T1 | False |
-| 18 | USP-S \| Purple DDPAT (Factory New) | 286.50 | +24.8% | -23.9% | T1 | False |
-| 19 | Glock-18 \| Red Tire (Factory New) | 139.00 | +24.3% | -17.7% | T1 | False |
-| 20 | USP-S \| Desert Tactical (Factory New) | 40.90 | +23.7% | -13.1% | T1 | False |
-| 21 | MP9 \| Music Box (Factory New) | 93.90 | +23.5% | -19.9% | T1 | False |
-| 22 | G3SG1 \| New Roots (Factory New) | 39.00 | +23.0% | +3.6% | T1 | False |
-| 23 | MAG-7 \| BI83 Spectrum (Factory New) | 54.26 | +22.3% | -27.8% | T1 | False |
-| 24 | Glock-18 \| Franklin (Factory New) | 964.50 | +22.3% | -21.7% | T1 | False |
-| 25 | Desert Eagle \| Fennec Fox (Factory New) | 2882.38 | +22.1% | -16.4% | T1 | False |
-| 26 | Tec-9 \| Brother (Factory New) | 48.70 | +21.8% | +11.1% | T0 | False |
-| 27 | AUG \| Carved Jade (Factory New) | 230.00 | +20.6% | -13.4% | T1 | False |
-| 28 | AWP \| Black Nile (Factory New) | 154.79 | +20.5% | -14.6% | T1 | False |
-| 29 | Tec-9 \| Rust Leaf (Factory New) | 156.45 | +18.5% | -13.2% | T1 | False |
-| 30 | AWP \| Silk Tiger (Factory New) | 3673.50 | +17.6% | -14.4% | T1 | False |
+| 17 | USP-S \| Purple DDPAT (Factory New) | 286.50 | +24.8% | -23.9% | T1 | False |
+| 18 | Glock-18 \| Red Tire (Factory New) | 139.00 | +24.3% | -17.7% | T1 | False |
+| 19 | USP-S \| Desert Tactical (Factory New) | 40.90 | +23.7% | -13.1% | T1 | False |
+| 20 | MP9 \| Music Box (Factory New) | 93.90 | +23.5% | -19.9% | T1 | False |
+| 21 | G3SG1 \| New Roots (Factory New) | 39.00 | +23.0% | +3.6% | T1 | False |
+| 22 | Glock-18 \| Franklin (Factory New) | 964.50 | +22.3% | -21.7% | T1 | False |
+| 23 | Desert Eagle \| Fennec Fox (Factory New) | 2882.38 | +22.1% | -16.4% | T1 | False |
+| 24 | Tec-9 \| Brother (Factory New) | 48.70 | +21.8% | +11.1% | T0 | False |
+| 25 | AUG \| Carved Jade (Factory New) | 230.00 | +20.6% | -13.4% | T1 | False |
+| 26 | AWP \| Black Nile (Factory New) | 154.79 | +20.5% | -14.6% | T1 | False |
+| 27 | Tec-9 \| Rust Leaf (Factory New) | 156.45 | +18.5% | -13.2% | T1 | False |
+| 28 | AWP \| Silk Tiger (Factory New) | 3673.50 | +17.6% | -14.4% | T1 | False |
+| 29 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1539.50 | +17.3% | -14.1% | T1 | False |
+| 30 | P250 \| Undertow (Factory New) | 455.50 | +16.1% | -16.7% | T1 | False |
 
 ## 2026-07-21
 
@@ -5818,26 +5801,26 @@
 | 8 | USP-S \| Desert Tactical (Factory New) | 39.00 | +29.4% | -15.5% | T1 | False |
 | 9 | Tec-9 \| Phoenix Chalk (Factory New) | 122.50 | +25.6% | -6.5% | T1 | False |
 | 10 | Galil AR \| Amber Fade (Factory New) | 129.50 | +25.6% | +14.3% | T0 | False |
-| 11 | R8 Revolver \| Phoenix Marker (Factory New) | 118.00 | +25.0% | -11.7% | T1 | False |
-| 12 | AUG \| Carved Jade (Factory New) | 228.80 | +23.5% | -13.9% | T1 | False |
-| 13 | P2000 \| Panther Camo (Factory New) | 42.47 | +23.3% | -1.0% | T1 | False |
-| 14 | Tec-9 \| Mummy's Rot (Factory New) | 118.50 | +23.3% | -16.8% | T1 | False |
-| 15 | G3SG1 \| New Roots (Factory New) | 39.25 | +23.0% | +3.3% | T1 | False |
-| 16 | MP7 \| Asterion (Factory New) | 114.50 | +22.2% | -5.4% | T1 | False |
-| 17 | M4A4 \| Red DDPAT (Factory New) | 545.00 | +21.7% | +4.7% | T1 | False |
-| 18 | Tec-9 \| Brother (Factory New) | 46.60 | +21.7% | +20.4% | T0 | False |
-| 19 | MP7 \| Vault Heist (Factory New) | 138.50 | +21.3% | -13.1% | T1 | False |
-| 20 | MP9 \| Music Box (Factory New) | 92.95 | +21.2% | -9.3% | T1 | False |
-| 21 | MAC-10 \| Classic Crate (Factory New) | 39.86 | +20.1% | +8.6% | T0 | False |
-| 22 | MAG-7 \| Silver (Factory New) | 102.99 | +20.0% | -15.8% | T1 | False |
-| 23 | Tec-9 \| Cut Out (Factory New) | 120.18 | +20.0% | +3.8% | T1 | False |
-| 24 | Tec-9 \| Rust Leaf (Factory New) | 153.98 | +19.8% | -13.7% | T1 | False |
-| 25 | Tec-9 \| Blast From the Past (Factory New) | 81.76 | +19.7% | -18.2% | T1 | False |
-| 26 | MP9 \| Goo (Factory New) | 66.33 | +19.4% | -4.0% | T1 | False |
-| 27 | AUG \| Plague (Factory New) | 42.49 | +18.7% | -16.8% | T1 | False |
-| 28 | Dual Berettas \| Moon in Libra (Factory New) | 59.18 | +17.8% | -2.8% | T1 | False |
-| 29 | Desert Eagle \| Night Heist (Factory New) | 748.50 | +17.4% | -10.7% | T1 | False |
-| 30 | USP-S \| Orange Anolis (Factory New) | 420.00 | +17.0% | +0.6% | T1 | False |
+| 11 | AUG \| Carved Jade (Factory New) | 228.80 | +23.5% | -13.9% | T1 | False |
+| 12 | P2000 \| Panther Camo (Factory New) | 42.47 | +23.3% | -1.0% | T1 | False |
+| 13 | Tec-9 \| Mummy's Rot (Factory New) | 118.50 | +23.3% | -16.8% | T1 | False |
+| 14 | G3SG1 \| New Roots (Factory New) | 39.25 | +23.0% | +3.3% | T1 | False |
+| 15 | MP7 \| Asterion (Factory New) | 114.50 | +22.2% | -5.4% | T1 | False |
+| 16 | M4A4 \| Red DDPAT (Factory New) | 545.00 | +21.7% | +4.7% | T1 | False |
+| 17 | Tec-9 \| Brother (Factory New) | 46.60 | +21.7% | +20.4% | T0 | False |
+| 18 | MP7 \| Vault Heist (Factory New) | 138.50 | +21.3% | -13.1% | T1 | False |
+| 19 | MP9 \| Music Box (Factory New) | 92.95 | +21.2% | -9.3% | T1 | False |
+| 20 | MAC-10 \| Classic Crate (Factory New) | 39.86 | +20.1% | +8.6% | T0 | False |
+| 21 | Tec-9 \| Cut Out (Factory New) | 120.18 | +20.0% | +3.8% | T1 | False |
+| 22 | Tec-9 \| Rust Leaf (Factory New) | 153.98 | +19.8% | -13.7% | T1 | False |
+| 23 | Tec-9 \| Blast From the Past (Factory New) | 81.76 | +19.7% | -18.2% | T1 | False |
+| 24 | MP9 \| Goo (Factory New) | 66.33 | +19.4% | -4.0% | T1 | False |
+| 25 | AUG \| Plague (Factory New) | 42.49 | +18.7% | -16.8% | T1 | False |
+| 26 | Dual Berettas \| Moon in Libra (Factory New) | 59.18 | +17.8% | -2.8% | T1 | False |
+| 27 | Desert Eagle \| Night Heist (Factory New) | 748.50 | +17.4% | -10.7% | T1 | False |
+| 28 | USP-S \| Orange Anolis (Factory New) | 420.00 | +17.0% | +0.6% | T1 | False |
+| 29 | Dual Berettas \| Briar (Factory New) | 47.53 | +16.1% | -8.1% | T1 | False |
+| 30 | AWP \| Black Nile (Factory New) | 173.00 | +16.1% | -14.0% | T1 | False |
 
 ## 2026-07-22
 
@@ -5854,25 +5837,25 @@
 | 9 | MP7 \| Tall Grass (Factory New) | 55.00 | +21.8% | +10.5% | T0 | False |
 | 10 | CZ75-Auto \| Polymer (Factory New) | 45.45 | +20.0% | +6.1% | T0 | False |
 | 11 | Dual Berettas \| Heist (Factory New) | 33.39 | +19.5% | -9.7% | T1 | False |
-| 12 | MAG-7 \| Silver (Factory New) | 102.99 | +18.6% | -15.7% | T1 | False |
-| 13 | G3SG1 \| New Roots (Factory New) | 39.24 | +17.0% | +25.7% | T0 | False |
-| 14 | Tec-9 \| Cut Out (Factory New) | 111.82 | +16.2% | -3.5% | T1 | False |
-| 15 | Dual Berettas \| Briar (Factory New) | 46.00 | +16.1% | +0.5% | T1 | False |
-| 16 | M4A4 \| Red DDPAT (Factory New) | 570.00 | +15.9% | +23.8% | T0 | False |
-| 17 | Galil AR \| Dusk Ruins (Factory New) | 296.00 | +14.4% | +10.1% | T0 | False |
-| 18 | R8 Revolver \| Phoenix Marker (Factory New) | 113.50 | +12.7% | -3.4% | T1 | False |
-| 19 | AUG \| Carved Jade (Factory New) | 234.40 | +12.6% | -2.3% | T1 | False |
-| 20 | MAG-7 \| Copper Coated (Factory New) | 34.99 | +12.3% | -9.8% | T1 | False |
-| 21 | Tec-9 \| Blast From the Past (Factory New) | 78.98 | +10.8% | -7.9% | T1 | False |
-| 22 | Tec-9 \| Phoenix Chalk (Factory New) | 126.00 | +10.7% | +1.8% | T1 | False |
-| 23 | Tec-9 \| Rust Leaf (Factory New) | 151.93 | +10.7% | -3.7% | T1 | False |
-| 24 | Dual Berettas \| Moon in Libra (Factory New) | 58.10 | +9.9% | +12.3% | T0 | False |
-| 25 | Galil AR \| Amber Fade (Factory New) | 139.50 | +9.7% | +45.0% | T0 | False |
-| 26 | AUG \| Sand Storm (Factory New) | 228.65 | +9.6% | -2.4% | T1 | False |
-| 27 | PP-Bizon \| Seabird (Factory New) | 81.81 | +9.3% | -27.3% | T1 | False |
-| 28 | Glock-18 \| Red Tire (Factory New) | 137.00 | +8.6% | +7.3% | T0 | False |
-| 29 | MAC-10 \| Whitefish (Factory New) | 38.47 | +8.4% | -1.3% | T1 | False |
-| 30 | Desert Eagle \| Naga (Factory New) | 310.00 | +8.0% | -12.7% | T1 | False |
+| 12 | G3SG1 \| New Roots (Factory New) | 39.24 | +17.0% | +25.7% | T0 | False |
+| 13 | Tec-9 \| Cut Out (Factory New) | 111.82 | +16.2% | -3.5% | T1 | False |
+| 14 | Dual Berettas \| Briar (Factory New) | 46.00 | +16.1% | +0.5% | T1 | False |
+| 15 | M4A4 \| Red DDPAT (Factory New) | 570.00 | +15.9% | +23.8% | T0 | False |
+| 16 | Galil AR \| Dusk Ruins (Factory New) | 296.00 | +14.4% | +10.1% | T0 | False |
+| 17 | AUG \| Carved Jade (Factory New) | 234.40 | +12.6% | -2.3% | T1 | False |
+| 18 | Tec-9 \| Blast From the Past (Factory New) | 78.98 | +10.8% | -7.9% | T1 | False |
+| 19 | Tec-9 \| Phoenix Chalk (Factory New) | 126.00 | +10.7% | +1.8% | T1 | False |
+| 20 | Tec-9 \| Rust Leaf (Factory New) | 151.93 | +10.7% | -3.7% | T1 | False |
+| 21 | Dual Berettas \| Moon in Libra (Factory New) | 58.10 | +9.9% | +12.3% | T0 | False |
+| 22 | Galil AR \| Amber Fade (Factory New) | 139.50 | +9.7% | +45.0% | T0 | False |
+| 23 | AUG \| Sand Storm (Factory New) | 228.65 | +9.6% | -2.4% | T1 | False |
+| 24 | PP-Bizon \| Seabird (Factory New) | 81.81 | +9.3% | -27.3% | T1 | False |
+| 25 | Glock-18 \| Red Tire (Factory New) | 137.00 | +8.6% | +7.3% | T0 | False |
+| 26 | MAC-10 \| Whitefish (Factory New) | 38.47 | +8.4% | -1.3% | T1 | False |
+| 27 | Desert Eagle \| Naga (Factory New) | 310.00 | +8.0% | -12.7% | T1 | False |
+| 28 | P2000 \| Panther Camo (Factory New) | 41.89 | +7.9% | +11.2% | T0 | False |
+| 29 | MAC-10 \| Carnivore (Factory New) | 37.29 | +7.8% | -7.4% | T1 | False |
+| 30 | SG 553 \| Fallout Warning (Factory New) | 41.00 | +7.6% | -20.4% | T1 | False |
 
 ## 2026-07-23
 
@@ -5888,26 +5871,26 @@
 | 8 | Galil AR \| Amber Fade (Factory New) | 142.40 | +18.6% | +43.3% | T0 | False |
 | 9 | Dual Berettas \| Briar (Factory New) | 47.05 | +17.4% | +30.2% | T0 | False |
 | 10 | USP-S \| Desert Tactical (Factory New) | 41.67 | +17.2% | -7.3% | T1 | False |
-| 11 | MAG-7 \| Silver (Factory New) | 102.59 | +17.1% | -17.1% | T1 | False |
-| 12 | Tec-9 \| Brother (Factory New) | 47.82 | +15.8% | +21.7% | T0 | False |
-| 13 | MP7 \| Tall Grass (Factory New) | 54.67 | +15.3% | +28.0% | T0 | False |
-| 14 | Tec-9 \| Cut Out (Factory New) | 115.45 | +12.2% | -3.1% | T1 | False |
-| 15 | P90 \| Sunset Lily (Factory New) | 99.02 | +11.5% | -6.8% | T1 | False |
-| 16 | PP-Bizon \| Carbon Fiber (Factory New) | 30.13 | +11.1% | -5.4% | T1 | False |
-| 17 | G3SG1 \| New Roots (Factory New) | 41.16 | +10.9% | +26.4% | T0 | False |
-| 18 | Dual Berettas \| Heist (Factory New) | 36.26 | +10.0% | +1.7% | T1 | False |
-| 19 | MAG-7 \| Copper Coated (Factory New) | 35.66 | +9.9% | -4.4% | T1 | False |
-| 20 | M4A4 \| Red DDPAT (Factory New) | 603.77 | +9.5% | +25.4% | T0 | False |
-| 21 | AUG \| Sand Storm (Factory New) | 229.10 | +9.3% | +2.4% | T1 | False |
-| 22 | Galil AR \| Dusk Ruins (Factory New) | 318.17 | +9.2% | +17.8% | T0 | False |
-| 23 | P250 \| Black & Tan (Factory New) | 53.20 | +8.6% | +20.1% | T0 | False |
-| 24 | Tec-9 \| Orange Murano (Factory New) | 103.12 | +8.4% | -17.0% | T1 | False |
-| 25 | AUG \| Carved Jade (Factory New) | 237.93 | +8.3% | +10.8% | T0 | False |
-| 26 | CZ75-Auto \| Polymer (Factory New) | 50.13 | +8.1% | +9.9% | T0 | False |
-| 27 | SG 553 \| Fallout Warning (Factory New) | 40.00 | +7.4% | -16.2% | T1 | False |
-| 28 | Tec-9 \| Rust Leaf (Factory New) | 156.95 | +7.3% | -5.1% | T1 | False |
-| 29 | R8 Revolver \| Phoenix Marker (Factory New) | 119.00 | +7.2% | -2.6% | T1 | False |
-| 30 | Glock-18 \| Red Tire (Factory New) | 136.00 | +6.5% | +14.0% | T0 | False |
+| 11 | Tec-9 \| Brother (Factory New) | 47.82 | +15.8% | +21.7% | T0 | False |
+| 12 | MP7 \| Tall Grass (Factory New) | 54.67 | +15.3% | +28.0% | T0 | False |
+| 13 | Tec-9 \| Cut Out (Factory New) | 115.45 | +12.2% | -3.1% | T1 | False |
+| 14 | P90 \| Sunset Lily (Factory New) | 99.02 | +11.5% | -6.8% | T1 | False |
+| 15 | PP-Bizon \| Carbon Fiber (Factory New) | 30.13 | +11.1% | -5.4% | T1 | False |
+| 16 | G3SG1 \| New Roots (Factory New) | 41.16 | +10.9% | +26.4% | T0 | False |
+| 17 | Dual Berettas \| Heist (Factory New) | 36.26 | +10.0% | +1.7% | T1 | False |
+| 18 | M4A4 \| Red DDPAT (Factory New) | 603.77 | +9.5% | +25.4% | T0 | False |
+| 19 | AUG \| Sand Storm (Factory New) | 229.10 | +9.3% | +2.4% | T1 | False |
+| 20 | Galil AR \| Dusk Ruins (Factory New) | 318.17 | +9.2% | +17.8% | T0 | False |
+| 21 | P250 \| Black & Tan (Factory New) | 53.20 | +8.6% | +20.1% | T0 | False |
+| 22 | Tec-9 \| Orange Murano (Factory New) | 103.12 | +8.4% | -17.0% | T1 | False |
+| 23 | AUG \| Carved Jade (Factory New) | 237.93 | +8.3% | +10.8% | T0 | False |
+| 24 | CZ75-Auto \| Polymer (Factory New) | 50.13 | +8.1% | +9.9% | T0 | False |
+| 25 | SG 553 \| Fallout Warning (Factory New) | 40.00 | +7.4% | -16.2% | T1 | False |
+| 26 | Tec-9 \| Rust Leaf (Factory New) | 156.95 | +7.3% | -5.1% | T1 | False |
+| 27 | Glock-18 \| Red Tire (Factory New) | 136.00 | +6.5% | +14.0% | T0 | False |
+| 28 | MP9 \| Dart (Factory New) | 39.19 | +6.4% | -7.7% | T1 | False |
+| 29 | Dual Berettas \| Moon in Libra (Factory New) | 59.30 | +6.2% | +30.2% | T0 | False |
+| 30 | Tec-9 \| Phoenix Chalk (Factory New) | 135.13 | +5.1% | +4.8% | T1 | False |
 
 ## 2026-07-24
 
@@ -5923,26 +5906,26 @@
 | 8 | Tec-9 \| Mummy's Rot (Factory New) | 130.00 | +25.5% | -16.9% | T1 | False |
 | 9 | AUG \| Luxe Trim (Factory New) | 61.20 | +20.2% | -51.6% | T1 | False |
 | 10 | Tec-9 \| Brother (Factory New) | 49.59 | +19.3% | +13.9% | T0 | False |
-| 11 | MAG-7 \| Silver (Factory New) | 102.20 | +18.4% | -13.9% | T1 | False |
-| 12 | Tec-9 \| Cut Out (Factory New) | 119.07 | +18.0% | -10.5% | T1 | False |
-| 13 | USP-S \| Desert Tactical (Factory New) | 43.33 | +15.8% | -11.7% | T1 | False |
-| 14 | XM1014 \| Elegant Vines (Factory New) | 214.44 | +15.4% | -9.1% | T1 | False |
-| 15 | Glock-18 \| Red Tire (Factory New) | 134.99 | +15.3% | +2.0% | T1 | False |
-| 16 | AUG \| Carved Jade (Factory New) | 241.47 | +15.2% | +1.6% | T1 | False |
-| 17 | MAC-10 \| Whitefish (Factory New) | 40.76 | +15.0% | -4.1% | T1 | False |
-| 18 | Dual Berettas \| Briar (Factory New) | 48.09 | +13.7% | +13.4% | T0 | False |
-| 19 | AUG \| Sand Storm (Factory New) | 229.55 | +12.9% | -5.5% | T1 | False |
-| 20 | P2000 \| Panther Camo (Factory New) | 45.22 | +12.2% | +11.2% | T0 | False |
-| 21 | Dual Berettas \| Switch Board (Factory New) | 66.20 | +12.2% | +15.0% | T0 | False |
-| 22 | P90 \| Sunset Lily (Factory New) | 98.70 | +11.8% | -6.8% | T1 | False |
-| 23 | Sawed-Off \| Apocalypto (Factory New) | 31.44 | +11.7% | -0.5% | T1 | False |
-| 24 | Dual Berettas \| Marina (Factory New) | 148.15 | +10.4% | -9.5% | T1 | False |
-| 25 | MAG-7 \| Copper Coated (Factory New) | 36.33 | +9.5% | -10.4% | T1 | False |
-| 26 | Dual Berettas \| Moon in Libra (Factory New) | 60.49 | +9.3% | +10.4% | T0 | False |
-| 27 | SG 553 \| Fallout Warning (Factory New) | 39.00 | +9.2% | -10.2% | T1 | False |
-| 28 | Desert Eagle \| Naga (Factory New) | 309.93 | +9.0% | -13.8% | T1 | False |
-| 29 | Galil AR \| Dusk Ruins (Factory New) | 340.33 | +8.6% | +3.4% | T1 | False |
-| 30 | FAMAS \| Faulty Wiring (Factory New) | 56.06 | +8.6% | -17.1% | T1 | False |
+| 11 | Tec-9 \| Cut Out (Factory New) | 119.07 | +18.0% | -10.5% | T1 | False |
+| 12 | USP-S \| Desert Tactical (Factory New) | 43.33 | +15.8% | -11.7% | T1 | False |
+| 13 | Glock-18 \| Red Tire (Factory New) | 134.99 | +15.3% | +2.0% | T1 | False |
+| 14 | AUG \| Carved Jade (Factory New) | 241.47 | +15.2% | +1.6% | T1 | False |
+| 15 | MAC-10 \| Whitefish (Factory New) | 40.76 | +15.0% | -4.1% | T1 | False |
+| 16 | Dual Berettas \| Briar (Factory New) | 48.09 | +13.7% | +13.4% | T0 | False |
+| 17 | AUG \| Sand Storm (Factory New) | 229.55 | +12.9% | -5.5% | T1 | False |
+| 18 | P2000 \| Panther Camo (Factory New) | 45.22 | +12.2% | +11.2% | T0 | False |
+| 19 | Dual Berettas \| Switch Board (Factory New) | 66.20 | +12.2% | +15.0% | T0 | False |
+| 20 | P90 \| Sunset Lily (Factory New) | 98.70 | +11.8% | -6.8% | T1 | False |
+| 21 | Dual Berettas \| Marina (Factory New) | 148.15 | +10.4% | -9.5% | T1 | False |
+| 22 | Dual Berettas \| Moon in Libra (Factory New) | 60.49 | +9.3% | +10.4% | T0 | False |
+| 23 | SG 553 \| Fallout Warning (Factory New) | 39.00 | +9.2% | -10.2% | T1 | False |
+| 24 | Desert Eagle \| Naga (Factory New) | 309.93 | +9.0% | -13.8% | T1 | False |
+| 25 | Galil AR \| Dusk Ruins (Factory New) | 340.33 | +8.6% | +3.4% | T1 | False |
+| 26 | FAMAS \| Faulty Wiring (Factory New) | 56.06 | +8.6% | -17.1% | T1 | False |
+| 27 | MP9 \| Dart (Factory New) | 39.39 | +8.5% | -11.4% | T1 | False |
+| 28 | PP-Bizon \| Carbon Fiber (Factory New) | 31.02 | +8.0% | -5.4% | T1 | False |
+| 29 | P250 \| Black & Tan (Factory New) | 53.59 | +7.8% | +24.7% | T0 | False |
+| 30 | M4A4 \| Red DDPAT (Factory New) | 637.53 | +7.5% | +33.0% | T0 | False |
 
 ## 2026-07-25
 
@@ -5956,98 +5939,95 @@
 | 6 | MAC-10 \| Whitefish (Factory New) | 41.90 | +29.3% | -2.5% | T1 | False |
 | 7 | Tec-9 \| Brother (Factory New) | 51.36 | +18.2% | +12.4% | T0 | False |
 | 8 | Galil AR \| Amber Fade (Factory New) | 148.20 | +18.2% | +38.1% | T0 | False |
-| 9 | Sawed-Off \| Apocalypto (Factory New) | 31.67 | +16.6% | -5.0% | T1 | False |
-| 10 | Dual Berettas \| Switch Board (Factory New) | 62.80 | +14.5% | +23.7% | T0 | False |
-| 11 | Glock-18 \| Red Tire (Factory New) | 133.99 | +13.0% | +2.3% | T1 | False |
-| 12 | P2000 \| Panther Camo (Factory New) | 46.88 | +11.7% | +22.2% | T0 | False |
-| 13 | AUG \| Luxe Trim (Factory New) | 67.30 | +10.9% | -57.1% | T1 | False |
-| 14 | MAG-7 \| Silver (Factory New) | 101.80 | +10.9% | -15.7% | T1 | False |
-| 15 | P90 \| Sunset Lily (Factory New) | 98.37 | +10.7% | -5.9% | T1 | False |
-| 16 | Tec-9 \| Orange Murano (Factory New) | 99.99 | +10.5% | -16.4% | T1 | False |
-| 17 | MAC-10 \| Gold Brick (Factory New) | 535.00 | +9.0% | -13.1% | T1 | False |
-| 18 | XM1014 \| Elegant Vines (Factory New) | 215.88 | +8.7% | -9.3% | T1 | False |
-| 19 | Tec-9 \| Rust Leaf (Factory New) | 167.00 | +7.1% | -5.4% | T1 | False |
-| 20 | MP9 \| Storm (Factory New) | 253.78 | +7.1% | -4.5% | T1 | False |
-| 21 | Tec-9 \| Mummy's Rot (Factory New) | 130.00 | +7.0% | -3.5% | T1 | False |
-| 22 | MAG-7 \| Copper Coated (Factory New) | 37.00 | +6.7% | -6.6% | T1 | False |
-| 23 | P250 \| Black & Tan (Factory New) | 53.99 | +6.6% | +29.5% | T0 | False |
-| 24 | M4A4 \| Red DDPAT (Factory New) | 671.30 | +6.5% | +37.0% | T0 | False |
-| 25 | FAMAS \| Faulty Wiring (Factory New) | 55.89 | +6.4% | -3.3% | T1 | False |
-| 26 | AUG \| Sand Storm (Factory New) | 230.00 | +6.2% | -2.8% | T1 | False |
-| 27 | Dual Berettas \| Moon in Libra (Factory New) | 61.69 | +5.4% | +15.1% | T0 | False |
-| 28 | USP-S \| Desert Tactical (Factory New) | 45.00 | +5.1% | -10.6% | T1 | False |
-| 29 | G3SG1 \| New Roots (Factory New) | 44.99 | +4.9% | +47.7% | T0 | False |
-| 30 | Sawed-Off \| Highwayman (Factory New) | 52.99 | +4.7% | -3.5% | T1 | False |
+| 9 | Dual Berettas \| Switch Board (Factory New) | 62.80 | +14.5% | +23.7% | T0 | False |
+| 10 | Glock-18 \| Red Tire (Factory New) | 133.99 | +13.0% | +2.3% | T1 | False |
+| 11 | P2000 \| Panther Camo (Factory New) | 46.88 | +11.7% | +22.2% | T0 | False |
+| 12 | AUG \| Luxe Trim (Factory New) | 67.30 | +10.9% | -57.1% | T1 | False |
+| 13 | P90 \| Sunset Lily (Factory New) | 98.37 | +10.7% | -5.9% | T1 | False |
+| 14 | Tec-9 \| Orange Murano (Factory New) | 99.99 | +10.5% | -16.4% | T1 | False |
+| 15 | MAC-10 \| Gold Brick (Factory New) | 535.00 | +9.0% | -13.1% | T1 | False |
+| 16 | Tec-9 \| Rust Leaf (Factory New) | 167.00 | +7.1% | -5.4% | T1 | False |
+| 17 | MP9 \| Storm (Factory New) | 253.78 | +7.1% | -4.5% | T1 | False |
+| 18 | Tec-9 \| Mummy's Rot (Factory New) | 130.00 | +7.0% | -3.5% | T1 | False |
+| 19 | P250 \| Black & Tan (Factory New) | 53.99 | +6.6% | +29.5% | T0 | False |
+| 20 | M4A4 \| Red DDPAT (Factory New) | 671.30 | +6.5% | +37.0% | T0 | False |
+| 21 | FAMAS \| Faulty Wiring (Factory New) | 55.89 | +6.4% | -3.3% | T1 | False |
+| 22 | AUG \| Sand Storm (Factory New) | 230.00 | +6.2% | -2.8% | T1 | False |
+| 23 | Dual Berettas \| Moon in Libra (Factory New) | 61.69 | +5.4% | +15.1% | T0 | False |
+| 24 | USP-S \| Desert Tactical (Factory New) | 45.00 | +5.1% | -10.6% | T1 | False |
+| 25 | G3SG1 \| New Roots (Factory New) | 44.99 | +4.9% | +47.7% | T0 | False |
+| 26 | AUG \| Plague (Factory New) | 38.67 | +4.3% | -14.4% | T1 | False |
+| 27 | Sergeant Bombson \| SWAT | 121.00 | +3.8% | +5.1% | T0 | False |
+| 28 | MP7 \| Tall Grass (Factory New) | 54.00 | +3.6% | +32.2% | T0 | False |
+| 29 | Tec-9 \| Ossified (Factory New) | 134.87 | +3.4% | +12.5% | T0 | False |
+| 30 | Galil AR \| Urban Rubble (Factory New) | 136.50 | +3.3% | -8.3% | T1 | False |
 
 ## 2026-07-26
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Classic Crate (Factory New) | 40.90 | +35.3% | -13.3% | T1 | False |
-| 2 | Sawed-Off \| Apocalypto (Factory New) | 31.30 | +30.2% | -22.6% | T1 | False |
-| 3 | MAC-10 \| Echoing Sands (Factory New) | 40.40 | +28.7% | -30.3% | T1 | False |
-| 4 | P2000 \| Panther Camo (Factory New) | 45.50 | +26.4% | +3.5% | T1 | False |
-| 5 | MP9 \| Goo (Factory New) | 75.90 | +22.6% | +19.3% | T0 | False |
-| 6 | MP9 \| Storm (Factory New) | 227.89 | +20.6% | -4.5% | T1 | False |
-| 7 | MAC-10 \| Whitefish (Factory New) | 37.99 | +19.8% | +17.0% | T0 | False |
-| 8 | G3SG1 \| New Roots (Factory New) | 44.99 | +15.6% | +39.7% | T0 | False |
-| 9 | Tec-9 \| Titanium Bit (Factory New) | 458.00 | +15.4% | -1.7% | T1 | False |
-| 10 | Galil AR \| Amber Fade (Factory New) | 152.78 | +13.6% | +16.6% | T0 | False |
-| 11 | XM1014 \| Blue Tire (Factory New) | 94.98 | +11.8% | -41.5% | T1 | False |
-| 12 | Dual Berettas \| Switch Board (Factory New) | 59.85 | +11.8% | +50.9% | T0 | False |
-| 13 | Tec-9 \| Orange Murano (Factory New) | 98.68 | +11.8% | -14.9% | T1 | False |
-| 14 | MAC-10 \| Surfwood (Factory New) | 297.90 | +10.9% | +1.0% | T1 | False |
-| 15 | MP9 \| Ruby Poison Dart (Factory New) | 36.89 | +8.8% | -13.5% | T1 | False |
-| 16 | Glock-18 \| Red Tire (Factory New) | 136.30 | +7.2% | +2.4% | T1 | False |
-| 17 | XM1014 \| Elegant Vines (Factory New) | 222.00 | +7.0% | -6.4% | T1 | False |
-| 18 | Tec-9 \| Mummy's Rot (Factory New) | 138.00 | +6.8% | -9.1% | T1 | False |
-| 19 | CZ75-Auto \| Polymer (Factory New) | 56.78 | +6.6% | +6.8% | T0 | False |
-| 20 | MAG-7 \| Silver (Factory New) | 107.00 | +6.2% | -13.1% | T1 | False |
-| 21 | P250 \| Black & Tan (Factory New) | 52.50 | +5.8% | +30.9% | T0 | False |
-| 22 | AUG \| Plague (Factory New) | 38.67 | +4.3% | -13.8% | T1 | False |
-| 23 | MP9 \| Dark Age (Factory New) | 446.00 | +4.3% | -4.3% | T1 | False |
-| 24 | Desert Eagle \| Mecha Industries (Factory New) | 147.50 | +4.1% | -7.1% | T1 | False |
-| 25 | AUG \| Sand Storm (Factory New) | 236.42 | +3.7% | +0.7% | T1 | False |
-| 26 | UMP-45 \| Scaffold (Factory New) | 41.64 | +3.7% | -11.2% | T1 | False |
-| 27 | Sergeant Bombson \| SWAT | 120.00 | +3.0% | +5.7% | T0 | False |
-| 28 | MAC-10 \| Last Dive (Factory New) | 44.40 | +2.7% | -20.9% | T1 | False |
-| 29 | MAC-10 \| Carnivore (Factory New) | 42.57 | +2.7% | -3.2% | T1 | False |
-| 30 | CZ75-Auto \| Victoria (Factory New) | 664.50 | +2.2% | -4.0% | T1 | False |
+| 2 | MAC-10 \| Echoing Sands (Factory New) | 40.40 | +28.7% | -30.3% | T1 | False |
+| 3 | P2000 \| Panther Camo (Factory New) | 45.50 | +26.4% | +3.5% | T1 | False |
+| 4 | MP9 \| Goo (Factory New) | 75.90 | +22.6% | +19.3% | T0 | False |
+| 5 | MP9 \| Storm (Factory New) | 227.89 | +20.6% | -4.5% | T1 | False |
+| 6 | MAC-10 \| Whitefish (Factory New) | 37.99 | +19.8% | +17.0% | T0 | False |
+| 7 | G3SG1 \| New Roots (Factory New) | 44.99 | +15.6% | +39.7% | T0 | False |
+| 8 | Tec-9 \| Titanium Bit (Factory New) | 458.00 | +15.4% | -1.7% | T1 | False |
+| 9 | Galil AR \| Amber Fade (Factory New) | 152.78 | +13.6% | +16.6% | T0 | False |
+| 10 | Dual Berettas \| Switch Board (Factory New) | 59.85 | +11.8% | +50.9% | T0 | False |
+| 11 | Tec-9 \| Orange Murano (Factory New) | 98.68 | +11.8% | -14.9% | T1 | False |
+| 12 | MAC-10 \| Surfwood (Factory New) | 297.90 | +10.9% | +1.0% | T1 | False |
+| 13 | MP9 \| Ruby Poison Dart (Factory New) | 36.89 | +8.8% | -13.5% | T1 | False |
+| 14 | Glock-18 \| Red Tire (Factory New) | 136.30 | +7.2% | +2.4% | T1 | False |
+| 15 | Tec-9 \| Mummy's Rot (Factory New) | 138.00 | +6.8% | -9.1% | T1 | False |
+| 16 | CZ75-Auto \| Polymer (Factory New) | 56.78 | +6.6% | +6.8% | T0 | False |
+| 17 | P250 \| Black & Tan (Factory New) | 52.50 | +5.8% | +30.9% | T0 | False |
+| 18 | AUG \| Plague (Factory New) | 38.67 | +4.3% | -13.8% | T1 | False |
+| 19 | MP9 \| Dark Age (Factory New) | 446.00 | +4.3% | -4.3% | T1 | False |
+| 20 | Desert Eagle \| Mecha Industries (Factory New) | 147.50 | +4.1% | -7.1% | T1 | False |
+| 21 | AUG \| Sand Storm (Factory New) | 236.42 | +3.7% | +0.7% | T1 | False |
+| 22 | UMP-45 \| Scaffold (Factory New) | 41.64 | +3.7% | -11.2% | T1 | False |
+| 23 | Sergeant Bombson \| SWAT | 120.00 | +3.0% | +5.7% | T0 | False |
+| 24 | MAC-10 \| Last Dive (Factory New) | 44.40 | +2.7% | -20.9% | T1 | False |
+| 25 | MAC-10 \| Carnivore (Factory New) | 42.57 | +2.7% | -3.2% | T1 | False |
+| 26 | CZ75-Auto \| Victoria (Factory New) | 664.50 | +2.2% | -4.0% | T1 | False |
+| 27 | Tec-9 \| Toxic (Factory New) | 258.48 | +1.6% | +9.2% | T0 | False |
+| 28 | MP9 \| Hot Rod (Factory New) | 1166.00 | +1.5% | +12.9% | T0 | False |
+| 29 | Galil AR \| Urban Rubble (Factory New) | 135.50 | +1.5% | -6.9% | T1 | False |
+| 30 | Dual Berettas \| Moon in Libra (Factory New) | 64.00 | +1.4% | +24.3% | T0 | False |
 
 ## 2026-07-27
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Echoing Sands (Factory New) | 38.78 | +22.3% | -29.7% | T1 | False |
-| 2 | Sawed-Off \| Apocalypto (Factory New) | 32.24 | +19.6% | -19.1% | T1 | False |
-| 3 | MP9 \| Storm (Factory New) | 202.00 | +16.2% | -4.5% | T1 | False |
-| 4 | MP9 \| Goo (Factory New) | 81.50 | +13.2% | +14.5% | T0 | False |
-| 5 | CZ75-Auto \| Polymer (Factory New) | 53.89 | +11.2% | -2.6% | T1 | False |
-| 6 | Tec-9 \| Brother (Factory New) | 59.49 | +11.1% | -22.1% | T1 | False |
-| 7 | Galil AR \| Amber Fade (Factory New) | 160.99 | +9.8% | +11.1% | T0 | False |
-| 8 | MAC-10 \| Classic Crate (Factory New) | 42.10 | +9.6% | -1.1% | T1 | False |
-| 9 | Desert Eagle \| Mecha Industries (Factory New) | 147.50 | +8.6% | -15.9% | T1 | False |
-| 10 | Tec-9 \| Titanium Bit (Factory New) | 492.50 | +6.4% | -7.5% | T1 | False |
-| 11 | XM1014 \| Blue Tire (Factory New) | 93.99 | +6.0% | -39.7% | T1 | False |
-| 12 | Desert Eagle \| Night (Factory New) | 779.48 | +5.8% | -7.5% | T1 | False |
-| 13 | MAC-10 \| Surfwood (Factory New) | 335.00 | +5.7% | -7.1% | T1 | False |
-| 14 | MP9 \| Dark Age (Factory New) | 446.00 | +4.2% | -4.7% | T1 | False |
-| 15 | G3SG1 \| New Roots (Factory New) | 44.99 | +3.6% | +43.9% | T0 | False |
-| 16 | Tec-9 \| Cut Out (Factory New) | 143.83 | +3.1% | -10.9% | T1 | False |
-| 17 | AUG \| Sand Storm (Factory New) | 236.42 | +2.8% | -6.1% | T1 | False |
-| 18 | Tec-9 \| Toxic (Factory New) | 256.40 | +2.6% | +3.3% | T1 | False |
-| 19 | XM1014 \| Elegant Vines (Factory New) | 224.72 | +2.6% | -5.4% | T1 | False |
-| 20 | MP9 \| Hot Rod (Factory New) | 1158.50 | +2.4% | +3.1% | T1 | False |
-| 21 | CZ75-Auto \| Victoria (Factory New) | 659.50 | +2.2% | -4.2% | T1 | False |
-| 22 | P2000 \| Panther Camo (Factory New) | 44.88 | +2.2% | +1.9% | T1 | False |
-| 23 | Tec-9 \| Ossified (Factory New) | 132.00 | +2.1% | +0.6% | T1 | False |
-| 24 | Galil AR \| Urban Rubble (Factory New) | 135.00 | +1.5% | -8.2% | T1 | False |
-| 25 | MAC-10 \| Last Dive (Factory New) | 46.89 | +0.9% | -13.8% | T1 | False |
-| 26 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1556.50 | +0.9% | -12.3% | T1 | False |
-| 27 | UMP-45 \| Scaffold (Factory New) | 40.79 | +0.5% | -12.7% | T1 | False |
-| 28 | Sergeant Bombson \| SWAT | 120.00 | +0.5% | +8.1% | T0 | False |
-| 29 | MAC-10 \| Whitefish (Factory New) | 36.89 | +0.3% | +38.2% | T0 | False |
-| 30 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2739.50 | +0.3% | -9.5% | T1 | False |
+| 2 | MP9 \| Storm (Factory New) | 202.00 | +16.2% | -4.5% | T1 | False |
+| 3 | MP9 \| Goo (Factory New) | 81.50 | +13.2% | +14.5% | T0 | False |
+| 4 | CZ75-Auto \| Polymer (Factory New) | 53.89 | +11.2% | -2.6% | T1 | False |
+| 5 | Tec-9 \| Brother (Factory New) | 59.49 | +11.1% | -22.1% | T1 | False |
+| 6 | Galil AR \| Amber Fade (Factory New) | 160.99 | +9.8% | +11.1% | T0 | False |
+| 7 | MAC-10 \| Classic Crate (Factory New) | 42.10 | +9.6% | -1.1% | T1 | False |
+| 8 | Desert Eagle \| Mecha Industries (Factory New) | 147.50 | +8.6% | -15.9% | T1 | False |
+| 9 | Tec-9 \| Titanium Bit (Factory New) | 492.50 | +6.4% | -7.5% | T1 | False |
+| 10 | Desert Eagle \| Night (Factory New) | 779.48 | +5.8% | -7.5% | T1 | False |
+| 11 | MAC-10 \| Surfwood (Factory New) | 335.00 | +5.7% | -7.1% | T1 | False |
+| 12 | MP9 \| Dark Age (Factory New) | 446.00 | +4.2% | -4.7% | T1 | False |
+| 13 | G3SG1 \| New Roots (Factory New) | 44.99 | +3.6% | +43.9% | T0 | False |
+| 14 | Tec-9 \| Cut Out (Factory New) | 143.83 | +3.1% | -10.9% | T1 | False |
+| 15 | AUG \| Sand Storm (Factory New) | 236.42 | +2.8% | -6.1% | T1 | False |
+| 16 | Tec-9 \| Toxic (Factory New) | 256.40 | +2.6% | +3.3% | T1 | False |
+| 17 | MP9 \| Hot Rod (Factory New) | 1158.50 | +2.4% | +3.1% | T1 | False |
+| 18 | CZ75-Auto \| Victoria (Factory New) | 659.50 | +2.2% | -4.2% | T1 | False |
+| 19 | P2000 \| Panther Camo (Factory New) | 44.88 | +2.2% | +1.9% | T1 | False |
+| 20 | Tec-9 \| Ossified (Factory New) | 132.00 | +2.1% | +0.6% | T1 | False |
+| 21 | Galil AR \| Urban Rubble (Factory New) | 135.00 | +1.5% | -8.2% | T1 | False |
+| 22 | MAC-10 \| Last Dive (Factory New) | 46.89 | +0.9% | -13.8% | T1 | False |
+| 23 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1556.50 | +0.9% | -12.3% | T1 | False |
+| 24 | UMP-45 \| Scaffold (Factory New) | 40.79 | +0.5% | -12.7% | T1 | False |
+| 25 | Sergeant Bombson \| SWAT | 120.00 | +0.5% | +8.1% | T0 | False |
+| 26 | MAC-10 \| Whitefish (Factory New) | 36.89 | +0.3% | +38.2% | T0 | False |
+| 27 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2739.50 | +0.3% | -9.5% | T1 | False |
 
 ## 2026-07-28
 
@@ -6056,33 +6036,31 @@
 | 1 | Tec-9 \| Brother (Factory New) | 58.80 | +20.4% | -33.7% | T1 | False |
 | 2 | Tec-9 \| Ossified (Factory New) | 137.00 | +17.6% | -15.4% | T1 | False |
 | 3 | Galil AR \| Amber Fade (Factory New) | 175.00 | +14.3% | -9.3% | T1 | False |
-| 4 | Sawed-Off \| Apocalypto (Factory New) | 31.49 | +14.1% | -18.2% | T1 | False |
-| 5 | Desert Eagle \| Mecha Industries (Factory New) | 155.00 | +13.6% | -20.1% | T1 | False |
-| 6 | XM1014 \| Blue Tire (Factory New) | 92.90 | +12.1% | -44.1% | T1 | False |
-| 7 | MAC-10 \| Classic Crate (Factory New) | 47.30 | +8.6% | -3.3% | T1 | False |
-| 8 | UMP-45 \| Scaffold (Factory New) | 40.13 | +6.4% | -13.4% | T1 | False |
-| 9 | MAC-10 \| Whitefish (Factory New) | 41.00 | +5.5% | +72.9% | T0 | False |
-| 10 | PP-Bizon \| Carbon Fiber (Factory New) | 34.70 | +5.5% | -16.5% | T1 | False |
-| 11 | MP9 \| Hot Rod (Factory New) | 1163.99 | +5.2% | -4.2% | T1 | False |
-| 12 | Desert Eagle \| Night (Factory New) | 666.00 | +5.0% | -6.9% | T1 | False |
-| 13 | M4A4 \| Red DDPAT (Factory New) | 745.00 | +4.7% | +8.2% | T0 | False |
-| 14 | Tec-9 \| Toxic (Factory New) | 262.00 | +4.1% | -6.6% | T1 | False |
-| 15 | Tec-9 \| Cut Out (Factory New) | 139.99 | +3.8% | -9.6% | T1 | False |
-| 16 | AWP \| Sun in Leo (Factory New) | 504.30 | +3.6% | +6.2% | T0 | False |
-| 17 | CZ75-Auto \| Victoria (Factory New) | 659.00 | +3.6% | -4.2% | T1 | False |
-| 18 | G3SG1 \| New Roots (Factory New) | 50.00 | +3.3% | +22.7% | T0 | False |
-| 19 | XM1014 \| Elegant Vines (Factory New) | 230.00 | +2.7% | -4.6% | T1 | False |
-| 20 | MAC-10 \| Surfwood (Factory New) | 379.50 | +2.2% | -7.9% | T1 | False |
-| 21 | CZ75-Auto \| Polymer (Factory New) | 53.80 | +2.1% | -22.8% | T1 | False |
-| 22 | Sergeant Bombson \| SWAT | 126.00 | +1.6% | -1.4% | T1 | False |
-| 23 | MP9 \| Dark Age (Factory New) | 446.50 | +1.6% | -4.5% | T1 | False |
-| 24 | FAMAS \| Valence (Factory New) | 249.00 | +1.5% | -15.0% | T1 | False |
-| 25 | Tec-9 \| Titanium Bit (Factory New) | 560.00 | +0.7% | -6.3% | T1 | False |
-| 26 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1488.00 | +0.6% | -12.5% | T1 | False |
-| 27 | USP-S \| Orange Anolis (Factory New) | 563.00 | +0.6% | +2.6% | T1 | False |
-| 28 | M4A4 \| Poseidon (Factory New) | 11328.00 | +0.5% | +2.8% | T1 | False |
-| 29 | Dual Berettas \| Balance (Factory New) | 54.56 | +0.2% | -7.5% | T1 | False |
-| 30 | Primeiro Tenente \| Brazilian 1st Battalion | 720.50 | +0.2% | -5.7% | T1 | False |
+| 4 | Desert Eagle \| Mecha Industries (Factory New) | 155.00 | +13.6% | -20.1% | T1 | False |
+| 5 | MAC-10 \| Classic Crate (Factory New) | 47.30 | +8.6% | -3.3% | T1 | False |
+| 6 | UMP-45 \| Scaffold (Factory New) | 40.13 | +6.4% | -13.4% | T1 | False |
+| 7 | MAC-10 \| Whitefish (Factory New) | 41.00 | +5.5% | +72.9% | T0 | False |
+| 8 | PP-Bizon \| Carbon Fiber (Factory New) | 34.70 | +5.5% | -16.5% | T1 | False |
+| 9 | MP9 \| Hot Rod (Factory New) | 1163.99 | +5.2% | -4.2% | T1 | False |
+| 10 | Desert Eagle \| Night (Factory New) | 666.00 | +5.0% | -6.9% | T1 | False |
+| 11 | M4A4 \| Red DDPAT (Factory New) | 745.00 | +4.7% | +8.2% | T0 | False |
+| 12 | Tec-9 \| Toxic (Factory New) | 262.00 | +4.1% | -6.6% | T1 | False |
+| 13 | Tec-9 \| Cut Out (Factory New) | 139.99 | +3.8% | -9.6% | T1 | False |
+| 14 | AWP \| Sun in Leo (Factory New) | 504.30 | +3.6% | +6.2% | T0 | False |
+| 15 | CZ75-Auto \| Victoria (Factory New) | 659.00 | +3.6% | -4.2% | T1 | False |
+| 16 | G3SG1 \| New Roots (Factory New) | 50.00 | +3.3% | +22.7% | T0 | False |
+| 17 | MAC-10 \| Surfwood (Factory New) | 379.50 | +2.2% | -7.9% | T1 | False |
+| 18 | CZ75-Auto \| Polymer (Factory New) | 53.80 | +2.1% | -22.8% | T1 | False |
+| 19 | Sergeant Bombson \| SWAT | 126.00 | +1.6% | -1.4% | T1 | False |
+| 20 | MP9 \| Dark Age (Factory New) | 446.50 | +1.6% | -4.5% | T1 | False |
+| 21 | FAMAS \| Valence (Factory New) | 249.00 | +1.5% | -15.0% | T1 | False |
+| 22 | Tec-9 \| Titanium Bit (Factory New) | 560.00 | +0.7% | -6.3% | T1 | False |
+| 23 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1488.00 | +0.6% | -12.5% | T1 | False |
+| 24 | USP-S \| Orange Anolis (Factory New) | 563.00 | +0.6% | +2.6% | T1 | False |
+| 25 | M4A4 \| Poseidon (Factory New) | 11328.00 | +0.5% | +2.8% | T1 | False |
+| 26 | Dual Berettas \| Balance (Factory New) | 54.56 | +0.2% | -7.5% | T1 | False |
+| 27 | Primeiro Tenente \| Brazilian 1st Battalion | 720.50 | +0.2% | -5.7% | T1 | False |
+| 28 | Galil AR \| CAUTION! (Factory New) | 557.30 | +0.0% | -5.4% | T1 | False |
 
 ## 2026-07-29
 
@@ -6095,29 +6073,29 @@
 | 5 | M4A4 \| Red DDPAT (Factory New) | 718.88 | +23.8% | -11.8% | T1 | False |
 | 6 | Five-SeveN \| Withered Vine (Factory New) | 39.79 | +16.6% | -20.1% | T1 | False |
 | 7 | AWP \| Sun in Leo (Factory New) | 502.99 | +16.0% | -11.7% | T1 | False |
-| 8 | Sawed-Off \| Apocalypto (Factory New) | 31.72 | +13.8% | -18.8% | T1 | False |
-| 9 | P250 \| Black & Tan (Factory New) | 58.90 | +13.3% | -11.9% | T1 | False |
-| 10 | XM1014 \| Blue Tire (Factory New) | 90.38 | +13.1% | -46.4% | T1 | False |
-| 11 | Tec-9 \| Toxic (Factory New) | 272.50 | +12.3% | -15.0% | T1 | False |
-| 12 | Dual Berettas \| Moon in Libra (Factory New) | 70.90 | +12.3% | -16.3% | T1 | False |
-| 13 | P2000 \| Panther Camo (Factory New) | 53.50 | +11.2% | -10.2% | T1 | False |
-| 14 | Desert Eagle \| Mecha Industries (Factory New) | 150.45 | +10.9% | -26.2% | T1 | False |
-| 15 | MP7 \| Tall Grass (Factory New) | 75.00 | +10.5% | -7.1% | T1 | False |
-| 16 | Desert Eagle \| Night (Factory New) | 666.00 | +10.5% | -6.9% | T1 | False |
-| 17 | Galil AR \| Dusk Ruins (Factory New) | 415.38 | +10.1% | -15.8% | T1 | False |
-| 18 | MP9 \| Hot Rod (Factory New) | 1214.00 | +7.4% | -9.2% | T1 | False |
-| 19 | Glock-18 \| Red Tire (Factory New) | 160.00 | +7.3% | -10.0% | T1 | False |
-| 20 | UMP-45 \| Scaffold (Factory New) | 37.90 | +6.9% | -13.1% | T1 | False |
-| 21 | MP9 \| Stained Glass (Factory New) | 853.00 | +6.2% | -10.7% | T1 | False |
-| 22 | CZ75-Auto \| Polymer (Factory New) | 66.20 | +6.1% | -22.9% | T1 | False |
-| 23 | Tec-9 \| Brother (Factory New) | 58.07 | +5.9% | -33.4% | T1 | False |
-| 24 | Sergeant Bombson \| SWAT | 133.00 | +5.6% | -2.1% | T1 | False |
-| 25 | USP-S \| Road Rash (Factory New) | 933.00 | +5.6% | -1.5% | T1 | False |
-| 26 | M4A4 \| Poseidon (Factory New) | 11000.00 | +5.3% | -5.9% | T1 | False |
-| 27 | ★ Moto Gloves \| Boom! (Field-Tested) | 3568.50 | +5.2% | -16.0% | T1 | False |
-| 28 | MP7 \| Nemesis (Factory New) | 160.88 | +5.0% | -6.4% | T1 | False |
-| 29 | Galil AR \| Cerberus (Factory New) | 1379.00 | +4.9% | -18.6% | T1 | False |
-| 30 | UMP-45 \| Full Stop (Factory New) | 35.26 | +4.9% | -15.8% | T1 | False |
+| 8 | P250 \| Black & Tan (Factory New) | 58.90 | +13.3% | -11.9% | T1 | False |
+| 9 | Tec-9 \| Toxic (Factory New) | 272.50 | +12.3% | -15.0% | T1 | False |
+| 10 | Dual Berettas \| Moon in Libra (Factory New) | 70.90 | +12.3% | -16.3% | T1 | False |
+| 11 | P2000 \| Panther Camo (Factory New) | 53.50 | +11.2% | -10.2% | T1 | False |
+| 12 | Desert Eagle \| Mecha Industries (Factory New) | 150.45 | +10.9% | -26.2% | T1 | False |
+| 13 | MP7 \| Tall Grass (Factory New) | 75.00 | +10.5% | -7.1% | T1 | False |
+| 14 | Desert Eagle \| Night (Factory New) | 666.00 | +10.5% | -6.9% | T1 | False |
+| 15 | Galil AR \| Dusk Ruins (Factory New) | 415.38 | +10.1% | -15.8% | T1 | False |
+| 16 | MP9 \| Hot Rod (Factory New) | 1214.00 | +7.4% | -9.2% | T1 | False |
+| 17 | Glock-18 \| Red Tire (Factory New) | 160.00 | +7.3% | -10.0% | T1 | False |
+| 18 | UMP-45 \| Scaffold (Factory New) | 37.90 | +6.9% | -13.1% | T1 | False |
+| 19 | MP9 \| Stained Glass (Factory New) | 853.00 | +6.2% | -10.7% | T1 | False |
+| 20 | CZ75-Auto \| Polymer (Factory New) | 66.20 | +6.1% | -22.9% | T1 | False |
+| 21 | Tec-9 \| Brother (Factory New) | 58.07 | +5.9% | -33.4% | T1 | False |
+| 22 | Sergeant Bombson \| SWAT | 133.00 | +5.6% | -2.1% | T1 | False |
+| 23 | USP-S \| Road Rash (Factory New) | 933.00 | +5.6% | -1.5% | T1 | False |
+| 24 | M4A4 \| Poseidon (Factory New) | 11000.00 | +5.3% | -5.9% | T1 | False |
+| 25 | ★ Moto Gloves \| Boom! (Field-Tested) | 3568.50 | +5.2% | -16.0% | T1 | False |
+| 26 | MP7 \| Nemesis (Factory New) | 160.88 | +5.0% | -6.4% | T1 | False |
+| 27 | Galil AR \| Cerberus (Factory New) | 1379.00 | +4.9% | -18.6% | T1 | False |
+| 28 | UMP-45 \| Full Stop (Factory New) | 35.26 | +4.9% | -15.8% | T1 | False |
+| 29 | P90 \| Death Grip (Factory New) | 265.99 | +4.5% | -3.5% | T1 | False |
+| 30 | Glock-18 \| Weasel (Factory New) | 243.00 | +4.3% | -21.9% | T1 | False |
 
 ## 2026-07-30
 
@@ -6187,7 +6165,7 @@
 | 27 | FAMAS \| Styx (Factory New) | 707.99 | +8.8% | -17.9% | T1 | False |
 | 28 | UMP-45 \| Full Stop (Factory New) | 34.06 | +8.0% | -19.1% | T1 | False |
 | 29 | P2000 \| Space Race (Factory New) | 223.00 | +7.4% | -13.4% | T1 | False |
-| 30 | R8 Revolver \| Memento (Factory New) | 63.87 | +7.1% | +9.7% | T0 | False |
+| 30 | MP7 \| Asterion (Factory New) | 132.98 | +6.9% | -31.0% | T1 | False |
 
 ## 2026-08-01
 
@@ -6239,25 +6217,25 @@
 | 9 | PP-Bizon \| Lumen (Factory New) | 34.90 | +24.8% | -7.5% | T1 | False |
 | 10 | Dual Berettas \| Moon in Libra (Factory New) | 69.88 | +24.3% | -31.6% | T1 | False |
 | 11 | M4A4 \| Red DDPAT (Factory New) | 718.80 | +24.1% | -9.1% | T1 | False |
-| 12 | R8 Revolver \| Memento (Factory New) | 54.19 | +23.9% | -5.5% | T1 | False |
-| 13 | MAC-10 \| Palm (Factory New) | 33.39 | +23.3% | -18.6% | T1 | False |
-| 14 | MP9 \| Music Box (Factory New) | 102.70 | +21.6% | -31.6% | T1 | False |
-| 15 | USP-S \| Road Rash (Factory New) | 938.18 | +21.5% | -20.6% | T1 | False |
-| 16 | Five-SeveN \| Withered Vine (Factory New) | 37.99 | +19.7% | -30.9% | T1 | False |
-| 17 | MP9 \| Goo (Factory New) | 118.00 | +19.3% | -12.1% | T1 | False |
-| 18 | USP-S \| Para Green (Factory New) | 375.50 | +17.8% | -24.2% | T1 | False |
-| 19 | MAC-10 \| Whitefish (Factory New) | 50.90 | +17.0% | +68.7% | T0 | False |
-| 20 | Galil AR \| Amber Fade (Factory New) | 187.00 | +16.6% | -26.8% | T1 | False |
-| 21 | Galil AR \| Dusk Ruins (Factory New) | 389.00 | +15.8% | -28.8% | T1 | False |
-| 22 | Glock-18 \| Grinder (Factory New) | 95.14 | +15.8% | -26.1% | T1 | False |
-| 23 | AWP \| Sun in Leo (Factory New) | 504.90 | +15.6% | -19.9% | T1 | False |
-| 24 | UMP-45 \| Houndstooth (Factory New) | 45.49 | +14.0% | -26.2% | T1 | False |
-| 25 | MP7 \| Asterion (Factory New) | 139.50 | +13.5% | -27.7% | T1 | False |
-| 26 | MAC-10 \| Nuclear Garden (Factory New) | 315.96 | +13.5% | -25.4% | T1 | False |
-| 27 | MP9 \| Hot Rod (Factory New) | 1218.00 | +12.9% | -21.8% | T1 | False |
-| 28 | Glock-18 \| Reactor (Factory New) | 499.99 | +11.9% | -19.2% | T1 | False |
-| 29 | Galil AR \| Cerberus (Factory New) | 1250.00 | +11.7% | -17.7% | T1 | False |
-| 30 | P2000 \| Space Race (Factory New) | 210.88 | +11.6% | -11.7% | T1 | False |
+| 12 | MAC-10 \| Palm (Factory New) | 33.39 | +23.3% | -18.6% | T1 | False |
+| 13 | MP9 \| Music Box (Factory New) | 102.70 | +21.6% | -31.6% | T1 | False |
+| 14 | USP-S \| Road Rash (Factory New) | 938.18 | +21.5% | -20.6% | T1 | False |
+| 15 | Five-SeveN \| Withered Vine (Factory New) | 37.99 | +19.7% | -30.9% | T1 | False |
+| 16 | MP9 \| Goo (Factory New) | 118.00 | +19.3% | -12.1% | T1 | False |
+| 17 | USP-S \| Para Green (Factory New) | 375.50 | +17.8% | -24.2% | T1 | False |
+| 18 | MAC-10 \| Whitefish (Factory New) | 50.90 | +17.0% | +68.7% | T0 | False |
+| 19 | Galil AR \| Amber Fade (Factory New) | 187.00 | +16.6% | -26.8% | T1 | False |
+| 20 | Galil AR \| Dusk Ruins (Factory New) | 389.00 | +15.8% | -28.8% | T1 | False |
+| 21 | Glock-18 \| Grinder (Factory New) | 95.14 | +15.8% | -26.1% | T1 | False |
+| 22 | AWP \| Sun in Leo (Factory New) | 504.90 | +15.6% | -19.9% | T1 | False |
+| 23 | UMP-45 \| Houndstooth (Factory New) | 45.49 | +14.0% | -26.2% | T1 | False |
+| 24 | MP7 \| Asterion (Factory New) | 139.50 | +13.5% | -27.7% | T1 | False |
+| 25 | MAC-10 \| Nuclear Garden (Factory New) | 315.96 | +13.5% | -25.4% | T1 | False |
+| 26 | MP9 \| Hot Rod (Factory New) | 1218.00 | +12.9% | -21.8% | T1 | False |
+| 27 | Glock-18 \| Reactor (Factory New) | 499.99 | +11.9% | -19.2% | T1 | False |
+| 28 | Galil AR \| Cerberus (Factory New) | 1250.00 | +11.7% | -17.7% | T1 | False |
+| 29 | P2000 \| Space Race (Factory New) | 210.88 | +11.6% | -11.7% | T1 | False |
+| 30 | FAMAS \| Styx (Factory New) | 714.00 | +11.1% | -21.6% | T1 | False |
 
 ## 2026-08-03
 
@@ -6265,34 +6243,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Switch Board (Factory New) | 65.89 | +48.3% | +4.1% | T1 | False |
 | 2 | G3SG1 \| New Roots (Factory New) | 53.90 | +43.9% | -28.0% | T1 | False |
-| 3 | R8 Revolver \| Memento (Factory New) | 53.67 | +39.8% | -16.4% | T1 | False |
-| 4 | MAC-10 \| Whitefish (Factory New) | 45.80 | +38.2% | +51.9% | T0 | False |
-| 5 | Tec-9 \| Isaac (Factory New) | 212.50 | +36.6% | -45.2% | T1 | False |
-| 6 | Dual Berettas \| Briar (Factory New) | 49.03 | +29.1% | +21.0% | T0 | False |
-| 7 | PP-Bizon \| Lumen (Factory New) | 34.80 | +26.8% | -14.5% | T1 | False |
-| 8 | MP7 \| Tall Grass (Factory New) | 61.23 | +24.4% | -19.9% | T1 | False |
-| 9 | M4A4 \| Red DDPAT (Factory New) | 718.50 | +23.1% | -11.9% | T1 | False |
-| 10 | MAC-10 \| Palm (Factory New) | 32.50 | +23.1% | -12.4% | T1 | False |
-| 11 | P250 \| Black & Tan (Factory New) | 56.80 | +21.3% | -11.6% | T1 | False |
-| 12 | FAMAS \| CaliCamo (Factory New) | 32.90 | +20.8% | -10.8% | T1 | False |
-| 13 | USP-S \| Orange Anolis (Factory New) | 507.50 | +20.5% | -21.8% | T1 | False |
-| 14 | SSG 08 \| Detour (Factory New) | 254.89 | +20.3% | -20.6% | T1 | False |
-| 15 | USP-S \| Para Green (Factory New) | 360.50 | +19.9% | -21.5% | T1 | False |
-| 16 | AUG \| Anodized Navy (Factory New) | 193.73 | +19.2% | -8.1% | T1 | False |
-| 17 | Dual Berettas \| Moon in Libra (Factory New) | 66.80 | +17.3% | -27.9% | T1 | False |
-| 18 | FAMAS \| Prime Conspiracy (Factory New) | 569.97 | +16.4% | -11.4% | T1 | False |
-| 19 | P90 \| Death Grip (Factory New) | 263.24 | +15.8% | -3.5% | T1 | False |
-| 20 | Dual Berettas \| Heist (Factory New) | 34.00 | +15.1% | -17.0% | T1 | False |
-| 21 | MP9 \| Goo (Factory New) | 103.50 | +14.5% | -19.4% | T1 | False |
-| 22 | SSG 08 \| Turbo Peek (Factory New) | 365.89 | +12.9% | -20.1% | T1 | False |
-| 23 | AWP \| Sun in Leo (Factory New) | 496.97 | +12.7% | -15.9% | T1 | False |
-| 24 | Galil AR \| Cerberus (Factory New) | 1180.00 | +12.3% | -10.4% | T1 | False |
-| 25 | P250 \| Contamination (Factory New) | 67.46 | +11.1% | -5.1% | T1 | False |
-| 26 | Galil AR \| Amber Fade (Factory New) | 189.49 | +11.1% | -26.7% | T1 | False |
-| 27 | AK-47 \| Green Laminate (Factory New) | 350.25 | +10.8% | -16.5% | T1 | False |
-| 28 | MP9 \| Music Box (Factory New) | 98.40 | +10.5% | -22.3% | T1 | False |
-| 29 | CZ75-Auto \| Tigris (Factory New) | 56.74 | +9.7% | -14.5% | T1 | False |
-| 30 | FAMAS \| Styx (Factory New) | 694.00 | +9.4% | -19.7% | T1 | False |
+| 3 | MAC-10 \| Whitefish (Factory New) | 45.80 | +38.2% | +51.9% | T0 | False |
+| 4 | Tec-9 \| Isaac (Factory New) | 212.50 | +36.6% | -45.2% | T1 | False |
+| 5 | Dual Berettas \| Briar (Factory New) | 49.03 | +29.1% | +21.0% | T0 | False |
+| 6 | PP-Bizon \| Lumen (Factory New) | 34.80 | +26.8% | -14.5% | T1 | False |
+| 7 | MP7 \| Tall Grass (Factory New) | 61.23 | +24.4% | -19.9% | T1 | False |
+| 8 | M4A4 \| Red DDPAT (Factory New) | 718.50 | +23.1% | -11.9% | T1 | False |
+| 9 | MAC-10 \| Palm (Factory New) | 32.50 | +23.1% | -12.4% | T1 | False |
+| 10 | P250 \| Black & Tan (Factory New) | 56.80 | +21.3% | -11.6% | T1 | False |
+| 11 | FAMAS \| CaliCamo (Factory New) | 32.90 | +20.8% | -10.8% | T1 | False |
+| 12 | USP-S \| Orange Anolis (Factory New) | 507.50 | +20.5% | -21.8% | T1 | False |
+| 13 | SSG 08 \| Detour (Factory New) | 254.89 | +20.3% | -20.6% | T1 | False |
+| 14 | USP-S \| Para Green (Factory New) | 360.50 | +19.9% | -21.5% | T1 | False |
+| 15 | AUG \| Anodized Navy (Factory New) | 193.73 | +19.2% | -8.1% | T1 | False |
+| 16 | Dual Berettas \| Moon in Libra (Factory New) | 66.80 | +17.3% | -27.9% | T1 | False |
+| 17 | FAMAS \| Prime Conspiracy (Factory New) | 569.97 | +16.4% | -11.4% | T1 | False |
+| 18 | P90 \| Death Grip (Factory New) | 263.24 | +15.8% | -3.5% | T1 | False |
+| 19 | Dual Berettas \| Heist (Factory New) | 34.00 | +15.1% | -17.0% | T1 | False |
+| 20 | MP9 \| Goo (Factory New) | 103.50 | +14.5% | -19.4% | T1 | False |
+| 21 | SSG 08 \| Turbo Peek (Factory New) | 365.89 | +12.9% | -20.1% | T1 | False |
+| 22 | AWP \| Sun in Leo (Factory New) | 496.97 | +12.7% | -15.9% | T1 | False |
+| 23 | Galil AR \| Cerberus (Factory New) | 1180.00 | +12.3% | -10.4% | T1 | False |
+| 24 | P250 \| Contamination (Factory New) | 67.46 | +11.1% | -5.1% | T1 | False |
+| 25 | Galil AR \| Amber Fade (Factory New) | 189.49 | +11.1% | -26.7% | T1 | False |
+| 26 | AK-47 \| Green Laminate (Factory New) | 350.25 | +10.8% | -16.5% | T1 | False |
+| 27 | MP9 \| Music Box (Factory New) | 98.40 | +10.5% | -22.3% | T1 | False |
+| 28 | CZ75-Auto \| Tigris (Factory New) | 56.74 | +9.7% | -14.5% | T1 | False |
+| 29 | FAMAS \| Styx (Factory New) | 694.00 | +9.4% | -19.7% | T1 | False |
+| 30 | P250 \| Iron Clad (Factory New) | 50.23 | +9.3% | -15.7% | T1 | False |
 
 ## 2026-08-04
 
@@ -6300,34 +6278,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Whitefish (Factory New) | 42.60 | +72.9% | +11.4% | T0 | False |
 | 2 | Dual Berettas \| Switch Board (Factory New) | 65.76 | +57.6% | -3.0% | T1 | False |
-| 3 | R8 Revolver \| Memento (Factory New) | 53.15 | +55.0% | -24.6% | T1 | False |
-| 4 | Dual Berettas \| Briar (Factory New) | 53.07 | +33.6% | +16.0% | T0 | False |
-| 5 | MP7 \| Tall Grass (Factory New) | 62.00 | +26.1% | -23.1% | T1 | False |
-| 6 | G3SG1 \| New Roots (Factory New) | 53.68 | +22.7% | -16.4% | T1 | False |
-| 7 | PP-Bizon \| Lumen (Factory New) | 36.08 | +22.5% | -11.3% | T1 | False |
-| 8 | FAMAS \| Prime Conspiracy (Factory New) | 538.90 | +21.6% | -11.5% | T1 | False |
-| 9 | MAC-10 \| Carnivore (Factory New) | 42.60 | +17.2% | -19.0% | T1 | False |
-| 10 | CZ75-Auto \| Tigris (Factory New) | 53.69 | +16.3% | -14.5% | T1 | False |
-| 11 | FAMAS \| CaliCamo (Factory New) | 33.54 | +16.0% | -15.7% | T1 | False |
-| 12 | MP9 \| Goo (Factory New) | 102.00 | +15.9% | -20.5% | T1 | False |
-| 13 | SSG 08 \| Threat Detected (Factory New) | 179.50 | +14.0% | -11.4% | T1 | False |
-| 14 | Dual Berettas \| Emerald (Factory New) | 229.10 | +13.8% | -7.0% | T1 | False |
-| 15 | AUG \| Anodized Navy (Factory New) | 169.99 | +13.3% | -3.2% | T1 | False |
-| 16 | USP-S \| Para Green (Factory New) | 345.49 | +12.7% | -20.0% | T1 | False |
-| 17 | SSG 08 \| Detour (Factory New) | 239.00 | +12.6% | -20.4% | T1 | False |
-| 18 | P250 \| Contamination (Factory New) | 67.13 | +11.9% | -4.7% | T1 | False |
-| 19 | USP-S \| Pathfinder (Factory New) | 398.74 | +11.5% | -22.5% | T1 | False |
-| 20 | SSG 08 \| Turbo Peek (Factory New) | 353.88 | +11.3% | -16.3% | T1 | False |
-| 21 | P250 \| Black & Tan (Factory New) | 53.89 | +10.9% | -9.7% | T1 | False |
-| 22 | Glock-18 \| Reactor (Factory New) | 489.49 | +10.5% | -17.0% | T1 | False |
-| 23 | M4A4 \| Red DDPAT (Factory New) | 743.50 | +8.2% | -7.9% | T1 | False |
-| 24 | MAC-10 \| Pipe Down (Factory New) | 50.92 | +8.2% | +10.1% | T0 | False |
-| 25 | G3SG1 \| Orange Kimono (Factory New) | 74.99 | +7.9% | -19.8% | T1 | False |
-| 26 | AUG \| Navy Murano (Factory New) | 104.47 | +7.6% | -17.5% | T1 | False |
-| 27 | P2000 \| Space Race (Factory New) | 200.93 | +7.2% | -12.8% | T1 | False |
-| 28 | P250 \| Vino Primo (Factory New) | 142.80 | +6.3% | -21.0% | T1 | False |
-| 29 | AWP \| Sun in Leo (Factory New) | 515.00 | +6.2% | -15.8% | T1 | False |
-| 30 | AK-47 \| Green Laminate (Factory New) | 335.50 | +5.6% | -19.3% | T1 | False |
+| 3 | Dual Berettas \| Briar (Factory New) | 53.07 | +33.6% | +16.0% | T0 | False |
+| 4 | MP7 \| Tall Grass (Factory New) | 62.00 | +26.1% | -23.1% | T1 | False |
+| 5 | G3SG1 \| New Roots (Factory New) | 53.68 | +22.7% | -16.4% | T1 | False |
+| 6 | PP-Bizon \| Lumen (Factory New) | 36.08 | +22.5% | -11.3% | T1 | False |
+| 7 | FAMAS \| Prime Conspiracy (Factory New) | 538.90 | +21.6% | -11.5% | T1 | False |
+| 8 | MAC-10 \| Carnivore (Factory New) | 42.60 | +17.2% | -19.0% | T1 | False |
+| 9 | CZ75-Auto \| Tigris (Factory New) | 53.69 | +16.3% | -14.5% | T1 | False |
+| 10 | FAMAS \| CaliCamo (Factory New) | 33.54 | +16.0% | -15.7% | T1 | False |
+| 11 | MP9 \| Goo (Factory New) | 102.00 | +15.9% | -20.5% | T1 | False |
+| 12 | SSG 08 \| Threat Detected (Factory New) | 179.50 | +14.0% | -11.4% | T1 | False |
+| 13 | Dual Berettas \| Emerald (Factory New) | 229.10 | +13.8% | -7.0% | T1 | False |
+| 14 | AUG \| Anodized Navy (Factory New) | 169.99 | +13.3% | -3.2% | T1 | False |
+| 15 | USP-S \| Para Green (Factory New) | 345.49 | +12.7% | -20.0% | T1 | False |
+| 16 | SSG 08 \| Detour (Factory New) | 239.00 | +12.6% | -20.4% | T1 | False |
+| 17 | P250 \| Contamination (Factory New) | 67.13 | +11.9% | -4.7% | T1 | False |
+| 18 | USP-S \| Pathfinder (Factory New) | 398.74 | +11.5% | -22.5% | T1 | False |
+| 19 | SSG 08 \| Turbo Peek (Factory New) | 353.88 | +11.3% | -16.3% | T1 | False |
+| 20 | P250 \| Black & Tan (Factory New) | 53.89 | +10.9% | -9.7% | T1 | False |
+| 21 | Glock-18 \| Reactor (Factory New) | 489.49 | +10.5% | -17.0% | T1 | False |
+| 22 | M4A4 \| Red DDPAT (Factory New) | 743.50 | +8.2% | -7.9% | T1 | False |
+| 23 | MAC-10 \| Pipe Down (Factory New) | 50.92 | +8.2% | +10.1% | T0 | False |
+| 24 | G3SG1 \| Orange Kimono (Factory New) | 74.99 | +7.9% | -19.8% | T1 | False |
+| 25 | AUG \| Navy Murano (Factory New) | 104.47 | +7.6% | -17.5% | T1 | False |
+| 26 | P2000 \| Space Race (Factory New) | 200.93 | +7.2% | -12.8% | T1 | False |
+| 27 | P250 \| Vino Primo (Factory New) | 142.80 | +6.3% | -21.0% | T1 | False |
+| 28 | AWP \| Sun in Leo (Factory New) | 515.00 | +6.2% | -15.8% | T1 | False |
+| 29 | AK-47 \| Green Laminate (Factory New) | 335.50 | +5.6% | -19.3% | T1 | False |
+| 30 | Tec-9 \| Hades (Factory New) | 190.50 | +5.6% | -11.1% | T1 | False |
 
 ## 2026-08-05
 
@@ -6335,34 +6313,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | MAC-10 \| Whitefish (Factory New) | 46.89 | +87.8% | +4.5% | T1 | False |
 | 2 | Dual Berettas \| Switch Board (Factory New) | 65.55 | +36.1% | -1.1% | T1 | False |
-| 3 | R8 Revolver \| Memento (Factory New) | 52.93 | +35.0% | -13.8% | T1 | False |
-| 4 | Dual Berettas \| Briar (Factory New) | 52.67 | +18.0% | +18.8% | T0 | False |
-| 5 | FAMAS \| Prime Conspiracy (Factory New) | 515.99 | +17.8% | -5.8% | T1 | False |
-| 6 | P250 \| Contamination (Factory New) | 66.45 | +17.1% | -8.4% | T1 | False |
-| 7 | Dual Berettas \| Emerald (Factory New) | 229.08 | +15.4% | -8.2% | T1 | False |
-| 8 | AUG \| Anodized Navy (Factory New) | 169.99 | +13.3% | -3.2% | T1 | False |
-| 9 | PP-Bizon \| Lumen (Factory New) | 35.85 | +13.2% | -12.4% | T1 | False |
-| 10 | CZ75-Auto \| Tigris (Factory New) | 50.63 | +12.5% | -17.7% | T1 | False |
-| 11 | USP-S \| Para Green (Factory New) | 351.26 | +11.6% | -16.5% | T1 | False |
-| 12 | SSG 08 \| Detour (Factory New) | 239.00 | +10.2% | -16.0% | T1 | False |
-| 13 | MP9 \| Dart (Factory New) | 39.80 | +9.4% | -1.7% | T1 | False |
-| 14 | MAC-10 \| Pipe Down (Factory New) | 50.87 | +8.7% | +2.5% | T1 | False |
-| 15 | Glock-18 \| Reactor (Factory New) | 486.75 | +7.7% | -15.8% | T1 | False |
-| 16 | USP-S \| Pathfinder (Factory New) | 388.00 | +7.6% | -24.1% | T1 | False |
-| 17 | P2000 \| Pathfinder (Factory New) | 123.45 | +7.5% | -9.0% | T1 | False |
-| 18 | SSG 08 \| Threat Detected (Factory New) | 179.50 | +7.4% | -9.9% | T1 | False |
-| 19 | MP9 \| Goo (Factory New) | 97.00 | +6.4% | -14.2% | T1 | False |
-| 20 | Five-SeveN \| Triumvirate (Factory New) | 112.64 | +5.9% | -29.4% | T1 | False |
-| 21 | SSG 08 \| Turbo Peek (Factory New) | 346.90 | +5.8% | +1.1% | T1 | False |
-| 22 | G3SG1 \| Orange Kimono (Factory New) | 76.45 | +5.8% | -19.7% | T1 | False |
-| 23 | MAC-10 \| Classic Crate (Factory New) | 53.89 | +5.6% | +4.5% | T1 | False |
-| 24 | AUG \| Navy Murano (Factory New) | 102.72 | +5.5% | -14.0% | T1 | False |
-| 25 | P90 \| Sunset Lily (Factory New) | 107.33 | +5.4% | -12.2% | T1 | False |
-| 26 | MAC-10 \| Carnivore (Factory New) | 42.00 | +5.2% | -6.0% | T1 | False |
-| 27 | SG 553 \| Fallout Warning (Factory New) | 37.19 | +5.0% | -4.0% | T1 | False |
-| 28 | AUG \| Midnight Lily (Factory New) | 2064.50 | +3.8% | -3.5% | T1 | False |
-| 29 | UMP-45 \| Houndstooth (Factory New) | 46.39 | +3.6% | -7.8% | T1 | False |
-| 30 | P250 \| Contaminant (Factory New) | 52.56 | +3.2% | -1.7% | T1 | False |
+| 3 | Dual Berettas \| Briar (Factory New) | 52.67 | +18.0% | +18.8% | T0 | False |
+| 4 | FAMAS \| Prime Conspiracy (Factory New) | 515.99 | +17.8% | -5.8% | T1 | False |
+| 5 | P250 \| Contamination (Factory New) | 66.45 | +17.1% | -8.4% | T1 | False |
+| 6 | Dual Berettas \| Emerald (Factory New) | 229.08 | +15.4% | -8.2% | T1 | False |
+| 7 | AUG \| Anodized Navy (Factory New) | 169.99 | +13.3% | -3.2% | T1 | False |
+| 8 | PP-Bizon \| Lumen (Factory New) | 35.85 | +13.2% | -12.4% | T1 | False |
+| 9 | CZ75-Auto \| Tigris (Factory New) | 50.63 | +12.5% | -17.7% | T1 | False |
+| 10 | USP-S \| Para Green (Factory New) | 351.26 | +11.6% | -16.5% | T1 | False |
+| 11 | SSG 08 \| Detour (Factory New) | 239.00 | +10.2% | -16.0% | T1 | False |
+| 12 | MP9 \| Dart (Factory New) | 39.80 | +9.4% | -1.7% | T1 | False |
+| 13 | MAC-10 \| Pipe Down (Factory New) | 50.87 | +8.7% | +2.5% | T1 | False |
+| 14 | Glock-18 \| Reactor (Factory New) | 486.75 | +7.7% | -15.8% | T1 | False |
+| 15 | USP-S \| Pathfinder (Factory New) | 388.00 | +7.6% | -24.1% | T1 | False |
+| 16 | P2000 \| Pathfinder (Factory New) | 123.45 | +7.5% | -9.0% | T1 | False |
+| 17 | SSG 08 \| Threat Detected (Factory New) | 179.50 | +7.4% | -9.9% | T1 | False |
+| 18 | MP9 \| Goo (Factory New) | 97.00 | +6.4% | -14.2% | T1 | False |
+| 19 | Five-SeveN \| Triumvirate (Factory New) | 112.64 | +5.9% | -29.4% | T1 | False |
+| 20 | SSG 08 \| Turbo Peek (Factory New) | 346.90 | +5.8% | +1.1% | T1 | False |
+| 21 | G3SG1 \| Orange Kimono (Factory New) | 76.45 | +5.8% | -19.7% | T1 | False |
+| 22 | MAC-10 \| Classic Crate (Factory New) | 53.89 | +5.6% | +4.5% | T1 | False |
+| 23 | AUG \| Navy Murano (Factory New) | 102.72 | +5.5% | -14.0% | T1 | False |
+| 24 | P90 \| Sunset Lily (Factory New) | 107.33 | +5.4% | -12.2% | T1 | False |
+| 25 | MAC-10 \| Carnivore (Factory New) | 42.00 | +5.2% | -6.0% | T1 | False |
+| 26 | SG 553 \| Fallout Warning (Factory New) | 37.19 | +5.0% | -4.0% | T1 | False |
+| 27 | AUG \| Midnight Lily (Factory New) | 2064.50 | +3.8% | -3.5% | T1 | False |
+| 28 | UMP-45 \| Houndstooth (Factory New) | 46.39 | +3.6% | -7.8% | T1 | False |
+| 29 | P250 \| Contaminant (Factory New) | 52.56 | +3.2% | -1.7% | T1 | False |
+| 30 | MAC-10 \| Nuclear Garden (Factory New) | 294.90 | +2.9% | -19.0% | T1 | False |
 
 ## 2026-08-06
 
@@ -6372,25 +6350,23 @@
 | 2 | Dual Berettas \| Switch Board (Factory New) | 72.00 | +55.5% | -17.6% | T1 | False |
 | 3 | Dual Berettas \| Emerald (Factory New) | 228.28 | +22.6% | -13.6% | T1 | False |
 | 4 | AUG \| Anodized Navy (Factory New) | 169.99 | +13.6% | -3.9% | T1 | False |
-| 5 | R8 Revolver \| Memento (Factory New) | 52.93 | +9.4% | -7.9% | T1 | False |
-| 6 | MAC-10 \| Carnivore (Factory New) | 42.20 | +8.2% | -12.5% | T1 | False |
-| 7 | G3SG1 \| Orange Kimono (Factory New) | 77.90 | +5.2% | -19.4% | T1 | False |
-| 8 | SSG 08 \| Threat Detected (Factory New) | 181.98 | +4.6% | -1.0% | T1 | False |
-| 9 | AUG \| Midnight Lily (Factory New) | 2064.50 | +4.0% | -9.8% | T1 | False |
-| 10 | MAC-10 \| Pipe Down (Factory New) | 50.54 | +3.9% | +0.8% | T1 | False |
-| 11 | MP9 \| Dart (Factory New) | 39.50 | +3.9% | -2.7% | T1 | False |
-| 12 | UMP-45 \| Houndstooth (Factory New) | 46.29 | +3.9% | -7.7% | T1 | False |
-| 13 | G3SG1 \| New Roots (Factory New) | 65.00 | +2.7% | -18.2% | T1 | False |
-| 14 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.7% | -3.9% | T1 | False |
-| 15 | Sawed-Off \| Bamboo Shadow (Factory New) | 79.99 | +2.6% | -4.8% | T1 | False |
-| 16 | SCAR-20 \| Cardiac (Factory New) | 192.99 | +2.4% | -4.2% | T1 | False |
-| 17 | SG 553 \| Fallout Warning (Factory New) | 36.75 | +2.1% | -3.7% | T1 | False |
-| 18 | P250 \| Contaminant (Factory New) | 53.19 | +2.0% | +1.7% | T1 | False |
-| 19 | Dual Berettas \| Dezastre (Factory New) | 116.80 | +1.7% | -16.5% | T1 | False |
-| 20 | P90 \| Blind Spot (Factory New) | 74.10 | +1.6% | -12.4% | T1 | False |
-| 21 | M4A1-S \| Flashback (Factory New) | 890.90 | +1.6% | -15.4% | T1 | False |
-| 22 | P90 \| Sunset Lily (Factory New) | 105.80 | +1.4% | -8.5% | T1 | False |
-| 23 | AWP \| Queen's Gambit (Factory New) | 1340.00 | +0.8% | -7.2% | T1 | False |
+| 5 | MAC-10 \| Carnivore (Factory New) | 42.20 | +8.2% | -12.5% | T1 | False |
+| 6 | G3SG1 \| Orange Kimono (Factory New) | 77.90 | +5.2% | -19.4% | T1 | False |
+| 7 | SSG 08 \| Threat Detected (Factory New) | 181.98 | +4.6% | -1.0% | T1 | False |
+| 8 | AUG \| Midnight Lily (Factory New) | 2064.50 | +4.0% | -9.8% | T1 | False |
+| 9 | MAC-10 \| Pipe Down (Factory New) | 50.54 | +3.9% | +0.8% | T1 | False |
+| 10 | MP9 \| Dart (Factory New) | 39.50 | +3.9% | -2.7% | T1 | False |
+| 11 | UMP-45 \| Houndstooth (Factory New) | 46.29 | +3.9% | -7.7% | T1 | False |
+| 12 | G3SG1 \| New Roots (Factory New) | 65.00 | +2.7% | -18.2% | T1 | False |
+| 13 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.7% | -3.9% | T1 | False |
+| 14 | SCAR-20 \| Cardiac (Factory New) | 192.99 | +2.4% | -4.2% | T1 | False |
+| 15 | SG 553 \| Fallout Warning (Factory New) | 36.75 | +2.1% | -3.7% | T1 | False |
+| 16 | P250 \| Contaminant (Factory New) | 53.19 | +2.0% | +1.7% | T1 | False |
+| 17 | Dual Berettas \| Dezastre (Factory New) | 116.80 | +1.7% | -16.5% | T1 | False |
+| 18 | P90 \| Blind Spot (Factory New) | 74.10 | +1.6% | -12.4% | T1 | False |
+| 19 | M4A1-S \| Flashback (Factory New) | 890.90 | +1.6% | -15.4% | T1 | False |
+| 20 | P90 \| Sunset Lily (Factory New) | 105.80 | +1.4% | -8.5% | T1 | False |
+| 21 | AWP \| Queen's Gambit (Factory New) | 1340.00 | +0.8% | -7.2% | T1 | False |
 
 ## 2026-08-07
 
@@ -6403,25 +6379,22 @@
 | 5 | MAC-10 \| Classic Crate (Factory New) | 54.80 | +15.1% | -0.4% | T1 | False |
 | 6 | Dual Berettas \| Briar (Factory New) | 78.90 | +13.4% | +20.8% | T0 | False |
 | 7 | Dual Berettas \| Emerald (Factory New) | 228.28 | +10.3% | -8.7% | T1 | False |
-| 8 | R8 Revolver \| Memento (Factory New) | 60.88 | +9.7% | -10.5% | T1 | False |
-| 9 | AUG \| Anodized Navy (Factory New) | 169.99 | +8.5% | +0.9% | T1 | False |
-| 10 | Sawed-Off \| Limelight (Factory New) | 43.82 | +5.6% | -4.5% | T1 | False |
-| 11 | SSG 08 \| Threat Detected (Factory New) | 179.88 | +5.2% | +12.9% | T0 | False |
-| 12 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -3.5% | T1 | False |
-| 13 | MAC-10 \| Pipe Down (Factory New) | 52.40 | +3.3% | -4.3% | T1 | False |
-| 14 | MAC-10 \| Last Dive (Factory New) | 46.30 | +3.2% | -14.7% | T1 | False |
-| 15 | AUG \| Daedalus (Factory New) | 44.45 | +3.1% | -11.6% | T1 | False |
-| 16 | UMP-45 \| Houndstooth (Factory New) | 46.18 | +2.6% | -8.2% | T1 | False |
-| 17 | Sawed-Off \| Bamboo Shadow (Factory New) | 79.97 | +2.6% | -4.8% | T1 | False |
-| 18 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.5% | -3.7% | T1 | False |
-| 19 | SCAR-20 \| Cardiac (Factory New) | 188.99 | +1.9% | -3.7% | T1 | False |
-| 20 | MP9 \| Goo (Factory New) | 101.90 | +1.6% | +7.6% | T0 | False |
-| 21 | P90 \| Blind Spot (Factory New) | 80.59 | +1.4% | -8.4% | T1 | False |
-| 22 | P90 \| Sunset Lily (Factory New) | 110.00 | +1.4% | -8.5% | T1 | False |
-| 23 | P90 \| Deathgaze (Factory New) | 122.28 | +1.0% | -10.6% | T1 | False |
-| 24 | ★ Driver Gloves \| Dragon Fists (Field-Tested) | 655.00 | +0.8% | -10.5% | T1 | False |
-| 25 | Dual Berettas \| Dezastre (Factory New) | 116.30 | +0.8% | -11.5% | T1 | False |
-| 26 | Chem-Haz Specialist \| SWAT | 69.80 | +0.7% | -9.0% | T1 | False |
+| 8 | AUG \| Anodized Navy (Factory New) | 169.99 | +8.5% | +0.9% | T1 | False |
+| 9 | SSG 08 \| Threat Detected (Factory New) | 179.88 | +5.2% | +12.9% | T0 | False |
+| 10 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -3.5% | T1 | False |
+| 11 | MAC-10 \| Pipe Down (Factory New) | 52.40 | +3.3% | -4.3% | T1 | False |
+| 12 | MAC-10 \| Last Dive (Factory New) | 46.30 | +3.2% | -14.7% | T1 | False |
+| 13 | AUG \| Daedalus (Factory New) | 44.45 | +3.1% | -11.6% | T1 | False |
+| 14 | UMP-45 \| Houndstooth (Factory New) | 46.18 | +2.6% | -8.2% | T1 | False |
+| 15 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.5% | -3.7% | T1 | False |
+| 16 | SCAR-20 \| Cardiac (Factory New) | 188.99 | +1.9% | -3.7% | T1 | False |
+| 17 | MP9 \| Goo (Factory New) | 101.90 | +1.6% | +7.6% | T0 | False |
+| 18 | P90 \| Blind Spot (Factory New) | 80.59 | +1.4% | -8.4% | T1 | False |
+| 19 | P90 \| Sunset Lily (Factory New) | 110.00 | +1.4% | -8.5% | T1 | False |
+| 20 | P90 \| Deathgaze (Factory New) | 122.28 | +1.0% | -10.6% | T1 | False |
+| 21 | ★ Driver Gloves \| Dragon Fists (Field-Tested) | 655.00 | +0.8% | -10.5% | T1 | False |
+| 22 | Dual Berettas \| Dezastre (Factory New) | 116.30 | +0.8% | -11.5% | T1 | False |
+| 23 | Chem-Haz Specialist \| SWAT | 69.80 | +0.7% | -9.0% | T1 | False |
 
 ## 2026-08-08
 
@@ -6436,19 +6409,16 @@
 | 7 | AUG \| Anodized Navy (Factory New) | 168.97 | +8.9% | +0.9% | T1 | False |
 | 8 | Dual Berettas \| Emerald (Factory New) | 248.98 | +8.8% | -9.8% | T1 | False |
 | 9 | MAC-10 \| Carnivore (Factory New) | 42.00 | +8.5% | -9.0% | T1 | False |
-| 10 | R8 Revolver \| Memento (Factory New) | 60.68 | +8.0% | -8.3% | T1 | False |
-| 11 | MAC-10 \| Last Dive (Factory New) | 44.88 | +6.3% | -18.4% | T1 | False |
-| 12 | Sawed-Off \| Limelight (Factory New) | 40.00 | +5.5% | -4.2% | T1 | False |
-| 13 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -3.5% | T1 | False |
-| 14 | AUG \| Daedalus (Factory New) | 43.97 | +3.7% | -11.9% | T1 | False |
-| 15 | Dual Berettas \| Marina (Factory New) | 149.90 | +3.0% | -3.8% | T1 | False |
-| 16 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.5% | -3.8% | T1 | False |
-| 17 | SCAR-20 \| Cardiac (Factory New) | 188.98 | +1.9% | -6.1% | T1 | False |
-| 18 | Sawed-Off \| Bamboo Shadow (Factory New) | 79.95 | +1.4% | -3.6% | T1 | False |
-| 19 | Dual Berettas \| Dezastre (Factory New) | 115.80 | +1.4% | -11.5% | T1 | False |
-| 20 | MAC-10 \| Pipe Down (Factory New) | 54.18 | +1.2% | +6.9% | T0 | False |
-| 21 | SSG 08 \| Death Strike (Factory New) | 1999.49 | +0.7% | -5.2% | T1 | False |
-| 22 | ★ Driver Gloves \| Brocade Crane (Field-Tested) | 1099.50 | +0.7% | -8.0% | T1 | False |
+| 10 | MAC-10 \| Last Dive (Factory New) | 44.88 | +6.3% | -18.4% | T1 | False |
+| 11 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -3.5% | T1 | False |
+| 12 | AUG \| Daedalus (Factory New) | 43.97 | +3.7% | -11.9% | T1 | False |
+| 13 | Dual Berettas \| Marina (Factory New) | 149.90 | +3.0% | -3.8% | T1 | False |
+| 14 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.5% | -3.8% | T1 | False |
+| 15 | SCAR-20 \| Cardiac (Factory New) | 188.98 | +1.9% | -6.1% | T1 | False |
+| 16 | Dual Berettas \| Dezastre (Factory New) | 115.80 | +1.4% | -11.5% | T1 | False |
+| 17 | MAC-10 \| Pipe Down (Factory New) | 54.18 | +1.2% | +6.9% | T0 | False |
+| 18 | SSG 08 \| Death Strike (Factory New) | 1999.49 | +0.7% | -5.2% | T1 | False |
+| 19 | ★ Driver Gloves \| Brocade Crane (Field-Tested) | 1099.50 | +0.7% | -8.0% | T1 | False |
 
 ## 2026-08-09
 
@@ -6459,23 +6429,21 @@
 | 3 | Dual Berettas \| Switch Board (Factory New) | 91.00 | +12.5% | -20.0% | T1 | False |
 | 4 | MAC-10 \| Last Dive (Factory New) | 43.97 | +10.9% | -13.7% | T1 | False |
 | 5 | AUG \| Anodized Navy (Factory New) | 168.46 | +7.9% | -4.2% | T1 | False |
-| 6 | R8 Revolver \| Llama Cannon (Factory New) | 164.00 | +6.0% | -3.4% | T1 | False |
-| 7 | Dual Berettas \| Briar (Factory New) | 71.60 | +5.7% | +18.7% | T0 | False |
-| 8 | MAC-10 \| Classic Crate (Factory New) | 49.90 | +5.6% | +4.7% | T1 | False |
-| 9 | Dual Berettas \| Emerald (Factory New) | 248.48 | +4.7% | -3.6% | T1 | False |
-| 10 | AUG \| Daedalus (Factory New) | 43.71 | +4.4% | -11.9% | T1 | False |
-| 11 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -3.5% | T1 | False |
-| 12 | SSG 08 \| Death Strike (Factory New) | 1900.00 | +3.3% | -6.0% | T1 | False |
-| 13 | Dual Berettas \| Dezastre (Factory New) | 113.80 | +3.2% | -13.9% | T1 | False |
-| 14 | Dual Berettas \| Marina (Factory New) | 149.90 | +3.0% | -6.5% | T1 | False |
-| 15 | ★ Driver Gloves \| Racing Green (Field-Tested) | 198.99 | +2.9% | -9.9% | T1 | False |
-| 16 | Sawed-Off \| Bamboo Shadow (Factory New) | 79.82 | +2.5% | -3.6% | T1 | False |
-| 17 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.5% | -3.8% | T1 | False |
-| 18 | P90 \| Sunset Lily (Factory New) | 109.60 | +2.4% | +2.0% | T1 | False |
-| 19 | SCAR-20 \| Cardiac (Factory New) | 188.98 | +1.9% | -6.9% | T1 | False |
-| 20 | P90 \| Blind Spot (Factory New) | 82.70 | +1.7% | -7.7% | T1 | False |
-| 21 | ★ Specialist Gloves \| Big Swell (Field-Tested) | 1150.00 | +0.6% | -9.7% | T1 | False |
-| 22 | P250 \| See Ya Later (Factory New) | 748.00 | +0.1% | -5.2% | T1 | False |
+| 6 | Dual Berettas \| Briar (Factory New) | 71.60 | +5.7% | +18.7% | T0 | False |
+| 7 | MAC-10 \| Classic Crate (Factory New) | 49.90 | +5.6% | +4.7% | T1 | False |
+| 8 | Dual Berettas \| Emerald (Factory New) | 248.48 | +4.7% | -3.6% | T1 | False |
+| 9 | AUG \| Daedalus (Factory New) | 43.71 | +4.4% | -11.9% | T1 | False |
+| 10 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -3.5% | T1 | False |
+| 11 | SSG 08 \| Death Strike (Factory New) | 1900.00 | +3.3% | -6.0% | T1 | False |
+| 12 | Dual Berettas \| Dezastre (Factory New) | 113.80 | +3.2% | -13.9% | T1 | False |
+| 13 | Dual Berettas \| Marina (Factory New) | 149.90 | +3.0% | -6.5% | T1 | False |
+| 14 | ★ Driver Gloves \| Racing Green (Field-Tested) | 198.99 | +2.9% | -9.9% | T1 | False |
+| 15 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.5% | -3.8% | T1 | False |
+| 16 | P90 \| Sunset Lily (Factory New) | 109.60 | +2.4% | +2.0% | T1 | False |
+| 17 | SCAR-20 \| Cardiac (Factory New) | 188.98 | +1.9% | -6.9% | T1 | False |
+| 18 | P90 \| Blind Spot (Factory New) | 82.70 | +1.7% | -7.7% | T1 | False |
+| 19 | ★ Specialist Gloves \| Big Swell (Field-Tested) | 1150.00 | +0.6% | -9.7% | T1 | False |
+| 20 | P250 \| See Ya Later (Factory New) | 748.00 | +0.1% | -5.2% | T1 | False |
 
 ## 2026-08-10
 
@@ -6487,30 +6455,27 @@
 | 4 | Tec-9 \| Cracked Opal (Factory New) | 34.77 | +9.8% | -2.7% | T1 | False |
 | 5 | P90 \| Blind Spot (Factory New) | 75.00 | +9.5% | -10.8% | T1 | False |
 | 6 | MAC-10 \| Classic Crate (Factory New) | 53.00 | +8.8% | -5.0% | T1 | False |
-| 7 | R8 Revolver \| Llama Cannon (Factory New) | 163.29 | +6.4% | +7.7% | T0 | False |
-| 8 | MAC-10 \| Pipe Down (Factory New) | 52.68 | +5.5% | +5.5% | T0 | False |
-| 9 | AUG \| Daedalus (Factory New) | 43.42 | +4.8% | -15.7% | T1 | False |
-| 10 | Dual Berettas \| Sweet Little Angels (Factory New) | 62.00 | +4.3% | -12.3% | T1 | False |
-| 11 | Dual Berettas \| Dezastre (Factory New) | 109.90 | +4.1% | -15.5% | T1 | False |
-| 12 | Dual Berettas \| Switch Board (Factory New) | 103.00 | +4.1% | -20.0% | T1 | False |
-| 13 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -10.5% | T1 | False |
-| 14 | Five-SeveN \| Kami (Factory New) | 41.83 | +3.6% | -3.3% | T1 | False |
-| 15 | MAC-10 \| Last Dive (Factory New) | 40.90 | +3.3% | -14.8% | T1 | False |
-| 16 | MP9 \| Dark Age (Factory New) | 478.00 | +3.0% | -4.4% | T1 | False |
-| 17 | Dual Berettas \| Marina (Factory New) | 149.90 | +3.0% | -6.5% | T1 | False |
-| 18 | MAC-10 \| Malachite (Factory New) | 63.96 | +2.9% | -13.1% | T1 | False |
-| 19 | Dual Berettas \| Emerald (Factory New) | 248.48 | +2.6% | -4.0% | T1 | False |
-| 20 | Sawed-Off \| Bamboo Shadow (Factory New) | 78.99 | +2.5% | -3.6% | T1 | False |
-| 21 | MP9 \| Deadly Poison (Factory New) | 46.00 | +2.4% | +4.1% | T1 | False |
-| 22 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.4% | -3.8% | T1 | False |
-| 23 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4529.50 | +1.9% | +9.9% | T0 | False |
-| 24 | Dual Berettas \| Dualing Dragons (Factory New) | 39.76 | +1.8% | -12.8% | T1 | False |
-| 25 | ★ Driver Gloves \| Brocade Crane (Field-Tested) | 1111.00 | +1.0% | -6.6% | T1 | False |
-| 26 | Sawed-Off \| Kiss♥Love (Factory New) | 104.00 | +0.9% | -6.6% | T1 | False |
-| 27 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 224.86 | +0.9% | -14.0% | T1 | False |
-| 28 | P250 \| See Ya Later (Factory New) | 740.00 | +0.9% | -6.3% | T1 | False |
-| 29 | SG 553 \| Hypnotic (Factory New) | 394.99 | +0.1% | -11.2% | T1 | False |
-| 30 | ★ Specialist Gloves \| Big Swell (Field-Tested) | 1136.80 | +0.1% | -9.3% | T1 | False |
+| 7 | MAC-10 \| Pipe Down (Factory New) | 52.68 | +5.5% | +5.5% | T0 | False |
+| 8 | AUG \| Daedalus (Factory New) | 43.42 | +4.8% | -15.7% | T1 | False |
+| 9 | Dual Berettas \| Sweet Little Angels (Factory New) | 62.00 | +4.3% | -12.3% | T1 | False |
+| 10 | Dual Berettas \| Dezastre (Factory New) | 109.90 | +4.1% | -15.5% | T1 | False |
+| 11 | Dual Berettas \| Switch Board (Factory New) | 103.00 | +4.1% | -20.0% | T1 | False |
+| 12 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -10.5% | T1 | False |
+| 13 | Five-SeveN \| Kami (Factory New) | 41.83 | +3.6% | -3.3% | T1 | False |
+| 14 | MAC-10 \| Last Dive (Factory New) | 40.90 | +3.3% | -14.8% | T1 | False |
+| 15 | MP9 \| Dark Age (Factory New) | 478.00 | +3.0% | -4.4% | T1 | False |
+| 16 | Dual Berettas \| Marina (Factory New) | 149.90 | +3.0% | -6.5% | T1 | False |
+| 17 | MAC-10 \| Malachite (Factory New) | 63.96 | +2.9% | -13.1% | T1 | False |
+| 18 | Dual Berettas \| Emerald (Factory New) | 248.48 | +2.6% | -4.0% | T1 | False |
+| 19 | MP9 \| Deadly Poison (Factory New) | 46.00 | +2.4% | +4.1% | T1 | False |
+| 20 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.4% | -3.8% | T1 | False |
+| 21 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4529.50 | +1.9% | +9.9% | T0 | False |
+| 22 | Dual Berettas \| Dualing Dragons (Factory New) | 39.76 | +1.8% | -12.8% | T1 | False |
+| 23 | ★ Driver Gloves \| Brocade Crane (Field-Tested) | 1111.00 | +1.0% | -6.6% | T1 | False |
+| 24 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 224.86 | +0.9% | -14.0% | T1 | False |
+| 25 | P250 \| See Ya Later (Factory New) | 740.00 | +0.9% | -6.3% | T1 | False |
+| 26 | SG 553 \| Hypnotic (Factory New) | 394.99 | +0.1% | -11.2% | T1 | False |
+| 27 | ★ Specialist Gloves \| Big Swell (Field-Tested) | 1136.80 | +0.1% | -9.3% | T1 | False |
 
 ## 2026-08-11
 
@@ -6522,21 +6487,17 @@
 | 4 | MAC-10 \| Pipe Down (Factory New) | 52.05 | +10.1% | -2.1% | T1 | False |
 | 5 | MP9 \| Dart (Factory New) | 39.00 | +9.1% | +8.9% | T0 | False |
 | 6 | Tec-9 \| Cracked Opal (Factory New) | 33.13 | +6.9% | +9.4% | T0 | False |
-| 7 | R8 Revolver \| Llama Cannon (Factory New) | 162.70 | +6.4% | +7.8% | T0 | False |
-| 8 | P90 \| Blind Spot (Factory New) | 73.00 | +4.3% | -9.7% | T1 | False |
-| 9 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -10.6% | T1 | False |
-| 10 | CZ75-Auto \| Army Sheen (Factory New) | 32.31 | +3.6% | -4.9% | T1 | False |
-| 11 | Dual Berettas \| Marina (Factory New) | 150.00 | +3.0% | -6.5% | T1 | False |
-| 12 | MP9 \| Dark Age (Factory New) | 476.00 | +2.7% | -4.3% | T1 | False |
-| 13 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.4% | -3.7% | T1 | False |
-| 14 | MP9 \| Deadly Poison (Factory New) | 44.58 | +2.4% | +0.9% | T1 | False |
-| 15 | MAG-7 \| Praetorian (Factory New) | 37.66 | +1.5% | -10.3% | T1 | False |
-| 16 | P2000 \| Turf (Factory New) | 115.96 | +0.8% | -1.3% | T1 | False |
-| 17 | Sawed-Off \| Kiss♥Love (Factory New) | 99.68 | +0.6% | -5.8% | T1 | False |
-| 18 | Dual Berettas \| Sweet Little Angels (Factory New) | 58.70 | +0.5% | -8.7% | T1 | False |
-| 19 | Five-SeveN \| Kami (Factory New) | 36.70 | +0.4% | -2.6% | T1 | False |
-| 20 | XM1014 \| XOXO (Factory New) | 100.63 | +0.3% | -8.2% | T1 | False |
-| 21 | MAC-10 \| Strats (Factory New) | 31.90 | +0.2% | -2.2% | T1 | False |
+| 7 | P90 \| Blind Spot (Factory New) | 73.00 | +4.3% | -9.7% | T1 | False |
+| 8 | AUG \| Midnight Lily (Factory New) | 2061.00 | +3.9% | -10.6% | T1 | False |
+| 9 | CZ75-Auto \| Army Sheen (Factory New) | 32.31 | +3.6% | -4.9% | T1 | False |
+| 10 | Dual Berettas \| Marina (Factory New) | 150.00 | +3.0% | -6.5% | T1 | False |
+| 11 | MP9 \| Dark Age (Factory New) | 476.00 | +2.7% | -4.3% | T1 | False |
+| 12 | AUG \| Hot Rod (Factory New) | 2500.00 | +2.4% | -3.7% | T1 | False |
+| 13 | MP9 \| Deadly Poison (Factory New) | 44.58 | +2.4% | +0.9% | T1 | False |
+| 14 | P2000 \| Turf (Factory New) | 115.96 | +0.8% | -1.3% | T1 | False |
+| 15 | Dual Berettas \| Sweet Little Angels (Factory New) | 58.70 | +0.5% | -8.7% | T1 | False |
+| 16 | Five-SeveN \| Kami (Factory New) | 36.70 | +0.4% | -2.6% | T1 | False |
+| 17 | MAC-10 \| Strats (Factory New) | 31.90 | +0.2% | -2.2% | T1 | False |
 
 ## 2026-08-12
 
@@ -6546,32 +6507,32 @@
 | 2 | Tec-9 \| Cracked Opal (Factory New) | 32.50 | +11.1% | +14.5% | T0 | False |
 | 3 | CZ75-Auto \| Polymer (Factory New) | 56.00 | +9.2% | -1.9% | T1 | False |
 | 4 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 5050.00 | +9.1% | +6.9% | T0 | False |
-| 5 | R8 Revolver \| Llama Cannon (Factory New) | 162.70 | +7.5% | +6.4% | T0 | False |
-| 6 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4630.00 | +7.4% | +14.3% | T0 | False |
-| 7 | M4A4 \| Sheet Lightning (Factory New) | 40.26 | +7.0% | -4.0% | T1 | False |
-| 8 | MP9 \| Deadly Poison (Factory New) | 44.37 | +6.3% | -4.7% | T1 | False |
-| 9 | G3SG1 \| Stinger (Factory New) | 55.60 | +5.3% | -3.9% | T1 | False |
-| 10 | MAC-10 \| Strats (Factory New) | 30.70 | +5.0% | -3.1% | T1 | False |
-| 11 | CZ75-Auto \| Army Sheen (Factory New) | 32.09 | +4.6% | -4.9% | T1 | False |
-| 12 | MAC-10 \| Classic Crate (Factory New) | 54.00 | +4.5% | -7.8% | T1 | False |
-| 13 | MAC-10 \| Whitefish (Factory New) | 84.00 | +4.5% | +20.4% | T0 | False |
-| 14 | Dual Berettas \| Anodized Navy (Factory New) | 114.00 | +4.1% | +1.3% | T1 | False |
-| 15 | P2000 \| Turf (Factory New) | 113.00 | +3.6% | +2.7% | T1 | False |
-| 16 | MAG-7 \| Praetorian (Factory New) | 37.33 | +3.3% | -12.7% | T1 | False |
-| 17 | MP9 \| Dark Age (Factory New) | 476.90 | +3.1% | -3.1% | T1 | False |
-| 18 | Dual Berettas \| Marina (Factory New) | 150.00 | +3.0% | -6.5% | T1 | False |
-| 19 | M4A4 \| Red DDPAT (Factory New) | 874.00 | +2.8% | +23.2% | T0 | False |
-| 20 | Glock-18 \| Off World (Factory New) | 47.24 | +2.7% | +1.2% | T1 | False |
-| 21 | Five-SeveN \| Kami (Factory New) | 36.83 | +2.5% | +3.4% | T1 | False |
-| 22 | MAC-10 \| Pipe Down (Factory New) | 57.00 | +2.5% | +15.9% | T0 | False |
-| 23 | SCAR-20 \| Emerald (Factory New) | 208.50 | +2.3% | -0.4% | T1 | False |
-| 24 | Glock-18 \| Trace Lock (Factory New) | 37.00 | +2.0% | -3.0% | T1 | False |
-| 25 | P250 \| Forest Night (Factory New) | 110.99 | +1.7% | -16.2% | T1 | False |
-| 26 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1519.00 | +1.7% | +4.4% | T1 | False |
-| 27 | Glock-18 \| Water Elemental (Factory New) | 380.00 | +1.6% | +6.5% | T0 | False |
-| 28 | SSG 08 \| Turbo Peek (Factory New) | 400.00 | +1.1% | -4.2% | T1 | False |
-| 29 | MP9 \| Sand Scale (Factory New) | 51.00 | +0.6% | +3.8% | T1 | False |
-| 30 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1264.50 | +0.5% | +3.3% | T1 | False |
+| 5 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4630.00 | +7.4% | +14.3% | T0 | False |
+| 6 | M4A4 \| Sheet Lightning (Factory New) | 40.26 | +7.0% | -4.0% | T1 | False |
+| 7 | MP9 \| Deadly Poison (Factory New) | 44.37 | +6.3% | -4.7% | T1 | False |
+| 8 | G3SG1 \| Stinger (Factory New) | 55.60 | +5.3% | -3.9% | T1 | False |
+| 9 | MAC-10 \| Strats (Factory New) | 30.70 | +5.0% | -3.1% | T1 | False |
+| 10 | CZ75-Auto \| Army Sheen (Factory New) | 32.09 | +4.6% | -4.9% | T1 | False |
+| 11 | MAC-10 \| Classic Crate (Factory New) | 54.00 | +4.5% | -7.8% | T1 | False |
+| 12 | MAC-10 \| Whitefish (Factory New) | 84.00 | +4.5% | +20.4% | T0 | False |
+| 13 | Dual Berettas \| Anodized Navy (Factory New) | 114.00 | +4.1% | +1.3% | T1 | False |
+| 14 | P2000 \| Turf (Factory New) | 113.00 | +3.6% | +2.7% | T1 | False |
+| 15 | MP9 \| Dark Age (Factory New) | 476.90 | +3.1% | -3.1% | T1 | False |
+| 16 | Dual Berettas \| Marina (Factory New) | 150.00 | +3.0% | -6.5% | T1 | False |
+| 17 | M4A4 \| Red DDPAT (Factory New) | 874.00 | +2.8% | +23.2% | T0 | False |
+| 18 | Glock-18 \| Off World (Factory New) | 47.24 | +2.7% | +1.2% | T1 | False |
+| 19 | Five-SeveN \| Kami (Factory New) | 36.83 | +2.5% | +3.4% | T1 | False |
+| 20 | MAC-10 \| Pipe Down (Factory New) | 57.00 | +2.5% | +15.9% | T0 | False |
+| 21 | SCAR-20 \| Emerald (Factory New) | 208.50 | +2.3% | -0.4% | T1 | False |
+| 22 | Glock-18 \| Trace Lock (Factory New) | 37.00 | +2.0% | -3.0% | T1 | False |
+| 23 | P250 \| Forest Night (Factory New) | 110.99 | +1.7% | -16.2% | T1 | False |
+| 24 | ★ Bloodhound Gloves \| Bronzed (Field-Tested) | 1519.00 | +1.7% | +4.4% | T1 | False |
+| 25 | Glock-18 \| Water Elemental (Factory New) | 380.00 | +1.6% | +6.5% | T0 | False |
+| 26 | SSG 08 \| Turbo Peek (Factory New) | 400.00 | +1.1% | -4.2% | T1 | False |
+| 27 | MP9 \| Sand Scale (Factory New) | 51.00 | +0.6% | +3.8% | T1 | False |
+| 28 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1264.50 | +0.5% | +3.3% | T1 | False |
+| 29 | AUG \| Random Access (Factory New) | 63.97 | +0.5% | -0.5% | T1 | False |
+| 30 | M4A1-S \| Briefing (Factory New) | 465.00 | +0.4% | +7.0% | T0 | False |
 
 ## 2026-08-13
 
@@ -6583,30 +6544,30 @@
 | 4 | FAMAS \| Commemoration (Factory New) | 398.00 | +12.5% | +4.8% | T1 | False |
 | 5 | Dual Berettas \| Briar (Factory New) | 72.00 | +10.4% | +18.0% | T0 | False |
 | 6 | Tec-9 \| Cracked Opal (Factory New) | 31.70 | +9.3% | +24.9% | T0 | False |
-| 7 | R8 Revolver \| Llama Cannon (Factory New) | 161.10 | +8.2% | +6.7% | T0 | False |
-| 8 | SSG 08 \| Orange Filigree (Factory New) | 260.00 | +7.6% | -5.6% | T1 | False |
-| 9 | P2000 \| Granite Marbleized (Factory New) | 69.88 | +6.9% | +15.2% | T0 | False |
-| 10 | SSG 08 \| Turbo Peek (Factory New) | 387.80 | +6.7% | -7.0% | T1 | False |
-| 11 | Desert Eagle \| Mecha Industries (Factory New) | 134.40 | +6.6% | +12.3% | T0 | False |
-| 12 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4628.00 | +6.3% | +8.7% | T0 | False |
-| 13 | FAMAS \| Valence (Factory New) | 221.50 | +5.7% | -11.0% | T1 | False |
-| 14 | AWP \| Sun in Leo (Factory New) | 550.00 | +5.5% | +3.8% | T1 | False |
-| 15 | CZ75-Auto \| Army Sheen (Factory New) | 31.77 | +5.5% | -4.9% | T1 | False |
-| 16 | Glock-18 \| Trace Lock (Factory New) | 37.29 | +4.6% | -6.2% | T1 | False |
-| 17 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 4953.00 | +4.6% | +5.5% | T0 | False |
-| 18 | PP-Bizon \| Blue Streak (Factory New) | 89.99 | +4.0% | -3.5% | T1 | False |
-| 19 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2268.50 | +3.5% | +1.3% | T1 | False |
-| 20 | Dual Berettas \| Marina (Factory New) | 149.99 | +2.9% | -6.5% | T1 | False |
-| 21 | SCAR-20 \| Emerald (Factory New) | 207.50 | +2.8% | -0.4% | T1 | False |
-| 22 | Glock-18 \| Water Elemental (Factory New) | 367.50 | +2.7% | +6.7% | T0 | False |
-| 23 | MAC-10 \| Classic Crate (Factory New) | 58.00 | +2.6% | -4.3% | T1 | False |
-| 24 | USP-S \| Lead Conduit (Factory New) | 108.40 | +2.6% | +2.5% | T1 | False |
-| 25 | USP-S \| Orange Anolis (Factory New) | 580.50 | +2.6% | +3.1% | T1 | False |
-| 26 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1238.50 | +2.2% | -2.0% | T1 | False |
-| 27 | P250 \| Forest Night (Factory New) | 107.47 | +2.1% | -14.9% | T1 | False |
-| 28 | P250 \| Contaminant (Factory New) | 56.87 | +1.7% | +6.3% | T0 | False |
-| 29 | M4A4 \| Red DDPAT (Factory New) | 849.50 | +1.6% | +15.4% | T0 | False |
-| 30 | PP-Bizon \| Carbon Fiber (Factory New) | 33.42 | +1.2% | -8.0% | T1 | False |
+| 7 | SSG 08 \| Orange Filigree (Factory New) | 260.00 | +7.6% | -5.6% | T1 | False |
+| 8 | P2000 \| Granite Marbleized (Factory New) | 69.88 | +6.9% | +15.2% | T0 | False |
+| 9 | SSG 08 \| Turbo Peek (Factory New) | 387.80 | +6.7% | -7.0% | T1 | False |
+| 10 | Desert Eagle \| Mecha Industries (Factory New) | 134.40 | +6.6% | +12.3% | T0 | False |
+| 11 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4628.00 | +6.3% | +8.7% | T0 | False |
+| 12 | FAMAS \| Valence (Factory New) | 221.50 | +5.7% | -11.0% | T1 | False |
+| 13 | AWP \| Sun in Leo (Factory New) | 550.00 | +5.5% | +3.8% | T1 | False |
+| 14 | CZ75-Auto \| Army Sheen (Factory New) | 31.77 | +5.5% | -4.9% | T1 | False |
+| 15 | Glock-18 \| Trace Lock (Factory New) | 37.29 | +4.6% | -6.2% | T1 | False |
+| 16 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 4953.00 | +4.6% | +5.5% | T0 | False |
+| 17 | PP-Bizon \| Blue Streak (Factory New) | 89.99 | +4.0% | -3.5% | T1 | False |
+| 18 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2268.50 | +3.5% | +1.3% | T1 | False |
+| 19 | Dual Berettas \| Marina (Factory New) | 149.99 | +2.9% | -6.5% | T1 | False |
+| 20 | SCAR-20 \| Emerald (Factory New) | 207.50 | +2.8% | -0.4% | T1 | False |
+| 21 | Glock-18 \| Water Elemental (Factory New) | 367.50 | +2.7% | +6.7% | T0 | False |
+| 22 | MAC-10 \| Classic Crate (Factory New) | 58.00 | +2.6% | -4.3% | T1 | False |
+| 23 | USP-S \| Lead Conduit (Factory New) | 108.40 | +2.6% | +2.5% | T1 | False |
+| 24 | USP-S \| Orange Anolis (Factory New) | 580.50 | +2.6% | +3.1% | T1 | False |
+| 25 | ★ Bloodhound Gloves \| Snakebite (Field-Tested) | 1238.50 | +2.2% | -2.0% | T1 | False |
+| 26 | P250 \| Forest Night (Factory New) | 107.47 | +2.1% | -14.9% | T1 | False |
+| 27 | P250 \| Contaminant (Factory New) | 56.87 | +1.7% | +6.3% | T0 | False |
+| 28 | M4A4 \| Red DDPAT (Factory New) | 849.50 | +1.6% | +15.4% | T0 | False |
+| 29 | PP-Bizon \| Carbon Fiber (Factory New) | 33.42 | +1.2% | -8.0% | T1 | False |
+| 30 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2580.00 | +1.1% | -12.4% | T1 | False |
 
 ## 2026-08-14
 
@@ -6649,69 +6610,69 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 41.55 | +45.3% | +0.3% | T1 | False |
 | 2 | FAMAS \| Survivor Z (Factory New) | 40.60 | +40.7% | -15.0% | T1 | True |
-| 3 | Sawed-Off \| Jungle Thicket (Factory New) | 39.53 | +35.3% | -3.7% | T1 | False |
-| 4 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4749.00 | +33.2% | -2.2% | T1 | False |
-| 5 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3190.00 | +31.7% | +2.3% | T1 | False |
-| 6 | Desert Eagle \| Sputnik (Factory New) | 75.50 | +29.7% | -6.6% | T1 | False |
-| 7 | P250 \| Whiteout (Factory New) | 1997.98 | +29.5% | -24.4% | T1 | False |
-| 8 | M4A1-S \| Fizzy POP (Factory New) | 101.55 | +28.7% | -5.0% | T1 | False |
-| 9 | Five-SeveN \| Scumbria (Factory New) | 42.09 | +28.5% | -5.9% | T1 | False |
-| 10 | ★ Driver Gloves \| Convoy (Field-Tested) | 3167.50 | +28.2% | +0.3% | T1 | False |
-| 11 | M4A4 \| Magnesium (Factory New) | 40.15 | +27.7% | -1.6% | T1 | False |
-| 12 | M4A4 \| Red DDPAT (Factory New) | 860.00 | +27.5% | +5.7% | T0 | False |
-| 13 | USP-S \| Cyrex (Factory New) | 307.50 | +26.9% | -4.7% | T1 | False |
-| 14 | Glock-18 \| Nuclear Garden (Factory New) | 317.00 | +26.8% | -5.1% | T1 | False |
-| 15 | Glock-18 \| Ironwork (Factory New) | 301.50 | +26.5% | -6.9% | T1 | False |
-| 16 | P2000 \| Granite Marbleized (Factory New) | 49.99 | +25.7% | +6.6% | T0 | False |
-| 17 | MAC-10 \| Whitefish (Factory New) | 100.00 | +25.1% | +2.9% | T1 | False |
-| 18 | Glock-18 \| Weasel (Factory New) | 186.99 | +24.3% | +1.6% | T1 | False |
-| 19 | Glock-18 \| Green Line (Factory New) | 68.30 | +24.1% | -11.3% | T1 | False |
-| 20 | FAMAS \| ZX Spectron (Factory New) | 174.00 | +24.1% | -1.9% | T1 | False |
-| 21 | Five-SeveN \| Fairy Tale (Factory New) | 1300.00 | +22.8% | +22.0% | T0 | False |
-| 22 | Desert Eagle \| The Bronze (Factory New) | 187.50 | +22.7% | -7.5% | T1 | False |
-| 23 | USP-S \| Orange Anolis (Factory New) | 550.00 | +22.3% | -8.1% | T1 | False |
-| 24 | MP9 \| Sand Scale (Factory New) | 50.29 | +22.3% | +1.6% | T1 | False |
-| 25 | Glock-18 \| Wraiths (Factory New) | 55.45 | +22.2% | -7.9% | T1 | False |
-| 26 | AUG \| Amber Fade (Factory New) | 30.40 | +22.0% | -13.7% | T1 | False |
-| 27 | AK-47 \| Emerald Pinstripe (Factory New) | 99.80 | +21.5% | +5.0% | T0 | False |
-| 28 | Dual Berettas \| Briar (Factory New) | 79.89 | +21.4% | -10.8% | T1 | False |
-| 29 | AK-47 \| The Outsiders (Factory New) | 417.45 | +21.3% | -5.0% | T1 | False |
-| 30 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 5099.50 | +20.7% | -4.6% | T1 | False |
+| 3 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4749.00 | +33.2% | -2.2% | T1 | False |
+| 4 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3190.00 | +31.7% | +2.3% | T1 | False |
+| 5 | Desert Eagle \| Sputnik (Factory New) | 75.50 | +29.7% | -6.6% | T1 | False |
+| 6 | P250 \| Whiteout (Factory New) | 1997.98 | +29.5% | -24.4% | T1 | False |
+| 7 | M4A1-S \| Fizzy POP (Factory New) | 101.55 | +28.7% | -5.0% | T1 | False |
+| 8 | Five-SeveN \| Scumbria (Factory New) | 42.09 | +28.5% | -5.9% | T1 | False |
+| 9 | ★ Driver Gloves \| Convoy (Field-Tested) | 3167.50 | +28.2% | +0.3% | T1 | False |
+| 10 | M4A4 \| Magnesium (Factory New) | 40.15 | +27.7% | -1.6% | T1 | False |
+| 11 | M4A4 \| Red DDPAT (Factory New) | 860.00 | +27.5% | +5.7% | T0 | False |
+| 12 | USP-S \| Cyrex (Factory New) | 307.50 | +26.9% | -4.7% | T1 | False |
+| 13 | Glock-18 \| Nuclear Garden (Factory New) | 317.00 | +26.8% | -5.1% | T1 | False |
+| 14 | Glock-18 \| Ironwork (Factory New) | 301.50 | +26.5% | -6.9% | T1 | False |
+| 15 | P2000 \| Granite Marbleized (Factory New) | 49.99 | +25.7% | +6.6% | T0 | False |
+| 16 | MAC-10 \| Whitefish (Factory New) | 100.00 | +25.1% | +2.9% | T1 | False |
+| 17 | Glock-18 \| Weasel (Factory New) | 186.99 | +24.3% | +1.6% | T1 | False |
+| 18 | Glock-18 \| Green Line (Factory New) | 68.30 | +24.1% | -11.3% | T1 | False |
+| 19 | FAMAS \| ZX Spectron (Factory New) | 174.00 | +24.1% | -1.9% | T1 | False |
+| 20 | Five-SeveN \| Fairy Tale (Factory New) | 1300.00 | +22.8% | +22.0% | T0 | False |
+| 21 | Desert Eagle \| The Bronze (Factory New) | 187.50 | +22.7% | -7.5% | T1 | False |
+| 22 | USP-S \| Orange Anolis (Factory New) | 550.00 | +22.3% | -8.1% | T1 | False |
+| 23 | MP9 \| Sand Scale (Factory New) | 50.29 | +22.3% | +1.6% | T1 | False |
+| 24 | Glock-18 \| Wraiths (Factory New) | 55.45 | +22.2% | -7.9% | T1 | False |
+| 25 | AUG \| Amber Fade (Factory New) | 30.40 | +22.0% | -13.7% | T1 | False |
+| 26 | AK-47 \| Emerald Pinstripe (Factory New) | 99.80 | +21.5% | +5.0% | T0 | False |
+| 27 | Dual Berettas \| Briar (Factory New) | 79.89 | +21.4% | -10.8% | T1 | False |
+| 28 | AK-47 \| The Outsiders (Factory New) | 417.45 | +21.3% | -5.0% | T1 | False |
+| 29 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 5099.50 | +20.7% | -4.6% | T1 | False |
+| 30 | CZ75-Auto \| Polymer (Factory New) | 64.79 | +20.5% | -22.1% | T1 | False |
 
 ## 2026-08-16
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 40.79 | +39.1% | +13.2% | T0 | False |
-| 2 | Sawed-Off \| Jungle Thicket (Factory New) | 36.85 | +38.7% | -3.7% | T1 | False |
-| 3 | FAMAS \| Survivor Z (Factory New) | 38.70 | +33.0% | -5.7% | T1 | True |
-| 4 | Five-SeveN \| Scumbria (Factory New) | 40.57 | +30.5% | -6.9% | T1 | False |
-| 5 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4499.50 | +29.1% | -1.7% | T1 | False |
-| 6 | M4A1-S \| Briefing (Factory New) | 440.00 | +27.8% | -7.2% | T1 | False |
-| 7 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2849.50 | +26.7% | +4.1% | T1 | False |
-| 8 | MP9 \| Sand Scale (Factory New) | 46.50 | +26.7% | +1.1% | T1 | False |
-| 9 | ★ Driver Gloves \| Convoy (Field-Tested) | 2935.50 | +26.4% | +0.6% | T1 | False |
-| 10 | MAC-10 \| Whitefish (Factory New) | 99.50 | +24.9% | -36.9% | T1 | False |
-| 11 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 5079.00 | +24.9% | -1.2% | T1 | False |
-| 12 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3224.00 | +24.6% | +3.4% | T1 | False |
-| 13 | Desert Eagle \| Sputnik (Factory New) | 69.20 | +23.7% | -5.7% | T1 | False |
-| 14 | P250 \| Whiteout (Factory New) | 1997.98 | +23.2% | -20.6% | T1 | False |
-| 15 | FAMAS \| ZX Spectron (Factory New) | 168.49 | +23.2% | -4.0% | T1 | False |
-| 16 | M4A4 \| Magnesium (Factory New) | 38.55 | +22.2% | +3.3% | T1 | False |
-| 17 | USP-S \| Cyrex (Factory New) | 280.00 | +22.1% | -1.7% | T1 | False |
-| 18 | M4A4 \| Red DDPAT (Factory New) | 819.00 | +22.0% | +14.1% | T0 | False |
-| 19 | Tec-9 \| Snek-9 (Factory New) | 36.84 | +21.9% | +1.5% | T1 | False |
-| 20 | Glock-18 \| Ironwork (Factory New) | 258.00 | +21.8% | -2.3% | T1 | False |
-| 21 | AWP \| Sun in Leo (Factory New) | 494.22 | +21.6% | -2.5% | T1 | False |
-| 22 | FAMAS \| Pulse (Factory New) | 194.98 | +21.5% | +3.1% | T1 | False |
-| 23 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3149.00 | +21.4% | +5.8% | T0 | False |
-| 24 | M4A1-S \| Fizzy POP (Factory New) | 96.00 | +21.4% | -1.1% | T1 | False |
-| 25 | AK-47 \| Orbit Mk01 (Factory New) | 598.00 | +21.2% | -0.7% | T1 | False |
-| 26 | P2000 \| Ivory (Factory New) | 50.99 | +20.9% | +0.4% | T1 | False |
-| 27 | Glock-18 \| Nuclear Garden (Factory New) | 295.00 | +20.9% | +1.0% | T1 | False |
-| 28 | Desert Eagle \| Mecha Industries (Factory New) | 126.00 | +20.1% | +19.7% | T0 | False |
-| 29 | P250 \| Inferno (Factory New) | 61.90 | +19.4% | +4.1% | T1 | False |
-| 30 | R8 Revolver \| Amber Fade (Factory New) | 32.82 | +19.2% | -5.2% | T1 | False |
+| 2 | FAMAS \| Survivor Z (Factory New) | 38.70 | +33.0% | -5.7% | T1 | True |
+| 3 | Five-SeveN \| Scumbria (Factory New) | 40.57 | +30.5% | -6.9% | T1 | False |
+| 4 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4499.50 | +29.1% | -1.7% | T1 | False |
+| 5 | M4A1-S \| Briefing (Factory New) | 440.00 | +27.8% | -7.2% | T1 | False |
+| 6 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2849.50 | +26.7% | +4.1% | T1 | False |
+| 7 | MP9 \| Sand Scale (Factory New) | 46.50 | +26.7% | +1.1% | T1 | False |
+| 8 | ★ Driver Gloves \| Convoy (Field-Tested) | 2935.50 | +26.4% | +0.6% | T1 | False |
+| 9 | MAC-10 \| Whitefish (Factory New) | 99.50 | +24.9% | -36.9% | T1 | False |
+| 10 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 5079.00 | +24.9% | -1.2% | T1 | False |
+| 11 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3224.00 | +24.6% | +3.4% | T1 | False |
+| 12 | Desert Eagle \| Sputnik (Factory New) | 69.20 | +23.7% | -5.7% | T1 | False |
+| 13 | P250 \| Whiteout (Factory New) | 1997.98 | +23.2% | -20.6% | T1 | False |
+| 14 | FAMAS \| ZX Spectron (Factory New) | 168.49 | +23.2% | -4.0% | T1 | False |
+| 15 | M4A4 \| Magnesium (Factory New) | 38.55 | +22.2% | +3.3% | T1 | False |
+| 16 | USP-S \| Cyrex (Factory New) | 280.00 | +22.1% | -1.7% | T1 | False |
+| 17 | M4A4 \| Red DDPAT (Factory New) | 819.00 | +22.0% | +14.1% | T0 | False |
+| 18 | Tec-9 \| Snek-9 (Factory New) | 36.84 | +21.9% | +1.5% | T1 | False |
+| 19 | Glock-18 \| Ironwork (Factory New) | 258.00 | +21.8% | -2.3% | T1 | False |
+| 20 | AWP \| Sun in Leo (Factory New) | 494.22 | +21.6% | -2.5% | T1 | False |
+| 21 | FAMAS \| Pulse (Factory New) | 194.98 | +21.5% | +3.1% | T1 | False |
+| 22 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3149.00 | +21.4% | +5.8% | T0 | False |
+| 23 | M4A1-S \| Fizzy POP (Factory New) | 96.00 | +21.4% | -1.1% | T1 | False |
+| 24 | AK-47 \| Orbit Mk01 (Factory New) | 598.00 | +21.2% | -0.7% | T1 | False |
+| 25 | P2000 \| Ivory (Factory New) | 50.99 | +20.9% | +0.4% | T1 | False |
+| 26 | Glock-18 \| Nuclear Garden (Factory New) | 295.00 | +20.9% | +1.0% | T1 | False |
+| 27 | Desert Eagle \| Mecha Industries (Factory New) | 126.00 | +20.1% | +19.7% | T0 | False |
+| 28 | P250 \| Inferno (Factory New) | 61.90 | +19.4% | +4.1% | T1 | False |
+| 29 | Dual Berettas \| Briar (Factory New) | 83.50 | +18.7% | -4.0% | T1 | False |
+| 30 | M4A4 \| Urban DDPAT (Factory New) | 167.50 | +18.6% | +6.5% | T0 | False |
 
 ## 2026-08-17
 
@@ -6720,68 +6681,68 @@
 | 1 | MAC-10 \| Whitefish (Factory New) | 97.00 | +30.2% | -39.6% | T1 | False |
 | 2 | PP-Bizon \| Antique (Factory New) | 52.97 | +26.5% | -3.7% | T1 | False |
 | 3 | Dual Berettas \| Urban Shock (Factory New) | 40.25 | +26.2% | +10.6% | T0 | False |
-| 4 | Sawed-Off \| Jungle Thicket (Factory New) | 35.93 | +25.2% | -4.5% | T1 | False |
-| 5 | Five-SeveN \| Scumbria (Factory New) | 39.87 | +22.0% | -0.1% | T1 | False |
-| 6 | CZ75-Auto \| Hexane (Factory New) | 34.39 | +20.0% | -6.0% | T1 | False |
-| 7 | ★ Driver Gloves \| Convoy (Field-Tested) | 2982.48 | +19.4% | +5.1% | T0 | False |
-| 8 | G3SG1 \| High Seas (Factory New) | 50.75 | +18.0% | -0.3% | T1 | False |
-| 9 | P250 \| Whiteout (Factory New) | 1997.37 | +17.8% | -12.1% | T1 | False |
-| 10 | Desert Eagle \| Mecha Industries (Factory New) | 121.00 | +17.0% | +22.2% | T0 | False |
-| 11 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3177.00 | +16.2% | +8.1% | T0 | False |
-| 12 | P250 \| Inferno (Factory New) | 60.95 | +15.8% | +4.5% | T1 | False |
-| 13 | Glock-18 \| Brass (Factory New) | 800.00 | +15.2% | +1.5% | T1 | False |
-| 14 | FAMAS \| Survivor Z (Factory New) | 39.18 | +15.0% | -3.7% | T1 | True |
-| 15 | P2000 \| Ivory (Factory New) | 49.79 | +14.3% | -8.4% | T1 | False |
-| 16 | G3SG1 \| Flux (Factory New) | 186.00 | +14.3% | -6.6% | T1 | False |
-| 17 | AK-47 \| Breakthrough (Factory New) | 66.00 | +14.2% | -6.9% | T1 | False |
-| 18 | G3SG1 \| Stinger (Factory New) | 55.50 | +13.2% | +10.4% | T0 | False |
-| 19 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 4948.00 | +13.0% | +4.5% | T1 | False |
-| 20 | MP9 \| Ruby Poison Dart (Factory New) | 35.68 | +12.8% | -10.0% | T1 | False |
-| 21 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3099.50 | +12.7% | +12.5% | T0 | False |
-| 22 | SSG 08 \| Parallax (Factory New) | 98.99 | +12.6% | +12.5% | T0 | False |
-| 23 | M4A4 \| Red DDPAT (Factory New) | 870.00 | +12.6% | +17.6% | T0 | False |
-| 24 | M4A4 \| Magnesium (Factory New) | 39.48 | +12.3% | +2.7% | T1 | False |
-| 25 | SSG 08 \| Threat Detected (Factory New) | 193.00 | +12.3% | +4.0% | T1 | False |
-| 26 | Five-SeveN \| Triumvirate (Factory New) | 99.47 | +12.0% | +16.8% | T0 | False |
-| 27 | G3SG1 \| New Roots (Factory New) | 59.90 | +11.6% | +24.3% | T0 | False |
-| 28 | P2000 \| Pulse (Factory New) | 52.35 | +11.3% | -6.7% | T1 | False |
-| 29 | Galil AR \| Kami (Factory New) | 43.67 | +10.7% | -1.2% | T1 | False |
-| 30 | R8 Revolver \| Crimson Web (Factory New) | 77.88 | +10.5% | -3.5% | T1 | False |
+| 4 | Five-SeveN \| Scumbria (Factory New) | 39.87 | +22.0% | -0.1% | T1 | False |
+| 5 | CZ75-Auto \| Hexane (Factory New) | 34.39 | +20.0% | -6.0% | T1 | False |
+| 6 | ★ Driver Gloves \| Convoy (Field-Tested) | 2982.48 | +19.4% | +5.1% | T0 | False |
+| 7 | G3SG1 \| High Seas (Factory New) | 50.75 | +18.0% | -0.3% | T1 | False |
+| 8 | P250 \| Whiteout (Factory New) | 1997.37 | +17.8% | -12.1% | T1 | False |
+| 9 | Desert Eagle \| Mecha Industries (Factory New) | 121.00 | +17.0% | +22.2% | T0 | False |
+| 10 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3177.00 | +16.2% | +8.1% | T0 | False |
+| 11 | P250 \| Inferno (Factory New) | 60.95 | +15.8% | +4.5% | T1 | False |
+| 12 | Glock-18 \| Brass (Factory New) | 800.00 | +15.2% | +1.5% | T1 | False |
+| 13 | FAMAS \| Survivor Z (Factory New) | 39.18 | +15.0% | -3.7% | T1 | True |
+| 14 | P2000 \| Ivory (Factory New) | 49.79 | +14.3% | -8.4% | T1 | False |
+| 15 | G3SG1 \| Flux (Factory New) | 186.00 | +14.3% | -6.6% | T1 | False |
+| 16 | AK-47 \| Breakthrough (Factory New) | 66.00 | +14.2% | -6.9% | T1 | False |
+| 17 | G3SG1 \| Stinger (Factory New) | 55.50 | +13.2% | +10.4% | T0 | False |
+| 18 | ★ Driver Gloves \| Lunar Weave (Minimal Wear) | 4948.00 | +13.0% | +4.5% | T1 | False |
+| 19 | MP9 \| Ruby Poison Dart (Factory New) | 35.68 | +12.8% | -10.0% | T1 | False |
+| 20 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3099.50 | +12.7% | +12.5% | T0 | False |
+| 21 | SSG 08 \| Parallax (Factory New) | 98.99 | +12.6% | +12.5% | T0 | False |
+| 22 | M4A4 \| Red DDPAT (Factory New) | 870.00 | +12.6% | +17.6% | T0 | False |
+| 23 | M4A4 \| Magnesium (Factory New) | 39.48 | +12.3% | +2.7% | T1 | False |
+| 24 | SSG 08 \| Threat Detected (Factory New) | 193.00 | +12.3% | +4.0% | T1 | False |
+| 25 | Five-SeveN \| Triumvirate (Factory New) | 99.47 | +12.0% | +16.8% | T0 | False |
+| 26 | G3SG1 \| New Roots (Factory New) | 59.90 | +11.6% | +24.3% | T0 | False |
+| 27 | P2000 \| Pulse (Factory New) | 52.35 | +11.3% | -6.7% | T1 | False |
+| 28 | Galil AR \| Kami (Factory New) | 43.67 | +10.7% | -1.2% | T1 | False |
+| 29 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2928.00 | +10.4% | +12.6% | T0 | False |
+| 30 | Glock-18 \| Ironwork (Factory New) | 262.33 | +10.3% | -0.9% | T1 | False |
 
 ## 2026-08-18
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 42.07 | +28.7% | +49.5% | T0 | False |
-| 2 | Sawed-Off \| Jungle Thicket (Factory New) | 39.75 | +26.1% | -6.6% | T1 | False |
-| 3 | MAC-10 \| Whitefish (Factory New) | 96.00 | +22.9% | -40.4% | T1 | False |
-| 4 | M4A4 \| Red DDPAT (Factory New) | 865.50 | +22.5% | +8.5% | T0 | False |
-| 5 | G3SG1 \| High Seas (Factory New) | 48.15 | +19.0% | -0.3% | T1 | False |
-| 6 | P250 \| Whiteout (Factory New) | 1883.97 | +18.2% | -12.1% | T1 | False |
-| 7 | M4A1-S \| Fizzy POP (Factory New) | 98.00 | +18.1% | +3.9% | T1 | False |
-| 8 | SSG 08 \| Threat Detected (Factory New) | 199.49 | +17.1% | +1.4% | T1 | False |
-| 9 | P250 \| Contaminant (Factory New) | 56.50 | +16.9% | -20.9% | T1 | False |
-| 10 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3115.88 | +16.8% | +11.1% | T0 | False |
-| 11 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2999.50 | +16.8% | +9.3% | T0 | False |
-| 12 | FAMAS \| Survivor Z (Factory New) | 41.89 | +16.3% | -3.7% | T1 | True |
-| 13 | R8 Revolver \| Memento (Factory New) | 66.70 | +16.2% | +17.7% | T0 | False |
-| 14 | ★ Driver Gloves \| Convoy (Field-Tested) | 2939.49 | +16.0% | +9.9% | T0 | False |
-| 15 | MP9 \| Ruby Poison Dart (Factory New) | 35.34 | +15.6% | -10.2% | T1 | False |
-| 16 | M4A1-S \| Briefing (Factory New) | 439.80 | +15.5% | -0.9% | T1 | False |
-| 17 | Desert Eagle \| Mecha Industries (Factory New) | 120.00 | +15.5% | +22.5% | T0 | False |
-| 18 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3050.00 | +15.3% | +7.9% | T0 | False |
-| 19 | M4A4 \| Urban DDPAT (Factory New) | 156.75 | +15.2% | +9.5% | T0 | False |
-| 20 | Galil AR \| Black Sand (Factory New) | 106.49 | +15.0% | +9.7% | T0 | False |
-| 21 | Desert Eagle \| The Bronze (Factory New) | 171.25 | +14.7% | +12.5% | T0 | False |
-| 22 | M4A4 \| Sheet Lightning (Factory New) | 36.90 | +14.6% | -9.0% | T1 | False |
-| 23 | PP-Bizon \| Antique (Factory New) | 47.99 | +14.6% | -3.5% | T1 | False |
-| 24 | G3SG1 \| Flux (Factory New) | 185.00 | +14.6% | -6.6% | T1 | False |
-| 25 | P250 \| Inferno (Factory New) | 60.00 | +14.4% | -2.7% | T1 | False |
-| 26 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4799.00 | +14.3% | +5.1% | T0 | False |
-| 27 | Desert Eagle \| Sputnik (Factory New) | 72.99 | +14.1% | -0.6% | T1 | False |
-| 28 | G3SG1 \| Orange Kimono (Factory New) | 71.00 | +14.1% | +11.6% | T0 | False |
-| 29 | P2000 \| Pulse (Factory New) | 52.02 | +14.0% | -5.6% | T1 | False |
-| 30 | P2000 \| Ivory (Factory New) | 51.50 | +13.5% | -5.1% | T1 | False |
+| 2 | MAC-10 \| Whitefish (Factory New) | 96.00 | +22.9% | -40.4% | T1 | False |
+| 3 | M4A4 \| Red DDPAT (Factory New) | 865.50 | +22.5% | +8.5% | T0 | False |
+| 4 | G3SG1 \| High Seas (Factory New) | 48.15 | +19.0% | -0.3% | T1 | False |
+| 5 | P250 \| Whiteout (Factory New) | 1883.97 | +18.2% | -12.1% | T1 | False |
+| 6 | M4A1-S \| Fizzy POP (Factory New) | 98.00 | +18.1% | +3.9% | T1 | False |
+| 7 | SSG 08 \| Threat Detected (Factory New) | 199.49 | +17.1% | +1.4% | T1 | False |
+| 8 | P250 \| Contaminant (Factory New) | 56.50 | +16.9% | -20.9% | T1 | False |
+| 9 | ★ Moto Gloves \| Eclipse (Minimal Wear) | 3115.88 | +16.8% | +11.1% | T0 | False |
+| 10 | ★ Moto Gloves \| Eclipse (Field-Tested) | 2999.50 | +16.8% | +9.3% | T0 | False |
+| 11 | FAMAS \| Survivor Z (Factory New) | 41.89 | +16.3% | -3.7% | T1 | True |
+| 12 | ★ Driver Gloves \| Convoy (Field-Tested) | 2939.49 | +16.0% | +9.9% | T0 | False |
+| 13 | MP9 \| Ruby Poison Dart (Factory New) | 35.34 | +15.6% | -10.2% | T1 | False |
+| 14 | M4A1-S \| Briefing (Factory New) | 439.80 | +15.5% | -0.9% | T1 | False |
+| 15 | Desert Eagle \| Mecha Industries (Factory New) | 120.00 | +15.5% | +22.5% | T0 | False |
+| 16 | ★ Driver Gloves \| Convoy (Minimal Wear) | 3050.00 | +15.3% | +7.9% | T0 | False |
+| 17 | M4A4 \| Urban DDPAT (Factory New) | 156.75 | +15.2% | +9.5% | T0 | False |
+| 18 | Galil AR \| Black Sand (Factory New) | 106.49 | +15.0% | +9.7% | T0 | False |
+| 19 | Desert Eagle \| The Bronze (Factory New) | 171.25 | +14.7% | +12.5% | T0 | False |
+| 20 | M4A4 \| Sheet Lightning (Factory New) | 36.90 | +14.6% | -9.0% | T1 | False |
+| 21 | PP-Bizon \| Antique (Factory New) | 47.99 | +14.6% | -3.5% | T1 | False |
+| 22 | G3SG1 \| Flux (Factory New) | 185.00 | +14.6% | -6.6% | T1 | False |
+| 23 | P250 \| Inferno (Factory New) | 60.00 | +14.4% | -2.7% | T1 | False |
+| 24 | ★ Driver Gloves \| Lunar Weave (Field-Tested) | 4799.00 | +14.3% | +5.1% | T0 | False |
+| 25 | Desert Eagle \| Sputnik (Factory New) | 72.99 | +14.1% | -0.6% | T1 | False |
+| 26 | G3SG1 \| Orange Kimono (Factory New) | 71.00 | +14.1% | +11.6% | T0 | False |
+| 27 | P2000 \| Pulse (Factory New) | 52.02 | +14.0% | -5.6% | T1 | False |
+| 28 | P2000 \| Ivory (Factory New) | 51.50 | +13.5% | -5.1% | T1 | False |
+| 29 | Glock-18 \| Grinder (Factory New) | 80.00 | +13.1% | +0.1% | T1 | False |
+| 30 | AWP \| Sun in Leo (Factory New) | 524.00 | +13.1% | +0.2% | T1 | False |
 
 ## 2026-08-19
 
@@ -6790,33 +6751,33 @@
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 41.18 | +47.0% | +22.9% | T0 | False |
 | 2 | SSG 08 \| Threat Detected (Factory New) | 194.48 | +37.9% | -11.2% | T1 | False |
 | 3 | Five-SeveN \| Triumvirate (Factory New) | 89.88 | +34.2% | +13.7% | T0 | False |
-| 4 | Sawed-Off \| Jungle Thicket (Factory New) | 39.53 | +31.2% | -6.7% | T1 | False |
-| 5 | Five-SeveN \| Heat Treated (Factory New) | 98.80 | +28.4% | +8.0% | T0 | False |
-| 6 | Desert Eagle \| Mecha Industries (Factory New) | 128.73 | +25.3% | +0.4% | T1 | False |
-| 7 | SSG 08 \| Parallax (Factory New) | 95.75 | +23.9% | -1.8% | T1 | False |
-| 8 | M4A4 \| Red DDPAT (Factory New) | 834.00 | +23.2% | -6.5% | T1 | False |
-| 9 | R8 Revolver \| Amber Fade (Factory New) | 32.88 | +22.7% | -21.9% | T1 | False |
-| 10 | Glock-18 \| Bunsen Burner (Factory New) | 34.90 | +20.9% | +0.8% | T1 | False |
-| 11 | AK-47 \| Asiimov (Factory New) | 1620.00 | +20.5% | +13.0% | T0 | False |
-| 12 | MAC-10 \| Whitefish (Factory New) | 96.98 | +20.4% | -33.6% | T1 | False |
-| 13 | P2000 \| Imperial Dragon (Factory New) | 217.50 | +19.9% | -13.7% | T1 | False |
-| 14 | G3SG1 \| New Roots (Factory New) | 58.90 | +19.9% | +9.6% | T0 | False |
-| 15 | MP9 \| Ruby Poison Dart (Factory New) | 35.00 | +19.1% | -14.9% | T1 | False |
-| 16 | ★ Driver Gloves \| Convoy (Field-Tested) | 2987.99 | +19.0% | -2.8% | T1 | False |
-| 17 | M4A1-S \| Fizzy POP (Factory New) | 94.00 | +18.5% | -8.9% | T1 | False |
-| 18 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3029.50 | +18.3% | +1.0% | T1 | False |
-| 19 | FAMAS \| Survivor Z (Factory New) | 39.00 | +18.1% | -2.1% | T1 | True |
-| 20 | Five-SeveN \| Scumbria (Factory New) | 41.00 | +17.8% | -5.7% | T1 | False |
-| 21 | M4A4 \| Magnesium (Factory New) | 38.89 | +17.4% | -5.5% | T1 | False |
-| 22 | Tec-9 \| Ossified (Factory New) | 124.50 | +16.2% | -16.0% | T1 | False |
-| 23 | Glock-18 \| Steel Disruption (Factory New) | 233.32 | +16.0% | +33.1% | T0 | False |
-| 24 | MAC-10 \| Pipe Down (Factory New) | 65.00 | +15.9% | -23.4% | T1 | False |
-| 25 | USP-S \| Stainless (Factory New) | 306.28 | +15.8% | -4.5% | T1 | False |
-| 26 | G3SG1 \| High Seas (Factory New) | 47.77 | +15.4% | +3.9% | T1 | False |
-| 27 | AK-47 \| Frontside Misty (Factory New) | 700.00 | +15.2% | +0.2% | T1 | False |
-| 28 | G3SG1 \| Flux (Factory New) | 184.50 | +14.9% | -3.5% | T1 | False |
-| 29 | MP7 \| Nemesis (Factory New) | 160.00 | +14.8% | -7.8% | T1 | False |
-| 30 | P90 \| Shapewood (Factory New) | 159.00 | +14.6% | -6.7% | T1 | False |
+| 4 | Five-SeveN \| Heat Treated (Factory New) | 98.80 | +28.4% | +8.0% | T0 | False |
+| 5 | Desert Eagle \| Mecha Industries (Factory New) | 128.73 | +25.3% | +0.4% | T1 | False |
+| 6 | SSG 08 \| Parallax (Factory New) | 95.75 | +23.9% | -1.8% | T1 | False |
+| 7 | M4A4 \| Red DDPAT (Factory New) | 834.00 | +23.2% | -6.5% | T1 | False |
+| 8 | Glock-18 \| Bunsen Burner (Factory New) | 34.90 | +20.9% | +0.8% | T1 | False |
+| 9 | AK-47 \| Asiimov (Factory New) | 1620.00 | +20.5% | +13.0% | T0 | False |
+| 10 | MAC-10 \| Whitefish (Factory New) | 96.98 | +20.4% | -33.6% | T1 | False |
+| 11 | P2000 \| Imperial Dragon (Factory New) | 217.50 | +19.9% | -13.7% | T1 | False |
+| 12 | G3SG1 \| New Roots (Factory New) | 58.90 | +19.9% | +9.6% | T0 | False |
+| 13 | MP9 \| Ruby Poison Dart (Factory New) | 35.00 | +19.1% | -14.9% | T1 | False |
+| 14 | ★ Driver Gloves \| Convoy (Field-Tested) | 2987.99 | +19.0% | -2.8% | T1 | False |
+| 15 | M4A1-S \| Fizzy POP (Factory New) | 94.00 | +18.5% | -8.9% | T1 | False |
+| 16 | ★ Moto Gloves \| Eclipse (Field-Tested) | 3029.50 | +18.3% | +1.0% | T1 | False |
+| 17 | FAMAS \| Survivor Z (Factory New) | 39.00 | +18.1% | -2.1% | T1 | True |
+| 18 | Five-SeveN \| Scumbria (Factory New) | 41.00 | +17.8% | -5.7% | T1 | False |
+| 19 | M4A4 \| Magnesium (Factory New) | 38.89 | +17.4% | -5.5% | T1 | False |
+| 20 | Tec-9 \| Ossified (Factory New) | 124.50 | +16.2% | -16.0% | T1 | False |
+| 21 | Glock-18 \| Steel Disruption (Factory New) | 233.32 | +16.0% | +33.1% | T0 | False |
+| 22 | MAC-10 \| Pipe Down (Factory New) | 65.00 | +15.9% | -23.4% | T1 | False |
+| 23 | USP-S \| Stainless (Factory New) | 306.28 | +15.8% | -4.5% | T1 | False |
+| 24 | G3SG1 \| High Seas (Factory New) | 47.77 | +15.4% | +3.9% | T1 | False |
+| 25 | AK-47 \| Frontside Misty (Factory New) | 700.00 | +15.2% | +0.2% | T1 | False |
+| 26 | G3SG1 \| Flux (Factory New) | 184.50 | +14.9% | -3.5% | T1 | False |
+| 27 | MP7 \| Nemesis (Factory New) | 160.00 | +14.8% | -7.8% | T1 | False |
+| 28 | P90 \| Shapewood (Factory New) | 159.00 | +14.6% | -6.7% | T1 | False |
+| 29 | Tec-9 \| Cracked Opal (Factory New) | 36.00 | +14.5% | +11.0% | T0 | False |
+| 30 | Tec-9 \| Bamboozle (Factory New) | 56.28 | +14.5% | -10.0% | T1 | False |
 
 ## 2026-08-20
 
@@ -6824,34 +6785,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | P250 \| Digital Architect (Factory New) | 293.99 | +64.1% | -38.6% | T1 | True |
 | 2 | Five-SeveN \| Heat Treated (Factory New) | 97.71 | +44.5% | +0.2% | T1 | False |
-| 3 | R8 Revolver \| Memento (Factory New) | 66.11 | +43.8% | -4.3% | T1 | False |
-| 4 | Dual Berettas \| Urban Shock (Factory New) | 40.72 | +41.0% | +6.4% | T0 | False |
-| 5 | Five-SeveN \| Fairy Tale (Factory New) | 1244.49 | +33.0% | +11.2% | T0 | False |
-| 6 | Sawed-Off \| Jungle Thicket (Factory New) | 37.98 | +31.3% | -7.0% | T1 | False |
-| 7 | AK-47 \| Asiimov (Factory New) | 1690.00 | +30.0% | -5.1% | T1 | False |
-| 8 | FAMAS \| Decommissioned (Factory New) | 42.36 | +26.6% | -21.0% | T1 | False |
-| 9 | FAMAS \| Survivor Z (Factory New) | 38.84 | +26.1% | -10.7% | T1 | True |
-| 10 | SSG 08 \| Parallax (Factory New) | 92.69 | +25.9% | +0.5% | T1 | False |
-| 11 | SSG 08 \| Threat Detected (Factory New) | 189.00 | +25.5% | -5.5% | T1 | False |
-| 12 | Tec-9 \| Cracked Opal (Factory New) | 36.50 | +24.9% | +0.7% | T1 | False |
-| 13 | MP7 \| Nemesis (Factory New) | 163.99 | +21.7% | -20.2% | T1 | False |
-| 14 | P90 \| Shapewood (Factory New) | 148.14 | +21.6% | -6.2% | T1 | False |
-| 15 | M4A4 \| Evil Daimyo (Factory New) | 56.49 | +21.4% | -11.5% | T1 | False |
-| 16 | M4A4 \| Royal Paladin (Factory New) | 1285.50 | +21.0% | -13.7% | T1 | False |
-| 17 | Glock-18 \| Steel Disruption (Factory New) | 225.59 | +20.9% | +25.4% | T0 | False |
-| 18 | M4A1-S \| Fizzy POP (Factory New) | 101.00 | +19.9% | -13.2% | T1 | False |
-| 19 | G3SG1 \| New Roots (Factory New) | 59.10 | +19.8% | +10.2% | T0 | False |
-| 20 | AK-47 \| Neon Rider (Factory New) | 1191.50 | +19.2% | -7.9% | T1 | False |
-| 21 | G3SG1 \| High Seas (Factory New) | 47.69 | +19.2% | +0.6% | T1 | False |
-| 22 | USP-S \| Cortex (Factory New) | 205.00 | +19.1% | -7.6% | T1 | False |
-| 23 | P2000 \| Ivory (Factory New) | 51.80 | +19.0% | -18.2% | T1 | False |
-| 24 | M4A1-S \| Hyper Beast (Factory New) | 1674.00 | +18.5% | -12.2% | T1 | False |
-| 25 | Five-SeveN \| Triumvirate (Factory New) | 88.47 | +18.3% | +8.6% | T0 | False |
-| 26 | AK-47 \| Emerald Pinstripe (Factory New) | 99.90 | +18.2% | -4.6% | T1 | False |
-| 27 | MP9 \| Ruby Poison Dart (Factory New) | 35.39 | +18.1% | -12.5% | T1 | False |
-| 28 | Dual Berettas \| Briar (Factory New) | 88.59 | +18.0% | -4.8% | T1 | False |
-| 29 | AK-47 \| Frontside Misty (Factory New) | 720.00 | +17.9% | -4.7% | T1 | False |
-| 30 | Five-SeveN \| Fowl Play (Factory New) | 382.69 | +17.9% | +2.7% | T1 | False |
+| 3 | Dual Berettas \| Urban Shock (Factory New) | 40.72 | +41.0% | +6.4% | T0 | False |
+| 4 | Five-SeveN \| Fairy Tale (Factory New) | 1244.49 | +33.0% | +11.2% | T0 | False |
+| 5 | AK-47 \| Asiimov (Factory New) | 1690.00 | +30.0% | -5.1% | T1 | False |
+| 6 | FAMAS \| Decommissioned (Factory New) | 42.36 | +26.6% | -21.0% | T1 | False |
+| 7 | FAMAS \| Survivor Z (Factory New) | 38.84 | +26.1% | -10.7% | T1 | True |
+| 8 | SSG 08 \| Parallax (Factory New) | 92.69 | +25.9% | +0.5% | T1 | False |
+| 9 | SSG 08 \| Threat Detected (Factory New) | 189.00 | +25.5% | -5.5% | T1 | False |
+| 10 | Tec-9 \| Cracked Opal (Factory New) | 36.50 | +24.9% | +0.7% | T1 | False |
+| 11 | MP7 \| Nemesis (Factory New) | 163.99 | +21.7% | -20.2% | T1 | False |
+| 12 | P90 \| Shapewood (Factory New) | 148.14 | +21.6% | -6.2% | T1 | False |
+| 13 | M4A4 \| Evil Daimyo (Factory New) | 56.49 | +21.4% | -11.5% | T1 | False |
+| 14 | M4A4 \| Royal Paladin (Factory New) | 1285.50 | +21.0% | -13.7% | T1 | False |
+| 15 | Glock-18 \| Steel Disruption (Factory New) | 225.59 | +20.9% | +25.4% | T0 | False |
+| 16 | M4A1-S \| Fizzy POP (Factory New) | 101.00 | +19.9% | -13.2% | T1 | False |
+| 17 | G3SG1 \| New Roots (Factory New) | 59.10 | +19.8% | +10.2% | T0 | False |
+| 18 | AK-47 \| Neon Rider (Factory New) | 1191.50 | +19.2% | -7.9% | T1 | False |
+| 19 | G3SG1 \| High Seas (Factory New) | 47.69 | +19.2% | +0.6% | T1 | False |
+| 20 | USP-S \| Cortex (Factory New) | 205.00 | +19.1% | -7.6% | T1 | False |
+| 21 | P2000 \| Ivory (Factory New) | 51.80 | +19.0% | -18.2% | T1 | False |
+| 22 | M4A1-S \| Hyper Beast (Factory New) | 1674.00 | +18.5% | -12.2% | T1 | False |
+| 23 | Five-SeveN \| Triumvirate (Factory New) | 88.47 | +18.3% | +8.6% | T0 | False |
+| 24 | AK-47 \| Emerald Pinstripe (Factory New) | 99.90 | +18.2% | -4.6% | T1 | False |
+| 25 | MP9 \| Ruby Poison Dart (Factory New) | 35.39 | +18.1% | -12.5% | T1 | False |
+| 26 | Dual Berettas \| Briar (Factory New) | 88.59 | +18.0% | -4.8% | T1 | False |
+| 27 | AK-47 \| Frontside Misty (Factory New) | 720.00 | +17.9% | -4.7% | T1 | False |
+| 28 | Five-SeveN \| Fowl Play (Factory New) | 382.69 | +17.9% | +2.7% | T1 | False |
+| 29 | P250 \| Iron Clad (Factory New) | 47.86 | +17.7% | -3.3% | T1 | False |
+| 30 | Glock-18 \| Weasel (Factory New) | 196.00 | +17.4% | -9.0% | T1 | False |
 
 ## 2026-08-21
 
@@ -6859,69 +6820,69 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | P250 \| Digital Architect (Factory New) | 293.99 | +60.3% | -37.1% | T1 | True |
 | 2 | Dual Berettas \| Urban Shock (Factory New) | 42.08 | +48.9% | -4.1% | T1 | False |
-| 3 | R8 Revolver \| Memento (Factory New) | 65.79 | +35.8% | +4.3% | T1 | False |
-| 4 | Sawed-Off \| Jungle Thicket (Factory New) | 37.96 | +31.7% | -7.4% | T1 | False |
-| 5 | AK-47 \| Asiimov (Factory New) | 1730.00 | +25.3% | -14.9% | T1 | False |
-| 6 | MAC-10 \| Pipe Down (Factory New) | 58.90 | +21.5% | -28.3% | T1 | False |
-| 7 | Five-SeveN \| Fairy Tale (Factory New) | 1209.51 | +20.5% | -0.3% | T1 | False |
-| 8 | SSG 08 \| Parallax (Factory New) | 90.87 | +19.8% | -1.5% | T1 | False |
-| 9 | G3SG1 \| Flux (Factory New) | 183.48 | +17.2% | -3.2% | T1 | False |
-| 10 | P250 \| Iron Clad (Factory New) | 45.00 | +17.0% | -7.4% | T1 | False |
-| 11 | P90 \| Shapewood (Factory New) | 137.28 | +16.7% | -4.6% | T1 | False |
-| 12 | AK-47 \| Case Hardened (Factory New) | 2474.48 | +16.4% | -6.8% | T1 | False |
-| 13 | P2000 \| Granite Marbleized (Factory New) | 61.99 | +16.2% | -18.9% | T1 | False |
-| 14 | Glock-18 \| Brass (Factory New) | 839.08 | +16.0% | -9.1% | T1 | False |
-| 15 | PP-Bizon \| Lumen (Factory New) | 41.00 | +15.7% | +9.2% | T0 | False |
-| 16 | Sawed-Off \| Devourer (Factory New) | 110.50 | +15.7% | -10.2% | T1 | False |
-| 17 | Tec-9 \| Cracked Opal (Factory New) | 35.54 | +13.4% | +0.4% | T1 | False |
-| 18 | UMP-45 \| Gold Bismuth (Factory New) | 83.69 | +12.3% | -1.1% | T1 | False |
-| 19 | Five-SeveN \| Heat Treated (Factory New) | 95.50 | +11.5% | -6.6% | T1 | False |
-| 20 | G3SG1 \| Stinger (Factory New) | 57.79 | +10.8% | -4.5% | T1 | False |
-| 21 | P250 \| Whiteout (Factory New) | 1879.99 | +10.4% | -6.0% | T1 | False |
-| 22 | AK-47 \| Neon Rider (Factory New) | 1230.00 | +10.2% | -11.0% | T1 | False |
-| 23 | MAC-10 \| Curse (Factory New) | 84.99 | +10.2% | -4.5% | T1 | False |
-| 24 | M4A4 \| In Living Color (Factory New) | 578.00 | +9.9% | -12.9% | T1 | False |
-| 25 | ★ Specialist Gloves \| Big Swell (Field-Tested) | 1123.00 | +9.0% | -10.8% | T1 | False |
-| 26 | AUG \| Radiation Hazard (Factory New) | 47.49 | +9.0% | -19.1% | T1 | False |
-| 27 | SSG 08 \| Threat Detected (Factory New) | 200.00 | +9.0% | -9.6% | T1 | False |
-| 28 | P90 \| Attack Vector (Factory New) | 90.00 | +9.0% | -3.8% | T1 | False |
-| 29 | Five-SeveN \| Scumbria (Factory New) | 42.69 | +8.9% | -12.6% | T1 | False |
-| 30 | M4A1-S \| Vaporwave (Factory New) | 939.50 | +8.7% | -12.9% | T1 | False |
+| 3 | AK-47 \| Asiimov (Factory New) | 1730.00 | +25.3% | -14.9% | T1 | False |
+| 4 | MAC-10 \| Pipe Down (Factory New) | 58.90 | +21.5% | -28.3% | T1 | False |
+| 5 | Five-SeveN \| Fairy Tale (Factory New) | 1209.51 | +20.5% | -0.3% | T1 | False |
+| 6 | SSG 08 \| Parallax (Factory New) | 90.87 | +19.8% | -1.5% | T1 | False |
+| 7 | G3SG1 \| Flux (Factory New) | 183.48 | +17.2% | -3.2% | T1 | False |
+| 8 | P250 \| Iron Clad (Factory New) | 45.00 | +17.0% | -7.4% | T1 | False |
+| 9 | P90 \| Shapewood (Factory New) | 137.28 | +16.7% | -4.6% | T1 | False |
+| 10 | AK-47 \| Case Hardened (Factory New) | 2474.48 | +16.4% | -6.8% | T1 | False |
+| 11 | P2000 \| Granite Marbleized (Factory New) | 61.99 | +16.2% | -18.9% | T1 | False |
+| 12 | Glock-18 \| Brass (Factory New) | 839.08 | +16.0% | -9.1% | T1 | False |
+| 13 | PP-Bizon \| Lumen (Factory New) | 41.00 | +15.7% | +9.2% | T0 | False |
+| 14 | Tec-9 \| Cracked Opal (Factory New) | 35.54 | +13.4% | +0.4% | T1 | False |
+| 15 | UMP-45 \| Gold Bismuth (Factory New) | 83.69 | +12.3% | -1.1% | T1 | False |
+| 16 | Five-SeveN \| Heat Treated (Factory New) | 95.50 | +11.5% | -6.6% | T1 | False |
+| 17 | G3SG1 \| Stinger (Factory New) | 57.79 | +10.8% | -4.5% | T1 | False |
+| 18 | P250 \| Whiteout (Factory New) | 1879.99 | +10.4% | -6.0% | T1 | False |
+| 19 | AK-47 \| Neon Rider (Factory New) | 1230.00 | +10.2% | -11.0% | T1 | False |
+| 20 | MAC-10 \| Curse (Factory New) | 84.99 | +10.2% | -4.5% | T1 | False |
+| 21 | M4A4 \| In Living Color (Factory New) | 578.00 | +9.9% | -12.9% | T1 | False |
+| 22 | ★ Specialist Gloves \| Big Swell (Field-Tested) | 1123.00 | +9.0% | -10.8% | T1 | False |
+| 23 | AUG \| Radiation Hazard (Factory New) | 47.49 | +9.0% | -19.1% | T1 | False |
+| 24 | SSG 08 \| Threat Detected (Factory New) | 200.00 | +9.0% | -9.6% | T1 | False |
+| 25 | P90 \| Attack Vector (Factory New) | 90.00 | +9.0% | -3.8% | T1 | False |
+| 26 | Five-SeveN \| Scumbria (Factory New) | 42.69 | +8.9% | -12.6% | T1 | False |
+| 27 | M4A1-S \| Vaporwave (Factory New) | 939.50 | +8.7% | -12.9% | T1 | False |
+| 28 | Desert Eagle \| Pilot (Factory New) | 963.90 | +8.4% | -6.3% | T1 | False |
+| 29 | ★ Driver Gloves \| Wave Chaser (Minimal Wear) | 2978.00 | +8.4% | -3.4% | T1 | False |
+| 30 | AK-47 \| Aquamarine Revenge (Factory New) | 1010.00 | +8.3% | -8.6% | T1 | False |
 
 ## 2026-08-22
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | AK-47 \| Asiimov (Factory New) | 1910.00 | +36.8% | -14.1% | T1 | False |
-| 2 | R8 Revolver \| Memento (Factory New) | 63.99 | +34.7% | +4.1% | T1 | False |
-| 3 | SSG 08 \| Parallax (Factory New) | 98.26 | +34.1% | -14.1% | T1 | False |
-| 4 | AK-47 \| Case Hardened (Factory New) | 2600.00 | +30.2% | -16.6% | T1 | False |
-| 5 | P250 \| Digital Architect (Factory New) | 293.99 | +22.9% | -18.0% | T1 | True |
-| 6 | Five-SeveN \| Fairy Tale (Factory New) | 1380.00 | +22.0% | -4.5% | T1 | False |
-| 7 | Desert Eagle \| Mecha Industries (Factory New) | 157.50 | +19.1% | -6.2% | T1 | False |
-| 8 | Dual Berettas \| Dezastre (Factory New) | 110.88 | +16.6% | -9.2% | T1 | False |
-| 9 | Five-SeveN \| Heat Treated (Factory New) | 119.00 | +16.0% | -9.8% | T1 | False |
-| 10 | FAMAS \| Decommissioned (Factory New) | 48.50 | +15.9% | -23.0% | T1 | False |
-| 11 | UMP-45 \| Gold Bismuth (Factory New) | 87.99 | +15.8% | -8.7% | T1 | False |
-| 12 | PP-Bizon \| Lumen (Factory New) | 41.30 | +15.6% | +3.1% | T1 | False |
-| 13 | ★ Driver Gloves \| Hand Sweaters (Field-Tested) | 649.00 | +15.3% | -9.9% | T1 | False |
-| 14 | AK-47 \| Neon Rider (Factory New) | 1330.00 | +15.2% | -8.8% | T1 | False |
-| 15 | M4A1-S \| Blood Tiger (Factory New) | 148.00 | +14.8% | -12.7% | T1 | False |
-| 16 | Sawed-Off \| Devourer (Factory New) | 116.00 | +14.3% | -11.1% | T1 | False |
-| 17 | Galil AR \| Blue Titanium (Factory New) | 165.00 | +13.3% | -11.6% | T1 | False |
-| 18 | MAC-10 \| Toybox (Factory New) | 371.76 | +12.7% | -19.6% | T1 | False |
-| 19 | Tec-9 \| Cracked Opal (Factory New) | 40.00 | +12.6% | +2.5% | T1 | False |
-| 20 | Dual Berettas \| Cartel (Factory New) | 30.56 | +12.0% | -24.6% | T1 | False |
-| 21 | USP-S \| The Traitor (Factory New) | 675.00 | +11.4% | -9.8% | T1 | False |
-| 22 | M4A4 \| Evil Daimyo (Factory New) | 62.88 | +11.0% | -11.2% | T1 | False |
-| 23 | Five-SeveN \| Fowl Play (Factory New) | 398.80 | +10.8% | -15.4% | T1 | False |
-| 24 | Five-SeveN \| Anodized Gunmetal (Factory New) | 120.00 | +10.5% | -12.5% | T1 | False |
-| 25 | M4A4 \| Desert-Strike (Factory New) | 548.50 | +9.8% | -8.9% | T1 | False |
-| 26 | AWP \| Corticera (Factory New) | 910.00 | +9.8% | -13.9% | T1 | False |
-| 27 | Galil AR \| Black Sand (Factory New) | 131.00 | +9.7% | -15.0% | T1 | False |
-| 28 | M4A4 \| Urban DDPAT (Factory New) | 191.50 | +9.7% | -19.3% | T1 | False |
-| 29 | MAC-10 \| Pipe Down (Factory New) | 57.50 | +9.6% | -28.7% | T1 | False |
-| 30 | AK-47 \| Leet Museo (Factory New) | 3730.00 | +9.5% | -10.7% | T1 | False |
+| 2 | SSG 08 \| Parallax (Factory New) | 98.26 | +34.1% | -14.1% | T1 | False |
+| 3 | AK-47 \| Case Hardened (Factory New) | 2600.00 | +30.2% | -16.6% | T1 | False |
+| 4 | P250 \| Digital Architect (Factory New) | 293.99 | +22.9% | -18.0% | T1 | True |
+| 5 | Five-SeveN \| Fairy Tale (Factory New) | 1380.00 | +22.0% | -4.5% | T1 | False |
+| 6 | Desert Eagle \| Mecha Industries (Factory New) | 157.50 | +19.1% | -6.2% | T1 | False |
+| 7 | Dual Berettas \| Dezastre (Factory New) | 110.88 | +16.6% | -9.2% | T1 | False |
+| 8 | Five-SeveN \| Heat Treated (Factory New) | 119.00 | +16.0% | -9.8% | T1 | False |
+| 9 | FAMAS \| Decommissioned (Factory New) | 48.50 | +15.9% | -23.0% | T1 | False |
+| 10 | UMP-45 \| Gold Bismuth (Factory New) | 87.99 | +15.8% | -8.7% | T1 | False |
+| 11 | PP-Bizon \| Lumen (Factory New) | 41.30 | +15.6% | +3.1% | T1 | False |
+| 12 | ★ Driver Gloves \| Hand Sweaters (Field-Tested) | 649.00 | +15.3% | -9.9% | T1 | False |
+| 13 | AK-47 \| Neon Rider (Factory New) | 1330.00 | +15.2% | -8.8% | T1 | False |
+| 14 | M4A1-S \| Blood Tiger (Factory New) | 148.00 | +14.8% | -12.7% | T1 | False |
+| 15 | Galil AR \| Blue Titanium (Factory New) | 165.00 | +13.3% | -11.6% | T1 | False |
+| 16 | MAC-10 \| Toybox (Factory New) | 371.76 | +12.7% | -19.6% | T1 | False |
+| 17 | Tec-9 \| Cracked Opal (Factory New) | 40.00 | +12.6% | +2.5% | T1 | False |
+| 18 | Dual Berettas \| Cartel (Factory New) | 30.56 | +12.0% | -24.6% | T1 | False |
+| 19 | USP-S \| The Traitor (Factory New) | 675.00 | +11.4% | -9.8% | T1 | False |
+| 20 | M4A4 \| Evil Daimyo (Factory New) | 62.88 | +11.0% | -11.2% | T1 | False |
+| 21 | Five-SeveN \| Fowl Play (Factory New) | 398.80 | +10.8% | -15.4% | T1 | False |
+| 22 | Five-SeveN \| Anodized Gunmetal (Factory New) | 120.00 | +10.5% | -12.5% | T1 | False |
+| 23 | M4A4 \| Desert-Strike (Factory New) | 548.50 | +9.8% | -8.9% | T1 | False |
+| 24 | AWP \| Corticera (Factory New) | 910.00 | +9.8% | -13.9% | T1 | False |
+| 25 | Galil AR \| Black Sand (Factory New) | 131.00 | +9.7% | -15.0% | T1 | False |
+| 26 | M4A4 \| Urban DDPAT (Factory New) | 191.50 | +9.7% | -19.3% | T1 | False |
+| 27 | MAC-10 \| Pipe Down (Factory New) | 57.50 | +9.6% | -28.7% | T1 | False |
+| 28 | AK-47 \| Leet Museo (Factory New) | 3730.00 | +9.5% | -10.7% | T1 | False |
+| 29 | M4A4 \| Spider Lily (Factory New) | 464.99 | +9.4% | -14.8% | T1 | False |
+| 30 | PP-Bizon \| Embargo (Factory New) | 83.20 | +9.3% | -11.8% | T1 | False |
 
 ## 2026-08-23
 
@@ -6936,27 +6897,27 @@
 | 7 | AK-47 \| Asiimov (Factory New) | 1800.00 | +25.6% | -10.8% | T1 | False |
 | 8 | PP-Bizon \| Lumen (Factory New) | 43.64 | +25.1% | -14.0% | T1 | False |
 | 9 | Five-SeveN \| Heat Treated (Factory New) | 114.88 | +25.0% | -14.1% | T1 | False |
-| 10 | R8 Revolver \| Memento (Factory New) | 64.50 | +23.9% | -3.4% | T1 | False |
-| 11 | Dual Berettas \| Cartel (Factory New) | 34.48 | +23.2% | -22.4% | T1 | False |
-| 12 | Dual Berettas \| Dezastre (Factory New) | 109.50 | +21.6% | -9.3% | T1 | False |
-| 13 | P250 \| Digital Architect (Factory New) | 293.98 | +21.2% | -17.0% | T1 | True |
-| 14 | G3SG1 \| New Roots (Factory New) | 66.99 | +21.0% | -19.1% | T1 | False |
-| 15 | AK-47 \| Emerald Pinstripe (Factory New) | 119.49 | +20.1% | -21.4% | T1 | False |
-| 16 | AWP \| Corticera (Factory New) | 914.00 | +20.1% | -14.8% | T1 | False |
-| 17 | SG 553 \| Darkwing (Factory New) | 32.00 | +20.1% | -27.6% | T1 | False |
-| 18 | USP-S \| The Traitor (Factory New) | 696.99 | +20.0% | -11.0% | T1 | False |
-| 19 | Tec-9 \| Cracked Opal (Factory New) | 40.20 | +19.9% | -0.9% | T1 | False |
-| 20 | Desert Eagle \| Mecha Industries (Factory New) | 147.50 | +19.7% | -8.0% | T1 | False |
-| 21 | Desert Eagle \| Trigger Discipline (Factory New) | 51.35 | +19.2% | -22.1% | T1 | False |
-| 22 | AUG \| Lil' Pig (Factory New) | 581.00 | +18.3% | -15.1% | T1 | False |
-| 23 | SCAR-20 \| Cyrex (Factory New) | 178.50 | +18.2% | -5.0% | T1 | False |
-| 24 | Glock-18 \| Royal Legion (Factory New) | 257.50 | +17.5% | -10.9% | T1 | False |
-| 25 | Desert Eagle \| Hypnotic (Factory New) | 1010.00 | +17.3% | -8.4% | T1 | False |
-| 26 | AK-47 \| Aquamarine Revenge (Factory New) | 1085.00 | +16.7% | -11.7% | T1 | False |
-| 27 | Dual Berettas \| Balance (Factory New) | 43.61 | +16.6% | -6.7% | T1 | False |
-| 28 | USP-S \| Road Rash (Factory New) | 1000.00 | +16.4% | -11.1% | T1 | False |
-| 29 | AK-47 \| Jaguar (Factory New) | 3150.00 | +16.2% | -22.3% | T1 | False |
-| 30 | Galil AR \| Blue Titanium (Factory New) | 155.00 | +16.0% | -17.9% | T1 | False |
+| 10 | Dual Berettas \| Cartel (Factory New) | 34.48 | +23.2% | -22.4% | T1 | False |
+| 11 | Dual Berettas \| Dezastre (Factory New) | 109.50 | +21.6% | -9.3% | T1 | False |
+| 12 | P250 \| Digital Architect (Factory New) | 293.98 | +21.2% | -17.0% | T1 | True |
+| 13 | G3SG1 \| New Roots (Factory New) | 66.99 | +21.0% | -19.1% | T1 | False |
+| 14 | AK-47 \| Emerald Pinstripe (Factory New) | 119.49 | +20.1% | -21.4% | T1 | False |
+| 15 | AWP \| Corticera (Factory New) | 914.00 | +20.1% | -14.8% | T1 | False |
+| 16 | SG 553 \| Darkwing (Factory New) | 32.00 | +20.1% | -27.6% | T1 | False |
+| 17 | USP-S \| The Traitor (Factory New) | 696.99 | +20.0% | -11.0% | T1 | False |
+| 18 | Tec-9 \| Cracked Opal (Factory New) | 40.20 | +19.9% | -0.9% | T1 | False |
+| 19 | Desert Eagle \| Mecha Industries (Factory New) | 147.50 | +19.7% | -8.0% | T1 | False |
+| 20 | Desert Eagle \| Trigger Discipline (Factory New) | 51.35 | +19.2% | -22.1% | T1 | False |
+| 21 | AUG \| Lil' Pig (Factory New) | 581.00 | +18.3% | -15.1% | T1 | False |
+| 22 | SCAR-20 \| Cyrex (Factory New) | 178.50 | +18.2% | -5.0% | T1 | False |
+| 23 | Glock-18 \| Royal Legion (Factory New) | 257.50 | +17.5% | -10.9% | T1 | False |
+| 24 | Desert Eagle \| Hypnotic (Factory New) | 1010.00 | +17.3% | -8.4% | T1 | False |
+| 25 | AK-47 \| Aquamarine Revenge (Factory New) | 1085.00 | +16.7% | -11.7% | T1 | False |
+| 26 | Dual Berettas \| Balance (Factory New) | 43.61 | +16.6% | -6.7% | T1 | False |
+| 27 | USP-S \| Road Rash (Factory New) | 1000.00 | +16.4% | -11.1% | T1 | False |
+| 28 | AK-47 \| Jaguar (Factory New) | 3150.00 | +16.2% | -22.3% | T1 | False |
+| 29 | Galil AR \| Blue Titanium (Factory New) | 155.00 | +16.0% | -17.9% | T1 | False |
+| 30 | Five-SeveN \| Candy Apple (Factory New) | 498.70 | +15.9% | -4.5% | T1 | False |
 
 ## 2026-08-24
 
@@ -6974,24 +6935,24 @@
 | 10 | Dual Berettas \| Dezastre (Factory New) | 104.75 | +27.4% | -9.7% | T1 | False |
 | 11 | MP7 \| Guerrilla (Factory New) | 46.71 | +26.3% | -7.6% | T1 | False |
 | 12 | FAMAS \| Cyanospatter (Factory New) | 59.80 | +26.1% | -25.2% | T1 | False |
-| 13 | R8 Revolver \| Memento (Factory New) | 75.49 | +25.3% | -4.6% | T1 | False |
-| 14 | Desert Eagle \| Trigger Discipline (Factory New) | 50.20 | +25.3% | -21.4% | T1 | False |
-| 15 | G3SG1 \| New Roots (Factory New) | 66.00 | +24.3% | -14.0% | T1 | False |
-| 16 | M4A1-S \| Flashback (Factory New) | 947.50 | +22.3% | -11.0% | T1 | False |
-| 17 | Desert Eagle \| Mecha Industries (Factory New) | 150.50 | +22.2% | -12.1% | T1 | False |
-| 18 | USP-S \| Target Acquired (Factory New) | 2380.00 | +22.1% | -12.2% | T1 | False |
-| 19 | M4A1-S \| Control Panel (Factory New) | 984.00 | +22.0% | -3.5% | T1 | False |
-| 20 | M4A1-S \| Blood Tiger (Factory New) | 132.00 | +21.6% | -5.7% | T1 | False |
-| 21 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 402.91 | +20.1% | -5.1% | T1 | False |
-| 22 | AK-47 \| Aquamarine Revenge (Factory New) | 1074.00 | +20.1% | -9.5% | T1 | False |
-| 23 | Glock-18 \| Royal Legion (Factory New) | 244.50 | +20.1% | +1.5% | T1 | False |
-| 24 | Dual Berettas \| Cartel (Factory New) | 30.49 | +20.0% | -14.2% | T1 | False |
-| 25 | Street Soldier \| Phoenix | 102.00 | +19.9% | -11.2% | T1 | False |
-| 26 | PP-Bizon \| Harvester (Factory New) | 33.58 | +19.7% | -9.6% | T1 | False |
-| 27 | ★ Hand Wraps \| Badlands (Field-Tested) | 2528.00 | +19.6% | -4.6% | T1 | False |
-| 28 | USP-S \| Road Rash (Factory New) | 1019.50 | +18.7% | -12.0% | T1 | False |
-| 29 | M4A4 \| Red DDPAT (Factory New) | 1100.00 | +17.6% | -18.0% | T1 | False |
-| 30 | Desert Eagle \| Hypnotic (Factory New) | 987.50 | +17.5% | -6.3% | T1 | False |
+| 13 | Desert Eagle \| Trigger Discipline (Factory New) | 50.20 | +25.3% | -21.4% | T1 | False |
+| 14 | G3SG1 \| New Roots (Factory New) | 66.00 | +24.3% | -14.0% | T1 | False |
+| 15 | M4A1-S \| Flashback (Factory New) | 947.50 | +22.3% | -11.0% | T1 | False |
+| 16 | Desert Eagle \| Mecha Industries (Factory New) | 150.50 | +22.2% | -12.1% | T1 | False |
+| 17 | USP-S \| Target Acquired (Factory New) | 2380.00 | +22.1% | -12.2% | T1 | False |
+| 18 | M4A1-S \| Control Panel (Factory New) | 984.00 | +22.0% | -3.5% | T1 | False |
+| 19 | M4A1-S \| Blood Tiger (Factory New) | 132.00 | +21.6% | -5.7% | T1 | False |
+| 20 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 402.91 | +20.1% | -5.1% | T1 | False |
+| 21 | AK-47 \| Aquamarine Revenge (Factory New) | 1074.00 | +20.1% | -9.5% | T1 | False |
+| 22 | Glock-18 \| Royal Legion (Factory New) | 244.50 | +20.1% | +1.5% | T1 | False |
+| 23 | Dual Berettas \| Cartel (Factory New) | 30.49 | +20.0% | -14.2% | T1 | False |
+| 24 | Street Soldier \| Phoenix | 102.00 | +19.9% | -11.2% | T1 | False |
+| 25 | PP-Bizon \| Harvester (Factory New) | 33.58 | +19.7% | -9.6% | T1 | False |
+| 26 | ★ Hand Wraps \| Badlands (Field-Tested) | 2528.00 | +19.6% | -4.6% | T1 | False |
+| 27 | USP-S \| Road Rash (Factory New) | 1019.50 | +18.7% | -12.0% | T1 | False |
+| 28 | M4A4 \| Red DDPAT (Factory New) | 1100.00 | +17.6% | -18.0% | T1 | False |
+| 29 | Desert Eagle \| Hypnotic (Factory New) | 987.50 | +17.5% | -6.3% | T1 | False |
+| 30 | USP-S \| The Traitor (Factory New) | 671.49 | +17.5% | -5.1% | T1 | False |
 
 ## 2026-08-25
 
@@ -7034,34 +6995,34 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Five-SeveN \| Nightshade (Factory New) | 108.89 | +49.5% | -25.8% | T1 | False |
 | 2 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 389.50 | +39.7% | -20.8% | T1 | False |
-| 3 | R8 Revolver \| Memento (Factory New) | 79.90 | +36.3% | -6.1% | T1 | False |
-| 4 | AK-47 \| Case Hardened (Factory New) | 2498.90 | +33.6% | -15.1% | T1 | False |
-| 5 | Glock-18 \| Steel Disruption (Factory New) | 255.32 | +33.1% | -19.5% | T1 | False |
-| 6 | Five-SeveN \| Fairy Tale (Factory New) | 1350.00 | +32.3% | -6.4% | T1 | False |
-| 7 | Desert Eagle \| Mudder (Factory New) | 49.77 | +32.1% | -16.6% | T1 | False |
-| 8 | PP-Bizon \| Lumen (Factory New) | 42.89 | +30.3% | -18.3% | T1 | False |
-| 9 | AK-47 \| Safari Mesh (Factory New) | 45.01 | +28.8% | -20.1% | T1 | False |
-| 10 | Glock-18 \| Royal Legion (Factory New) | 232.90 | +28.0% | -12.5% | T1 | False |
-| 11 | FAMAS \| Cyanospatter (Factory New) | 57.89 | +27.5% | -29.8% | T1 | False |
-| 12 | Desert Eagle \| Hypnotic (Factory New) | 949.00 | +25.4% | -13.0% | T1 | False |
-| 13 | PP-Bizon \| Water Sigil (Factory New) | 34.49 | +23.1% | -16.6% | T1 | False |
-| 14 | Dual Berettas \| Urban Shock (Factory New) | 54.89 | +22.9% | -45.3% | T1 | False |
-| 15 | AUG \| Carved Jade (Factory New) | 279.99 | +21.4% | -12.0% | T1 | False |
-| 16 | Rezan the Redshirt \| Sabre | 39.90 | +21.2% | -22.4% | T1 | False |
-| 17 | Street Soldier \| Phoenix | 99.39 | +21.1% | -18.2% | T1 | False |
-| 18 | Galil AR \| Blue Titanium (Factory New) | 145.16 | +20.7% | -17.7% | T1 | False |
-| 19 | P90 \| Tiger Pit (Factory New) | 111.33 | +19.8% | -21.0% | T1 | False |
-| 20 | Arno The Overgrown \| Guerrilla Warfare | 97.50 | +19.0% | -23.6% | T1 | False |
-| 21 | ★ Hand Wraps \| Badlands (Field-Tested) | 2419.00 | +18.7% | -17.5% | T1 | False |
-| 22 | Tec-9 \| Decimator (Factory New) | 547.96 | +18.5% | -6.8% | T1 | False |
-| 23 | Desert Eagle \| Heirloom (Factory New) | 558.00 | +17.7% | -20.2% | T1 | False |
-| 24 | AUG \| Lil' Pig (Factory New) | 540.00 | +17.6% | -14.3% | T1 | False |
-| 25 | FAMAS \| Hexane (Factory New) | 89.80 | +17.5% | -17.0% | T1 | False |
-| 26 | Five-SeveN \| Fowl Play (Factory New) | 409.00 | +17.4% | -19.1% | T1 | False |
-| 27 | P250 \| Cyber Shell (Factory New) | 34.98 | +17.3% | -24.6% | T1 | False |
-| 28 | Elite Trapper Solman \| Guerrilla Warfare | 188.00 | +17.0% | -20.4% | T1 | False |
-| 29 | P250 \| Steel Disruption (Factory New) | 52.90 | +17.0% | -25.8% | T1 | False |
-| 30 | Desert Eagle \| Trigger Discipline (Factory New) | 46.46 | +16.7% | -22.0% | T1 | False |
+| 3 | AK-47 \| Case Hardened (Factory New) | 2498.90 | +33.6% | -15.1% | T1 | False |
+| 4 | Glock-18 \| Steel Disruption (Factory New) | 255.32 | +33.1% | -19.5% | T1 | False |
+| 5 | Five-SeveN \| Fairy Tale (Factory New) | 1350.00 | +32.3% | -6.4% | T1 | False |
+| 6 | Desert Eagle \| Mudder (Factory New) | 49.77 | +32.1% | -16.6% | T1 | False |
+| 7 | PP-Bizon \| Lumen (Factory New) | 42.89 | +30.3% | -18.3% | T1 | False |
+| 8 | AK-47 \| Safari Mesh (Factory New) | 45.01 | +28.8% | -20.1% | T1 | False |
+| 9 | Glock-18 \| Royal Legion (Factory New) | 232.90 | +28.0% | -12.5% | T1 | False |
+| 10 | FAMAS \| Cyanospatter (Factory New) | 57.89 | +27.5% | -29.8% | T1 | False |
+| 11 | Desert Eagle \| Hypnotic (Factory New) | 949.00 | +25.4% | -13.0% | T1 | False |
+| 12 | PP-Bizon \| Water Sigil (Factory New) | 34.49 | +23.1% | -16.6% | T1 | False |
+| 13 | Dual Berettas \| Urban Shock (Factory New) | 54.89 | +22.9% | -45.3% | T1 | False |
+| 14 | AUG \| Carved Jade (Factory New) | 279.99 | +21.4% | -12.0% | T1 | False |
+| 15 | Rezan the Redshirt \| Sabre | 39.90 | +21.2% | -22.4% | T1 | False |
+| 16 | Street Soldier \| Phoenix | 99.39 | +21.1% | -18.2% | T1 | False |
+| 17 | Galil AR \| Blue Titanium (Factory New) | 145.16 | +20.7% | -17.7% | T1 | False |
+| 18 | P90 \| Tiger Pit (Factory New) | 111.33 | +19.8% | -21.0% | T1 | False |
+| 19 | Arno The Overgrown \| Guerrilla Warfare | 97.50 | +19.0% | -23.6% | T1 | False |
+| 20 | ★ Hand Wraps \| Badlands (Field-Tested) | 2419.00 | +18.7% | -17.5% | T1 | False |
+| 21 | Tec-9 \| Decimator (Factory New) | 547.96 | +18.5% | -6.8% | T1 | False |
+| 22 | Desert Eagle \| Heirloom (Factory New) | 558.00 | +17.7% | -20.2% | T1 | False |
+| 23 | AUG \| Lil' Pig (Factory New) | 540.00 | +17.6% | -14.3% | T1 | False |
+| 24 | FAMAS \| Hexane (Factory New) | 89.80 | +17.5% | -17.0% | T1 | False |
+| 25 | Five-SeveN \| Fowl Play (Factory New) | 409.00 | +17.4% | -19.1% | T1 | False |
+| 26 | P250 \| Cyber Shell (Factory New) | 34.98 | +17.3% | -24.6% | T1 | False |
+| 27 | Elite Trapper Solman \| Guerrilla Warfare | 188.00 | +17.0% | -20.4% | T1 | False |
+| 28 | P250 \| Steel Disruption (Factory New) | 52.90 | +17.0% | -25.8% | T1 | False |
+| 29 | Desert Eagle \| Trigger Discipline (Factory New) | 46.46 | +16.7% | -22.0% | T1 | False |
+| 30 | AWP \| Corticera (Factory New) | 845.36 | +16.1% | -15.3% | T1 | False |
 
 ## 2026-08-27
 
@@ -7156,17 +7117,17 @@
 | 17 | FAMAS \| Hexane (Factory New) | 87.79 | +7.3% | -12.9% | T1 | False |
 | 18 | Street Soldier \| Phoenix | 104.99 | +7.2% | -11.6% | T1 | False |
 | 19 | M4A1-S \| Control Panel (Factory New) | 991.00 | +6.3% | +2.6% | T1 | False |
-| 20 | MAG-7 \| Heat (Factory New) | 45.06 | +6.1% | -11.8% | T1 | False |
-| 21 | Elite Trapper Solman \| Guerrilla Warfare | 195.00 | +6.1% | -11.5% | T1 | False |
-| 22 | P90 \| Tiger Pit (Factory New) | 110.92 | +6.0% | -13.5% | T1 | False |
-| 23 | UMP-45 \| Scaffold (Factory New) | 31.15 | +5.7% | -6.2% | T1 | False |
-| 24 | SCAR-20 \| Cyrex (Factory New) | 189.90 | +5.6% | -12.1% | T1 | False |
-| 25 | 'Blueberries' Buckshot \| NSWC SEAL | 84.88 | +5.6% | -13.9% | T1 | False |
-| 26 | Five-SeveN \| Orange Peel (Factory New) | 31.00 | +5.0% | -19.3% | T1 | False |
-| 27 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 419.00 | +4.9% | -5.5% | T1 | False |
-| 28 | XM1014 \| Monster Melt (Factory New) | 42.76 | +4.6% | -8.7% | T1 | False |
-| 29 | Dragomir \| Sabre Footsoldier | 50.40 | +4.6% | -12.5% | T1 | False |
-| 30 | AK-47 \| Jaguar (Factory New) | 3099.00 | +4.3% | -15.4% | T1 | False |
+| 20 | Elite Trapper Solman \| Guerrilla Warfare | 195.00 | +6.1% | -11.5% | T1 | False |
+| 21 | P90 \| Tiger Pit (Factory New) | 110.92 | +6.0% | -13.5% | T1 | False |
+| 22 | UMP-45 \| Scaffold (Factory New) | 31.15 | +5.7% | -6.2% | T1 | False |
+| 23 | SCAR-20 \| Cyrex (Factory New) | 189.90 | +5.6% | -12.1% | T1 | False |
+| 24 | 'Blueberries' Buckshot \| NSWC SEAL | 84.88 | +5.6% | -13.9% | T1 | False |
+| 25 | Five-SeveN \| Orange Peel (Factory New) | 31.00 | +5.0% | -19.3% | T1 | False |
+| 26 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 419.00 | +4.9% | -5.5% | T1 | False |
+| 27 | Dragomir \| Sabre Footsoldier | 50.40 | +4.6% | -12.5% | T1 | False |
+| 28 | AK-47 \| Jaguar (Factory New) | 3099.00 | +4.3% | -15.4% | T1 | False |
+| 29 | John 'Van Healen' Kask \| SWAT | 72.00 | +4.2% | -14.2% | T1 | False |
+| 30 | P90 \| ScaraB Rush (Factory New) | 100.60 | +4.2% | -19.9% | T1 | False |
 
 ## 2026-08-30
 
@@ -7179,29 +7140,29 @@
 | 5 | P2000 \| Corticera (Factory New) | 413.97 | +8.5% | -3.8% | T1 | False |
 | 6 | P90 \| Tiger Pit (Factory New) | 109.87 | +6.4% | -13.2% | T1 | False |
 | 7 | G3SG1 \| High Seas (Factory New) | 60.59 | +6.4% | -13.6% | T1 | False |
-| 8 | MAG-7 \| Heat (Factory New) | 44.75 | +5.9% | -16.5% | T1 | False |
-| 9 | MAG-7 \| Counter Terrace (Factory New) | 709.00 | +5.8% | -8.4% | T1 | False |
-| 10 | P250 \| Forest Night (Factory New) | 98.17 | +5.2% | -14.1% | T1 | False |
-| 11 | M4A1-S \| Control Panel (Factory New) | 1025.00 | +5.1% | -5.3% | T1 | False |
-| 12 | G3SG1 \| Orange Kimono (Factory New) | 76.49 | +3.4% | -3.5% | T1 | False |
-| 13 | P250 \| See Ya Later (Factory New) | 733.49 | +3.0% | -9.7% | T1 | False |
-| 14 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 443.50 | +2.9% | -8.3% | T1 | False |
-| 15 | MP5-SD \| Oxide Oasis (Factory New) | 1220.00 | +2.7% | -2.8% | T1 | False |
-| 16 | MAC-10 \| Hot Snakes (Factory New) | 2117.00 | +2.6% | -7.8% | T1 | False |
-| 17 | XM1014 \| Monster Melt (Factory New) | 42.39 | +1.9% | -8.3% | T1 | False |
-| 18 | XM1014 \| Entombed (Factory New) | 36.78 | +1.9% | -4.5% | T1 | False |
-| 19 | ★ Specialist Gloves \| Cloud Chaser (Minimal Wear) | 4918.50 | +1.9% | -5.3% | T1 | False |
-| 20 | ★ Specialist Gloves \| Sunburst (Minimal Wear) | 2225.00 | +1.8% | -7.5% | T1 | False |
-| 21 | USP-S \| Royal Blue (Factory New) | 616.50 | +1.8% | -2.3% | T1 | False |
-| 22 | ★ Driver Gloves \| Wave Chaser (Minimal Wear) | 3099.00 | +1.7% | -7.0% | T1 | False |
-| 23 | MAC-10 \| Gold Brick (Factory New) | 447.63 | +1.6% | -11.9% | T1 | False |
-| 24 | MAG-7 \| Core Breach (Factory New) | 78.88 | +1.5% | -2.3% | T1 | False |
-| 25 | Tec-9 \| Orange Murano (Factory New) | 105.00 | +1.4% | -9.9% | T1 | False |
-| 26 | Glock-18 \| Steel Disruption (Factory New) | 295.00 | +1.3% | -18.3% | T1 | False |
-| 27 | ★ Sport Gloves \| Blaze (Minimal Wear) | 1646.50 | +0.9% | -12.2% | T1 | False |
-| 28 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 229.50 | +0.7% | -4.7% | T1 | False |
-| 29 | SSG 08 \| Big Iron (Factory New) | 206.18 | +0.7% | -8.4% | T1 | False |
-| 30 | XM1014 \| Bone Machine (Factory New) | 110.43 | +0.5% | +0.6% | T1 | False |
+| 8 | P250 \| Forest Night (Factory New) | 98.17 | +5.2% | -14.1% | T1 | False |
+| 9 | M4A1-S \| Control Panel (Factory New) | 1025.00 | +5.1% | -5.3% | T1 | False |
+| 10 | G3SG1 \| Orange Kimono (Factory New) | 76.49 | +3.4% | -3.5% | T1 | False |
+| 11 | P250 \| See Ya Later (Factory New) | 733.49 | +3.0% | -9.7% | T1 | False |
+| 12 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 443.50 | +2.9% | -8.3% | T1 | False |
+| 13 | MP5-SD \| Oxide Oasis (Factory New) | 1220.00 | +2.7% | -2.8% | T1 | False |
+| 14 | MAC-10 \| Hot Snakes (Factory New) | 2117.00 | +2.6% | -7.8% | T1 | False |
+| 15 | ★ Specialist Gloves \| Cloud Chaser (Minimal Wear) | 4918.50 | +1.9% | -5.3% | T1 | False |
+| 16 | ★ Specialist Gloves \| Sunburst (Minimal Wear) | 2225.00 | +1.8% | -7.5% | T1 | False |
+| 17 | USP-S \| Royal Blue (Factory New) | 616.50 | +1.8% | -2.3% | T1 | False |
+| 18 | ★ Driver Gloves \| Wave Chaser (Minimal Wear) | 3099.00 | +1.7% | -7.0% | T1 | False |
+| 19 | MAC-10 \| Gold Brick (Factory New) | 447.63 | +1.6% | -11.9% | T1 | False |
+| 20 | Tec-9 \| Orange Murano (Factory New) | 105.00 | +1.4% | -9.9% | T1 | False |
+| 21 | Glock-18 \| Steel Disruption (Factory New) | 295.00 | +1.3% | -18.3% | T1 | False |
+| 22 | ★ Sport Gloves \| Blaze (Minimal Wear) | 1646.50 | +0.9% | -12.2% | T1 | False |
+| 23 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 229.50 | +0.7% | -4.7% | T1 | False |
+| 24 | SSG 08 \| Big Iron (Factory New) | 206.18 | +0.7% | -8.4% | T1 | False |
+| 25 | M4A4 \| Howl (Factory New) | 43598.00 | +0.5% | -7.9% | T1 | False |
+| 26 | MP9 \| Setting Sun (Factory New) | 284.00 | +0.5% | -7.6% | T1 | False |
+| 27 | FAMAS \| Prime Conspiracy (Factory New) | 575.00 | +0.5% | -6.6% | T1 | False |
+| 28 | ★ Sport Gloves \| Creme Pinstripe (Minimal Wear) | 1124.50 | +0.4% | -5.6% | T1 | False |
+| 29 | Valeria Phoenix Pin | 299.50 | +0.2% | -8.7% | T1 | False |
+| 30 | ★ Driver Gloves \| Brocade Flowers (Minimal Wear) | 2700.00 | +0.1% | -7.7% | T1 | False |
 
 ## 2026-08-31
 
@@ -7215,28 +7176,27 @@
 | 6 | P2000 \| Corticera (Factory New) | 411.94 | +8.9% | -3.7% | T1 | False |
 | 7 | Tec-9 \| Decimator (Factory New) | 627.50 | +8.6% | -4.0% | T1 | False |
 | 8 | G3SG1 \| High Seas (Factory New) | 60.80 | +6.4% | -13.6% | T1 | False |
-| 9 | Sawed-Off \| Bamboo Shadow (Factory New) | 77.09 | +6.0% | -3.5% | T1 | False |
-| 10 | MAG-7 \| Heat (Factory New) | 44.75 | +5.9% | -18.2% | T1 | False |
-| 11 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1349.50 | +5.1% | -10.7% | T1 | False |
-| 12 | AWP \| Exoskeleton (Factory New) | 311.50 | +4.5% | -17.8% | T1 | False |
-| 13 | PP-Bizon \| Lumen (Factory New) | 56.00 | +4.3% | -16.8% | T1 | False |
-| 14 | AUG \| Daedalus (Factory New) | 42.99 | +3.8% | -3.5% | T1 | False |
-| 15 | G3SG1 \| Orange Kimono (Factory New) | 84.00 | +3.4% | -3.5% | T1 | False |
-| 16 | ★ Driver Gloves \| Brocade Flowers (Minimal Wear) | 2698.50 | +3.3% | -8.9% | T1 | False |
-| 17 | P250 \| See Ya Later (Factory New) | 750.00 | +2.4% | -10.7% | T1 | False |
-| 18 | ★ Specialist Gloves \| Cloud Chaser (Minimal Wear) | 5019.00 | +2.2% | -5.3% | T1 | False |
-| 19 | AK-47 \| The Empress (Factory New) | 1512.50 | +2.0% | -7.9% | T1 | False |
-| 20 | SSG 08 \| Big Iron (Factory New) | 206.13 | +1.8% | -8.6% | T1 | False |
-| 21 | ★ Driver Gloves \| Wave Chaser (Minimal Wear) | 3084.50 | +1.7% | -7.3% | T1 | False |
-| 22 | MAC-10 \| Gold Brick (Factory New) | 447.63 | +1.6% | -18.0% | T1 | False |
-| 23 | Glock-18 \| Royal Legion (Factory New) | 297.50 | +1.5% | -12.4% | T1 | False |
-| 24 | AUG \| Midnight Lily (Factory New) | 2055.00 | +1.4% | -8.2% | T1 | False |
-| 25 | AUG \| Condemned (Factory New) | 37.76 | +1.4% | -14.5% | T1 | False |
-| 26 | XM1014 \| Entombed (Factory New) | 36.38 | +1.2% | -4.5% | T1 | False |
-| 27 | P250 \| Apep's Curse (Factory New) | 837.89 | +0.9% | -11.8% | T1 | False |
-| 28 | MAG-7 \| Core Breach (Factory New) | 78.00 | +0.7% | -2.8% | T1 | False |
-| 29 | XM1014 \| Bone Machine (Factory New) | 110.43 | +0.5% | +0.7% | T1 | False |
-| 30 | ★ Sport Gloves \| Creme Pinstripe (Minimal Wear) | 1120.00 | +0.3% | -5.9% | T1 | False |
+| 9 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1349.50 | +5.1% | -10.7% | T1 | False |
+| 10 | AWP \| Exoskeleton (Factory New) | 311.50 | +4.5% | -17.8% | T1 | False |
+| 11 | PP-Bizon \| Lumen (Factory New) | 56.00 | +4.3% | -16.8% | T1 | False |
+| 12 | AUG \| Daedalus (Factory New) | 42.99 | +3.8% | -3.5% | T1 | False |
+| 13 | G3SG1 \| Orange Kimono (Factory New) | 84.00 | +3.4% | -3.5% | T1 | False |
+| 14 | ★ Driver Gloves \| Brocade Flowers (Minimal Wear) | 2698.50 | +3.3% | -8.9% | T1 | False |
+| 15 | P250 \| See Ya Later (Factory New) | 750.00 | +2.4% | -10.7% | T1 | False |
+| 16 | ★ Specialist Gloves \| Cloud Chaser (Minimal Wear) | 5019.00 | +2.2% | -5.3% | T1 | False |
+| 17 | AK-47 \| The Empress (Factory New) | 1512.50 | +2.0% | -7.9% | T1 | False |
+| 18 | SSG 08 \| Big Iron (Factory New) | 206.13 | +1.8% | -8.6% | T1 | False |
+| 19 | ★ Driver Gloves \| Wave Chaser (Minimal Wear) | 3084.50 | +1.7% | -7.3% | T1 | False |
+| 20 | MAC-10 \| Gold Brick (Factory New) | 447.63 | +1.6% | -18.0% | T1 | False |
+| 21 | Glock-18 \| Royal Legion (Factory New) | 297.50 | +1.5% | -12.4% | T1 | False |
+| 22 | AUG \| Midnight Lily (Factory New) | 2055.00 | +1.4% | -8.2% | T1 | False |
+| 23 | AUG \| Condemned (Factory New) | 37.76 | +1.4% | -14.5% | T1 | False |
+| 24 | P250 \| Apep's Curse (Factory New) | 837.89 | +0.9% | -11.8% | T1 | False |
+| 25 | ★ Sport Gloves \| Creme Pinstripe (Minimal Wear) | 1120.00 | +0.3% | -5.9% | T1 | False |
+| 26 | Desert Eagle \| Heirloom (Factory New) | 645.00 | +0.3% | -12.8% | T1 | False |
+| 27 | MP9 \| Setting Sun (Factory New) | 286.00 | +0.3% | -7.3% | T1 | False |
+| 28 | CZ75-Auto \| The Fuschia Is Now (Factory New) | 230.00 | +0.1% | -4.7% | T1 | False |
+| 29 | Glock-18 \| Steel Disruption (Factory New) | 324.00 | +0.0% | -13.0% | T1 | False |
 
 ## 2026-09-01
 
@@ -7249,25 +7209,21 @@
 | 5 | UMP-45 \| Gold Bismuth (Factory New) | 108.99 | +11.2% | -7.7% | T1 | False |
 | 6 | P2000 \| Corticera (Factory New) | 410.41 | +8.6% | -3.4% | T1 | False |
 | 7 | Dual Berettas \| Dualing Dragons (Factory New) | 33.21 | +8.3% | -13.6% | T1 | False |
-| 8 | Sawed-Off \| Bamboo Shadow (Factory New) | 76.29 | +6.0% | -3.5% | T1 | False |
-| 9 | ★ Specialist Gloves \| Cloud Chaser (Minimal Wear) | 5007.88 | +5.1% | -7.9% | T1 | False |
-| 10 | P250 \| Apep's Curse (Factory New) | 827.19 | +4.8% | -14.5% | T1 | False |
-| 11 | PP-Bizon \| Fuel Rod (Factory New) | 34.41 | +2.5% | -6.9% | T1 | False |
-| 12 | ★ Specialist Gloves \| Blackbook (Minimal Wear) | 3395.00 | +2.4% | -8.8% | T1 | False |
-| 13 | ★ Driver Gloves \| Brocade Flowers (Minimal Wear) | 2649.00 | +1.9% | -7.8% | T1 | False |
-| 14 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2459.00 | +1.6% | -3.9% | T1 | False |
-| 15 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1349.50 | +1.5% | -9.2% | T1 | False |
-| 16 | FAMAS \| Rapid Eye Movement (Factory New) | 116.90 | +0.8% | -19.3% | T1 | False |
-| 17 | AWP \| Pink DDPAT (Factory New) | 989.00 | +0.7% | -7.0% | T1 | False |
-| 18 | SCAR-20 \| Emerald (Factory New) | 222.46 | +0.6% | -6.6% | T1 | False |
-| 19 | ★ Driver Gloves \| Hand Sweaters (Minimal Wear) | 1595.00 | +0.6% | -7.5% | T1 | False |
-| 20 | XM1014 \| Monster Melt (Factory New) | 42.95 | +0.5% | -10.4% | T1 | False |
-| 21 | XM1014 \| Bone Machine (Factory New) | 110.43 | +0.5% | +0.7% | T1 | False |
-| 22 | ★ Sport Gloves \| Ultra Violent (Minimal Wear) | 12100.00 | +0.4% | -4.0% | T1 | False |
-| 23 | MAG-7 \| Core Breach (Factory New) | 78.78 | +0.4% | -6.5% | T1 | False |
-| 24 | Glock-18 \| Trace Lock (Factory New) | 39.99 | +0.3% | -6.4% | T1 | False |
-| 25 | ★ Specialist Gloves \| Blackbook (Field-Tested) | 1680.00 | +0.2% | -6.8% | T1 | False |
-| 26 | FAMAS \| Prime Conspiracy (Factory New) | 521.00 | +0.2% | -18.0% | T1 | False |
+| 8 | ★ Specialist Gloves \| Cloud Chaser (Minimal Wear) | 5007.88 | +5.1% | -7.9% | T1 | False |
+| 9 | P250 \| Apep's Curse (Factory New) | 827.19 | +4.8% | -14.5% | T1 | False |
+| 10 | PP-Bizon \| Fuel Rod (Factory New) | 34.41 | +2.5% | -6.9% | T1 | False |
+| 11 | ★ Specialist Gloves \| Blackbook (Minimal Wear) | 3395.00 | +2.4% | -8.8% | T1 | False |
+| 12 | ★ Driver Gloves \| Brocade Flowers (Minimal Wear) | 2649.00 | +1.9% | -7.8% | T1 | False |
+| 13 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2459.00 | +1.6% | -3.9% | T1 | False |
+| 14 | ★ Driver Gloves \| Dragon Fists (Minimal Wear) | 1349.50 | +1.5% | -9.2% | T1 | False |
+| 15 | FAMAS \| Rapid Eye Movement (Factory New) | 116.90 | +0.8% | -19.3% | T1 | False |
+| 16 | AWP \| Pink DDPAT (Factory New) | 989.00 | +0.7% | -7.0% | T1 | False |
+| 17 | SCAR-20 \| Emerald (Factory New) | 222.46 | +0.6% | -6.6% | T1 | False |
+| 18 | ★ Driver Gloves \| Hand Sweaters (Minimal Wear) | 1595.00 | +0.6% | -7.5% | T1 | False |
+| 19 | ★ Sport Gloves \| Ultra Violent (Minimal Wear) | 12100.00 | +0.4% | -4.0% | T1 | False |
+| 20 | Glock-18 \| Trace Lock (Factory New) | 39.99 | +0.3% | -6.4% | T1 | False |
+| 21 | ★ Specialist Gloves \| Blackbook (Field-Tested) | 1680.00 | +0.2% | -6.8% | T1 | False |
+| 22 | FAMAS \| Prime Conspiracy (Factory New) | 521.00 | +0.2% | -18.0% | T1 | False |
 
 ## 2026-09-02
 
@@ -7286,9 +7242,7 @@
 | 11 | ★ Driver Gloves \| Brocade Flowers (Minimal Wear) | 2647.00 | +1.7% | -11.4% | T1 | False |
 | 12 | Five-SeveN \| Neon Kimono (Factory New) | 3774.50 | +1.2% | -5.4% | T1 | False |
 | 13 | AUG \| Anodized Navy (Factory New) | 192.00 | +1.1% | -8.4% | T1 | False |
-| 14 | XM1014 \| Bone Machine (Factory New) | 110.43 | +0.5% | +0.7% | T1 | False |
-| 15 | ★ Driver Gloves \| Hand Sweaters (Minimal Wear) | 1583.50 | +0.5% | -6.4% | T1 | False |
-| 16 | MAG-7 \| Core Breach (Factory New) | 78.88 | +0.4% | -7.4% | T1 | False |
+| 14 | ★ Driver Gloves \| Hand Sweaters (Minimal Wear) | 1583.50 | +0.5% | -6.4% | T1 | False |
 
 ## 2026-09-03
 
@@ -7317,11 +7271,9 @@
 | 21 | AUG \| Anodized Navy (Factory New) | 190.00 | +1.1% | -8.2% | T1 | False |
 | 22 | AK-47 \| Neon Revolution (Factory New) | 1704.00 | +1.0% | -11.8% | T1 | False |
 | 23 | P250 \| Contaminant (Factory New) | 55.80 | +1.0% | -4.3% | T1 | False |
-| 24 | XM1014 \| Bone Machine (Factory New) | 110.43 | +0.5% | -9.3% | T1 | False |
-| 25 | MAG-7 \| Core Breach (Factory New) | 78.88 | +0.4% | -8.5% | T1 | False |
-| 26 | ★ Hydra Gloves \| Emerald (Field-Tested) | 212.30 | +0.4% | -9.0% | T1 | False |
-| 27 | MP7 \| Guerrilla (Factory New) | 49.90 | +0.4% | +11.2% | T0 | False |
-| 28 | AWP \| BOOM (Factory New) | 2439.50 | +0.2% | -5.2% | T1 | False |
+| 24 | ★ Hydra Gloves \| Emerald (Field-Tested) | 212.30 | +0.4% | -9.0% | T1 | False |
+| 25 | MP7 \| Guerrilla (Factory New) | 49.90 | +0.4% | +11.2% | T0 | False |
+| 26 | AWP \| BOOM (Factory New) | 2439.50 | +0.2% | -5.2% | T1 | False |
 
 ## 2026-09-04
 
@@ -7343,20 +7295,20 @@
 | 14 | G3SG1 \| Flux (Factory New) | 219.00 | +4.8% | -14.5% | T1 | False |
 | 15 | M4A1-S \| Flashback (Factory New) | 1017.50 | +4.2% | -18.9% | T1 | False |
 | 16 | Five-SeveN \| Neon Kimono (Factory New) | 3500.00 | +4.1% | -5.4% | T1 | False |
-| 17 | MAG-7 \| Core Breach (Factory New) | 78.88 | +3.8% | -12.1% | T1 | False |
-| 18 | AUG \| Daedalus (Factory New) | 40.00 | +3.7% | -5.7% | T1 | False |
-| 19 | AK-47 \| Case Hardened (Factory New) | 3345.00 | +3.6% | -15.3% | T1 | False |
-| 20 | Five-SeveN \| Triumvirate (Factory New) | 121.50 | +3.2% | -12.3% | T1 | False |
-| 21 | Dual Berettas \| Dezastre (Factory New) | 124.50 | +3.1% | -8.3% | T1 | False |
-| 22 | AK-47 \| Rat Rod (Factory New) | 590.00 | +2.6% | -18.3% | T1 | False |
-| 23 | Glock-18 \| Snack Attack (Factory New) | 832.99 | +2.4% | -14.8% | T1 | False |
-| 24 | USP-S \| Overgrowth (Factory New) | 578.10 | +2.4% | -8.5% | T1 | False |
-| 25 | Glock-18 \| Off World (Factory New) | 50.80 | +2.2% | -28.2% | T1 | False |
-| 26 | P250 \| Vino Primo (Factory New) | 134.60 | +2.1% | -6.3% | T1 | False |
-| 27 | P250 \| Contaminant (Factory New) | 54.50 | +2.1% | -0.8% | T1 | False |
-| 28 | Tec-9 \| Titanium Bit (Factory New) | 530.00 | +2.0% | -5.6% | T1 | False |
-| 29 | P90 \| Asiimov (Factory New) | 1502.00 | +1.8% | -6.0% | T1 | False |
-| 30 | AK-47 \| The Empress (Factory New) | 1554.50 | +1.6% | -5.9% | T1 | False |
+| 17 | AUG \| Daedalus (Factory New) | 40.00 | +3.7% | -5.7% | T1 | False |
+| 18 | AK-47 \| Case Hardened (Factory New) | 3345.00 | +3.6% | -15.3% | T1 | False |
+| 19 | Five-SeveN \| Triumvirate (Factory New) | 121.50 | +3.2% | -12.3% | T1 | False |
+| 20 | Dual Berettas \| Dezastre (Factory New) | 124.50 | +3.1% | -8.3% | T1 | False |
+| 21 | AK-47 \| Rat Rod (Factory New) | 590.00 | +2.6% | -18.3% | T1 | False |
+| 22 | Glock-18 \| Snack Attack (Factory New) | 832.99 | +2.4% | -14.8% | T1 | False |
+| 23 | USP-S \| Overgrowth (Factory New) | 578.10 | +2.4% | -8.5% | T1 | False |
+| 24 | Glock-18 \| Off World (Factory New) | 50.80 | +2.2% | -28.2% | T1 | False |
+| 25 | P250 \| Vino Primo (Factory New) | 134.60 | +2.1% | -6.3% | T1 | False |
+| 26 | P250 \| Contaminant (Factory New) | 54.50 | +2.1% | -0.8% | T1 | False |
+| 27 | Tec-9 \| Titanium Bit (Factory New) | 530.00 | +2.0% | -5.6% | T1 | False |
+| 28 | P90 \| Asiimov (Factory New) | 1502.00 | +1.8% | -6.0% | T1 | False |
+| 29 | AK-47 \| The Empress (Factory New) | 1554.50 | +1.6% | -5.9% | T1 | False |
+| 30 | MP9 \| Mount Fuji (Factory New) | 108.39 | +1.6% | -15.8% | T1 | False |
 
 ## 2026-09-05
 
@@ -7375,71 +7327,57 @@
 | 11 | ★ Hydra Gloves \| Rattler (Minimal Wear) | 226.91 | +1.9% | -9.4% | T1 | False |
 | 12 | USP-S \| Overgrowth (Factory New) | 576.90 | +1.8% | -7.8% | T1 | False |
 | 13 | SSG 08 \| Parallax (Factory New) | 124.43 | +1.8% | -10.9% | T1 | False |
-| 14 | XM1014 \| Heaven Guard (Factory New) | 78.89 | +1.8% | -4.1% | T1 | False |
-| 15 | Tec-9 \| Titanium Bit (Factory New) | 529.50 | +1.3% | -4.7% | T1 | False |
-| 16 | AK-47 \| Neon Rider (Factory New) | 1400.00 | +1.2% | -6.0% | T1 | False |
-| 17 | ★ Hydra Gloves \| Emerald (Field-Tested) | 213.47 | +1.1% | -14.7% | T1 | False |
-| 18 | R8 Revolver \| Fade (Factory New) | 600.00 | +1.1% | -11.5% | T1 | False |
-| 19 | MAG-7 \| Praetorian (Factory New) | 38.99 | +0.9% | -8.0% | T1 | False |
-| 20 | Dual Berettas \| Dezastre (Factory New) | 124.50 | +0.7% | -6.4% | T1 | False |
-| 21 | MP7 \| Nemesis (Factory New) | 164.99 | +0.6% | -6.6% | T1 | False |
-| 22 | Five-SeveN \| Fairy Tale (Factory New) | 1779.50 | +0.6% | -7.4% | T1 | False |
-| 23 | PP-Bizon \| Harvester (Factory New) | 37.40 | +0.5% | -7.8% | T1 | False |
-| 24 | MAC-10 \| Surfwood (Factory New) | 312.50 | +0.4% | -11.9% | T1 | False |
-| 25 | ★ Broken Fang Gloves \| Jade (Field-Tested) | 425.00 | +0.4% | -6.2% | T1 | False |
-| 26 | AUG \| Anodized Navy (Factory New) | 189.50 | +0.4% | -7.8% | T1 | False |
-| 27 | XM1014 \| Bone Machine (Factory New) | 115.00 | +0.2% | -3.0% | T1 | False |
-| 28 | Galil AR \| Urban Rubble (Factory New) | 111.79 | +0.2% | -16.8% | T1 | False |
-| 29 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2539.00 | +0.1% | -7.1% | T1 | False |
+| 14 | Tec-9 \| Titanium Bit (Factory New) | 529.50 | +1.3% | -4.7% | T1 | False |
+| 15 | AK-47 \| Neon Rider (Factory New) | 1400.00 | +1.2% | -6.0% | T1 | False |
+| 16 | ★ Hydra Gloves \| Emerald (Field-Tested) | 213.47 | +1.1% | -14.7% | T1 | False |
+| 17 | Dual Berettas \| Dezastre (Factory New) | 124.50 | +0.7% | -6.4% | T1 | False |
+| 18 | MP7 \| Nemesis (Factory New) | 164.99 | +0.6% | -6.6% | T1 | False |
+| 19 | Five-SeveN \| Fairy Tale (Factory New) | 1779.50 | +0.6% | -7.4% | T1 | False |
+| 20 | PP-Bizon \| Harvester (Factory New) | 37.40 | +0.5% | -7.8% | T1 | False |
+| 21 | MAC-10 \| Surfwood (Factory New) | 312.50 | +0.4% | -11.9% | T1 | False |
+| 22 | ★ Broken Fang Gloves \| Jade (Field-Tested) | 425.00 | +0.4% | -6.2% | T1 | False |
+| 23 | AUG \| Anodized Navy (Factory New) | 189.50 | +0.4% | -7.8% | T1 | False |
+| 24 | Galil AR \| Urban Rubble (Factory New) | 111.79 | +0.2% | -16.8% | T1 | False |
+| 25 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2539.00 | +0.1% | -7.1% | T1 | False |
 
 ## 2026-09-06
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Five-SeveN \| Neon Kimono (Factory New) | 3349.25 | +11.6% | -3.6% | T1 | False |
-| 2 | Sawed-Off \| Limelight (Factory New) | 41.99 | +9.5% | -8.6% | T1 | False |
-| 3 | UMP-45 \| Gold Bismuth (Factory New) | 103.28 | +9.4% | -3.4% | T1 | False |
-| 4 | Dual Berettas \| Urban Shock (Factory New) | 58.19 | +9.0% | +4.2% | T1 | False |
-| 5 | MAG-7 \| Justice (Factory New) | 145.20 | +7.1% | -19.3% | T1 | False |
-| 6 | XM1014 \| Heaven Guard (Factory New) | 78.47 | +5.1% | -4.9% | T1 | False |
-| 7 | MAG-7 \| Praetorian (Factory New) | 38.15 | +5.1% | -9.5% | T1 | False |
-| 8 | M4A4 \| Magnesium (Factory New) | 42.50 | +2.9% | -11.7% | T1 | False |
-| 9 | P90 \| Deathgaze (Factory New) | 133.00 | +2.7% | -9.4% | T1 | False |
-| 10 | SSG 08 \| Parallax (Factory New) | 122.80 | +2.7% | -4.7% | T1 | False |
-| 11 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2500.00 | +2.5% | -5.6% | T1 | False |
-| 12 | Tec-9 \| Decimator (Factory New) | 640.00 | +2.3% | +13.5% | T0 | False |
-| 13 | MP9 \| Storm (Factory New) | 197.88 | +1.7% | -3.5% | T1 | False |
-| 14 | G3SG1 \| Flux (Factory New) | 218.50 | +1.6% | -21.1% | T1 | False |
-| 15 | P250 \| Contaminant (Factory New) | 53.99 | +1.4% | -0.6% | T1 | False |
-| 16 | P90 \| Asiimov (Factory New) | 1479.86 | +1.4% | -8.4% | T1 | False |
-| 17 | XM1014 \| Bone Machine (Factory New) | 115.00 | +0.6% | -3.4% | T1 | False |
-| 18 | AUG \| Anodized Navy (Factory New) | 189.50 | +0.6% | -7.5% | T1 | False |
-| 19 | Dual Berettas \| Dezastre (Factory New) | 124.50 | +0.4% | -5.7% | T1 | False |
-| 20 | AUG \| Random Access (Factory New) | 66.80 | +0.4% | -4.5% | T1 | False |
-| 21 | MP9 \| Hot Rod (Factory New) | 1387.40 | +0.3% | -14.7% | T1 | False |
-| 22 | PP-Bizon \| Harvester (Factory New) | 38.40 | +0.3% | -3.7% | T1 | False |
-| 23 | Tec-9 \| Titanium Bit (Factory New) | 529.00 | +0.3% | -4.6% | T1 | False |
+| 2 | UMP-45 \| Gold Bismuth (Factory New) | 103.28 | +9.4% | -3.4% | T1 | False |
+| 3 | Dual Berettas \| Urban Shock (Factory New) | 58.19 | +9.0% | +4.2% | T1 | False |
+| 4 | M4A4 \| Magnesium (Factory New) | 42.50 | +2.9% | -11.7% | T1 | False |
+| 5 | P90 \| Deathgaze (Factory New) | 133.00 | +2.7% | -9.4% | T1 | False |
+| 6 | SSG 08 \| Parallax (Factory New) | 122.80 | +2.7% | -4.7% | T1 | False |
+| 7 | ★ Driver Gloves \| Brocade Crane (Minimal Wear) | 2500.00 | +2.5% | -5.6% | T1 | False |
+| 8 | Tec-9 \| Decimator (Factory New) | 640.00 | +2.3% | +13.5% | T0 | False |
+| 9 | MP9 \| Storm (Factory New) | 197.88 | +1.7% | -3.5% | T1 | False |
+| 10 | G3SG1 \| Flux (Factory New) | 218.50 | +1.6% | -21.1% | T1 | False |
+| 11 | P250 \| Contaminant (Factory New) | 53.99 | +1.4% | -0.6% | T1 | False |
+| 12 | P90 \| Asiimov (Factory New) | 1479.86 | +1.4% | -8.4% | T1 | False |
+| 13 | AUG \| Anodized Navy (Factory New) | 189.50 | +0.6% | -7.5% | T1 | False |
+| 14 | Dual Berettas \| Dezastre (Factory New) | 124.50 | +0.4% | -5.7% | T1 | False |
+| 15 | AUG \| Random Access (Factory New) | 66.80 | +0.4% | -4.5% | T1 | False |
+| 16 | MP9 \| Hot Rod (Factory New) | 1387.40 | +0.3% | -14.7% | T1 | False |
+| 17 | PP-Bizon \| Harvester (Factory New) | 38.40 | +0.3% | -3.7% | T1 | False |
+| 18 | Tec-9 \| Titanium Bit (Factory New) | 529.00 | +0.3% | -4.6% | T1 | False |
 
 ## 2026-09-07
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 54.89 | +21.6% | +0.4% | T1 | False |
-| 2 | Sawed-Off \| Limelight (Factory New) | 36.98 | +10.1% | -8.6% | T1 | False |
-| 3 | XM1014 \| Heaven Guard (Factory New) | 75.97 | +5.3% | -5.6% | T1 | False |
-| 4 | MAG-7 \| Justice (Factory New) | 131.50 | +2.3% | -12.9% | T1 | False |
-| 5 | Five-SeveN \| Neon Kimono (Factory New) | 3198.50 | +2.0% | -3.6% | T1 | False |
-| 6 | G3SG1 \| Flux (Factory New) | 218.50 | +2.0% | -23.1% | T1 | False |
-| 7 | MAG-7 \| Praetorian (Factory New) | 36.24 | +1.8% | -9.2% | T1 | False |
-| 8 | MP9 \| Storm (Factory New) | 187.99 | +1.7% | -3.5% | T1 | False |
-| 9 | P90 \| Asiimov (Factory New) | 1503.50 | +1.7% | -9.1% | T1 | False |
-| 10 | M4A4 \| Magnesium (Factory New) | 42.66 | +1.2% | -12.3% | T1 | False |
-| 11 | ★ Hydra Gloves \| Mangrove (Minimal Wear) | 227.50 | +1.1% | -7.9% | T1 | False |
-| 12 | Dual Berettas \| Dezastre (Factory New) | 123.98 | +0.9% | -6.4% | T1 | False |
-| 13 | XM1014 \| Bone Machine (Factory New) | 115.00 | +0.7% | -4.4% | T1 | False |
-| 14 | M4A1-S \| Knight (Factory New) | 16199.50 | +0.4% | -3.8% | T1 | False |
-| 15 | AUG \| Anodized Navy (Factory New) | 188.50 | +0.4% | -9.1% | T1 | False |
-| 16 | P250 \| Contaminant (Factory New) | 55.00 | +0.2% | -0.1% | T1 | False |
+| 2 | Five-SeveN \| Neon Kimono (Factory New) | 3198.50 | +2.0% | -3.6% | T1 | False |
+| 3 | G3SG1 \| Flux (Factory New) | 218.50 | +2.0% | -23.1% | T1 | False |
+| 4 | MP9 \| Storm (Factory New) | 187.99 | +1.7% | -3.5% | T1 | False |
+| 5 | P90 \| Asiimov (Factory New) | 1503.50 | +1.7% | -9.1% | T1 | False |
+| 6 | M4A4 \| Magnesium (Factory New) | 42.66 | +1.2% | -12.3% | T1 | False |
+| 7 | ★ Hydra Gloves \| Mangrove (Minimal Wear) | 227.50 | +1.1% | -7.9% | T1 | False |
+| 8 | Dual Berettas \| Dezastre (Factory New) | 123.98 | +0.9% | -6.4% | T1 | False |
+| 9 | M4A1-S \| Knight (Factory New) | 16199.50 | +0.4% | -3.8% | T1 | False |
+| 10 | AUG \| Anodized Navy (Factory New) | 188.50 | +0.4% | -9.1% | T1 | False |
+| 11 | P250 \| Contaminant (Factory New) | 55.00 | +0.2% | -0.1% | T1 | False |
 
 ## 2026-09-08
 
@@ -7448,33 +7386,29 @@
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 53.79 | +32.2% | -1.7% | T1 | False |
 | 2 | MP7 \| Guerrilla (Factory New) | 58.00 | +15.9% | -23.9% | T1 | False |
 | 3 | M4A4 \| Magnesium (Factory New) | 42.45 | +11.7% | -16.4% | T1 | False |
-| 4 | Sawed-Off \| Limelight (Factory New) | 36.69 | +10.6% | -20.1% | T1 | False |
-| 5 | P250 \| Kintsugi (Factory New) | 123.99 | +5.6% | -13.1% | T1 | False |
-| 6 | XM1014 \| Heaven Guard (Factory New) | 75.83 | +5.5% | -19.0% | T1 | False |
-| 7 | MP9 \| Storm (Factory New) | 187.98 | +4.4% | -3.5% | T1 | False |
-| 8 | M4A1-S \| Control Panel (Factory New) | 1149.50 | +4.3% | -6.7% | T1 | False |
-| 9 | MAG-7 \| Justice (Factory New) | 126.00 | +3.9% | -17.2% | T1 | False |
-| 10 | Tec-9 \| Decimator (Factory New) | 700.98 | +3.2% | +13.7% | T0 | False |
-| 11 | P90 \| Deathgaze (Factory New) | 123.00 | +3.1% | -9.7% | T1 | False |
-| 12 | Glock-18 \| Weasel (Factory New) | 217.00 | +2.3% | -3.3% | T1 | False |
-| 13 | MP9 \| Hot Rod (Factory New) | 1415.00 | +2.1% | -11.7% | T1 | False |
-| 14 | Desert Eagle \| Pilot (Factory New) | 1046.50 | +1.8% | -7.7% | T1 | False |
-| 15 | G3SG1 \| Flux (Factory New) | 217.50 | +1.6% | -24.7% | T1 | False |
-| 16 | MAG-7 \| Praetorian (Factory New) | 36.80 | +1.4% | -10.2% | T1 | False |
-| 17 | ★ Hydra Gloves \| Mangrove (Minimal Wear) | 221.41 | +1.1% | -7.0% | T1 | False |
-| 18 | MP5-SD \| Oxide Oasis (Factory New) | 1239.99 | +1.1% | -7.1% | T1 | False |
-| 19 | AK-47 \| Leet Museo (Factory New) | 3920.00 | +1.1% | -10.2% | T1 | False |
-| 20 | MAC-10 \| Hot Snakes (Factory New) | 2100.00 | +1.0% | -10.0% | T1 | False |
-| 21 | Dual Berettas \| Dezastre (Factory New) | 123.47 | +0.8% | -6.5% | T1 | False |
-| 22 | Tec-9 \| Titanium Bit (Factory New) | 540.00 | +0.7% | -9.2% | T1 | False |
-| 23 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2500.00 | +0.6% | -3.3% | T1 | False |
-| 24 | MAC-10 \| Case Hardened (Factory New) | 346.00 | +0.6% | -11.5% | T1 | False |
-| 25 | M4A1-S \| Party Animal (Factory New) | 169.00 | +0.5% | -9.2% | T1 | False |
-| 26 | P90 \| Asiimov (Factory New) | 1502.50 | +0.4% | -8.7% | T1 | False |
-| 27 | M4A1-S \| Knight (Factory New) | 16199.50 | +0.4% | -7.8% | T1 | False |
-| 28 | AUG \| Anodized Navy (Factory New) | 189.00 | +0.4% | -22.6% | T1 | False |
-| 29 | P250 \| Contaminant (Factory New) | 54.90 | +0.3% | -0.1% | T1 | False |
-| 30 | AWP \| Queen's Gambit (Factory New) | 1360.98 | +0.0% | -5.9% | T1 | False |
+| 4 | P250 \| Kintsugi (Factory New) | 123.99 | +5.6% | -13.1% | T1 | False |
+| 5 | MP9 \| Storm (Factory New) | 187.98 | +4.4% | -3.5% | T1 | False |
+| 6 | M4A1-S \| Control Panel (Factory New) | 1149.50 | +4.3% | -6.7% | T1 | False |
+| 7 | Tec-9 \| Decimator (Factory New) | 700.98 | +3.2% | +13.7% | T0 | False |
+| 8 | P90 \| Deathgaze (Factory New) | 123.00 | +3.1% | -9.7% | T1 | False |
+| 9 | Glock-18 \| Weasel (Factory New) | 217.00 | +2.3% | -3.3% | T1 | False |
+| 10 | MP9 \| Hot Rod (Factory New) | 1415.00 | +2.1% | -11.7% | T1 | False |
+| 11 | Desert Eagle \| Pilot (Factory New) | 1046.50 | +1.8% | -7.7% | T1 | False |
+| 12 | G3SG1 \| Flux (Factory New) | 217.50 | +1.6% | -24.7% | T1 | False |
+| 13 | ★ Hydra Gloves \| Mangrove (Minimal Wear) | 221.41 | +1.1% | -7.0% | T1 | False |
+| 14 | MP5-SD \| Oxide Oasis (Factory New) | 1239.99 | +1.1% | -7.1% | T1 | False |
+| 15 | AK-47 \| Leet Museo (Factory New) | 3920.00 | +1.1% | -10.2% | T1 | False |
+| 16 | MAC-10 \| Hot Snakes (Factory New) | 2100.00 | +1.0% | -10.0% | T1 | False |
+| 17 | Dual Berettas \| Dezastre (Factory New) | 123.47 | +0.8% | -6.5% | T1 | False |
+| 18 | Tec-9 \| Titanium Bit (Factory New) | 540.00 | +0.7% | -9.2% | T1 | False |
+| 19 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2500.00 | +0.6% | -3.3% | T1 | False |
+| 20 | MAC-10 \| Case Hardened (Factory New) | 346.00 | +0.6% | -11.5% | T1 | False |
+| 21 | M4A1-S \| Party Animal (Factory New) | 169.00 | +0.5% | -9.2% | T1 | False |
+| 22 | P90 \| Asiimov (Factory New) | 1502.50 | +0.4% | -8.7% | T1 | False |
+| 23 | M4A1-S \| Knight (Factory New) | 16199.50 | +0.4% | -7.8% | T1 | False |
+| 24 | AUG \| Anodized Navy (Factory New) | 189.00 | +0.4% | -22.6% | T1 | False |
+| 25 | P250 \| Contaminant (Factory New) | 54.90 | +0.3% | -0.1% | T1 | False |
+| 26 | AWP \| Queen's Gambit (Factory New) | 1360.98 | +0.0% | -5.9% | T1 | False |
 
 ## 2026-09-09
 
@@ -7482,90 +7416,83 @@
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 49.27 | +38.0% | -1.8% | T1 | False |
 | 2 | MP7 \| Guerrilla (Factory New) | 49.99 | +15.6% | -24.5% | T1 | False |
-| 3 | Sawed-Off \| Limelight (Factory New) | 35.75 | +11.8% | -27.2% | T1 | False |
-| 4 | M4A1-S \| Knight (Factory New) | 16199.50 | +9.2% | -14.1% | T1 | False |
-| 5 | Desert Eagle \| Pilot (Factory New) | 1043.50 | +9.2% | -13.7% | T1 | False |
-| 6 | MP9 \| Storm (Factory New) | 182.99 | +7.4% | -3.5% | T1 | False |
-| 7 | P90 \| Deathgaze (Factory New) | 123.49 | +7.0% | -11.5% | T1 | False |
-| 8 | USP-S \| Sleeping Potion (Factory New) | 49.95 | +6.0% | -12.1% | T1 | False |
-| 9 | XM1014 \| Heaven Guard (Factory New) | 75.73 | +5.5% | -18.4% | T1 | False |
-| 10 | P250 \| Contaminant (Factory New) | 54.87 | +3.6% | +10.0% | T0 | False |
-| 11 | CZ75-Auto \| Xiangliu (Factory New) | 103.89 | +3.4% | -10.1% | T1 | False |
-| 12 | AUG \| Momentum (Factory New) | 237.99 | +2.2% | -8.6% | T1 | False |
-| 13 | M4A4 \| Magnesium (Factory New) | 39.39 | +2.1% | -9.8% | T1 | False |
-| 14 | ★ Driver Gloves \| Overtake (Minimal Wear) | 541.00 | +1.2% | -10.6% | T1 | False |
-| 15 | MAC-10 \| Case Hardened (Factory New) | 334.00 | +0.7% | -11.3% | T1 | False |
-| 16 | Tec-9 \| Decimator (Factory New) | 663.98 | +0.3% | +13.8% | T0 | False |
-| 17 | P2000 \| Granite Marbleized (Factory New) | 54.99 | +0.3% | -19.4% | T1 | False |
-| 18 | G3SG1 \| Flux (Factory New) | 217.50 | +0.2% | -23.7% | T1 | False |
-| 19 | AWP \| Queen's Gambit (Factory New) | 1348.00 | +0.1% | -8.6% | T1 | False |
-| 20 | AK-47 \| Nouveau Rouge (Factory New) | 391.49 | +0.1% | -12.9% | T1 | False |
-| 21 | FAMAS \| Bad Trip (Factory New) | 489.99 | +0.1% | -7.4% | T1 | False |
+| 3 | M4A1-S \| Knight (Factory New) | 16199.50 | +9.2% | -14.1% | T1 | False |
+| 4 | Desert Eagle \| Pilot (Factory New) | 1043.50 | +9.2% | -13.7% | T1 | False |
+| 5 | MP9 \| Storm (Factory New) | 182.99 | +7.4% | -3.5% | T1 | False |
+| 6 | P90 \| Deathgaze (Factory New) | 123.49 | +7.0% | -11.5% | T1 | False |
+| 7 | USP-S \| Sleeping Potion (Factory New) | 49.95 | +6.0% | -12.1% | T1 | False |
+| 8 | P250 \| Contaminant (Factory New) | 54.87 | +3.6% | +10.0% | T0 | False |
+| 9 | CZ75-Auto \| Xiangliu (Factory New) | 103.89 | +3.4% | -10.1% | T1 | False |
+| 10 | AUG \| Momentum (Factory New) | 237.99 | +2.2% | -8.6% | T1 | False |
+| 11 | M4A4 \| Magnesium (Factory New) | 39.39 | +2.1% | -9.8% | T1 | False |
+| 12 | ★ Driver Gloves \| Overtake (Minimal Wear) | 541.00 | +1.2% | -10.6% | T1 | False |
+| 13 | MAC-10 \| Case Hardened (Factory New) | 334.00 | +0.7% | -11.3% | T1 | False |
+| 14 | Tec-9 \| Decimator (Factory New) | 663.98 | +0.3% | +13.8% | T0 | False |
+| 15 | P2000 \| Granite Marbleized (Factory New) | 54.99 | +0.3% | -19.4% | T1 | False |
+| 16 | G3SG1 \| Flux (Factory New) | 217.50 | +0.2% | -23.7% | T1 | False |
+| 17 | AWP \| Queen's Gambit (Factory New) | 1348.00 | +0.1% | -8.6% | T1 | False |
+| 18 | AK-47 \| Nouveau Rouge (Factory New) | 391.49 | +0.1% | -12.9% | T1 | False |
+| 19 | FAMAS \| Bad Trip (Factory New) | 489.99 | +0.1% | -7.4% | T1 | False |
 
 ## 2026-09-10
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 44.75 | +43.6% | -13.6% | T1 | False |
-| 2 | Sawed-Off \| Limelight (Factory New) | 35.34 | +12.2% | -28.8% | T1 | False |
-| 3 | MP7 \| Guerrilla (Factory New) | 50.00 | +11.2% | -24.6% | T1 | False |
-| 4 | Desert Eagle \| Pilot (Factory New) | 1040.50 | +9.2% | -13.7% | T1 | False |
-| 5 | MP9 \| Storm (Factory New) | 177.99 | +7.4% | -3.7% | T1 | False |
-| 6 | P90 \| Deathgaze (Factory New) | 120.00 | +6.1% | -11.8% | T1 | False |
-| 7 | XM1014 \| Heaven Guard (Factory New) | 75.72 | +5.8% | -18.8% | T1 | False |
-| 8 | M4A1-S \| Knight (Factory New) | 16000.00 | +5.0% | -10.1% | T1 | False |
-| 9 | P250 \| Kintsugi (Factory New) | 123.40 | +2.5% | -7.9% | T1 | False |
-| 10 | MAC-10 \| Surfwood (Factory New) | 296.48 | +1.9% | -11.0% | T1 | False |
-| 11 | ★ Broken Fang Gloves \| Jade (Field-Tested) | 429.00 | +0.6% | -8.2% | T1 | False |
-| 12 | USP-S \| Sleeping Potion (Factory New) | 48.49 | +0.5% | -15.5% | T1 | False |
-| 13 | ★ Driver Gloves \| Plum Quill (Minimal Wear) | 1169.50 | +0.4% | -15.4% | T1 | False |
-| 14 | MAC-10 \| Case Hardened (Factory New) | 333.00 | +0.3% | -10.6% | T1 | False |
+| 2 | MP7 \| Guerrilla (Factory New) | 50.00 | +11.2% | -24.6% | T1 | False |
+| 3 | Desert Eagle \| Pilot (Factory New) | 1040.50 | +9.2% | -13.7% | T1 | False |
+| 4 | MP9 \| Storm (Factory New) | 177.99 | +7.4% | -3.7% | T1 | False |
+| 5 | P90 \| Deathgaze (Factory New) | 120.00 | +6.1% | -11.8% | T1 | False |
+| 6 | M4A1-S \| Knight (Factory New) | 16000.00 | +5.0% | -10.1% | T1 | False |
+| 7 | P250 \| Kintsugi (Factory New) | 123.40 | +2.5% | -7.9% | T1 | False |
+| 8 | MAC-10 \| Surfwood (Factory New) | 296.48 | +1.9% | -11.0% | T1 | False |
+| 9 | ★ Broken Fang Gloves \| Jade (Field-Tested) | 429.00 | +0.6% | -8.2% | T1 | False |
+| 10 | USP-S \| Sleeping Potion (Factory New) | 48.49 | +0.5% | -15.5% | T1 | False |
+| 11 | ★ Driver Gloves \| Plum Quill (Minimal Wear) | 1169.50 | +0.4% | -15.4% | T1 | False |
+| 12 | MAC-10 \| Case Hardened (Factory New) | 333.00 | +0.3% | -10.6% | T1 | False |
 
 ## 2026-09-11
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 44.89 | +28.3% | -9.3% | T1 | False |
-| 2 | Sawed-Off \| Limelight (Factory New) | 34.93 | +12.4% | -24.0% | T1 | False |
-| 3 | MP7 \| Guerrilla (Factory New) | 52.00 | +11.0% | -24.7% | T1 | False |
-| 4 | MAC-10 \| Amber Fade (Factory New) | 156.38 | +10.6% | -19.8% | T1 | False |
-| 5 | MP5-SD \| Oxide Oasis (Factory New) | 1225.00 | +10.1% | -13.8% | T1 | False |
-| 6 | Desert Eagle \| Pilot (Factory New) | 1040.00 | +9.1% | -13.6% | T1 | False |
-| 7 | XM1014 \| Heaven Guard (Factory New) | 75.48 | +5.9% | -19.2% | T1 | False |
-| 8 | MP9 \| Airlock (Factory New) | 169.50 | +4.3% | -14.4% | T1 | False |
-| 9 | P90 \| Deathgaze (Factory New) | 119.98 | +2.6% | -8.4% | T1 | False |
-| 10 | Zeus x27 \| Olympus (Factory New) | 47.88 | +2.5% | -10.8% | T1 | False |
-| 11 | P250 \| Mehndi (Factory New) | 192.43 | +2.3% | -7.8% | T1 | False |
-| 12 | P250 \| Kintsugi (Factory New) | 122.38 | +2.2% | -6.5% | T1 | False |
-| 13 | M4A1-S \| Knight (Factory New) | 16000.00 | +1.2% | -9.6% | T1 | False |
-| 14 | M4A1-S \| Nightmare (Factory New) | 1665.00 | +0.8% | +4.7% | T1 | False |
-| 15 | P2000 \| Silver (Factory New) | 600.94 | +0.7% | +29.2% | T0 | False |
-| 16 | P2000 \| Corticera (Factory New) | 461.31 | +0.4% | -16.4% | T1 | False |
+| 2 | MP7 \| Guerrilla (Factory New) | 52.00 | +11.0% | -24.7% | T1 | False |
+| 3 | MAC-10 \| Amber Fade (Factory New) | 156.38 | +10.6% | -19.8% | T1 | False |
+| 4 | MP5-SD \| Oxide Oasis (Factory New) | 1225.00 | +10.1% | -13.8% | T1 | False |
+| 5 | Desert Eagle \| Pilot (Factory New) | 1040.00 | +9.1% | -13.6% | T1 | False |
+| 6 | MP9 \| Airlock (Factory New) | 169.50 | +4.3% | -14.4% | T1 | False |
+| 7 | P90 \| Deathgaze (Factory New) | 119.98 | +2.6% | -8.4% | T1 | False |
+| 8 | Zeus x27 \| Olympus (Factory New) | 47.88 | +2.5% | -10.8% | T1 | False |
+| 9 | P250 \| Mehndi (Factory New) | 192.43 | +2.3% | -7.8% | T1 | False |
+| 10 | P250 \| Kintsugi (Factory New) | 122.38 | +2.2% | -6.5% | T1 | False |
+| 11 | M4A1-S \| Knight (Factory New) | 16000.00 | +1.2% | -9.6% | T1 | False |
+| 12 | M4A1-S \| Nightmare (Factory New) | 1665.00 | +0.8% | +4.7% | T1 | False |
+| 13 | P2000 \| Silver (Factory New) | 600.94 | +0.7% | +29.2% | T0 | False |
+| 14 | P2000 \| Corticera (Factory New) | 461.31 | +0.4% | -16.4% | T1 | False |
 
 ## 2026-09-12
 
 | 名次 | 单品 | 价格 | 首段净收益 | 次段净收益 | 等级 | 大跳价待核实 |
 |---:|---|---:|---:|---:|---|---|
 | 1 | Dual Berettas \| Urban Shock (Factory New) | 48.08 | +12.6% | -8.2% | T1 | False |
-| 2 | Sawed-Off \| Limelight (Factory New) | 34.70 | +11.7% | -23.6% | T1 | False |
-| 3 | M4A1-S \| Nightmare (Factory New) | 1599.00 | +9.5% | -1.8% | T1 | False |
-| 4 | Desert Eagle \| Pilot (Factory New) | 1040.00 | +6.6% | -11.9% | T1 | False |
-| 5 | Tec-9 \| Decimator (Factory New) | 727.00 | +4.0% | +4.1% | T1 | False |
-| 6 | P2000 \| Silver (Factory New) | 603.90 | +3.6% | +24.9% | T0 | False |
-| 7 | ★ Hand Wraps \| Badlands (Field-Tested) | 2749.50 | +2.7% | -3.0% | T1 | False |
-| 8 | Zeus x27 \| Olympus (Factory New) | 46.90 | +2.6% | -9.8% | T1 | False |
-| 9 | MP7 \| Abyssal Apparition (Factory New) | 100.94 | +2.5% | -2.1% | T1 | False |
-| 10 | MP9 \| Airlock (Factory New) | 171.14 | +2.4% | -11.6% | T1 | False |
-| 11 | P250 \| Mehndi (Factory New) | 192.43 | +2.3% | -7.8% | T1 | False |
-| 12 | MAC-10 \| Whitefish (Factory New) | 37.20 | +2.3% | -34.4% | T1 | True |
-| 13 | AK-47 \| The Empress (Factory New) | 1589.50 | +1.3% | +1.3% | T1 | False |
-| 14 | SG 553 \| Hypnotic (Factory New) | 330.44 | +1.2% | -6.8% | T1 | False |
-| 15 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2478.49 | +0.6% | -3.5% | T1 | False |
-| 16 | M4A4 \| Howl (Factory New) | 44788.00 | +0.4% | -7.0% | T1 | False |
-| 17 | P90 \| Deathgaze (Factory New) | 119.49 | +0.4% | -8.4% | T1 | False |
-| 18 | ★ Driver Gloves \| Plum Quill (Minimal Wear) | 1138.00 | +0.3% | -13.5% | T1 | False |
-| 19 | MP5-SD \| Oxide Oasis (Factory New) | 1188.00 | +0.3% | -7.3% | T1 | False |
-| 20 | SSG 08 \| Death Strike (Factory New) | 1999.00 | +0.0% | -2.7% | T1 | False |
+| 2 | M4A1-S \| Nightmare (Factory New) | 1599.00 | +9.5% | -1.8% | T1 | False |
+| 3 | Desert Eagle \| Pilot (Factory New) | 1040.00 | +6.6% | -11.9% | T1 | False |
+| 4 | Tec-9 \| Decimator (Factory New) | 727.00 | +4.0% | +4.1% | T1 | False |
+| 5 | P2000 \| Silver (Factory New) | 603.90 | +3.6% | +24.9% | T0 | False |
+| 6 | ★ Hand Wraps \| Badlands (Field-Tested) | 2749.50 | +2.7% | -3.0% | T1 | False |
+| 7 | Zeus x27 \| Olympus (Factory New) | 46.90 | +2.6% | -9.8% | T1 | False |
+| 8 | MP7 \| Abyssal Apparition (Factory New) | 100.94 | +2.5% | -2.1% | T1 | False |
+| 9 | MP9 \| Airlock (Factory New) | 171.14 | +2.4% | -11.6% | T1 | False |
+| 10 | P250 \| Mehndi (Factory New) | 192.43 | +2.3% | -7.8% | T1 | False |
+| 11 | MAC-10 \| Whitefish (Factory New) | 37.20 | +2.3% | -34.4% | T1 | True |
+| 12 | AK-47 \| The Empress (Factory New) | 1589.50 | +1.3% | +1.3% | T1 | False |
+| 13 | SG 553 \| Hypnotic (Factory New) | 330.44 | +1.2% | -6.8% | T1 | False |
+| 14 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2478.49 | +0.6% | -3.5% | T1 | False |
+| 15 | M4A4 \| Howl (Factory New) | 44788.00 | +0.4% | -7.0% | T1 | False |
+| 16 | P90 \| Deathgaze (Factory New) | 119.49 | +0.4% | -8.4% | T1 | False |
+| 17 | ★ Driver Gloves \| Plum Quill (Minimal Wear) | 1138.00 | +0.3% | -13.5% | T1 | False |
+| 18 | MP5-SD \| Oxide Oasis (Factory New) | 1188.00 | +0.3% | -7.3% | T1 | False |
+| 19 | SSG 08 \| Death Strike (Factory New) | 1999.00 | +0.0% | -2.7% | T1 | False |
 
 ## 2026-09-13
 
@@ -7584,11 +7511,10 @@
 | 11 | AK-47 \| Aquamarine Revenge (Factory New) | 1129.00 | +1.1% | +4.0% | T1 | False |
 | 12 | Zeus x27 \| Olympus (Factory New) | 46.00 | +1.0% | -10.3% | T1 | False |
 | 13 | ★ Driver Gloves \| Wave Chaser (Field-Tested) | 1048.00 | +0.8% | -8.5% | T1 | False |
-| 14 | Sawed-Off \| Devourer (Factory New) | 122.50 | +0.5% | -11.8% | T1 | False |
-| 15 | P250 \| Mehndi (Factory New) | 192.43 | +0.1% | -6.1% | T1 | False |
-| 16 | Ground Rebel  \| Elite Crew | 58.90 | +0.1% | -3.8% | T1 | False |
-| 17 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2350.00 | +0.0% | -4.6% | T1 | False |
-| 18 | AK-47 \| Neon Revolution (Factory New) | 1574.00 | +0.0% | -1.6% | T1 | False |
+| 14 | P250 \| Mehndi (Factory New) | 192.43 | +0.1% | -6.1% | T1 | False |
+| 15 | Ground Rebel  \| Elite Crew | 58.90 | +0.1% | -3.8% | T1 | False |
+| 16 | ★ Hand Wraps \| Spruce DDPAT (Field-Tested) | 2350.00 | +0.0% | -4.6% | T1 | False |
+| 17 | AK-47 \| Neon Revolution (Factory New) | 1574.00 | +0.0% | -1.6% | T1 | False |
 
 ## 2026-09-14
 
@@ -7818,22 +7744,22 @@
 | 12 | P2000 \| Handgun (Factory New) | 103.50 | +7.5% | -13.2% | T1 | False |
 | 13 | MP7 \| Impire (Factory New) | 50.88 | +7.4% | -23.6% | T1 | False |
 | 14 | P2000 \| Obsidian (Factory New) | 124.60 | +6.8% | -19.1% | T1 | False |
-| 15 | MAG-7 \| Hard Water (Factory New) | 34.69 | +5.7% | -12.1% | T1 | False |
-| 16 | AWP \| Wildfire (Factory New) | 932.50 | +5.5% | -13.3% | T1 | False |
-| 17 | M4A4 \| Royal Paladin (Factory New) | 1280.00 | +4.7% | -11.8% | T1 | False |
-| 18 | Desert Eagle \| Mecha Industries (Factory New) | 146.50 | +4.6% | -1.5% | T1 | False |
-| 19 | MP7 \| Powercore (Factory New) | 65.38 | +4.5% | -9.2% | T1 | False |
-| 20 | Tec-9 \| Hades (Factory New) | 159.99 | +4.4% | -7.6% | T1 | False |
-| 21 | AWP \| Fever Dream (Factory New) | 108.40 | +4.4% | -12.3% | T1 | False |
-| 22 | AK-47 \| Aquamarine Revenge (Factory New) | 1143.49 | +4.0% | -10.2% | T1 | False |
-| 23 | Glock-18 \| Night (Factory New) | 208.00 | +3.9% | -4.8% | T1 | False |
-| 24 | MAG-7 \| Heat (Factory New) | 38.89 | +3.8% | -7.9% | T1 | False |
-| 25 | P250 \| Contaminant (Factory New) | 59.50 | +3.8% | +2.1% | T1 | False |
-| 26 | P250 \| Visions (Factory New) | 49.00 | +3.8% | -14.3% | T1 | False |
-| 27 | Desert Eagle \| Hand Cannon (Factory New) | 2400.00 | +3.6% | -0.7% | T1 | False |
-| 28 | Glock-18 \| Off World (Factory New) | 36.99 | +3.5% | +0.3% | T1 | False |
-| 29 | AWP \| Capillary (Factory New) | 38.47 | +3.4% | -18.0% | T1 | False |
-| 30 | Desert Eagle \| Heirloom (Factory New) | 627.00 | +3.4% | -8.3% | T1 | False |
+| 15 | AWP \| Wildfire (Factory New) | 932.50 | +5.5% | -13.3% | T1 | False |
+| 16 | M4A4 \| Royal Paladin (Factory New) | 1280.00 | +4.7% | -11.8% | T1 | False |
+| 17 | Desert Eagle \| Mecha Industries (Factory New) | 146.50 | +4.6% | -1.5% | T1 | False |
+| 18 | MP7 \| Powercore (Factory New) | 65.38 | +4.5% | -9.2% | T1 | False |
+| 19 | Tec-9 \| Hades (Factory New) | 159.99 | +4.4% | -7.6% | T1 | False |
+| 20 | AWP \| Fever Dream (Factory New) | 108.40 | +4.4% | -12.3% | T1 | False |
+| 21 | AK-47 \| Aquamarine Revenge (Factory New) | 1143.49 | +4.0% | -10.2% | T1 | False |
+| 22 | Glock-18 \| Night (Factory New) | 208.00 | +3.9% | -4.8% | T1 | False |
+| 23 | P250 \| Contaminant (Factory New) | 59.50 | +3.8% | +2.1% | T1 | False |
+| 24 | P250 \| Visions (Factory New) | 49.00 | +3.8% | -14.3% | T1 | False |
+| 25 | Desert Eagle \| Hand Cannon (Factory New) | 2400.00 | +3.6% | -0.7% | T1 | False |
+| 26 | Glock-18 \| Off World (Factory New) | 36.99 | +3.5% | +0.3% | T1 | False |
+| 27 | AWP \| Capillary (Factory New) | 38.47 | +3.4% | -18.0% | T1 | False |
+| 28 | Desert Eagle \| Heirloom (Factory New) | 627.00 | +3.4% | -8.3% | T1 | False |
+| 29 | M4A4 \| Dark Blossom (Factory New) | 339.49 | +3.3% | -20.5% | T1 | False |
+| 30 | John 'Van Healen' Kask \| SWAT | 65.30 | +3.2% | -15.9% | T1 | False |
 
 ## 2026-09-21
 
@@ -7847,28 +7773,28 @@
 | 6 | P2000 \| Scorpion (Factory New) | 304.00 | +8.3% | -14.7% | T1 | False |
 | 7 | MAC-10 \| Gold Brick (Factory New) | 360.00 | +8.1% | -6.7% | T1 | False |
 | 8 | P2000 \| Obsidian (Factory New) | 119.00 | +6.8% | -19.1% | T1 | False |
-| 9 | MAG-7 \| Heat (Factory New) | 37.99 | +6.6% | -10.2% | T1 | False |
-| 10 | FAMAS \| Hexane (Factory New) | 57.90 | +6.1% | -21.3% | T1 | False |
-| 11 | MAG-7 \| Hard Water (Factory New) | 34.69 | +5.4% | -12.3% | T1 | False |
-| 12 | Glock-18 \| Off World (Factory New) | 36.34 | +5.0% | +0.5% | T1 | False |
-| 13 | FAMAS \| Styx (Factory New) | 565.00 | +4.6% | +15.4% | T0 | False |
-| 14 | Glock-18 \| Night (Factory New) | 202.50 | +4.4% | -4.8% | T1 | False |
-| 15 | SSG 08 \| Ghost Crusader (Factory New) | 55.00 | +4.0% | -13.8% | T1 | False |
-| 16 | PP-Bizon \| Cobalt Halftone (Factory New) | 43.65 | +4.0% | -14.3% | T1 | False |
-| 17 | AUG \| Stymphalian (Factory New) | 45.88 | +3.8% | -6.5% | T1 | False |
-| 18 | P90 \| Shallow Grave (Factory New) | 317.93 | +3.4% | -13.9% | T1 | False |
-| 19 | Markus Delrow \| FBI HRT | 45.40 | +3.2% | -11.5% | T1 | False |
-| 20 | ★ Hand Wraps \| CAUTION! (Minimal Wear) | 1120.00 | +3.1% | -6.3% | T1 | False |
-| 21 | P250 \| Contaminant (Factory New) | 59.50 | +3.1% | +3.9% | T1 | False |
-| 22 | AWP \| Fever Dream (Factory New) | 106.30 | +3.0% | -13.8% | T1 | False |
-| 23 | Tec-9 \| Hades (Factory New) | 159.88 | +2.8% | -6.1% | T1 | False |
-| 24 | Desert Eagle \| Mulberry (Factory New) | 82.20 | +2.5% | -10.2% | T1 | False |
-| 25 | Desert Eagle \| Mecha Industries (Factory New) | 141.00 | +2.4% | -2.8% | T1 | False |
-| 26 | R8 Revolver \| Reboot (Factory New) | 40.40 | +2.3% | -2.1% | T1 | False |
-| 27 | Sir Bloody Skullhead Darryl \| The Professionals | 200.00 | +2.1% | -8.1% | T1 | False |
-| 28 | AWP \| Safari Mesh (Factory New) | 38.80 | +1.9% | -10.1% | T1 | False |
-| 29 | AWP \| PAW (Factory New) | 41.70 | +1.8% | -4.2% | T1 | False |
-| 30 | Seal Team 6 Soldier \| NSWC SEAL | 60.00 | +1.7% | -8.9% | T1 | False |
+| 9 | FAMAS \| Hexane (Factory New) | 57.90 | +6.1% | -21.3% | T1 | False |
+| 10 | Glock-18 \| Off World (Factory New) | 36.34 | +5.0% | +0.5% | T1 | False |
+| 11 | FAMAS \| Styx (Factory New) | 565.00 | +4.6% | +15.4% | T0 | False |
+| 12 | Glock-18 \| Night (Factory New) | 202.50 | +4.4% | -4.8% | T1 | False |
+| 13 | SSG 08 \| Ghost Crusader (Factory New) | 55.00 | +4.0% | -13.8% | T1 | False |
+| 14 | PP-Bizon \| Cobalt Halftone (Factory New) | 43.65 | +4.0% | -14.3% | T1 | False |
+| 15 | AUG \| Stymphalian (Factory New) | 45.88 | +3.8% | -6.5% | T1 | False |
+| 16 | P90 \| Shallow Grave (Factory New) | 317.93 | +3.4% | -13.9% | T1 | False |
+| 17 | Markus Delrow \| FBI HRT | 45.40 | +3.2% | -11.5% | T1 | False |
+| 18 | ★ Hand Wraps \| CAUTION! (Minimal Wear) | 1120.00 | +3.1% | -6.3% | T1 | False |
+| 19 | P250 \| Contaminant (Factory New) | 59.50 | +3.1% | +3.9% | T1 | False |
+| 20 | AWP \| Fever Dream (Factory New) | 106.30 | +3.0% | -13.8% | T1 | False |
+| 21 | Tec-9 \| Hades (Factory New) | 159.88 | +2.8% | -6.1% | T1 | False |
+| 22 | Desert Eagle \| Mulberry (Factory New) | 82.20 | +2.5% | -10.2% | T1 | False |
+| 23 | Desert Eagle \| Mecha Industries (Factory New) | 141.00 | +2.4% | -2.8% | T1 | False |
+| 24 | Sir Bloody Skullhead Darryl \| The Professionals | 200.00 | +2.1% | -8.1% | T1 | False |
+| 25 | AWP \| Safari Mesh (Factory New) | 38.80 | +1.9% | -10.1% | T1 | False |
+| 26 | AWP \| PAW (Factory New) | 41.70 | +1.8% | -4.2% | T1 | False |
+| 27 | Seal Team 6 Soldier \| NSWC SEAL | 60.00 | +1.7% | -8.9% | T1 | False |
+| 28 | SCAR-20 \| Cyrex (Factory New) | 184.40 | +1.5% | -2.3% | T1 | False |
+| 29 | ★ Bloodhound Gloves \| Charred (Minimal Wear) | 1569.50 | +1.5% | -16.7% | T1 | False |
+| 30 | ★ Specialist Gloves \| Field Agent (Minimal Wear) | 1764.90 | +1.4% | -10.2% | T1 | False |
 
 ## 2026-09-22
 
@@ -7883,27 +7809,27 @@
 | 7 | UMP-45 \| Primal Saber (Factory New) | 93.20 | +7.7% | -0.7% | T1 | False |
 | 8 | MAC-10 \| Gold Brick (Factory New) | 360.00 | +7.6% | -5.9% | T1 | False |
 | 9 | MP5-SD \| Agent (Factory New) | 31.50 | +7.1% | -2.6% | T1 | False |
-| 10 | MAG-7 \| Heat (Factory New) | 36.95 | +6.7% | -14.4% | T1 | False |
-| 11 | SCAR-20 \| Cyrex (Factory New) | 182.20 | +6.0% | -2.8% | T1 | False |
-| 12 | CZ75-Auto \| Tigris (Factory New) | 50.00 | +4.9% | -10.9% | T1 | False |
-| 13 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 442.93 | +4.4% | +17.5% | T0 | False |
-| 14 | AUG \| Navy Murano (Factory New) | 79.89 | +4.1% | -12.6% | T1 | False |
-| 15 | ★ Sport Gloves \| Violet Beadwork (Field-Tested) | 1339.50 | +3.7% | -5.3% | T1 | False |
-| 16 | P250 \| Contaminant (Factory New) | 59.00 | +2.9% | -3.5% | T1 | False |
-| 17 | AK-47 \| Jaguar (Factory New) | 2700.00 | +2.7% | -8.6% | T1 | False |
-| 18 | Five-SeveN \| Fowl Play (Factory New) | 395.00 | +2.6% | -17.1% | T1 | False |
-| 19 | UMP-45 \| Gold Bismuth (Factory New) | 115.48 | +2.5% | -10.7% | T1 | False |
-| 20 | Dual Berettas \| Hemoglobin (Factory New) | 84.00 | +2.2% | -13.0% | T1 | False |
-| 21 | PP-Bizon \| Cobalt Halftone (Factory New) | 39.89 | +2.1% | -16.3% | T1 | False |
-| 22 | Zeus x27 \| Dragon Snore (Factory New) | 260.00 | +1.8% | -10.5% | T1 | False |
-| 23 | G3SG1 \| New Roots (Factory New) | 57.99 | +1.8% | -6.6% | T1 | False |
-| 24 | M4A4 \| Red DDPAT (Factory New) | 745.00 | +1.7% | +3.1% | T1 | False |
-| 25 | Five-SeveN \| Anodized Gunmetal (Factory New) | 94.00 | +1.7% | -15.7% | T1 | False |
-| 26 | Valeria Phoenix Pin | 275.70 | +1.4% | -5.3% | T1 | False |
-| 27 | Glock-18 \| Off World (Factory New) | 34.00 | +1.3% | +1.6% | T1 | False |
-| 28 | Glock-18 \| Pink DDPAT (Factory New) | 486.50 | +1.2% | -16.8% | T1 | False |
-| 29 | Ground Rebel  \| Elite Crew | 57.32 | +1.2% | -4.6% | T1 | False |
-| 30 | MP9 \| Stained Glass (Factory New) | 829.50 | +1.2% | -6.9% | T1 | False |
+| 10 | SCAR-20 \| Cyrex (Factory New) | 182.20 | +6.0% | -2.8% | T1 | False |
+| 11 | CZ75-Auto \| Tigris (Factory New) | 50.00 | +4.9% | -10.9% | T1 | False |
+| 12 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 442.93 | +4.4% | +17.5% | T0 | False |
+| 13 | AUG \| Navy Murano (Factory New) | 79.89 | +4.1% | -12.6% | T1 | False |
+| 14 | ★ Sport Gloves \| Violet Beadwork (Field-Tested) | 1339.50 | +3.7% | -5.3% | T1 | False |
+| 15 | P250 \| Contaminant (Factory New) | 59.00 | +2.9% | -3.5% | T1 | False |
+| 16 | AK-47 \| Jaguar (Factory New) | 2700.00 | +2.7% | -8.6% | T1 | False |
+| 17 | Five-SeveN \| Fowl Play (Factory New) | 395.00 | +2.6% | -17.1% | T1 | False |
+| 18 | UMP-45 \| Gold Bismuth (Factory New) | 115.48 | +2.5% | -10.7% | T1 | False |
+| 19 | Dual Berettas \| Hemoglobin (Factory New) | 84.00 | +2.2% | -13.0% | T1 | False |
+| 20 | PP-Bizon \| Cobalt Halftone (Factory New) | 39.89 | +2.1% | -16.3% | T1 | False |
+| 21 | Zeus x27 \| Dragon Snore (Factory New) | 260.00 | +1.8% | -10.5% | T1 | False |
+| 22 | G3SG1 \| New Roots (Factory New) | 57.99 | +1.8% | -6.6% | T1 | False |
+| 23 | M4A4 \| Red DDPAT (Factory New) | 745.00 | +1.7% | +3.1% | T1 | False |
+| 24 | Five-SeveN \| Anodized Gunmetal (Factory New) | 94.00 | +1.7% | -15.7% | T1 | False |
+| 25 | Valeria Phoenix Pin | 275.70 | +1.4% | -5.3% | T1 | False |
+| 26 | Glock-18 \| Off World (Factory New) | 34.00 | +1.3% | +1.6% | T1 | False |
+| 27 | Glock-18 \| Pink DDPAT (Factory New) | 486.50 | +1.2% | -16.8% | T1 | False |
+| 28 | Ground Rebel  \| Elite Crew | 57.32 | +1.2% | -4.6% | T1 | False |
+| 29 | MP9 \| Stained Glass (Factory New) | 829.50 | +1.2% | -6.9% | T1 | False |
+| 30 | MAC-10 \| Surfwood (Factory New) | 285.41 | +1.2% | -23.3% | T1 | False |
 
 ## 2026-09-23
 
@@ -7916,29 +7842,29 @@
 | 5 | CZ75-Auto \| Tigris (Factory New) | 39.90 | +6.4% | -12.6% | T1 | False |
 | 6 | AK-47 \| Wasteland Rebel (Factory New) | 2086.80 | +6.4% | -3.4% | T1 | False |
 | 7 | SCAR-20 \| Cyrex (Factory New) | 174.50 | +6.3% | -3.1% | T1 | False |
-| 8 | Sawed-Off \| Limelight (Factory New) | 33.88 | +6.0% | -4.7% | T1 | False |
-| 9 | MAG-7 \| Heat (Factory New) | 36.72 | +5.8% | -17.7% | T1 | False |
-| 10 | PP-Bizon \| Chemical Green (Factory New) | 62.72 | +5.6% | -19.2% | T1 | False |
-| 11 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 436.50 | +5.3% | +12.5% | T0 | False |
-| 12 | ★ Sport Gloves \| Violet Beadwork (Field-Tested) | 1298.00 | +3.6% | -5.9% | T1 | False |
-| 13 | MAC-10 \| Amber Fade (Factory New) | 139.99 | +3.5% | -15.0% | T1 | False |
-| 14 | ★ Broken Fang Gloves \| Unhinged (Field-Tested) | 302.50 | +3.4% | -6.0% | T1 | False |
-| 15 | Five-SeveN \| Fowl Play (Factory New) | 448.50 | +3.2% | -18.5% | T1 | False |
-| 16 | Glock-18 \| Pink DDPAT (Factory New) | 486.00 | +2.5% | -16.9% | T1 | False |
-| 17 | Dual Berettas \| Hemoglobin (Factory New) | 81.79 | +2.4% | -15.5% | T1 | False |
-| 18 | AUG \| Midnight Lily (Factory New) | 1964.50 | +2.0% | -9.0% | T1 | False |
-| 19 | PP-Bizon \| Cobalt Halftone (Factory New) | 39.89 | +1.5% | -16.0% | T1 | False |
-| 20 | MAC-10 \| Gold Brick (Factory New) | 357.00 | +1.4% | -8.2% | T1 | False |
-| 21 | MP5-SD \| Autumn Twilly (Factory New) | 114.93 | +1.4% | -7.7% | T1 | False |
-| 22 | Dual Berettas \| Dezastre (Factory New) | 125.00 | +1.2% | -12.7% | T1 | False |
-| 23 | P2000 \| Dispatch (Factory New) | 121.98 | +1.2% | -11.4% | T1 | False |
-| 24 | G3SG1 \| Flux (Factory New) | 178.46 | +1.0% | -7.0% | T1 | False |
-| 25 | Dual Berettas \| Balance (Factory New) | 40.00 | +0.9% | -5.8% | T1 | False |
-| 26 | UMP-45 \| Momentum (Factory New) | 52.77 | +0.8% | -1.7% | T1 | False |
-| 27 | AWP \| Exothermic (Factory New) | 58.70 | +0.7% | -20.4% | T1 | False |
-| 28 | UMP-45 \| Blaze (Factory New) | 106.30 | +0.7% | -13.2% | T1 | False |
-| 29 | UMP-45 \| Fade (Factory New) | 1263.70 | +0.7% | -6.2% | T1 | False |
-| 30 | SCAR-20 \| Bloodsport (Factory New) | 81.40 | +0.6% | -9.8% | T1 | False |
+| 8 | PP-Bizon \| Chemical Green (Factory New) | 62.72 | +5.6% | -19.2% | T1 | False |
+| 9 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 436.50 | +5.3% | +12.5% | T0 | False |
+| 10 | ★ Sport Gloves \| Violet Beadwork (Field-Tested) | 1298.00 | +3.6% | -5.9% | T1 | False |
+| 11 | MAC-10 \| Amber Fade (Factory New) | 139.99 | +3.5% | -15.0% | T1 | False |
+| 12 | ★ Broken Fang Gloves \| Unhinged (Field-Tested) | 302.50 | +3.4% | -6.0% | T1 | False |
+| 13 | Five-SeveN \| Fowl Play (Factory New) | 448.50 | +3.2% | -18.5% | T1 | False |
+| 14 | Glock-18 \| Pink DDPAT (Factory New) | 486.00 | +2.5% | -16.9% | T1 | False |
+| 15 | Dual Berettas \| Hemoglobin (Factory New) | 81.79 | +2.4% | -15.5% | T1 | False |
+| 16 | AUG \| Midnight Lily (Factory New) | 1964.50 | +2.0% | -9.0% | T1 | False |
+| 17 | PP-Bizon \| Cobalt Halftone (Factory New) | 39.89 | +1.5% | -16.0% | T1 | False |
+| 18 | MAC-10 \| Gold Brick (Factory New) | 357.00 | +1.4% | -8.2% | T1 | False |
+| 19 | MP5-SD \| Autumn Twilly (Factory New) | 114.93 | +1.4% | -7.7% | T1 | False |
+| 20 | Dual Berettas \| Dezastre (Factory New) | 125.00 | +1.2% | -12.7% | T1 | False |
+| 21 | P2000 \| Dispatch (Factory New) | 121.98 | +1.2% | -11.4% | T1 | False |
+| 22 | G3SG1 \| Flux (Factory New) | 178.46 | +1.0% | -7.0% | T1 | False |
+| 23 | Dual Berettas \| Balance (Factory New) | 40.00 | +0.9% | -5.8% | T1 | False |
+| 24 | UMP-45 \| Momentum (Factory New) | 52.77 | +0.8% | -1.7% | T1 | False |
+| 25 | AWP \| Exothermic (Factory New) | 58.70 | +0.7% | -20.4% | T1 | False |
+| 26 | UMP-45 \| Blaze (Factory New) | 106.30 | +0.7% | -13.2% | T1 | False |
+| 27 | UMP-45 \| Fade (Factory New) | 1263.70 | +0.7% | -6.2% | T1 | False |
+| 28 | SCAR-20 \| Bloodsport (Factory New) | 81.40 | +0.6% | -9.8% | T1 | False |
+| 29 | ★ Hydra Gloves \| Emerald (Minimal Wear) | 287.30 | +0.3% | -9.9% | T1 | False |
+| 30 | Galil AR \| Crimson Tsunami (Factory New) | 37.88 | +0.2% | -5.9% | T1 | False |
 
 ## 2026-09-24
 
@@ -7948,30 +7874,30 @@
 | 2 | Glock-18 \| Weasel (Factory New) | 216.00 | +12.4% | +6.3% | T0 | False |
 | 3 | UMP-45 \| Momentum (Factory New) | 52.67 | +11.9% | -11.7% | T1 | False |
 | 4 | USP-S \| Orange Anolis (Factory New) | 425.00 | +10.8% | -5.5% | T1 | False |
-| 5 | Sawed-Off \| Limelight (Factory New) | 30.88 | +9.2% | -5.0% | T1 | False |
-| 6 | FAMAS \| Styx (Factory New) | 657.12 | +9.2% | +0.4% | T1 | False |
-| 7 | SCAR-20 \| Emerald (Factory New) | 175.04 | +9.1% | -15.4% | T1 | False |
-| 8 | PP-Bizon \| Chemical Green (Factory New) | 60.99 | +7.4% | -19.8% | T1 | False |
-| 9 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 434.50 | +7.0% | +6.3% | T0 | False |
-| 10 | MAG-7 \| Heat (Factory New) | 36.82 | +6.4% | -19.9% | T1 | False |
-| 11 | SCAR-20 \| Cyrex (Factory New) | 174.00 | +6.3% | -3.8% | T1 | False |
-| 12 | Glock-18 \| Night (Factory New) | 200.00 | +6.2% | -8.1% | T1 | False |
-| 13 | XM1014 \| Monster Melt (Factory New) | 38.50 | +5.0% | -20.9% | T1 | False |
-| 14 | UMP-45 \| Primal Saber (Factory New) | 93.70 | +4.9% | -7.4% | T1 | False |
-| 15 | Galil AR \| Amber Fade (Factory New) | 118.30 | +4.9% | -2.6% | T1 | False |
-| 16 | Five-SeveN \| Fowl Play (Factory New) | 429.99 | +3.4% | -14.2% | T1 | False |
-| 17 | P90 \| Nostalgia (Factory New) | 53.57 | +3.0% | -6.1% | T1 | False |
-| 18 | MAC-10 \| Amber Fade (Factory New) | 148.32 | +2.4% | -17.2% | T1 | False |
-| 19 | ★ Broken Fang Gloves \| Unhinged (Field-Tested) | 302.00 | +2.3% | -12.4% | T1 | False |
-| 20 | AUG \| Midnight Lily (Factory New) | 1887.50 | +2.1% | -9.6% | T1 | False |
-| 21 | M4A1-S \| Welcome to the Jungle (Factory New) | 9900.00 | +1.7% | -5.6% | T1 | False |
-| 22 | G3SG1 \| Flux (Factory New) | 178.46 | +1.6% | -7.0% | T1 | False |
-| 23 | Dual Berettas \| Dezastre (Factory New) | 124.00 | +1.2% | -16.5% | T1 | False |
-| 24 | ★ Hydra Gloves \| Emerald (Minimal Wear) | 277.50 | +1.1% | -14.2% | T1 | False |
-| 25 | Valeria Phoenix Pin | 278.20 | +1.1% | -13.2% | T1 | False |
-| 26 | P250 \| Forest Night (Factory New) | 78.00 | +1.1% | -27.9% | T1 | False |
-| 27 | G3SG1 \| Orange Kimono (Factory New) | 54.97 | +0.7% | -6.3% | T1 | False |
-| 28 | P2000 \| Dispatch (Factory New) | 144.99 | +0.7% | -15.7% | T1 | False |
-| 29 | Tec-9 \| Hades (Factory New) | 150.00 | +0.6% | -8.5% | T1 | False |
-| 30 | UMP-45 \| Blaze (Factory New) | 105.60 | +0.4% | -18.4% | T1 | False |
+| 5 | FAMAS \| Styx (Factory New) | 657.12 | +9.2% | +0.4% | T1 | False |
+| 6 | SCAR-20 \| Emerald (Factory New) | 175.04 | +9.1% | -15.4% | T1 | False |
+| 7 | PP-Bizon \| Chemical Green (Factory New) | 60.99 | +7.4% | -19.8% | T1 | False |
+| 8 | ★ Moto Gloves \| 3rd Commando Company (Minimal Wear) | 434.50 | +7.0% | +6.3% | T0 | False |
+| 9 | SCAR-20 \| Cyrex (Factory New) | 174.00 | +6.3% | -3.8% | T1 | False |
+| 10 | Glock-18 \| Night (Factory New) | 200.00 | +6.2% | -8.1% | T1 | False |
+| 11 | UMP-45 \| Primal Saber (Factory New) | 93.70 | +4.9% | -7.4% | T1 | False |
+| 12 | Galil AR \| Amber Fade (Factory New) | 118.30 | +4.9% | -2.6% | T1 | False |
+| 13 | Five-SeveN \| Fowl Play (Factory New) | 429.99 | +3.4% | -14.2% | T1 | False |
+| 14 | P90 \| Nostalgia (Factory New) | 53.57 | +3.0% | -6.1% | T1 | False |
+| 15 | MAC-10 \| Amber Fade (Factory New) | 148.32 | +2.4% | -17.2% | T1 | False |
+| 16 | ★ Broken Fang Gloves \| Unhinged (Field-Tested) | 302.00 | +2.3% | -12.4% | T1 | False |
+| 17 | AUG \| Midnight Lily (Factory New) | 1887.50 | +2.1% | -9.6% | T1 | False |
+| 18 | M4A1-S \| Welcome to the Jungle (Factory New) | 9900.00 | +1.7% | -5.6% | T1 | False |
+| 19 | G3SG1 \| Flux (Factory New) | 178.46 | +1.6% | -7.0% | T1 | False |
+| 20 | Dual Berettas \| Dezastre (Factory New) | 124.00 | +1.2% | -16.5% | T1 | False |
+| 21 | ★ Hydra Gloves \| Emerald (Minimal Wear) | 277.50 | +1.1% | -14.2% | T1 | False |
+| 22 | Valeria Phoenix Pin | 278.20 | +1.1% | -13.2% | T1 | False |
+| 23 | P250 \| Forest Night (Factory New) | 78.00 | +1.1% | -27.9% | T1 | False |
+| 24 | G3SG1 \| Orange Kimono (Factory New) | 54.97 | +0.7% | -6.3% | T1 | False |
+| 25 | P2000 \| Dispatch (Factory New) | 144.99 | +0.7% | -15.7% | T1 | False |
+| 26 | Tec-9 \| Hades (Factory New) | 150.00 | +0.6% | -8.5% | T1 | False |
+| 27 | UMP-45 \| Blaze (Factory New) | 105.60 | +0.4% | -18.4% | T1 | False |
+| 28 | USP-S \| Bleeding Edge (Factory New) | 30.90 | +0.4% | -10.9% | T1 | False |
+| 29 | Five-SeveN \| Angry Mob (Factory New) | 462.76 | +0.2% | +3.5% | T1 | False |
+| 30 | CZ75-Auto \| Tigris (Factory New) | 40.00 | +0.1% | -19.4% | T1 | False |
 

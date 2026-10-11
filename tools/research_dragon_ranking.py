@@ -6,6 +6,7 @@ import numpy as np,pandas as pd
 from lightgbm import LGBMRanker
 from cs2 import config
 from cs2.leaders import add_peer_features
+from cs2.research_universe import EXCLUDED_WEAPONS,allowed_products
 from tools.research_seven_day import labels,COLS
 
 
@@ -54,7 +55,7 @@ def main():
  'T1：每日已取得完整8日真实报价的合格单品，第一段净收益前30且盈利；T0：T1且完整15日报价、第二段净收益≥5%。同分按名称。未来报价仅用于标签和评估。',
  '候选当时只要求既有报价资格和过去7日连续真实报价；不会用未来缺报价淘汰候选。评估同时披露可验证数，不能把未知结果算作成功。',
  '原始清洗已检查OHLC一致性、非正价格及相对过去15日报价中位数超过3倍/低于1/3的异常。未来单日绝对变化>50%只标注待核实，不直接删除真实暴涨。另做剔除后的敏感性；仅有日K，无法证实成交量、库存或可成交价格。vol_7是价格波动率，不是成交量。',
- '训练只使用2—4月、15日标签在5月1日前到期的完整样本。固定参数，不据后段调参。由于此前已经查看指定日期，后段不是完全独立测试。T1和T0模型各自最多输出30个，互为对照，不能合并成60个买点。', '', '## 样本审计','']
+ '训练只使用2—4月、15日标签在5月1日前到期的完整样本。固定参数，不据后段调参。由于此前已经查看指定日期，后段不是完全独立测试。T1和T0模型各自最多输出30个，互为对照，不能合并成60个买点。', '', '排除武器：Nova、XM1014、MAG-7、Sawed-Off（全部霰弹枪），Negev、M249、R8 Revolver。按武器名前缀过滤，包含StatTrak/Souvenir变体。排除发生在标签排名和训练之前；一般市场指标仍来自原全市场历史数据。','', '## 样本审计','']
  lines += [f'- 因果候选样本：{len(f):,}；完整首段报价：{int(f.complete7.sum()):,}；完整两段报价：{int(f.complete15.sum()):,}。',f'- 完整到期区间真实T1：{int(f.loc[mature,"T1"].sum()):,}；真实T0：{int(f.loc[mature,"T0"].sum()):,}；T1中未来大跳价待核实：{int((mature&(f.T1==1)&f.jump_future15).sum())}。','', '## 固定时间划分对照','', '| 时段 | 方法 | 每日上限 | 真实T1覆盖 | 真实T0覆盖 | T1命中率 | 可验证/入选 | 7日净收益中位数 | 平均净收益 | 盈利比例 |','|---|---|---:|---:|---:|---:|---:|---:|---:|---:|']
  result=[]
  rng=np.random.default_rng(389)
@@ -85,6 +86,11 @@ def main():
  for _,r in focus.sort_values(['date','name']).iterrows():
   name=str(r['name']).replace('|',r'\|');tag='T0' if r.T0 else 'T1' if r.T1 else '其他'
   lines.append(f'| {r.date.date()} | {name} | {r.truth_rank:.0f} | {r.net7:+.1%} | {r.net_next7:+.1%} | {tag} | {r.prediction_rank:.0f} |')
+ lines+=['','## 最新日期预测Top30（未到期，仅预测）','',f'日期：{end.date()}。按T1模型分数降序、名称升序；不使用未来收益。','', '| 名次 | 单品 | 价格 |','|---:|---|---:|']
+ latest=f[f.date==end].assign(_name=lambda z:z.name.astype(str)).sort_values(['T1_rank_score','_name'],ascending=[False,True]).head(30)
+ for rank,(_,r) in enumerate(latest.iterrows(),1):
+  name=str(r['name']).replace('|',r'\|')
+  lines.append(f'| {rank} | {name} | {r.close:.2f} |')
  Path(config.P('output','dragon_ranking_research_2026.md')).write_text('\n'.join(lines)+'\n')
  # Complete retrospective list; all rows distinguish labels from real-time predictions.
  daily=['# 2026年2月以来逐日真实龙头','', '事后研究名单；未来收益不可当作当天买点。完整报价要求和异常标注详见排序研究报告。','']
@@ -95,7 +101,7 @@ def main():
    daily.append(f'| {int(r.truth_rank)} | {name} | {r.close:.2f} | {r.net7:+.1%} | {second} | {"T0" if r.T0 else "T1"} | {bool(r.jump_future15)} |')
   daily.append('')
  Path(config.P('output','true_dragons_daily_2026.md')).write_text('\n'.join(daily)+'\n')
- Path(config.P('state','dragon_ranking_meta.json')).write_text(json.dumps(dict(features=COLS,medians=med.to_dict(),results=result,status='research_only',training_deadline='2026-05-01',archive_end=str(end.date())),indent=2))
+ Path(config.P('state','dragon_ranking_meta.json')).write_text(json.dumps(dict(features=COLS,medians=med.to_dict(),results=result,status='research_only',training_deadline='2026-05-01',archive_end=str(end.date()),excluded_weapons=sorted(EXCLUDED_WEAPONS)),indent=2))
  f.to_pickle('/tmp/fable-recheck/dragon-panel.pkl')
  print(json.dumps(result,ensure_ascii=False),flush=True)
 
