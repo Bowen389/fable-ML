@@ -90,6 +90,12 @@ class Health:
             row['OOS n'] = s['n']; row['OOS 胜率'] = f"{s['win']:.0%}" if s['n'] else '—'; row['OOS 跑赢中位'] = f"{s['beat']:.0%}" if s['n'] else '—'
             rows.append(row)
             s90, s180 = st[90], st[180]
+            if r['id'].startswith('RB') and s90['n'] < STATUS_RULES['min_n']:
+                # New modules must earn enough mature samples before emitting buys.
+                if r['status'] != 'disabled':
+                    row['状态'] = 'watch'
+                    if r['status'] != 'watch': new_status[r['id']] = (r['status'], 'watch', s90, s180)
+                continue
             if r['status'] == 'probation' and (st['oos'].get('n', 0) < 30
                     or st['oos'].get('med', -1) <= 0 or st['oos'].get('beat', 0) < 0.55): continue
             if r['status'] == 'disabled': continue  # Manual disable stays disabled.
