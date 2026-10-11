@@ -10,9 +10,14 @@ def leader_watch(feat, rules, date):
     rows = []
     for r in rules:
         if not r['id'].startswith('RB'): continue
-        for _, a in day[strategy_mask(day, r) & (day.leader_flag > 0)].iterrows():
-            rows.append([str(a['name']), r['id'], r['status'], round(a.leader_score*100,1),
-                         round(a.peer_rs7*100,1), '通过' if r['status']=='active' else '未通过'])
+        shape = pd.Series(strategy_mask(day, r), index=day.index)
+        same_family = day.peer_code == int(r['id'][2:])
+        emerging = same_family & (day.leader_early_flag > 0)
+        for idx, a in day[(shape & (day.leader_flag > 0)) | emerging].iterrows():
+            confirmed = bool(shape.loc[idx])
+            rid = r['id'] if confirmed else f"EARLY{int(a.peer_code)}（先于品类转强观察）"
+            rows.append([str(a['name']), rid, r['status'] if confirmed else '独立观察，未接入买点', round(a.leader_score*100,1),
+                         round(a.peer_rs7*100,1), '通过' if confirmed and r['status']=='active' else '未通过'])
     return pd.DataFrame(rows, columns=cols).sort_values('强度分', ascending=False, kind='stable')
 
 
@@ -35,6 +40,11 @@ def add_peer_features(feat):
     # A high rank in a falling group alone is not a leader signal.
     out['leader_flag'] = ((out.leader_score >= .70) & (out.r_3 > 0)
                           & (out.r_7 > 0) & (out.peer_rs7 > 0) & ok).astype(float)
+    # Leadership may precede group recovery and a positive weekly return.
+    # Observation only: does not add automatic buy signals or bypass health.
+    out['leader_early_flag'] = ((out.peer_n >= 8) & (out.r_1 >= .03)
+        & (out.peer_rank_1 >= .85) & (out.peer_rank_3 >= .60)
+        & (out.peer_rank_7 >= .50) & (out.ma7_dev >= 0) & ok).astype(float)
     return out
 
 

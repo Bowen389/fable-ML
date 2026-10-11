@@ -34,6 +34,17 @@ def test_relative_rank_alone_not_leader_in_falling_group():
     assert not add_peer_features(a).leader_flag.any()
 
 
+def test_early_leader_can_precede_group_recovery_without_becoming_buy():
+    a=peer_day();a.r_1=-.04;a.r_3=-.1;a.r_7=-.2
+    a.loc[11,['r_1','r_3','r_7']]=[.12,-.01,-.05]
+    out=add_peer_features(a)
+    assert out.leader_early_flag.iloc[11]==1
+    r=reversal_rules('2026-10-11')[1]
+    watch=leader_watch(out,[r],pd.Timestamp('2026-08-22'))
+    assert not watch.empty
+    assert watch['扫描放行'].iloc[0]=='未通过'
+
+
 def test_leader_observation_does_not_bypass_health_gate():
     a=add_peer_features(peer_day());r=reversal_rules('2026-10-11')[1];r['status']='probation'
     out=leader_watch(a,[r],pd.Timestamp('2026-08-22'))
