@@ -1,212 +1,212 @@
 [
   {
     "name":"UMP-45 | Plastique (Factory New)",
-    "close":58.96,
+    "close":66.0,
     "regime":-1,
-    "score":1.5902396057,
+    "score":1.8065991951,
+    "T0_percentile":0.998694517
+  },
+  {
+    "name":"Desert Eagle | Light Rail (Factory New)",
+    "close":89.01,
+    "regime":-1,
+    "score":1.0545955497,
+    "T0_percentile":0.9921671018
+  },
+  {
+    "name":"Glock-18 | Off World (Factory New)",
+    "close":46.45,
+    "regime":-1,
+    "score":0.9885640912,
     "T0_percentile":1.0
   },
   {
     "name":"★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-    "close":570.0,
+    "close":569.77,
     "regime":-1,
-    "score":0.6243008287,
-    "T0_percentile":0.9359477124
+    "score":0.5765498206,
+    "T0_percentile":0.8276762402
   },
   {
-    "name":"P90 | Schematic (Factory New)",
-    "close":41.7,
+    "name":"FAMAS | Styx (Factory New)",
+    "close":760.0,
     "regime":-1,
-    "score":0.4612909041,
-    "T0_percentile":0.9490196078
+    "score":0.5197329305,
+    "T0_percentile":0.8890339426
   },
   {
     "name":"P250 | Vino Primo (Factory New)",
-    "close":63.0,
+    "close":60.89,
     "regime":-1,
     "score":0.4480611808,
-    "T0_percentile":0.9751633987
+    "T0_percentile":0.9608355091
   },
   {
-    "name":"Glock-18 | Off World (Factory New)",
-    "close":43.0,
+    "name":"P250 | Contaminant (Factory New)",
+    "close":91.87,
     "regime":-1,
-    "score":0.2742080397,
-    "T0_percentile":0.9764705882
+    "score":0.438396324,
+    "T0_percentile":0.9934725849
   },
   {
-    "name":"Glock-18 | Weasel (Factory New)",
-    "close":226.99,
+    "name":"P90 | Schematic (Factory New)",
+    "close":41.15,
     "regime":-1,
-    "score":0.2156051337,
-    "T0_percentile":0.9385620915
-  },
-  {
-    "name":"MP7 | Asterion (Factory New)",
-    "close":38.98,
-    "regime":-1,
-    "score":0.1002447972,
-    "T0_percentile":0.8705882353
-  },
-  {
-    "name":"Desert Eagle | Sputnik (Factory New)",
-    "close":39.98,
-    "regime":-1,
-    "score":-0.0495593914,
-    "T0_percentile":0.9830065359
-  },
-  {
-    "name":"P2000 | Ivory (Factory New)",
-    "close":34.59,
-    "regime":-1,
-    "score":-0.0517460623,
-    "T0_percentile":0.8888888889
+    "score":0.3236945577,
+    "T0_percentile":0.9190600522
   },
   {
     "name":"Dual Berettas | Urban Shock (Factory New)",
-    "close":32.85,
+    "close":31.0,
     "regime":-1,
-    "score":-0.0972607535,
-    "T0_percentile":0.7202614379
-  },
-  {
-    "name":"AK-47 | Steel Delta (Factory New)",
-    "close":36.27,
-    "regime":-1,
-    "score":-0.1139482597,
-    "T0_percentile":0.9333333333
-  },
-  {
-    "name":"Dual Berettas | Marina (Factory New)",
-    "close":160.5,
-    "regime":-1,
-    "score":-0.1383548787,
-    "T0_percentile":0.9294117647
+    "score":0.3134838697,
+    "T0_percentile":0.8851174935
   },
   {
     "name":"MP9 | Deadly Poison (Factory New)",
-    "close":47.1,
+    "close":53.99,
     "regime":-1,
-    "score":-0.1417491866,
-    "T0_percentile":0.9816993464
+    "score":0.2610496228,
+    "T0_percentile":0.955613577
+  },
+  {
+    "name":"MP9 | Music Box (Factory New)",
+    "close":34.79,
+    "regime":-1,
+    "score":0.0145704276,
+    "T0_percentile":0.817232376
+  },
+  {
+    "name":"Glock-18 | Weasel (Factory New)",
+    "close":233.33,
+    "regime":-1,
+    "score":-0.1517249016,
+    "T0_percentile":0.9373368146
+  },
+  {
+    "name":"FAMAS | Hexane (Factory New)",
+    "close":33.3,
+    "regime":-1,
+    "score":-0.1984962349,
+    "T0_percentile":0.8577023499
+  },
+  {
+    "name":"Glock-18 | Ironwork (Factory New)",
+    "close":269.8,
+    "regime":-1,
+    "score":-0.2104921607,
+    "T0_percentile":0.9895561358
+  },
+  {
+    "name":"AWP | Black Nile (Factory New)",
+    "close":66.44,
+    "regime":-1,
+    "score":-0.2703017428,
+    "T0_percentile":0.8877284595
+  },
+  {
+    "name":"Dual Berettas | Marina (Factory New)",
+    "close":162.5,
+    "regime":-1,
+    "score":-0.2726621565,
+    "T0_percentile":0.8955613577
+  },
+  {
+    "name":"M4A1-S | Atomic Alloy (Factory New)",
+    "close":1100.0,
+    "regime":-1,
+    "score":-0.2908332417,
+    "T0_percentile":0.5261096606
+  },
+  {
+    "name":"Glock-18 | Nuclear Garden (Factory New)",
+    "close":264.99,
+    "regime":-1,
+    "score":-0.3190395357,
+    "T0_percentile":0.9973890339
+  },
+  {
+    "name":"AK-47 | Steel Delta (Factory New)",
+    "close":40.33,
+    "regime":-1,
+    "score":-0.3733724258,
+    "T0_percentile":0.7754569191
+  },
+  {
+    "name":"USP-S | Purple DDPAT (Factory New)",
+    "close":178.9,
+    "regime":-1,
+    "score":-0.3767728129,
+    "T0_percentile":0.9843342037
+  },
+  {
+    "name":"P250 | Forest Night (Factory New)",
+    "close":55.01,
+    "regime":-1,
+    "score":-0.406119282,
+    "T0_percentile":0.8041775457
+  },
+  {
+    "name":"MP7 | Asterion (Factory New)",
+    "close":39.9,
+    "regime":-1,
+    "score":-0.442717407,
+    "T0_percentile":0.7336814621
+  },
+  {
+    "name":"Glock-18 | Red Tire (Factory New)",
+    "close":46.58,
+    "regime":-1,
+    "score":-0.4478306329,
+    "T0_percentile":0.908616188
   },
   {
     "name":"Tec-9 | Phoenix Chalk (Factory New)",
     "close":44.0,
     "regime":-1,
-    "score":-0.15476394,
-    "T0_percentile":0.8509803922
+    "score":-0.4488563569,
+    "T0_percentile":0.8537859008
   },
   {
-    "name":"Desert Eagle | Light Rail (Factory New)",
-    "close":81.97,
+    "name":"USP-S | Pathfinder (Factory New)",
+    "close":142.0,
     "regime":-1,
-    "score":-0.1794164482,
-    "T0_percentile":0.9986928105
+    "score":-0.4932154309,
+    "T0_percentile":0.6906005222
   },
   {
-    "name":"AWP | Black Nile (Factory New)",
-    "close":67.16,
+    "name":"P2000 | Ivory (Factory New)",
+    "close":35.5,
     "regime":-1,
-    "score":-0.2595303871,
-    "T0_percentile":0.8797385621
+    "score":-0.4992853696,
+    "T0_percentile":0.9647519582
   },
   {
-    "name":"MP9 | Music Box (Factory New)",
-    "close":37.12,
+    "name":"Tec-9 | Blast From the Past (Factory New)",
+    "close":45.72,
     "regime":-1,
-    "score":-0.3344439643,
-    "T0_percentile":0.6104575163
+    "score":-0.521983647,
+    "T0_percentile":0.9856396867
   },
   {
-    "name":"Galil AR | Blue Titanium (Factory New)",
-    "close":74.81,
+    "name":"P2000 | Acid Etched (Factory New)",
+    "close":32.5,
     "regime":-1,
-    "score":-0.3691443542,
-    "T0_percentile":0.6588235294
+    "score":-0.5345278437,
+    "T0_percentile":0.8224543081
   },
   {
-    "name":"P250 | Forest Night (Factory New)",
-    "close":55.5,
+    "name":"Desert Eagle | Sputnik (Factory New)",
+    "close":43.79,
     "regime":-1,
-    "score":-0.406119282,
-    "T0_percentile":0.8444444444
+    "score":-0.5357557113,
+    "T0_percentile":0.9308093995
   },
   {
-    "name":"Glock-18 | Sacrifice (Factory New)",
-    "close":33.08,
+    "name":"M4A1-S | Fizzy POP (Factory New)",
+    "close":63.64,
     "regime":-1,
-    "score":-0.447331208,
-    "T0_percentile":0.8339869281
-  },
-  {
-    "name":"Tec-9 | Ossified (Factory New)",
-    "close":56.03,
-    "regime":-1,
-    "score":-0.4744443436,
-    "T0_percentile":0.7215686275
-  },
-  {
-    "name":"FAMAS | Hexane (Factory New)",
-    "close":37.54,
-    "regime":-1,
-    "score":-0.4747949461,
-    "T0_percentile":0.9254901961
-  },
-  {
-    "name":"AUG | Random Access (Factory New)",
-    "close":68.09,
-    "regime":-1,
-    "score":-0.4979850713,
-    "T0_percentile":0.9424836601
-  },
-  {
-    "name":"Five-SeveN | Triumvirate (Factory New)",
-    "close":57.99,
-    "regime":-1,
-    "score":-0.5042946969,
-    "T0_percentile":0.8366013072
-  },
-  {
-    "name":"Glock-18 | Red Tire (Factory New)",
-    "close":47.79,
-    "regime":-1,
-    "score":-0.5208763612,
-    "T0_percentile":0.9346405229
-  },
-  {
-    "name":"Five-SeveN | Retrobution (Factory New)",
-    "close":63.0,
-    "regime":-1,
-    "score":-0.5297570891,
-    "T0_percentile":0.6562091503
-  },
-  {
-    "name":"AUG | Torque (Factory New)",
-    "close":45.0,
-    "regime":-1,
-    "score":-0.5793399135,
-    "T0_percentile":0.9803921569
-  },
-  {
-    "name":"Dual Berettas | Switch Board (Factory New)",
-    "close":36.21,
-    "regime":-1,
-    "score":-0.5802056351,
-    "T0_percentile":0.5555555556
-  },
-  {
-    "name":"AUG | Daedalus (Factory New)",
-    "close":38.1,
-    "regime":-1,
-    "score":-0.5871171008,
-    "T0_percentile":0.9581699346
-  },
-  {
-    "name":"FAMAS | Night Borre (Factory New)",
-    "close":53.0,
-    "regime":-1,
-    "score":-0.6453858065,
-    "T0_percentile":0.8640522876
+    "score":-0.5414753077,
+    "T0_percentile":0.8237597911
   }
 ]
