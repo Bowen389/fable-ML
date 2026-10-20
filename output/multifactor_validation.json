@@ -1,0 +1,2926 @@
+{
+  "version": "regime-multifactor-v1",
+  "generated_at": "2026-10-20T23:11:30.702945+08:00",
+  "asof": "2026-10-19",
+  "items_requested": 773,
+  "items_loaded": 716,
+  "rows": 921700,
+  "daily_rows": 643,
+  "failures": [
+    {
+      "name": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Pillow Punchers (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Violet Beadwork (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Lime Polycam (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Blackbook (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Occult (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Big Swell (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Pillow Punchers (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Frosty (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Sunburst (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AK-47 | Aphrodite (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Red Racer (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | Queen's Gambit (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Big Swell (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Garden (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "Glock-18 | Fully Tuned (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Wave Chaser (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Sunburst (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A4 | Falak (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Red Racer (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Brocade Flowers (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Blaze (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Hand Sweaters (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Creme Pinstripe (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Seigaiha (Field-Tested)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "Desert Eagle | Eastern Enigma (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AK-47 | Crane Flight (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | The End (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A1-S | Party Animal (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | Black Box (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "P250 | Kintsugi (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "P90 | Deathgaze (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AUG | Lapis Lazuli (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "P250 | Lotus Imprint (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "CZ75-Auto | Hydraulics (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "SG 553 | Barricade (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AK-47 | Breakthrough (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | Exothermic (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "USP-S | Sleeping Potion (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A4 | Dark Operative (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "Glock-18 | Trace Lock (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A1-S | Electrum (Factory New)",
+      "error": "Less than 300 valid history rows"
+    },
+    {
+      "name": "Tec-9 | Sultan (Factory New)",
+      "error": "Less than 300 valid history rows"
+    }
+  ],
+  "source": "Firepulse YOUPIN prices; global all-platform volume proxy",
+  "calibration_start": "2026-01-22",
+  "validation_start": "2026-07-21",
+  "profiles": {
+    "环境适配": {
+      "熊市": [
+        0.15,
+        0.3,
+        0.1,
+        0.25,
+        0.1,
+        0.1
+      ],
+      "修复": [
+        0.2,
+        0.25,
+        0.15,
+        0.2,
+        0.1,
+        0.1
+      ],
+      "强势": [
+        0.25,
+        0.2,
+        0.2,
+        0.1,
+        0.15,
+        0.1
+      ]
+    },
+    "等权": {
+      "熊市": [
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666
+      ],
+      "修复": [
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666
+      ],
+      "强势": [
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666,
+        0.16666666666666666
+      ]
+    },
+    "防守优先": {
+      "熊市": [
+        0.15,
+        0.3,
+        0.1,
+        0.3,
+        0.1,
+        0.05
+      ],
+      "修复": [
+        0.15,
+        0.3,
+        0.1,
+        0.3,
+        0.1,
+        0.05
+      ],
+      "强势": [
+        0.15,
+        0.3,
+        0.1,
+        0.3,
+        0.1,
+        0.05
+      ]
+    }
+  },
+  "entry_methods": {
+    "O_S1": "原版深跌筑底波动收敛",
+    "O_M3": "原版远离MA90止跌",
+    "O_M4": "原版低价枪械筑底",
+    "O_L1": "原版深跌MA交叉",
+    "I0": "buy-cs原买点并集",
+    "I1": "偏左支撑试探",
+    "I2": "温和放量初启动",
+    "I3": "强势缩量回踩",
+    "I4": "过程结构再启动"
+  },
+  "rolling_signal_start": "2026-06-20",
+  "rolling_signal_end": "2026-09-18",
+  "total_search_combinations_including_rolling": 1944,
+  "results": [
+    {
+      "id": "O_S1",
+      "name": "原版深跌筑底波动收敛",
+      "recipe": {
+        "H": 30,
+        "profile": "防守优先",
+        "gate": "市场修复",
+        "threshold": 55,
+        "objective": 0.36446192266447724,
+        "calibration": {
+          "n": 40,
+          "items": 40,
+          "days": 18,
+          "mean": 0.4293299596805092,
+          "median": 0.3781305735473577,
+          "win": 0.675,
+          "p10": -0.25947214806412777
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 30,
+          "profile": "环境适配",
+          "gate": "不加环境对照",
+          "threshold": 55,
+          "objective": 0.3942371314944943,
+          "calibration": {
+            "n": 33,
+            "items": 33,
+            "days": 21,
+            "mean": 0.45373881885647016,
+            "median": 0.34249680266232785,
+            "win": 0.6666666666666666,
+            "p10": -0.23800674944790354
+          }
+        }
+      },
+      "test": {
+        "n": 1,
+        "items": 1,
+        "days": 1,
+        "mean": -0.3122248134328358,
+        "median": -0.3122248134328358,
+        "win": 0.0,
+        "p10": -0.3122248134328358
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-09",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "start": "2026-08-09",
+          "end": "2026-08-29",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "start": "2026-08-29",
+          "end": "2026-09-18",
+          "n": 1,
+          "items": 1,
+          "days": 1,
+          "mean": -0.3122248134328358,
+          "median": -0.3122248134328358,
+          "win": 0.0,
+          "p10": -0.3122248134328358
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "环境适配",
+            "gate": "市场或板块修复",
+            "threshold": 55,
+            "objective": 0.4254132670080678,
+            "calibration": {
+              "n": 30,
+              "items": 29,
+              "days": 18,
+              "mean": 0.49028130402409975,
+              "median": 0.3762491733332226,
+              "win": 0.7333333333333333,
+              "p10": -0.25947214806412777
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "防守优先",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.4545899205940442,
+              "calibration": {
+                "n": 31,
+                "items": 30,
+                "days": 22,
+                "mean": 0.5170545177887933,
+                "median": 0.359140298507463,
+                "win": 0.7419354838709677,
+                "p10": -0.24985838877899647
+              }
+            }
+          },
+          "result": {
+            "n": 7,
+            "items": 7,
+            "days": 4,
+            "mean": -0.05083584114149047,
+            "median": -0.11766492368293224,
+            "win": 0.14285714285714285,
+            "p10": -0.22202879686175803
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "市场修复",
+            "threshold": 55,
+            "objective": 0.36446192266447724,
+            "calibration": {
+              "n": 40,
+              "items": 40,
+              "days": 18,
+              "mean": 0.4293299596805092,
+              "median": 0.3781305735473577,
+              "win": 0.675,
+              "p10": -0.25947214806412777
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "环境适配",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": 0.39531576665846585,
+              "calibration": {
+                "n": 33,
+                "items": 33,
+                "days": 21,
+                "mean": 0.4548174540204417,
+                "median": 0.34249680266232785,
+                "win": 0.696969696969697,
+                "p10": -0.23800674944790354
+              }
+            }
+          },
+          "result": {
+            "n": 0,
+            "items": 0,
+            "days": 0,
+            "mean": null,
+            "median": null,
+            "win": null,
+            "p10": null
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "不加环境对照",
+            "threshold": 55,
+            "objective": 0.05344385301492467,
+            "calibration": {
+              "n": 47,
+              "items": 44,
+              "days": 22,
+              "mean": 0.12372921307489805,
+              "median": -0.04119040595158041,
+              "win": 0.425531914893617,
+              "p10": -0.2811414402398935
+            },
+            "selection_role": "仅无环境对照，受限方案样本不足"
+          },
+          "result": {
+            "n": 3,
+            "items": 3,
+            "days": 2,
+            "mean": -0.32802159583007895,
+            "median": -0.3122248134328358,
+            "win": 0.0,
+            "p10": -0.41010135178898705
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 286,
+        "items": 232,
+        "days": 145,
+        "mean": 0.05781358031112948,
+        "median": 0.019090525333546715,
+        "win": 0.534965034965035,
+        "p10": -0.1877889002441343
+      },
+      "raw_entry_control": {
+        "H": 10,
+        "n": 11,
+        "items": 11,
+        "days": 6,
+        "mean": -0.1817431221074843,
+        "median": -0.18537027696057695,
+        "win": 0.0,
+        "p10": -0.2469861720323091
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "40–55",
+          "n": 3,
+          "items": 3,
+          "days": 1,
+          "mean": -0.4356411530681521,
+          "median": -0.418108486493154,
+          "win": 0.0,
+          "p10": -0.5017366205846077
+        },
+        {
+          "band": "55–65",
+          "n": 1,
+          "items": 1,
+          "days": 1,
+          "mean": -0.3122248134328358,
+          "median": -0.3122248134328358,
+          "win": 0.0,
+          "p10": -0.3122248134328358
+        },
+        {
+          "band": "65–80",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "80–100",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "O_M3",
+      "name": "原版远离MA90止跌",
+      "recipe": {
+        "H": 7,
+        "profile": "防守优先",
+        "gate": "不加环境对照",
+        "threshold": 55,
+        "objective": -0.08869080306349758,
+        "calibration": {
+          "n": 39,
+          "items": 28,
+          "days": 24,
+          "mean": -0.03720544021825536,
+          "median": -0.06849257214510862,
+          "win": 0.28205128205128205,
+          "p10": -0.20594145138096892
+        },
+        "selection_role": "仅无环境对照，受限方案样本不足"
+      },
+      "test": {
+        "n": 55,
+        "items": 47,
+        "days": 34,
+        "mean": -0.08958242319920588,
+        "median": -0.0910692885935287,
+        "win": 0.16363636363636364,
+        "p10": -0.23043135999443715
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-17",
+          "n": 9,
+          "items": 9,
+          "days": 8,
+          "mean": -0.050354798460133104,
+          "median": -0.02649782250221966,
+          "win": 0.3333333333333333,
+          "p10": -0.1804410969455722
+        },
+        {
+          "start": "2026-08-17",
+          "end": "2026-09-13",
+          "n": 8,
+          "items": 7,
+          "days": 7,
+          "mean": -0.0669626578210006,
+          "median": -0.06761130097105966,
+          "win": 0.375,
+          "p10": -0.23196968007488025
+        },
+        {
+          "start": "2026-09-13",
+          "end": "2026-10-11",
+          "n": 38,
+          "items": 35,
+          "days": 19,
+          "mean": -0.10363523229597686,
+          "median": -0.10352775359599353,
+          "win": 0.07894736842105263,
+          "p10": -0.22432060747509816
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": null,
+          "result": null
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 7,
+            "profile": "防守优先",
+            "gate": "不加环境对照",
+            "threshold": 55,
+            "objective": -0.08869080306349758,
+            "calibration": {
+              "n": 39,
+              "items": 28,
+              "days": 24,
+              "mean": -0.03720544021825536,
+              "median": -0.06849257214510862,
+              "win": 0.28205128205128205,
+              "p10": -0.20594145138096892
+            },
+            "selection_role": "仅无环境对照，受限方案样本不足"
+          },
+          "result": {
+            "n": 11,
+            "items": 10,
+            "days": 10,
+            "mean": -0.014357984656562765,
+            "median": -0.023563244115922366,
+            "win": 0.45454545454545453,
+            "p10": -0.15664940139485228
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 7,
+            "profile": "防守优先",
+            "gate": "市场或板块修复",
+            "threshold": 55,
+            "objective": -0.0714781807600174,
+            "calibration": {
+              "n": 31,
+              "items": 24,
+              "days": 20,
+              "mean": -0.03231583041130433,
+              "median": -0.05453639337558769,
+              "win": 0.25806451612903225,
+              "p10": -0.15664940139485228
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "防守优先",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": -0.03924742563520789,
+              "calibration": {
+                "n": 31,
+                "items": 30,
+                "days": 22,
+                "mean": 0.0044973660314587575,
+                "median": -0.07509944769544341,
+                "win": 0.3548387096774194,
+                "p10": -0.17497916666666657
+              }
+            }
+          },
+          "result": {
+            "n": 6,
+            "items": 6,
+            "days": 3,
+            "mean": -0.05071423392263941,
+            "median": -0.06366636010416366,
+            "win": 0.3333333333333333,
+            "p10": -0.17624881380136342
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 64,
+        "items": 57,
+        "days": 20,
+        "mean": 0.20128854235676716,
+        "median": 0.11057601089587299,
+        "win": 0.734375,
+        "p10": -0.04015751267334104
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 166,
+        "items": 121,
+        "days": 52,
+        "mean": -0.10866283562894452,
+        "median": -0.16940322987441242,
+        "win": 0.2289156626506024,
+        "p10": -0.2762735310219744
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 154,
+          "items": 106,
+          "days": 52,
+          "mean": -0.08129396876765194,
+          "median": -0.09972530636840204,
+          "win": 0.2012987012987013,
+          "p10": -0.21264613139440675
+        },
+        {
+          "band": "40–55",
+          "n": 167,
+          "items": 111,
+          "days": 50,
+          "mean": -0.0760626058367144,
+          "median": -0.08772855721393036,
+          "win": 0.20958083832335328,
+          "p10": -0.19811325595417964
+        },
+        {
+          "band": "55–65",
+          "n": 51,
+          "items": 44,
+          "days": 32,
+          "mean": -0.09041991020866474,
+          "median": -0.08947686179994963,
+          "win": 0.1568627450980392,
+          "p10": -0.23151513266998336
+        },
+        {
+          "band": "65–80",
+          "n": 8,
+          "items": 7,
+          "days": 6,
+          "mean": -0.06997801892486266,
+          "median": -0.07724650998527999,
+          "win": 0.25,
+          "p10": -0.15165653387759165
+        },
+        {
+          "band": "80–100",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "O_M4",
+      "name": "原版低价枪械筑底",
+      "recipe": {
+        "H": 14,
+        "profile": "防守优先",
+        "gate": "市场修复",
+        "threshold": 55,
+        "objective": 0.1655305348596266,
+        "calibration": {
+          "n": 41,
+          "items": 35,
+          "days": 24,
+          "mean": 0.21331212764869334,
+          "median": 0.17224908991627252,
+          "win": 0.6829268292682927,
+          "p10": -0.19112637115626696
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 30,
+          "profile": "防守优先",
+          "gate": "不加环境对照",
+          "threshold": 55,
+          "objective": 0.5425856714776025,
+          "calibration": {
+            "n": 32,
+            "items": 31,
+            "days": 20,
+            "mean": 0.6294328029956476,
+            "median": 0.4737583090342987,
+            "win": 0.75,
+            "p10": -0.34738852607218035
+          }
+        }
+      },
+      "test": {
+        "n": 1,
+        "items": 1,
+        "days": 1,
+        "mean": -0.22213028606965168,
+        "median": -0.22213028606965168,
+        "win": 0.0,
+        "p10": -0.22213028606965168
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-15",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "start": "2026-08-15",
+          "end": "2026-09-09",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "start": "2026-09-09",
+          "end": "2026-10-04",
+          "n": 1,
+          "items": 1,
+          "days": 1,
+          "mean": -0.22213028606965168,
+          "median": -0.22213028606965168,
+          "win": 0.0,
+          "p10": -0.22213028606965168
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "市场修复",
+            "threshold": 55,
+            "objective": 0.5687657205949853,
+            "calibration": {
+              "n": 33,
+              "items": 31,
+              "days": 22,
+              "mean": 0.630902263381589,
+              "median": 0.472080223880597,
+              "win": 0.7575757575757576,
+              "p10": -0.24854617114641447
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "防守优先",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": 0.5031010132992253,
+              "calibration": {
+                "n": 41,
+                "items": 38,
+                "days": 27,
+                "mean": 0.5655656104939744,
+                "median": 0.472080223880597,
+                "win": 0.7560975609756098,
+                "p10": -0.24985838877899647
+              }
+            }
+          },
+          "result": {
+            "n": 10,
+            "items": 10,
+            "days": 5,
+            "mean": 0.0971160337387583,
+            "median": 0.10536617221282873,
+            "win": 0.7,
+            "p10": -0.10442011674077598
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 14,
+            "profile": "防守优先",
+            "gate": "市场修复",
+            "threshold": 55,
+            "objective": 0.1655305348596266,
+            "calibration": {
+              "n": 41,
+              "items": 35,
+              "days": 24,
+              "mean": 0.21331212764869334,
+              "median": 0.17224908991627252,
+              "win": 0.6829268292682927,
+              "p10": -0.19112637115626696
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "防守优先",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": 0.5425856714776025,
+              "calibration": {
+                "n": 32,
+                "items": 31,
+                "days": 20,
+                "mean": 0.6294328029956476,
+                "median": 0.4737583090342987,
+                "win": 0.75,
+                "p10": -0.34738852607218035
+              }
+            }
+          },
+          "result": {
+            "n": 0,
+            "items": 0,
+            "days": 0,
+            "mean": null,
+            "median": null,
+            "win": null,
+            "p10": null
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "市场或板块修复",
+            "threshold": 55,
+            "objective": 0.3527872679042334,
+            "calibration": {
+              "n": 30,
+              "items": 27,
+              "days": 16,
+              "mean": 0.416484790742694,
+              "median": 0.1286743631322983,
+              "win": 0.7,
+              "p10": -0.2547900913538424
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "防守优先",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": 0.3268707142870505,
+              "calibration": {
+                "n": 34,
+                "items": 29,
+                "days": 20,
+                "mean": 0.4078074232321449,
+                "median": 0.14409978039094207,
+                "win": 0.7058823529411765,
+                "p10": -0.3237468357803776
+              }
+            }
+          },
+          "result": {
+            "n": 1,
+            "items": 1,
+            "days": 1,
+            "mean": -0.41277674129353237,
+            "median": -0.41277674129353237,
+            "win": 0.0,
+            "p10": -0.41277674129353237
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 217,
+        "items": 111,
+        "days": 133,
+        "mean": 0.03966926489600297,
+        "median": -0.01438153646108764,
+        "win": 0.46543778801843316,
+        "p10": -0.14018145963888498
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 18,
+        "items": 17,
+        "days": 6,
+        "mean": -0.15132887749957175,
+        "median": -0.20039449303759743,
+        "win": 0.1111111111111111,
+        "p10": -0.28227805440216414
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 1,
+          "items": 1,
+          "days": 1,
+          "mean": -0.23984730384322206,
+          "median": -0.23984730384322206,
+          "win": 0.0,
+          "p10": -0.23984730384322206
+        },
+        {
+          "band": "40–55",
+          "n": 3,
+          "items": 3,
+          "days": 1,
+          "mean": -0.16597390838015416,
+          "median": -0.15726778289646004,
+          "win": 0.0,
+          "p10": -0.19832971677108258
+        },
+        {
+          "band": "55–65",
+          "n": 1,
+          "items": 1,
+          "days": 1,
+          "mean": -0.22213028606965168,
+          "median": -0.22213028606965168,
+          "win": 0.0,
+          "p10": -0.22213028606965168
+        },
+        {
+          "band": "65–80",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "80–100",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "O_L1",
+      "name": "原版深跌MA交叉",
+      "recipe": {
+        "H": 30,
+        "profile": "防守优先",
+        "gate": "市场修复",
+        "threshold": 65,
+        "objective": 0.32446121865537436,
+        "calibration": {
+          "n": 44,
+          "items": 42,
+          "days": 22,
+          "mean": 0.3954095521792329,
+          "median": 0.07904116593696353,
+          "win": 0.5681818181818182,
+          "p10": -0.28379333409543417
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 30,
+          "profile": "等权",
+          "gate": "不加环境对照",
+          "threshold": 65,
+          "objective": 0.26236259026410447,
+          "calibration": {
+            "n": 31,
+            "items": 29,
+            "days": 23,
+            "mean": 0.33133652647493295,
+            "median": 0.10640491592257062,
+            "win": 0.5161290322580645,
+            "p10": -0.27589574484331403
+          }
+        }
+      },
+      "test": {
+        "n": 0,
+        "items": 0,
+        "days": 0,
+        "mean": null,
+        "median": null,
+        "win": null,
+        "p10": null
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-09",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "start": "2026-08-09",
+          "end": "2026-08-29",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "start": "2026-08-29",
+          "end": "2026-09-18",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": 0.33191668391410994,
+            "calibration": {
+              "n": 49,
+              "items": 47,
+              "days": 26,
+              "mean": 0.40145473364294704,
+              "median": 0.1972169482204218,
+              "win": 0.5918367346938775,
+              "p10": -0.2781521989153483
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.291844353532143,
+              "calibration": {
+                "n": 37,
+                "items": 34,
+                "days": 29,
+                "mean": 0.3566527301689277,
+                "median": 0.16600337313432845,
+                "win": 0.5675675675675675,
+                "p10": -0.25923350654713884
+              }
+            }
+          },
+          "result": {
+            "n": 0,
+            "items": 0,
+            "days": 0,
+            "mean": null,
+            "median": null,
+            "win": null,
+            "p10": null
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": 0.32446121865537436,
+            "calibration": {
+              "n": 44,
+              "items": 42,
+              "days": 22,
+              "mean": 0.3954095521792329,
+              "median": 0.07904116593696353,
+              "win": 0.5681818181818182,
+              "p10": -0.28379333409543417
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.26236259026410447,
+              "calibration": {
+                "n": 31,
+                "items": 29,
+                "days": 23,
+                "mean": 0.33133652647493295,
+                "median": 0.10640491592257062,
+                "win": 0.5161290322580645,
+                "p10": -0.27589574484331403
+              }
+            }
+          },
+          "result": {
+            "n": 0,
+            "items": 0,
+            "days": 0,
+            "mean": null,
+            "median": null,
+            "win": null,
+            "p10": null
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 30,
+            "profile": "防守优先",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": 0.3823048875963671,
+            "calibration": {
+              "n": 39,
+              "items": 38,
+              "days": 18,
+              "mean": 0.4457247443751372,
+              "median": 0.0828131083711876,
+              "win": 0.5897435897435898,
+              "p10": -0.25367942711508046
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "环境适配",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.30989671434561156,
+              "calibration": {
+                "n": 45,
+                "items": 45,
+                "days": 24,
+                "mean": 0.3789714000727941,
+                "median": 0.14629197761194046,
+                "win": 0.5555555555555556,
+                "p10": -0.2762987429087303
+              }
+            }
+          },
+          "result": {
+            "n": 0,
+            "items": 0,
+            "days": 0,
+            "mean": null,
+            "median": null,
+            "win": null,
+            "p10": null
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 233,
+        "items": 178,
+        "days": 129,
+        "mean": 0.0018350601365547912,
+        "median": -0.03470149253731336,
+        "win": 0.4206008583690987,
+        "p10": -0.2236902489668133
+      },
+      "raw_entry_control": {
+        "H": 30,
+        "n": 0,
+        "items": 0,
+        "days": 0,
+        "mean": null,
+        "median": null,
+        "win": null,
+        "p10": null
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "40–55",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "55–65",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "65–80",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "80–100",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "I0",
+      "name": "buy-cs原买点并集",
+      "recipe": {
+        "H": 30,
+        "profile": "等权",
+        "gate": "市场或板块修复",
+        "threshold": 65,
+        "objective": -0.04570399872932736,
+        "calibration": {
+          "n": 921,
+          "items": 593,
+          "days": 81,
+          "mean": 0.03256449920652528,
+          "median": -0.07569362093641363,
+          "win": 0.36264929424538545,
+          "p10": -0.31307399174341055
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 14,
+          "profile": "等权",
+          "gate": "不加环境对照",
+          "threshold": 65,
+          "objective": -0.053117300733609187,
+          "calibration": {
+            "n": 1492,
+            "items": 644,
+            "days": 148,
+            "mean": 0.00019849626639736995,
+            "median": -0.050300957383763556,
+            "win": 0.3512064343163539,
+            "p10": -0.21326318800002622
+          }
+        }
+      },
+      "test": {
+        "n": 253,
+        "items": 239,
+        "days": 19,
+        "mean": -0.20783328731128178,
+        "median": -0.20268721842532722,
+        "win": 0.023715415019762844,
+        "p10": -0.34488005162451796
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-09",
+          "n": 61,
+          "items": 61,
+          "days": 7,
+          "mean": -0.16189490672365045,
+          "median": -0.15704056224307872,
+          "win": 0.03278688524590164,
+          "p10": -0.2936840189297415
+        },
+        {
+          "start": "2026-08-09",
+          "end": "2026-08-29",
+          "n": 39,
+          "items": 39,
+          "days": 7,
+          "mean": -0.17269470050686406,
+          "median": -0.15076872060928237,
+          "win": 0.02564102564102564,
+          "p10": -0.29867168368682895
+        },
+        {
+          "start": "2026-08-29",
+          "end": "2026-09-18",
+          "n": 190,
+          "items": 190,
+          "days": 5,
+          "mean": -0.22804102112559582,
+          "median": -0.23252883007572445,
+          "win": 0.021052631578947368,
+          "p10": -0.35702090755040367
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "环境适配",
+            "gate": "市场或板块修复",
+            "threshold": 65,
+            "objective": 0.015587136227589893,
+            "calibration": {
+              "n": 1249,
+              "items": 667,
+              "days": 88,
+              "mean": 0.09009265787014689,
+              "median": -0.03470149253731336,
+              "win": 0.4411529223378703,
+              "p10": -0.298022086570228
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.002689031065238351,
+              "calibration": {
+                "n": 1129,
+                "items": 629,
+                "days": 137,
+                "mean": 0.07210043156537206,
+                "median": -0.045951211985186924,
+                "win": 0.41806908768821965,
+                "p10": -0.29915785052244165
+              }
+            }
+          },
+          "result": {
+            "n": 298,
+            "items": 298,
+            "days": 17,
+            "mean": -0.12520202469236175,
+            "median": -0.13044724816678605,
+            "win": 0.10738255033557047,
+            "p10": -0.3414151558680914
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场或板块修复",
+            "threshold": 65,
+            "objective": -0.04467580032698944,
+            "calibration": {
+              "n": 922,
+              "items": 593,
+              "days": 82,
+              "mean": 0.03357983153209071,
+              "median": -0.07561775716330271,
+              "win": 0.3633405639913232,
+              "p10": -0.3130225274363206
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.05214353730063154,
+              "calibration": {
+                "n": 1492,
+                "items": 644,
+                "days": 148,
+                "mean": 0.0011722596993750162,
+                "median": -0.0497657915386327,
+                "win": 0.353887399463807,
+                "p10": -0.21326318800002622
+              }
+            }
+          },
+          "result": {
+            "n": 61,
+            "items": 61,
+            "days": 7,
+            "mean": -0.16189490672365045,
+            "median": -0.15704056224307872,
+            "win": 0.03278688524590164,
+            "p10": -0.2936840189297415
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 14,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.05406436947193437,
+            "calibration": {
+              "n": 1088,
+              "items": 590,
+              "days": 64,
+              "mean": 0.00010381065143575821,
+              "median": -0.059733556877321514,
+              "win": 0.33088235294117646,
+              "p10": -0.2166727204934805
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.061772394558922604,
+              "calibration": {
+                "n": 1432,
+                "items": 644,
+                "days": 148,
+                "mean": -0.007785539501613217,
+                "median": -0.05784239533533608,
+                "win": 0.3254189944134078,
+                "p10": -0.21594742022923755
+              }
+            }
+          },
+          "result": {
+            "n": 201,
+            "items": 200,
+            "days": 12,
+            "mean": -0.14083743748617705,
+            "median": -0.1449648543765164,
+            "win": 0.03980099502487562,
+            "p10": -0.240975474568903
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 4410,
+        "items": 590,
+        "days": 473,
+        "mean": 0.028038701792757817,
+        "median": -0.021466463828877347,
+        "win": 0.4222222222222222,
+        "p10": -0.16981624342629933
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 2322,
+        "items": 702,
+        "days": 75,
+        "mean": -0.09402639127540673,
+        "median": -0.09818711073501063,
+        "win": 0.1339362618432386,
+        "p10": -0.2167690916316915
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 244,
+          "items": 223,
+          "days": 21,
+          "mean": -0.2207403394219031,
+          "median": -0.21537693440955868,
+          "win": 0.04918032786885246,
+          "p10": -0.40965412331468326
+        },
+        {
+          "band": "40–55",
+          "n": 735,
+          "items": 600,
+          "days": 24,
+          "mean": -0.17481347426596253,
+          "median": -0.1626062777843511,
+          "win": 0.03945578231292517,
+          "p10": -0.3529347922676367
+        },
+        {
+          "band": "55–65",
+          "n": 593,
+          "items": 502,
+          "days": 21,
+          "mean": -0.18585913073784188,
+          "median": -0.16666218622795115,
+          "win": 0.0387858347386172,
+          "p10": -0.3480038566749659
+        },
+        {
+          "band": "65–80",
+          "n": 251,
+          "items": 237,
+          "days": 19,
+          "mean": -0.20825226385738768,
+          "median": -0.20767062164546723,
+          "win": 0.02390438247011952,
+          "p10": -0.3450721043316425
+        },
+        {
+          "band": "80–100",
+          "n": 4,
+          "items": 4,
+          "days": 3,
+          "mean": -0.16180186754248357,
+          "median": -0.1552517307749975,
+          "win": 0.0,
+          "p10": -0.2310496304603718
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "I1",
+      "name": "偏左支撑试探",
+      "recipe": {
+        "H": 7,
+        "profile": "环境适配",
+        "gate": "市场修复",
+        "threshold": 65,
+        "objective": -0.065933062295194,
+        "calibration": {
+          "n": 40,
+          "items": 39,
+          "days": 15,
+          "mean": -0.03822233025926134,
+          "median": -0.04929773706878687,
+          "win": 0.25,
+          "p10": -0.11084292814373062
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 14,
+          "profile": "等权",
+          "gate": "不加环境对照",
+          "threshold": 55,
+          "objective": -0.06280046162524736,
+          "calibration": {
+            "n": 151,
+            "items": 133,
+            "days": 51,
+            "mean": -0.025818052875158946,
+            "median": -0.06124880072797034,
+            "win": 0.271523178807947,
+            "p10": -0.1479296350003536
+          }
+        }
+      },
+      "test": {
+        "n": 13,
+        "items": 13,
+        "days": 9,
+        "mean": -0.08875081653962137,
+        "median": -0.07827485424888914,
+        "win": 0.07692307692307693,
+        "p10": -0.17092557550674395
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-17",
+          "n": 3,
+          "items": 3,
+          "days": 3,
+          "mean": -0.059509495203228645,
+          "median": -0.035097106679716106,
+          "win": 0.3333333333333333,
+          "p10": -0.12407072730609245
+        },
+        {
+          "start": "2026-08-17",
+          "end": "2026-09-13",
+          "n": 8,
+          "items": 8,
+          "days": 4,
+          "mean": -0.09584978356424297,
+          "median": -0.09180932332525865,
+          "win": 0.0,
+          "p10": -0.16153000476719873
+        },
+        {
+          "start": "2026-09-13",
+          "end": "2026-10-11",
+          "n": 2,
+          "items": 2,
+          "days": 2,
+          "mean": -0.10421693044572405,
+          "median": -0.10421693044572405,
+          "win": 0.0,
+          "p10": -0.16117100842761312
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场或板块修复",
+            "threshold": 55,
+            "objective": 0.06252727898315921,
+            "calibration": {
+              "n": 49,
+              "items": 47,
+              "days": 20,
+              "mean": 0.1158882345651937,
+              "median": -0.022668725163571657,
+              "win": 0.46938775510204084,
+              "p10": -0.21344382232813797
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": 0.033496986391107306,
+              "calibration": {
+                "n": 76,
+                "items": 72,
+                "days": 28,
+                "mean": 0.08323871763394627,
+                "median": -0.021596390564477597,
+                "win": 0.4605263157894737,
+                "p10": -0.19896692497135587
+              }
+            }
+          },
+          "result": {
+            "n": 73,
+            "items": 73,
+            "days": 13,
+            "mean": -0.12072843922102053,
+            "median": -0.15436359086256735,
+            "win": 0.1232876712328767,
+            "p10": -0.2722499789379822
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 7,
+            "profile": "环境适配",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.065933062295194,
+            "calibration": {
+              "n": 40,
+              "items": 39,
+              "days": 15,
+              "mean": -0.03822233025926134,
+              "median": -0.04929773706878687,
+              "win": 0.25,
+              "p10": -0.11084292814373062
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": -0.062455878273307244,
+              "calibration": {
+                "n": 150,
+                "items": 132,
+                "days": 50,
+                "mean": -0.02541151410392385,
+                "median": -0.06055068737603281,
+                "win": 0.2733333333333333,
+                "p10": -0.1481774566775336
+              }
+            }
+          },
+          "result": {
+            "n": 3,
+            "items": 3,
+            "days": 3,
+            "mean": -0.059509495203228645,
+            "median": -0.035097106679716106,
+            "win": 0.3333333333333333,
+            "p10": -0.12407072730609245
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 7,
+            "profile": "环境适配",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.06982681091746126,
+            "calibration": {
+              "n": 38,
+              "items": 36,
+              "days": 15,
+              "mean": -0.03762951795417668,
+              "median": -0.04929773706878687,
+              "win": 0.3157894736842105,
+              "p10": -0.12878917185313832
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 55,
+              "objective": -0.06664237370984856,
+              "calibration": {
+                "n": 184,
+                "items": 156,
+                "days": 68,
+                "mean": -0.027605416493278846,
+                "median": -0.06355152365418221,
+                "win": 0.28804347826086957,
+                "p10": -0.15614782886627884
+              }
+            }
+          },
+          "result": {
+            "n": 8,
+            "items": 8,
+            "days": 4,
+            "mean": -0.09584978356424297,
+            "median": -0.09180932332525865,
+            "win": 0.0,
+            "p10": -0.16153000476719873
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 78,
+        "items": 67,
+        "days": 33,
+        "mean": 0.017063433313731273,
+        "median": -0.009165855010029367,
+        "win": 0.44871794871794873,
+        "p10": -0.09413775062495854
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 920,
+        "items": 425,
+        "days": 73,
+        "mean": -0.0826031100672274,
+        "median": -0.11946956495634692,
+        "win": 0.24565217391304348,
+        "p10": -0.24176696110355364
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 87,
+          "items": 78,
+          "days": 22,
+          "mean": -0.08086504119094122,
+          "median": -0.09405641694440403,
+          "win": 0.25287356321839083,
+          "p10": -0.20614950866171414
+        },
+        {
+          "band": "40–55",
+          "n": 691,
+          "items": 355,
+          "days": 29,
+          "mean": -0.0797037407109423,
+          "median": -0.0890687629334116,
+          "win": 0.1939218523878437,
+          "p10": -0.19287088653119933
+        },
+        {
+          "band": "55–65",
+          "n": 322,
+          "items": 234,
+          "days": 31,
+          "mean": -0.07456924516247898,
+          "median": -0.09312699823075654,
+          "win": 0.19254658385093168,
+          "p10": -0.16480637170057966
+        },
+        {
+          "band": "65–80",
+          "n": 13,
+          "items": 13,
+          "days": 9,
+          "mean": -0.08875081653962137,
+          "median": -0.07827485424888914,
+          "win": 0.07692307692307693,
+          "p10": -0.17092557550674395
+        },
+        {
+          "band": "80–100",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        }
+      ],
+      "score_monotonicity_observed": true
+    },
+    {
+      "id": "I2",
+      "name": "温和放量初启动",
+      "recipe": {
+        "H": 30,
+        "profile": "等权",
+        "gate": "市场修复",
+        "threshold": 65,
+        "objective": -0.01868373761611028,
+        "calibration": {
+          "n": 668,
+          "items": 495,
+          "days": 62,
+          "mean": 0.055114218285803415,
+          "median": -0.04535574481459681,
+          "win": 0.3997005988023952,
+          "p10": -0.2951918236076548
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 30,
+          "profile": "等权",
+          "gate": "不加环境对照",
+          "threshold": 65,
+          "objective": -0.04015201716832957,
+          "calibration": {
+            "n": 881,
+            "items": 566,
+            "days": 127,
+            "mean": 0.03339385785109168,
+            "median": -0.05272726497087721,
+            "win": 0.3813847900113507,
+            "p10": -0.294183500077685
+          }
+        }
+      },
+      "test": {
+        "n": 239,
+        "items": 220,
+        "days": 18,
+        "mean": -0.18116516126494947,
+        "median": -0.16557453859003435,
+        "win": 0.029288702928870293,
+        "p10": -0.3148422870099454
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-09",
+          "n": 66,
+          "items": 66,
+          "days": 6,
+          "mean": -0.15543236378685726,
+          "median": -0.14580061031828462,
+          "win": 0.045454545454545456,
+          "p10": -0.3037296100783408
+        },
+        {
+          "start": "2026-08-09",
+          "end": "2026-08-29",
+          "n": 47,
+          "items": 47,
+          "days": 7,
+          "mean": -0.1270280179135447,
+          "median": -0.10942306917258882,
+          "win": 0.0,
+          "p10": -0.2351675717184742
+        },
+        {
+          "start": "2026-08-29",
+          "end": "2026-09-18",
+          "n": 162,
+          "items": 162,
+          "days": 5,
+          "mean": -0.20310979775672242,
+          "median": -0.20809509937994752,
+          "win": 0.024691358024691357,
+          "p10": -0.32226639379783223
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": 0.005590699310960345,
+            "calibration": {
+              "n": 693,
+              "items": 522,
+              "days": 63,
+              "mean": 0.07730722111372933,
+              "median": -0.03399582939850765,
+              "win": 0.43001443001443,
+              "p10": -0.2868660872110759
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "环境适配",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.0038899123928231583,
+              "calibration": {
+                "n": 1350,
+                "items": 664,
+                "days": 144,
+                "mean": 0.06792396044771656,
+                "median": -0.04288367349494848,
+                "win": 0.43037037037037035,
+                "p10": -0.2872554913621589
+              }
+            }
+          },
+          "result": {
+            "n": 219,
+            "items": 219,
+            "days": 11,
+            "mean": -0.1299481105915225,
+            "median": -0.11248657340517243,
+            "win": 0.0730593607305936,
+            "p10": -0.3433803844128155
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.01868373761611028,
+            "calibration": {
+              "n": 668,
+              "items": 495,
+              "days": 62,
+              "mean": 0.055114218285803415,
+              "median": -0.04535574481459681,
+              "win": 0.3997005988023952,
+              "p10": -0.2951918236076548
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.037255423217280065,
+              "calibration": {
+                "n": 875,
+                "items": 565,
+                "days": 127,
+                "mean": 0.03628759141941819,
+                "median": -0.05198010543939002,
+                "win": 0.3862857142857143,
+                "p10": -0.294172058546793
+              }
+            }
+          },
+          "result": {
+            "n": 66,
+            "items": 66,
+            "days": 6,
+            "mean": -0.15543236378685726,
+            "median": -0.14580061031828462,
+            "win": 0.045454545454545456,
+            "p10": -0.3037296100783408
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 14,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.04158527232141361,
+            "calibration": {
+              "n": 853,
+              "items": 499,
+              "days": 60,
+              "mean": 0.008148322674233665,
+              "median": -0.0501186886993602,
+              "win": 0.3223915592028136,
+              "p10": -0.1989343799825891
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 7,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.05439003309839368,
+              "calibration": {
+                "n": 1486,
+                "items": 594,
+                "days": 154,
+                "mean": -0.020804637439435718,
+                "median": -0.04404554176226172,
+                "win": 0.2691790040376851,
+                "p10": -0.13434158263583185
+              }
+            }
+          },
+          "result": {
+            "n": 183,
+            "items": 180,
+            "days": 12,
+            "mean": -0.12465234456954853,
+            "median": -0.1156826426871852,
+            "win": 0.0273224043715847,
+            "p10": -0.22698724506454787
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 4273,
+        "items": 541,
+        "days": 387,
+        "mean": 0.022330730550006117,
+        "median": -0.015265518032804737,
+        "win": 0.4273344254622045,
+        "p10": -0.1377087509140177
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 1908,
+        "items": 673,
+        "days": 74,
+        "mean": -0.09322080098780104,
+        "median": -0.09245101963937646,
+        "win": 0.11215932914046121,
+        "p10": -0.2087333985544235
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 39,
+          "items": 39,
+          "days": 14,
+          "mean": -0.1963909828766815,
+          "median": -0.18306074418327523,
+          "win": 0.1282051282051282,
+          "p10": -0.4382261937410785
+        },
+        {
+          "band": "40–55",
+          "n": 626,
+          "items": 555,
+          "days": 19,
+          "mean": -0.16866150827658818,
+          "median": -0.1485374655975441,
+          "win": 0.02875399361022364,
+          "p10": -0.32816167449309963
+        },
+        {
+          "band": "55–65",
+          "n": 608,
+          "items": 495,
+          "days": 19,
+          "mean": -0.16174150803576032,
+          "median": -0.14252927733243514,
+          "win": 0.04111842105263158,
+          "p10": -0.3173789844412329
+        },
+        {
+          "band": "65–80",
+          "n": 236,
+          "items": 217,
+          "days": 18,
+          "mean": -0.18118066020209272,
+          "median": -0.1657925096374227,
+          "win": 0.029661016949152543,
+          "p10": -0.3167437986116817
+        },
+        {
+          "band": "80–100",
+          "n": 6,
+          "items": 6,
+          "days": 5,
+          "mean": -0.18743621986535483,
+          "median": -0.1931874176610639,
+          "win": 0.0,
+          "p10": -0.25542168924832154
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "I3",
+      "name": "强势缩量回踩",
+      "recipe": {
+        "H": 30,
+        "profile": "等权",
+        "gate": "市场修复",
+        "threshold": 65,
+        "objective": -0.040664175374183376,
+        "calibration": {
+          "n": 421,
+          "items": 337,
+          "days": 54,
+          "mean": 0.04242224633085076,
+          "median": -0.04595298903784406,
+          "win": 0.4180522565320665,
+          "p10": -0.33234568682013654
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 30,
+          "profile": "等权",
+          "gate": "不加环境对照",
+          "threshold": 65,
+          "objective": -0.049978230736207246,
+          "calibration": {
+            "n": 575,
+            "items": 423,
+            "days": 110,
+            "mean": 0.03190772018216541,
+            "median": -0.05362891425226801,
+            "win": 0.40695652173913044,
+            "p10": -0.3275438036734906
+          }
+        }
+      },
+      "test": {
+        "n": 136,
+        "items": 133,
+        "days": 19,
+        "mean": -0.20435891956050073,
+        "median": -0.21344645472976448,
+        "win": 0.022058823529411766,
+        "p10": -0.34508839893153076
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-09",
+          "n": 34,
+          "items": 34,
+          "days": 7,
+          "mean": -0.1700754042260535,
+          "median": -0.15351312413387685,
+          "win": 0.029411764705882353,
+          "p10": -0.30253755097347573
+        },
+        {
+          "start": "2026-08-09",
+          "end": "2026-08-29",
+          "n": 25,
+          "items": 25,
+          "days": 7,
+          "mean": -0.1538454888032732,
+          "median": -0.09865625433205494,
+          "win": 0.0,
+          "p10": -0.291727452827494
+        },
+        {
+          "start": "2026-08-29",
+          "end": "2026-09-18",
+          "n": 89,
+          "items": 89,
+          "days": 5,
+          "mean": -0.22840786681770545,
+          "median": -0.2435115975763813,
+          "win": 0.02247191011235955,
+          "p10": -0.361338707198125
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": 0.026116338427711272,
+            "calibration": {
+              "n": 466,
+              "items": 349,
+              "days": 60,
+              "mean": 0.10365964289695055,
+              "median": -0.010863328176192233,
+              "win": 0.49141630901287553,
+              "p10": -0.3101732178769571
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.016177342608423392,
+              "calibration": {
+                "n": 638,
+                "items": 442,
+                "days": 124,
+                "mean": 0.09120491112975151,
+                "median": -0.020115416700339728,
+                "win": 0.46865203761755486,
+                "p10": -0.3001102740853125
+              }
+            }
+          },
+          "result": {
+            "n": 177,
+            "items": 177,
+            "days": 11,
+            "mean": -0.14158901774776517,
+            "median": -0.10639982856187513,
+            "win": 0.06779661016949153,
+            "p10": -0.34157474796917237
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.040664175374183376,
+            "calibration": {
+              "n": 421,
+              "items": 337,
+              "days": 54,
+              "mean": 0.04242224633085076,
+              "median": -0.04595298903784406,
+              "win": 0.4180522565320665,
+              "p10": -0.33234568682013654
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.0446610885389991,
+              "calibration": {
+                "n": 568,
+                "items": 419,
+                "days": 109,
+                "mean": 0.03667217639804905,
+                "median": -0.052413374221685516,
+                "win": 0.4102112676056338,
+                "p10": -0.3253330597481926
+              }
+            }
+          },
+          "result": {
+            "n": 34,
+            "items": 34,
+            "days": 7,
+            "mean": -0.1700754042260535,
+            "median": -0.15351312413387685,
+            "win": 0.029411764705882353,
+            "p10": -0.30253755097347573
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 14,
+            "profile": "环境适配",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": -0.06308204690225488,
+            "calibration": {
+              "n": 731,
+              "items": 475,
+              "days": 58,
+              "mean": -0.006557825337664081,
+              "median": -0.06502500586074855,
+              "win": 0.28317373461012313,
+              "p10": -0.22609688625836322
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "环境适配",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": -0.0637833760926757,
+              "calibration": {
+                "n": 996,
+                "items": 559,
+                "days": 133,
+                "mean": -0.009104485192021422,
+                "median": -0.0652098676961746,
+                "win": 0.29116465863453816,
+                "p10": -0.21871556360261712
+              }
+            }
+          },
+          "result": {
+            "n": 182,
+            "items": 177,
+            "days": 12,
+            "mean": -0.13105979710741444,
+            "median": -0.11952286178117272,
+            "win": 0.04395604395604396,
+            "p10": -0.24562732107052532
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 2369,
+        "items": 486,
+        "days": 306,
+        "mean": -0.0066476425713900035,
+        "median": -0.030313772048846443,
+        "win": 0.37906289573659774,
+        "p10": -0.16024283175956938
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 703,
+        "items": 503,
+        "days": 69,
+        "mean": -0.1044631764714081,
+        "median": -0.10135305614783219,
+        "win": 0.09388335704125178,
+        "p10": -0.22920377964919536
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 10,
+          "items": 10,
+          "days": 5,
+          "mean": -0.30011138766806295,
+          "median": -0.3257293129356077,
+          "win": 0.0,
+          "p10": -0.48440853347208485
+        },
+        {
+          "band": "40–55",
+          "n": 185,
+          "items": 184,
+          "days": 18,
+          "mean": -0.2450450028499542,
+          "median": -0.24015194504251358,
+          "win": 0.032432432432432434,
+          "p10": -0.4276319442947293
+        },
+        {
+          "band": "55–65",
+          "n": 250,
+          "items": 243,
+          "days": 18,
+          "mean": -0.18453668345243834,
+          "median": -0.15734131955566094,
+          "win": 0.044,
+          "p10": -0.3718707650264022
+        },
+        {
+          "band": "65–80",
+          "n": 131,
+          "items": 128,
+          "days": 19,
+          "mean": -0.20546771997693986,
+          "median": -0.21463612388931075,
+          "win": 0.022900763358778626,
+          "p10": -0.3470039508340649
+        },
+        {
+          "band": "80–100",
+          "n": 5,
+          "items": 5,
+          "days": 4,
+          "mean": -0.17530834864979666,
+          "median": -0.15704056224307872,
+          "win": 0.0,
+          "p10": -0.24939439076371808
+        }
+      ],
+      "score_monotonicity_observed": false
+    },
+    {
+      "id": "I4",
+      "name": "过程结构再启动",
+      "recipe": {
+        "H": 30,
+        "profile": "等权",
+        "gate": "市场修复",
+        "threshold": 65,
+        "objective": 0.030985823541906626,
+        "calibration": {
+          "n": 49,
+          "items": 49,
+          "days": 20,
+          "mean": 0.06629149505196122,
+          "median": 0.04482410452759633,
+          "win": 0.5510204081632653,
+          "p10": -0.14122268604021837
+        },
+        "selection_role": "有环境的候选",
+        "ungated_calibration_control": {
+          "H": 30,
+          "profile": "等权",
+          "gate": "不加环境对照",
+          "threshold": 65,
+          "objective": 0.011079105346953236,
+          "calibration": {
+            "n": 72,
+            "items": 71,
+            "days": 37,
+            "mean": 0.05182414715689611,
+            "median": -0.013509056524583452,
+            "win": 0.4722222222222222,
+            "p10": -0.1629801672397715
+          }
+        }
+      },
+      "test": {
+        "n": 12,
+        "items": 12,
+        "days": 7,
+        "mean": -0.14456637479388978,
+        "median": -0.083156794868748,
+        "win": 0.08333333333333333,
+        "p10": -0.34379748299467117
+      },
+      "frozen_windows": [
+        {
+          "start": "2026-07-21",
+          "end": "2026-08-09",
+          "n": 3,
+          "items": 3,
+          "days": 2,
+          "mean": -0.04964633255089953,
+          "median": -0.07393620606644191,
+          "win": 0.3333333333333333,
+          "p10": -0.0780296776796054
+        },
+        {
+          "start": "2026-08-09",
+          "end": "2026-08-29",
+          "n": 3,
+          "items": 3,
+          "days": 3,
+          "mean": -0.07597547820135737,
+          "median": -0.07981559192169696,
+          "win": 0.0,
+          "p10": -0.08516151663697862
+        },
+        {
+          "start": "2026-08-29",
+          "end": "2026-09-18",
+          "n": 6,
+          "items": 6,
+          "days": 2,
+          "mean": -0.2263218442116511,
+          "median": -0.22459064331629802,
+          "win": 0.0,
+          "p10": -0.3641577524854802
+        }
+      ],
+      "rolling_windows": [
+        {
+          "start": "2026-06-20",
+          "end": "2026-07-20",
+          "recipe": {
+            "H": 14,
+            "profile": "环境适配",
+            "gate": "市场修复",
+            "threshold": 55,
+            "objective": 0.030277820690362132,
+            "calibration": {
+              "n": 95,
+              "items": 82,
+              "days": 32,
+              "mean": 0.06030216946145683,
+              "median": -0.011420877711323163,
+              "win": 0.47368421052631576,
+              "p10": -0.12009739508437878
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.0001354596991119672,
+              "calibration": {
+                "n": 90,
+                "items": 79,
+                "days": 48,
+                "mean": 0.030638209267508782,
+                "median": -0.02031496115970216,
+                "win": 0.4444444444444444,
+                "p10": -0.12201099827358726
+              }
+            }
+          },
+          "result": {
+            "n": 26,
+            "items": 25,
+            "days": 9,
+            "mean": -0.055415436004729646,
+            "median": -0.05304571525648066,
+            "win": 0.0,
+            "p10": -0.07873717629299964
+          }
+        },
+        {
+          "start": "2026-07-20",
+          "end": "2026-08-19",
+          "recipe": {
+            "H": 30,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 65,
+            "objective": 0.030985823541906626,
+            "calibration": {
+              "n": 49,
+              "items": 49,
+              "days": 20,
+              "mean": 0.06629149505196122,
+              "median": 0.04482410452759633,
+              "win": 0.5510204081632653,
+              "p10": -0.14122268604021837
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 30,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.010285001820115741,
+              "calibration": {
+                "n": 73,
+                "items": 72,
+                "days": 38,
+                "mean": 0.050682971383418735,
+                "median": -0.015187682996500307,
+                "win": 0.4657534246575342,
+                "p10": -0.16159187825321197
+              }
+            }
+          },
+          "result": {
+            "n": 3,
+            "items": 3,
+            "days": 2,
+            "mean": -0.04964633255089953,
+            "median": -0.07393620606644191,
+            "win": 0.3333333333333333,
+            "p10": -0.0780296776796054
+          }
+        },
+        {
+          "start": "2026-08-19",
+          "end": "2026-09-18",
+          "recipe": {
+            "H": 14,
+            "profile": "等权",
+            "gate": "市场修复",
+            "threshold": 55,
+            "objective": 0.04217928542023383,
+            "calibration": {
+              "n": 78,
+              "items": 72,
+              "days": 27,
+              "mean": 0.06601183742159862,
+              "median": -0.03162370090734212,
+              "win": 0.3974358974358974,
+              "p10": -0.09533020800545917
+            },
+            "selection_role": "有环境的候选",
+            "ungated_calibration_control": {
+              "H": 14,
+              "profile": "等权",
+              "gate": "不加环境对照",
+              "threshold": 65,
+              "objective": 0.0073095417384797245,
+              "calibration": {
+                "n": 81,
+                "items": 74,
+                "days": 41,
+                "mean": 0.034946135555110835,
+                "median": -0.03537981040742233,
+                "win": 0.35802469135802467,
+                "p10": -0.11054637526652444
+              }
+            }
+          },
+          "result": {
+            "n": 15,
+            "items": 15,
+            "days": 5,
+            "mean": -0.09813058079210765,
+            "median": -0.07354887149617761,
+            "win": 0.13333333333333333,
+            "p10": -0.19486792436910963
+          }
+        }
+      ],
+      "qualified": false,
+      "status": "未通过买入验证",
+      "development": {
+        "n": 1196,
+        "items": 385,
+        "days": 287,
+        "mean": 0.021185973141113767,
+        "median": -0.0064669524955688895,
+        "win": 0.47157190635451507,
+        "p10": -0.1269537967565431
+      },
+      "raw_entry_control": {
+        "H": 14,
+        "n": 66,
+        "items": 64,
+        "days": 27,
+        "mean": -0.09520485419465721,
+        "median": -0.08759587648879785,
+        "win": 0.030303030303030304,
+        "p10": -0.15897091701452565
+      },
+      "score_bands": [
+        {
+          "band": "0–40",
+          "n": 0,
+          "items": 0,
+          "days": 0,
+          "mean": null,
+          "median": null,
+          "win": null,
+          "p10": null
+        },
+        {
+          "band": "40–55",
+          "n": 1,
+          "items": 1,
+          "days": 1,
+          "mean": -0.14250132585801945,
+          "median": -0.14250132585801945,
+          "win": 0.0,
+          "p10": -0.14250132585801945
+        },
+        {
+          "band": "55–65",
+          "n": 7,
+          "items": 7,
+          "days": 4,
+          "mean": -0.18564231427956948,
+          "median": -0.1616095846584794,
+          "win": 0.0,
+          "p10": -0.30169285900812215
+        },
+        {
+          "band": "65–80",
+          "n": 10,
+          "items": 10,
+          "days": 6,
+          "mean": -0.15073973921533193,
+          "median": -0.083156794868748,
+          "win": 0.1,
+          "p10": -0.35488173646048293
+        },
+        {
+          "band": "80–100",
+          "n": 2,
+          "items": 2,
+          "days": 2,
+          "mean": -0.11369955268667908,
+          "median": -0.11369955268667908,
+          "win": 0.0,
+          "p10": -0.14551022998286883
+        }
+      ],
+      "score_monotonicity_observed": false
+    }
+  ],
+  "qualified_systems": [],
+  "daily_allowed_rows": 0,
+  "original_rule_status": {
+    "S1": "probation",
+    "M3": "probation",
+    "M4": "probation",
+    "L1": "probation",
+    "L3": "probation"
+  },
+  "limitations": [
+    "原版规则条件在Firepulse研究池重算，未沿用SteamDT历史收益、旧模型或官方指数；历史规则含已看过验证段的人为经验，并非全新盲测",
+    "权重与门控候选为先验设计，参数只用各验证开始前成熟标签挑选；多方案筛选仍有过拟合风险，需新增数据前瞻验证",
+    "板块为武器/手套家族或原版枪械/手套/探员大类代理，含当前商品；非官方板块、收藏品系列或会员群体，稀疏组回退大类",
+    "承接、建仓、会员档位及成本只有日K代理，没有真实会员身份、历史求购或在售盘口真值",
+    "悠悠价格、全平台成交量分别使用；缺日仅在原版技术指标中向前延续，不用于买卖标签或模拟结算",
+    "每个入场方案内部同商品按H+2自然日去重，跨方案为独立对照；无资金分配、账户收益或保证成交，固定持有期可能违反实际平台限制",
+    "手续费2.5%、双边各0.5%滑点；次日收盘代理买入，H日后收盘代理退出；7/14/30日均为研究方案",
+    "原版S1/M3/M4/L1仍保持probation，L3因价格≤20元与本池≥30元冲突而不参与，未自动复活旧规则",
+    "高分仅表示公式证据齐；必须同时通过入场、环境、阈值、历史资格和分组单调性检验才给前瞻模拟候选；不宣称成功概率",
+    "Whale仅辅助；固定研究池、历史修订和相关样本导致的偏差仍然存在"
+  ]
+}
