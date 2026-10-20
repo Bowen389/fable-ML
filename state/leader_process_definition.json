@@ -1,7 +1,6 @@
 {
   "version": "leader-process-v3",
-  "status": "research_definition_only",
-  "replaces_primary_target": "box_breakout_winners",
+  "status": "implemented_research_scores_not_validated_for_buying",
   "stages": [
     "early_accumulation_proxy",
     "second_wave_participation_proxy",
@@ -14,5 +13,7 @@
   "global_positive_market_7d_required": false,
   "volume_basis": "all_platform_proxy",
   "whale_role": "auxiliary",
-  "implementation": "not_yet_backtested"
+  "implementation": "process_score.py",
+  "daily_workflow": ".github/workflows/process-score.yml",
+  "buy_system_validated": false
 }
