@@ -1,0 +1,41 @@
+name: buy-parameter-research
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - research_buy_params.py
+      - .github/workflows/buy-parameter-research.yml
+permissions:
+  contents: write
+concurrency:
+  group: cs2-scanner
+  cancel-in-progress: false
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install numpy==2.3.5 pandas==2.2.3
+      - name: Evaluate frozen grid without changing live parameters
+        run: python -u research_buy_params.py
+      - name: Save research
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/buy_parameter_research.md output/buy_parameter_research.csv output/buy_parameter_research.json
+          if ! git diff --cached --quiet; then
+            git commit -m "research: refresh chronological buy parameter evaluation"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: buy-parameter-research
+          path: output/buy_parameter_research.*
+          retention-days: 30
