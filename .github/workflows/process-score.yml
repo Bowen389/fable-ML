@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - 'process_score.py'
+      - 'multifactor_research.py'
       - 'publish_process_scores.py'
       - '.github/workflows/process-score.yml'
 permissions:
@@ -49,6 +50,10 @@ jobs:
           if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
       - name: Refresh completed bars and evaluate scores
         run: python -u process_score.py
+      - name: Check historical scores cannot see future data
+        run: python verify_multifactor_causality.py
+      - name: Compare regime-conditioned multifactor entry methods
+        run: python -u multifactor_research.py
       - name: Publish daily scores and immutable dated snapshot
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -62,6 +67,8 @@ jobs:
             output/process_rank_model.joblib
             output/process_return_model.joblib
             output/daily_process_scores.csv
+            output/multifactor_*
+            output/daily_multifactor_scores.csv
             research_cache
           retention-days: 30
       - uses: actions/cache/save@v4

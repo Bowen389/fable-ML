@@ -18,6 +18,8 @@ def main():
     manifest=json.loads((ROOT/'output/process_score_validation.json').read_text())
     asof=manifest['asof'];version=manifest['version']
     paths=['output/process_score_report.md','output/process_score_validation.json','output/daily_process_scores.csv']
+    extra=['output/multifactor_report.md','output/multifactor_validation.json','output/daily_multifactor_scores.csv','output/multifactor_sector_snapshot.csv']
+    paths += [p for p in extra if (ROOT/p).exists()]
     entries=[{'path':p,'mode':'100644','type':'blob','content':(ROOT/p).read_text(encoding='utf-8-sig')} for p in paths]
     # Immutable first score snapshot for each data day and algorithm version; latest reports may be refreshed.
     snapshot=f'output/history/process_scores_{asof}_{version}.csv'
@@ -29,6 +31,13 @@ def main():
             except urllib.error.HTTPError as exc:
                 if exc.code!=404:raise
                 current.append({'path':snapshot,'mode':'100644','type':'blob','content':entries[2]['content']})
+            if (ROOT/'output/multifactor_validation.json').exists():
+                multi=json.loads((ROOT/'output/multifactor_validation.json').read_text())
+                multi_snapshot=f'output/history/multifactor_scores_{multi["asof"]}_{multi["version"]}.csv'
+                try:api('/contents/'+multi_snapshot)
+                except urllib.error.HTTPError as exc:
+                    if exc.code!=404:raise
+                    current.append({'path':multi_snapshot,'mode':'100644','type':'blob','content':(ROOT/'output/daily_multifactor_scores.csv').read_text(encoding='utf-8-sig')})
             newtree=api('/git/trees',{'base_tree':tree,'tree':current})['sha']
             commit=api('/git/commits',{'message':f'Daily process evidence scores {asof} (research only)','tree':newtree,'parents':[head]})['sha']
             api('/git/refs/heads/main',{'sha':commit,'force':False},method='PATCH')
