@@ -1,11 +1,6 @@
 name: leader-stage-research
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - leader_research.py
-      - firepulse_universe.json
-      - .github/workflows/leader-research.yml
 permissions:
   contents: write
 concurrency:
@@ -33,7 +28,12 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "research: publish leader-stage report and candidates"
             git pull --rebase origin main
-            git push origin HEAD:main
+            for attempt in 1 2 3; do
+              if git -c http.version=HTTP/1.1 push origin HEAD:main; then exit 0; fi
+              sleep 5
+              git pull --rebase origin main
+            done
+            exit 1
           fi
       - name: Upload research and raw evidence
         if: always()

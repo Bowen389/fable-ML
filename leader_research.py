@@ -75,16 +75,21 @@ def features(frame):
         g=part.reindex(pd.date_range(part.index.min(),part.index.max()))
         c,o,h,l,v=(g[k] for k in ['close','open','high','low','volume'])
         valid=c.notna()
-        g['eligible']=(valid.cumsum()>=300)&(valid.rolling(90).sum()==90)&(c>=30)
-        g['ma20']=c.rolling(20).mean();g['ma60']=c.rolling(60).mean()
+        g['eligible']=(valid.cumsum()>=300)&valid&(valid.rolling(90).sum()>=80)&(valid.rolling(20).sum()>=18)&(c>=30)
+        g['ma20']=c.rolling(20,min_periods=18).mean();g['ma60']=c.rolling(60,min_periods=54).mean()
         for days in (1,3,7,14,20):g['r'+str(days)]=c/c.shift(days)-1
         g['break20']=c>h.shift().rolling(20).max()
         g['break5']=c>h.shift().rolling(5).max()
         g['near_high']=c/h.shift().rolling(20).max()-1
         g['base_gap']=c/c.shift().rolling(20).median()-1
-        g['rv']=v.rolling(3).mean()/v.shift(3).rolling(30).median().replace(0,np.nan)
+        observed_v=v.dropna()
+        observed_rv=observed_v.rolling(3).mean()/observed_v.shift(3).rolling(30).median().replace(0,np.nan)
+        g['rv']=observed_rv.reindex(g.index)
         g['pull_vol']=v.shift().rolling(3).mean()/v.shift(4).rolling(20).median().replace(0,np.nan)
-        g['volume_ok']=v.rolling(33).count().eq(33)&(v>0)&(v.shift(3).rolling(30).median()>0)
+        observed_dates=pd.Series(observed_v.index,index=observed_v.index)
+        span=(observed_dates-observed_dates.shift(32)).dt.days
+        volume_ok=(span<=45)&observed_rv.notna()&(observed_v>0)
+        g['volume_ok']=volume_ok.reindex(g.index,fill_value=False)
         g['up_close']=(c-l)/(h-l).replace(0,np.nan)
         g['rebound']=(c>h.shift())&(g.r1>0)
         g['ma_up']=g.ma20>g.ma20.shift(5)
@@ -132,9 +137,9 @@ def rows_for(d,mask,H):
     keep=[]
     for name,g in selected.groupby('name',sort=False):
         next_day=pd.Timestamp.min
-        for row in g.itertuples():
-            if row.date>=next_day:
-                keep.append(row.Index);next_day=row.date+pd.Timedelta(days=H+2)
+        for idx,day in g.date.items():
+            if day>=next_day:
+                keep.append(idx);next_day=day+pd.Timedelta(days=H+2)
     return d.loc[keep].assign(net=d.loc[keep,'net'+str(H)],exit_date=lambda x:x.date+pd.Timedelta(days=H+1))
 
 
@@ -200,10 +205,12 @@ def main():
         row['research_qualified']=any(r['rule']==row['rule'] and r['status']=='可列入前瞻模拟候选' for r in results)
     pd.concat(all_events,ignore_index=True).to_csv(out/'leader_signal_samples.csv.gz',index=False,compression='gzip')
     pd.DataFrame(candidates).to_csv(out/'leader_current_candidates.csv',index=False,encoding='utf-8-sig')
-    result={'version':'leader-stage-v1','asof':str(latest.date()),'split':str(split.date()),'complete_universe':complete,
+    result={'version':'leader-stage-v2-gap-aware','asof':str(latest.date()),'split':str(split.date()),'complete_universe':complete,
             'source_platform':'youpin','volume_basis':'all-platform proxy','systems':results,'current_candidates':candidates,
             'entry':'次日实际日K收盘价代理','exit':'入场后7/14/30自然日收盘价代理','fee':.025,'slippage_each_side':.005,
             'minimum_history':300,'notes':['固定8个方案×3个持有期；不根据留出段最高收益自动改线上规则',
+            '修正覆盖检查：累计300根有效K，最近90日>=80根且20日>=18根；不再用连续90日无缺失排除整个历史行情',
+            '相对量为最近3条有效量/此前30条有效量中位数，33条观察跨度<=45自然日；不补零，不冒充连续日成交量',
             '最近90日留出验证；另外展示三个90日窗口，结果不是永久独立测试',
             '每规则每商品不重叠；跨商品仍相关，不是账户回测或独立样本',
             'T1为当日可评估池中未来7日净收益前30且为正；T0为其后7日净收益也前30且为正，仅用于事后标签',

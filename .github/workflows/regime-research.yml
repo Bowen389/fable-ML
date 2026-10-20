@@ -1,0 +1,39 @@
+name: bear-regime-research
+on:
+  workflow_dispatch:
+    inputs:
+      source_run:
+        description: '保留Firepulse原始缓存的研究运行ID'
+        required: true
+        default: '39435460636'
+permissions:
+  contents: read
+  actions: read
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: leader-stage-research
+          run-id: ${{ inputs.source_run }}
+          github-token: ${{ github.token }}
+          path: .
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install numpy==2.3.5 pandas==2.2.3
+      - name: Reuse raw evidence and evaluate market states
+        run: |
+          python -u regime_research.py
+          cat output/regime_research.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bear-regime-research
+          path: |
+            output/regime_*
+            output/market_regime_history.csv
+            output/leader_case_breakouts.csv
+          retention-days: 30
