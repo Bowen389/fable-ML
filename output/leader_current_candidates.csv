@@ -1,4 +1,4 @@
-﻿rule,name,cn,id,date,close,relative_volume,rs_percentile,base_price_gap,market_breadth,note,research_qualified
+rule,name,cn,id,date,close,relative_volume,rs_percentile,base_price_gap,market_breadth,note,research_qualified
 B0_原买点并集,AK-47 | Legion of Anubis (Factory New),AK-47 | 阿努比斯军团 (崭新出厂),2161121618102961906,2026-10-19,302.98,0.7711442786069651,0.17706821480406387,-0.07768645357686443,0.19013062409288825,形态候选；非当前可成交报价；成本差为过去20日价格中位代理，不是真实会员成本,False
 B0_原买点并集,AK-47 | Orbit Mk01 (Factory New),AK-47 | 轨道 Mk01 (崭新出厂),1886874102147458675,2026-10-19,501.0,0.7898550724637682,0.8519593613933236,-0.053377420878601756,0.19013062409288825,形态候选；非当前可成交报价；成本差为过去20日价格中位代理，不是真实会员成本,False
 B0_原买点并集,AK-47 | Slate (Factory New),AK-47 | 墨岩 (崭新出厂),1255874073641658994,2026-10-19,83.0,1.0142450142450143,0.6211901306240929,-0.026963657678780728,0.19013062409288825,形态候选；非当前可成交报价；成本差为过去20日价格中位代理，不是真实会员成本,False
