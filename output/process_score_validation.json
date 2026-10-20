@@ -1,0 +1,538 @@
+{
+  "version": "leader-process-score-v1",
+  "asof": "2026-10-19",
+  "generated_at": "2026-10-20T22:49:13.857734+08:00",
+  "source": "Firepulse public interface",
+  "price_basis": "youpin daily OHLC",
+  "volume_basis": "all-platform proxy",
+  "items_requested": 773,
+  "items_loaded": 716,
+  "failures": [
+    {
+      "name": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Pillow Punchers (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Violet Beadwork (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Lime Polycam (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Blackbook (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Occult (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Big Swell (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Pillow Punchers (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Frosty (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Sunburst (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AK-47 | Aphrodite (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Red Racer (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | Queen's Gambit (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Big Swell (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Garden (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "Glock-18 | Fully Tuned (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Wave Chaser (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Sunburst (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A4 | Falak (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Red Racer (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Brocade Flowers (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Blaze (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Hand Sweaters (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Creme Pinstripe (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Driver Gloves | Seigaiha (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "Desert Eagle | Eastern Enigma (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AK-47 | Crane Flight (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | The End (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A1-S | Party Animal (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | Black Box (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "P250 | Kintsugi (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "P90 | Deathgaze (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AUG | Lapis Lazuli (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "P250 | Lotus Imprint (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "CZ75-Auto | Hydraulics (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "SG 553 | Barricade (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AK-47 | Breakthrough (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "AWP | Exothermic (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "USP-S | Sleeping Potion (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A4 | Dark Operative (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "Glock-18 | Trace Lock (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "M4A1-S | Electrum (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "Tec-9 | Sultan (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    }
+  ],
+  "feature_columns": [
+    "r1",
+    "r3",
+    "r7",
+    "r14",
+    "r20",
+    "rv",
+    "base_gap",
+    "rs7",
+    "rs_rank",
+    "family_rank",
+    "breadth",
+    "mkt7",
+    "up_close",
+    "early_range40",
+    "early_drift40",
+    "second_wave_return",
+    "second_wave_volume",
+    "wash_drawdown",
+    "wash_volume_ratio",
+    "volume_cv7",
+    "volume_max_share7",
+    "volume_rising_days7",
+    "volume_acceleration",
+    "early_cost_gap",
+    "price_efficiency7",
+    "support_recovery"
+  ],
+  "metrics": {
+    "status": "未验证为买入系统",
+    "predictive_rank_validated": true,
+    "buy_validated": false,
+    "train_n": 27556,
+    "cal_n": 95159,
+    "test_n": 38359,
+    "train_maturity_cutoff": "2026-01-22",
+    "cal_maturity_cutoff": "2026-07-21",
+    "trials": [
+      {
+        "leaves": 7,
+        "cal_average_precision": 0.293320892394373,
+        "cal_top": {
+          "n": 9605,
+          "days": 149,
+          "items": 503,
+          "hit_rate": 0.3327433628318584,
+          "barrier_mean_net": 5.292419748179322e-06,
+          "fixed30_mean_net": 0.06601223778246985
+        }
+      },
+      {
+        "leaves": 15,
+        "cal_average_precision": 0.29769302776711354,
+        "cal_top": {
+          "n": 9604,
+          "days": 149,
+          "items": 566,
+          "hit_rate": 0.32122032486463975,
+          "barrier_mean_net": -0.005798072532898539,
+          "fixed30_mean_net": 0.05497796581175032
+        }
+      },
+      {
+        "leaves": 31,
+        "cal_average_precision": 0.3004393909647266,
+        "cal_top": {
+          "n": 9604,
+          "days": 149,
+          "items": 608,
+          "hit_rate": 0.3163265306122449,
+          "barrier_mean_net": -0.006545312099824615,
+          "fixed30_mean_net": 0.05546061423308978
+        }
+      }
+    ],
+    "selected_leaves": 31,
+    "test_base": {
+      "n": 38359,
+      "days": 59,
+      "items": 714,
+      "hit_rate": 0.03959957246017884,
+      "barrier_mean_net": -0.10130449829829766,
+      "fixed30_mean_net": -0.1604131293833269
+    },
+    "test_top_decile": {
+      "n": 3867,
+      "days": 59,
+      "items": 415,
+      "hit_rate": 0.0682699767261443,
+      "barrier_mean_net": -0.11615787191298688,
+      "fixed30_mean_net": -0.23576729719969297
+    },
+    "test_lift": 1.7240079244490907,
+    "daily_block_lift_difference_ci95": [
+      0.01149998318693063,
+      0.05062628146961656
+    ],
+    "test_brier": 0.05347066801464493,
+    "return_model": {
+      "selected_leaves": 7,
+      "trials": [
+        {
+          "leaves": 7,
+          "cal_top": {
+            "n": 9602,
+            "days": 149,
+            "items": 627,
+            "hit_rate": 0.315559258487815,
+            "barrier_mean_net": -0.00404680534833807,
+            "fixed30_mean_net": 0.06052294659570155
+          }
+        },
+        {
+          "leaves": 15,
+          "cal_top": {
+            "n": 9604,
+            "days": 149,
+            "items": 634,
+            "hit_rate": 0.2967513536026656,
+            "barrier_mean_net": -0.013534888389507579,
+            "fixed30_mean_net": 0.0379479834155044
+          }
+        },
+        {
+          "leaves": 31,
+          "cal_top": {
+            "n": 9603,
+            "days": 149,
+            "items": 641,
+            "hit_rate": 0.2959491825471207,
+            "barrier_mean_net": -0.013258415879768346,
+            "fixed30_mean_net": 0.04047982076408871
+          }
+        }
+      ],
+      "test_top_decile": {
+        "n": 3867,
+        "days": 59,
+        "items": 388,
+        "hit_rate": 0.07680372381691233,
+        "barrier_mean_net": -0.11484316974759558,
+        "fixed30_mean_net": -0.2336079807852841
+      },
+      "buy_validated": false
+    },
+    "frozen_model_three_windows": [
+      {
+        "start": "2026-07-22",
+        "end": "2026-08-10",
+        "base": {
+          "n": 13063,
+          "days": 20,
+          "items": 708,
+          "hit_rate": 0.0244201178902243,
+          "barrier_mean_net": -0.11534806420866693,
+          "fixed30_mean_net": -0.12078830688373009
+        },
+        "rise_top": {
+          "n": 1317,
+          "days": 20,
+          "items": 298,
+          "hit_rate": 0.04100227790432802,
+          "barrier_mean_net": -0.1395994561206285,
+          "fixed30_mean_net": -0.1795031962032065
+        },
+        "return_top": {
+          "n": 1317,
+          "days": 20,
+          "items": 240,
+          "hit_rate": 0.037965072133637055,
+          "barrier_mean_net": -0.14944937003255618,
+          "fixed30_mean_net": -0.19056789326355206
+        }
+      },
+      {
+        "start": "2026-08-11",
+        "end": "2026-08-30",
+        "base": {
+          "n": 12957,
+          "days": 20,
+          "items": 707,
+          "hit_rate": 0.08520490854364436,
+          "barrier_mean_net": -0.06772241826765653,
+          "fixed30_mean_net": -0.13207684631714922
+        },
+        "rise_top": {
+          "n": 1307,
+          "days": 20,
+          "items": 255,
+          "hit_rate": 0.14843152257077277,
+          "barrier_mean_net": -0.06453611291903762,
+          "fixed30_mean_net": -0.22589142448744196
+        },
+        "return_top": {
+          "n": 1307,
+          "days": 20,
+          "items": 271,
+          "hit_rate": 0.1729150726855394,
+          "barrier_mean_net": -0.0593449653407837,
+          "fixed30_mean_net": -0.22574088671793677
+        }
+      },
+      {
+        "start": "2026-08-31",
+        "end": "2026-09-18",
+        "base": {
+          "n": 12339,
+          "days": 19,
+          "items": 707,
+          "hit_rate": 0.007780209093119377,
+          "barrier_mean_net": -0.12170095744975751,
+          "fixed30_mean_net": -0.23211847633208268
+        },
+        "rise_top": {
+          "n": 1243,
+          "days": 19,
+          "items": 275,
+          "hit_rate": 0.012872083668543845,
+          "barrier_mean_net": -0.14560040819909123,
+          "fixed30_mean_net": -0.30576535564481344
+        },
+        "return_top": {
+          "n": 1243,
+          "days": 19,
+          "items": 301,
+          "hit_rate": 0.016894609814963796,
+          "barrier_mean_net": -0.136532459678738,
+          "fixed30_mean_net": -0.2874825481321418
+        }
+      }
+    ]
+  },
+  "evidence_score_bands": [
+    {
+      "band": "0–20",
+      "n": 16127,
+      "days": 59,
+      "items": 662,
+      "hit_rate": 0.05841135983133875,
+      "barrier_mean_net": -0.10116897497286911,
+      "fixed30_mean_net": -0.17955460725319894
+    },
+    {
+      "band": "20–40",
+      "n": 16711,
+      "days": 59,
+      "items": 691,
+      "hit_rate": 0.03165579558374723,
+      "barrier_mean_net": -0.10181686450194101,
+      "fixed30_mean_net": -0.14933696560063747
+    },
+    {
+      "band": "40–60",
+      "n": 5371,
+      "days": 59,
+      "items": 481,
+      "hit_rate": 0.008564513126047292,
+      "barrier_mean_net": -0.10076646460678733,
+      "fixed30_mean_net": -0.13863825267920385
+    },
+    {
+      "band": "60–80",
+      "n": 150,
+      "days": 44,
+      "items": 54,
+      "hit_rate": 0.013333333333333334,
+      "barrier_mean_net": -0.07805924494632495,
+      "fixed30_mean_net": -0.11609327700294308
+    },
+    {
+      "band": "80–100",
+      "n": 0,
+      "days": 0,
+      "items": 0,
+      "hit_rate": null,
+      "barrier_mean_net": null,
+      "fixed30_mean_net": null
+    }
+  ],
+  "daily_rows": 643,
+  "historical_rows": 921700,
+  "earliest_price_date": "2023-01-18",
+  "expected_completed_date": "2026-10-19",
+  "data_stale": false,
+  "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
+  "limitations": [
+    "六项证据权重为先验设计，尚未因果识别真实建仓或会员档位；阶段窗口部分重叠，并非已验证的严格建仓时序",
+    "全池样本按商品日计数，信号与持仓可能重叠，不是独立交易数或组合收益",
+    "最近90日仅59个信号日具备完整31日结果，其余日期只能前瞻观察；三个子窗口为冻结模型诊断，非滚动重训",
+    "模型只在校准段选参数，随后一次留出验证；重跑任务会重复查看历史留出段，仍需前瞻观察",
+    "七日分块自助法处理部分时间相关性，仍不构成独立市场事件或账户回测",
+    "固定白名单及历史修订可能带来存活偏差，不掌握真实会员身份或建仓成本",
+    "手续费2.5%、双边各0.5%滑点；最早第7日退出是研究假设，未模拟平台全部限制或真实成交",
+    "当前证据分并未呈现大涨率随分数单调上升，不能解释为买入优先级；高模型分也可能高风险",
+    "分数不等于大涨概率；模型未通过买入资格时只输出待验证证据分，不宣称越高越赚钱",
+    "Whale仅辅助；本轮缺乏求购和在售的完整历史，不倒填、不伪造这些证据",
+    "日K收盘是历史价格代理，当前买入还需核对实时在售价与求购承接"
+  ]
+}
