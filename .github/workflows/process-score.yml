@@ -1,0 +1,71 @@
+name: Daily leader process scores
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 2 * * *'
+  push:
+    paths:
+      - 'process_score.py'
+      - 'publish_process_scores.py'
+      - '.github/workflows/process-score.yml'
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: daily-process-score
+  cancel-in-progress: false
+jobs:
+  process-score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      OMP_NUM_THREADS: '2'
+      OPENBLAS_NUM_THREADS: '2'
+      REFRESH_PUBLIC_DATA: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas==2.2.3 numpy==2.3.5 scikit-learn==1.8.0 joblib
+      - uses: actions/cache/restore@v4
+        id: cache
+        with:
+          path: research_cache
+          key: firepulse-process-v1-${{ github.run_id }}
+          restore-keys: firepulse-process-v1-
+      - name: Bootstrap preserved research data
+        if: steps.cache.outputs.cache-matched-key == ''
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: leader-stage-research
+          run-id: 39435460636
+          github-token: ${{ github.token }}
+          path: bootstrap
+      - name: Restore raw cache only
+        run: |
+          mkdir -p research_cache
+          if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
+      - name: Refresh completed bars and evaluate scores
+        run: python -u process_score.py
+      - name: Publish daily scores and immutable dated snapshot
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python -u publish_process_scores.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: process-score-research
+          path: |
+            output/process_score_*
+            output/process_rank_model.joblib
+            output/process_return_model.joblib
+            output/daily_process_scores.csv
+            research_cache
+          retention-days: 30
+      - uses: actions/cache/save@v4
+        if: success()
+        with:
+          path: research_cache
+          key: firepulse-process-v1-${{ github.run_id }}
