@@ -1,0 +1,26 @@
+{
+  "item": "Glock-18 | Dragon Tattoo (Factory New)",
+  "yyyp_id": 43712,
+  "csqaq_id": 1114,
+  "observations": [
+    {
+      "at": "2026-10-20T21:29:20+08:00",
+      "source": "https://github.com/Bowen389/up/actions/runs/39430760444",
+      "kind": "action_log_rounded",
+      "price": 519.0,
+      "on_sale": 342,
+      "depth": 6115,
+      "depth_qty": 13,
+      "ratio": 0.85,
+      "note": "厚度为日志四舍五入值，非完整精度订单簿；独立单品测试快照"
+    },
+    {
+      "at": "2026-10-19",
+      "source": "user_report_2026-10-20",
+      "kind": "manual_approximate",
+      "on_sale": 350,
+      "demand_change": "flat",
+      "note": "用户提供昨日同期约350件、求购持平；没有精确历史厚度，不计算厚度百分比"
+    }
+  ]
+}
