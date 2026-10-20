@@ -15,5 +15,8 @@
   "whale_role": "auxiliary",
   "implementation": "process_score.py",
   "daily_workflow": ".github/workflows/process-score.yml",
-  "buy_system_validated": false
+  "buy_system_validated": false,
+  "multifactor_implementation": "multifactor_research.py",
+  "multifactor_report": "output/multifactor_report.md",
+  "daily_multifactor_scores": "output/daily_multifactor_scores.csv"
 }
