@@ -1,0 +1,18 @@
+{
+  "version": "leader-process-v3",
+  "status": "research_definition_only",
+  "replaces_primary_target": "box_breakout_winners",
+  "stages": [
+    "early_accumulation_proxy",
+    "second_wave_participation_proxy",
+    "washout_or_support_test",
+    "sustained_even_volume_expansion",
+    "subsequent_acceleration_label"
+  ],
+  "membership_identity": "unverified_without_ground_truth",
+  "box_breakout_required": false,
+  "global_positive_market_7d_required": false,
+  "volume_basis": "all_platform_proxy",
+  "whale_role": "auxiliary",
+  "implementation": "not_yet_backtested"
+}
