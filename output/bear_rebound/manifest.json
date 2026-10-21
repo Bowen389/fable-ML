@@ -1034,8 +1034,10 @@
     "8325656061487001649.json.gz": "edb958b2c155edc755e8a1c615f0909dbdf2d1f32e20033f2ee8d11ecbb587d6",
     "3245833196932770847.json.gz": "31f25506e301ca9ad46246e48813e345d31e933e778cd6c3c1258b94ce4612aa"
   },
-  "fee": 0.025,
-  "slippage_each_side": 0.005,
+  "fee": 0.01,
+  "buy_fee": 0.0,
+  "sell_fee": 0.01,
+  "slippage_each_side": 0.0,
   "minimum_exit_days": 7,
   "price": "youpin",
   "volume": "all-platform proxy",
