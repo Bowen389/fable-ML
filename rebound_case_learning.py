@@ -11,7 +11,7 @@ from sklearn.metrics import average_precision_score
 from leader_research import CACHE,collect
 from bear_rebound_research import feature_frame
 from rebound_rank_research import enrich,daily_rank,rank_value
-from rebound_stage_research import add_stages,window_summary,clean_json
+from rebound_stage_research import add_stages,window_summary,clean_json,include_registered_items
 ROOT=Path(__file__).resolve().parent
 OUT=ROOT/'output'/'rebound_cases'
 
@@ -56,7 +56,7 @@ def case_windows(pred,cases,method):
 
 def main():
     OUT.mkdir(parents=True,exist_ok=True);CACHE.mkdir(exist_ok=True)
-    cases=json.loads((ROOT/'research/bear_rebound_cases.json').read_text());u=json.loads((ROOT/'firepulse_universe.json').read_text())
+    cases=json.loads((ROOT/'research/bear_rebound_cases.json').read_text());u=include_registered_items(json.loads((ROOT/'firepulse_universe.json').read_text()),cases)
     # Reuse exact resolved wear IDs only if previous stage manifest has them; never guess another wear.
     prior=ROOT/'output/rebound_stage/validation.json'
     if prior.exists():

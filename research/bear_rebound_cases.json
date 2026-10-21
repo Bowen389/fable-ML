@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "focus": "熊市反弹",
   "events": [
     {
@@ -8,7 +8,7 @@
         "2026-02-10"
       ],
       "group": "一代手套，略有磨损",
-      "exact_members_status": "用户明确指定六类共24款，全部限定Minimal Wear；22款已匹配，2款缺精确磨损ID",
+      "exact_members_status": "用户指定24款略磨已全部精确匹配，独立研究窗口已可评分；不修改生产商品池",
       "empirically_verified": false,
       "members": [
         {
@@ -142,18 +142,20 @@
         {
           "name": "★ Sport Gloves | Hedge Maze (Minimal Wear)",
           "cn": "运动手套（★） | 树篱迷宫 (略有磨损)",
-          "id": null,
-          "mapping_status": "missing_exact_wear_in_current_universe",
+          "id": "640174305739308770",
+          "mapping_status": "resolved_exact_wear_public_search",
           "label_source": "user_supplied_first_generation_group",
-          "empirically_verified": false
+          "empirically_verified": false,
+          "mapping_verification_run": 39581300059
         },
         {
           "name": "★ Sport Gloves | Pandora's Box (Minimal Wear)",
           "cn": "运动手套（★） | 潘多拉之盒 (略有磨损)",
-          "id": null,
-          "mapping_status": "missing_exact_wear_in_current_universe",
+          "id": "8244171592052627335",
+          "mapping_status": "resolved_exact_wear_public_search",
           "label_source": "user_supplied_first_generation_group",
-          "empirically_verified": false
+          "empirically_verified": false,
+          "mapping_verification_run": 39581300059
         },
         {
           "name": "★ Sport Gloves | Superconductor (Minimal Wear)",
@@ -206,9 +208,10 @@
       ],
       "coverage": {
         "requested": 24,
-        "exact_ids": 22,
-        "missing_exact_ids": 2,
-        "history_coverage_verified": false
+        "exact_ids": 24,
+        "missing_exact_ids": 0,
+        "history_coverage_verified": false,
+        "event_window_scoring_coverage_verified": true
       }
     },
     {

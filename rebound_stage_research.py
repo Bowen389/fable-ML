@@ -27,6 +27,13 @@ def clean_json(value):
 
 def norm(s):return ''.join(unicodedata.normalize('NFKC',str(s)).casefold().split())
 
+def include_registered_items(universe,cases):
+    merged={x['id']:x for x in universe if x.get('id')}
+    for event in cases['events']:
+        for item in event.get('members',event.get('cases',[])):
+            if item.get('id'):merged[item['id']]={k:item[k] for k in ('id','name','cn')}
+    return list(merged.values())
+
 def exact_search(payload,item):
     matches=set();wanted={norm(item['name']),norm(item['cn'])}
     def walk(node):
@@ -141,7 +148,7 @@ def window_summary(z,anchor,col,K):
 def main():
     OUT.mkdir(parents=True,exist_ok=True);CACHE.mkdir(exist_ok=True)
     cases=json.loads((ROOT/'research/bear_rebound_cases.json').read_text())
-    universe=json.loads((ROOT/'firepulse_universe.json').read_text());resolution=[]
+    universe=include_registered_items(json.loads((ROOT/'firepulse_universe.json').read_text()),cases);resolution=[]
     for event in cases['events']:
         for item in event.get('members',event.get('cases',[])):
             if item.get('id'):continue
