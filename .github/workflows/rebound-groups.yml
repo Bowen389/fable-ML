@@ -1,0 +1,50 @@
+name: Independent rebound group review
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'rebound_group_review.py'
+      - 'test_rebound_groups.py'
+      - '.github/workflows/rebound-groups.yml'
+permissions:
+  contents: write
+concurrency:
+  group: independent-rebound-groups
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas==2.2.3 numpy==2.3.5
+      - run: python -m unittest -v test_rebound_groups.py
+      - run: python -u rebound_group_review.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: independent-rebound-groups
+          path: output/rebound_groups
+          retention-days: 30
+      - name: Publish group diagnostics only
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          group_backup=$(mktemp -d)
+          cp -a output/rebound_groups "$group_backup/"
+          git add output/rebound_groups
+          if ! git diff --cached --quiet; then git commit -m 'Prepare independent group diagnostics'; fi
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -B publish-rebound-groups FETCH_HEAD
+            mkdir -p output/rebound_groups
+            cp -a "$group_backup/rebound_groups/." output/rebound_groups/
+            git add output/rebound_groups
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Publish independent group diagnostics'
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1
