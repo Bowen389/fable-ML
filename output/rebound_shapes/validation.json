@@ -1,0 +1,412 @@
+{
+  "version": "shape-transfer-v1",
+  "asof": "2026-10-20",
+  "loaded": 766,
+  "requested": 775,
+  "failures": [
+    {
+      "name": "M4A4 | Falak (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Desert Eagle | Eastern Enigma (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "AWP | Black Box (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "AUG | Lapis Lazuli (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "P250 | Lotus Imprint (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "CZ75-Auto | Hydraulics (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "M4A4 | Dark Operative (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Tec-9 | Sultan (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    }
+  ],
+  "feature_sets": {
+    "full_context_control": [
+      "r1",
+      "r3",
+      "r7",
+      "r30",
+      "rv",
+      "cv",
+      "share",
+      "washv",
+      "base_drift",
+      "base_range",
+      "drawdown",
+      "rs7",
+      "breadth",
+      "breadth_change3",
+      "m3",
+      "m7",
+      "m30",
+      "support_gap",
+      "trend_gap",
+      "accumulation",
+      "uniformity",
+      "support",
+      "strength",
+      "risk",
+      "log_price",
+      "log_volume20",
+      "early_drift",
+      "early_range",
+      "early_vol_change",
+      "early_vol_cv",
+      "middle_return",
+      "middle_volume",
+      "wash_return",
+      "wash_support",
+      "wash_contraction",
+      "recent_volume_step",
+      "volume_up_fraction",
+      "price_up_fraction",
+      "close_location",
+      "up_down_volume",
+      "price_efficiency",
+      "observations20",
+      "positive_volume20",
+      "is_glove",
+      "is_agent",
+      "return_3",
+      "return_5",
+      "return_10",
+      "return_14",
+      "return_21",
+      "return_45",
+      "return_60",
+      "return_90",
+      "volatility_5",
+      "volume_cv_5",
+      "volatility_10",
+      "volume_cv_10",
+      "volatility_20",
+      "volume_cv_20",
+      "relative_3",
+      "peer_relative_3",
+      "peer_momentum_3",
+      "relative_7",
+      "peer_relative_7",
+      "peer_momentum_7",
+      "relative_14",
+      "peer_relative_14",
+      "peer_momentum_14",
+      "relative_21",
+      "peer_relative_21",
+      "peer_momentum_21",
+      "early_drift_percentile",
+      "early_vol_change_percentile",
+      "middle_volume_percentile",
+      "wash_contraction_percentile",
+      "recent_volume_step_percentile",
+      "volatility_10_percentile",
+      "log_volume20_percentile"
+    ],
+    "shape_only": [
+      "r1",
+      "r3",
+      "r7",
+      "r30",
+      "rv",
+      "cv",
+      "share",
+      "washv",
+      "base_drift",
+      "base_range",
+      "drawdown",
+      "rs7",
+      "support_gap",
+      "trend_gap",
+      "accumulation",
+      "uniformity",
+      "support",
+      "strength",
+      "risk",
+      "early_drift",
+      "early_range",
+      "early_vol_change",
+      "early_vol_cv",
+      "middle_return",
+      "middle_volume",
+      "wash_return",
+      "wash_support",
+      "wash_contraction",
+      "recent_volume_step",
+      "volume_up_fraction",
+      "price_up_fraction",
+      "close_location",
+      "up_down_volume",
+      "price_efficiency",
+      "observations20",
+      "positive_volume20",
+      "return_3",
+      "return_5",
+      "return_10",
+      "return_14",
+      "return_21",
+      "return_45",
+      "return_60",
+      "return_90",
+      "volatility_5",
+      "volume_cv_5",
+      "volatility_10",
+      "volume_cv_10",
+      "volatility_20",
+      "volume_cv_20",
+      "relative_3",
+      "peer_relative_3",
+      "relative_7",
+      "peer_relative_7",
+      "relative_14",
+      "peer_relative_14",
+      "relative_21",
+      "peer_relative_21",
+      "early_drift_percentile",
+      "early_vol_change_percentile",
+      "middle_volume_percentile",
+      "wash_contraction_percentile",
+      "recent_volume_step_percentile",
+      "volatility_10_percentile"
+    ],
+    "volatility_scaled": [
+      "shape_return_z1",
+      "shape_return_z3",
+      "shape_return_z7",
+      "shape_return_z14",
+      "shape_return_z30",
+      "shape_early_drift",
+      "shape_middle_return",
+      "shape_wash_return",
+      "shape_wash_support",
+      "shape_drawdown",
+      "shape_support_gap",
+      "shape_trend_gap",
+      "shape_relative_7",
+      "shape_peer_relative_7",
+      "early_vol_change",
+      "early_vol_cv",
+      "middle_volume",
+      "wash_contraction",
+      "recent_volume_step",
+      "volume_up_fraction",
+      "price_up_fraction",
+      "price_efficiency",
+      "volume_cv_5",
+      "volume_cv_10",
+      "volume_cv_20",
+      "up_down_volume",
+      "close_location"
+    ],
+    "shape_template": [
+      "shape_return_z1",
+      "shape_return_z3",
+      "shape_return_z7",
+      "shape_return_z14",
+      "shape_return_z30",
+      "shape_early_drift",
+      "shape_middle_return",
+      "shape_wash_return",
+      "shape_wash_support",
+      "shape_drawdown",
+      "shape_support_gap",
+      "shape_trend_gap",
+      "shape_relative_7",
+      "shape_peer_relative_7",
+      "early_vol_change",
+      "early_vol_cv",
+      "middle_volume",
+      "wash_contraction",
+      "recent_volume_step",
+      "volume_up_fraction",
+      "price_up_fraction",
+      "price_efficiency",
+      "volume_cv_5",
+      "volume_cv_10",
+      "volume_cv_20",
+      "up_down_volume",
+      "close_location"
+    ]
+  },
+  "selection": [
+    {
+      "recipe": "full_context_control",
+      "features": 78,
+      "objective": [
+        0.0,
+        0.0,
+        0.029397100937036316
+      ],
+      "folds": [
+        {
+          "event": "2026-02-09",
+          "rows": 9780,
+          "ap": 0.05509769752765157,
+          "top30_rows": 450,
+          "top30_evaluated": 405,
+          "top30_net14": 0.04770604646322003,
+          "top30_win14": 0.5654320987654321
+        },
+        {
+          "event": "2026-05-27",
+          "rows": 10680,
+          "ap": 0.027661064954426107,
+          "top30_rows": 450,
+          "top30_evaluated": 425,
+          "top30_net14": 0.2412454003304404,
+          "top30_win14": 0.8658823529411764
+        },
+        {
+          "event": "2026-08-22",
+          "rows": 11024,
+          "ap": 0.0054325403290312775,
+          "top30_rows": 450,
+          "top30_evaluated": 437,
+          "top30_net14": 0.010551275174705022,
+          "top30_win14": 0.4416475972540046
+        }
+      ]
+    },
+    {
+      "recipe": "shape_only",
+      "features": 64,
+      "objective": [
+        0.0,
+        0.013888888888888888,
+        0.024370301840943114
+      ],
+      "folds": [
+        {
+          "event": "2026-02-09",
+          "rows": 9780,
+          "ap": 0.048162731812251766,
+          "top30_rows": 450,
+          "top30_evaluated": 404,
+          "top30_net14": 0.09343951912629822,
+          "top30_win14": 0.6485148514851485
+        },
+        {
+          "event": "2026-05-27",
+          "rows": 10680,
+          "ap": 0.018036058503298293,
+          "top30_rows": 450,
+          "top30_evaluated": 373,
+          "top30_net14": 0.17252676552217233,
+          "top30_win14": 0.7774798927613941
+        },
+        {
+          "event": "2026-08-22",
+          "rows": 11024,
+          "ap": 0.006912115207279277,
+          "top30_rows": 450,
+          "top30_evaluated": 356,
+          "top30_net14": 0.03256802946712985,
+          "top30_win14": 0.48314606741573035
+        }
+      ]
+    },
+    {
+      "recipe": "volatility_scaled",
+      "features": 27,
+      "objective": [
+        0.0,
+        0.34722222222222227,
+        0.028210836941074454
+      ],
+      "folds": [
+        {
+          "event": "2026-02-09",
+          "rows": 9780,
+          "ap": 0.043770801893090655,
+          "top30_rows": 450,
+          "top30_evaluated": 412,
+          "top30_net14": 0.05216639730614958,
+          "top30_win14": 0.5606796116504854
+        },
+        {
+          "event": "2026-05-27",
+          "rows": 10680,
+          "ap": 0.021685530423538834,
+          "top30_rows": 450,
+          "top30_evaluated": 287,
+          "top30_net14": 0.10031021823015408,
+          "top30_win14": 0.6027874564459931
+        },
+        {
+          "event": "2026-08-22",
+          "rows": 11024,
+          "ap": 0.01917617850659387,
+          "top30_rows": 450,
+          "top30_evaluated": 312,
+          "top30_net14": 0.02943276786412496,
+          "top30_win14": 0.5352564102564102
+        }
+      ]
+    },
+    {
+      "recipe": "shape_template",
+      "features": 27,
+      "objective": [
+        0.08333333333333333,
+        0.4444444444444444,
+        0.035867898037405706
+      ],
+      "folds": [
+        {
+          "event": "2026-02-09",
+          "rows": 9780,
+          "ap": 0.04285410301376537,
+          "top30_rows": 450,
+          "top30_evaluated": 395,
+          "top30_net14": 0.05890973666134205,
+          "top30_win14": 0.5873417721518988
+        },
+        {
+          "event": "2026-05-27",
+          "rows": 10680,
+          "ap": 0.026953929776697538,
+          "top30_rows": 450,
+          "top30_evaluated": 346,
+          "top30_net14": 0.18237631207688113,
+          "top30_win14": 0.7485549132947977
+        },
+        {
+          "event": "2026-08-22",
+          "rows": 11024,
+          "ap": 0.03779566132175421,
+          "top30_rows": 450,
+          "top30_evaluated": 243,
+          "top30_net14": 0.051754506384554984,
+          "top30_win14": 0.6584362139917695
+        }
+      ]
+    }
+  ],
+  "selected": "shape_template",
+  "selection_rule": "先最大化三个事件最差前30覆盖率，再平均事件覆盖率，最后平均AP；选择使用了事件留一结果，因此只是开发选模",
+  "fee_sell": 0.01,
+  "fee_buy": 0,
+  "slippage": 0,
+  "historically_tradable_validation": false,
+  "qualified_systems": [],
+  "production_modified": false
+}
