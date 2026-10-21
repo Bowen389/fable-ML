@@ -1,0 +1,9 @@
+{
+  "source": "output/rebound_shared/development_rows.csv.gz",
+  "source_run_id": "39584603132",
+  "min_group_size": 8,
+  "members": 24,
+  "group_score": "成员已有单品开发公式分数的中位数；不增加单品分数",
+  "production_modified": false,
+  "independent_validation": false
+}
