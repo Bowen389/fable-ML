@@ -1,22 +1,19 @@
 {
   "version": "guide-baseline-v1",
-  "generated_at": "2026-10-20T21:39:43.790138+08:00",
+  "generated_at": "2026-10-21T10:23:12.561807+08:00",
   "item": "Glock-18 | Dragon Tattoo (Factory New)",
   "mapping": {
     "yyyp_id": 43712,
     "csqaq_id": 1114
   },
   "signal": {
-    "date": "2026-10-19",
-    "open": 446.0,
-    "close": 477.49,
-    "high": 477.5,
-    "low": 446.0,
-    "types": [
-      "双金叉 12/26/9",
-      "上影吞没"
-    ],
-    "families": 2
+    "date": "2026-10-20",
+    "open": 515.0,
+    "close": 518.88,
+    "high": 520.0,
+    "low": 496.0,
+    "types": [],
+    "families": 0
   },
   "current_supply": {
     "at": "2026-10-20T21:29:20+08:00",
@@ -37,10 +34,10 @@
     "demand_change": "flat",
     "note": "用户提供昨日同期约350件、求购持平；没有精确历史厚度，不计算厚度百分比"
   },
-  "supply_age_hours": 0.17327503833333333,
+  "supply_age_hours": 12.897933835277778,
   "market": {
-    "date": "2026-10-19",
-    "above_ma30_pct": 8.9,
+    "date": "2026-10-20",
+    "above_ma30_pct": 18.9,
     "ml_validation": {
       "10": false,
       "14": false,
@@ -49,10 +46,10 @@
     "note": "原有规则的通过/未通过不等于buy-cs形态的验证结论；不产生未经验证的ML评分"
   },
   "assessment": {
-    "status": "观察候选",
+    "status": "最新完整日无技术买点",
     "supply_change_pct": -2.285714285714291,
     "demand_change_pct": null,
-    "price_change_pct": 8.6933757775032,
+    "price_change_pct": 0.023126734505085622,
     "demand_description": "用户报告持平；未计算精确变动率",
     "market_weak": true
   },
@@ -64,7 +61,7 @@
   "sources": {
     "buy_bars": {
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
-      "sha256": "2ec86e5a9120d2aa0b4032711af077d621d75ea4d72cec0ed8487f7970d37246"
+      "sha256": "caea26142c60c1d79a886156901aba89179735fc86b46f3452ab7c359ea0c9dc"
     },
     "buy_rules": {
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/scanner.py",
@@ -72,7 +69,7 @@
     },
     "fable_report": {
       "url": "https://raw.githubusercontent.com/Bowen389/fable-ML/main/output/latest.md",
-      "sha256": "9051171900f23719565a6163fc96350c847e62b44fdec3044edb45526c255ce6"
+      "sha256": "a7fc32d89b7004b30208affbad9b4d39df3160a641b63a52cf4af273c0970158"
     },
     "fable_model": {
       "url": "https://raw.githubusercontent.com/Bowen389/fable-ML/main/state/ml_meta.json",
