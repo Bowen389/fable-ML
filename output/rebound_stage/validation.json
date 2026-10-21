@@ -1722,7 +1722,7 @@
       "context": "all",
       "method": "stage7_global",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1739,7 +1739,7 @@
       "context": "all",
       "method": "stage7_global",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1756,7 +1756,7 @@
       "context": "all",
       "method": "stage21_global",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1773,7 +1773,7 @@
       "context": "all",
       "method": "stage21_global",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1790,7 +1790,7 @@
       "context": "all",
       "method": "stage21_recent",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1807,7 +1807,7 @@
       "context": "all",
       "method": "stage21_recent",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1824,7 +1824,7 @@
       "context": "all",
       "method": "selected",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1841,7 +1841,7 @@
       "context": "all",
       "method": "selected",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1858,7 +1858,7 @@
       "context": "bear",
       "method": "stage7_global",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1875,7 +1875,7 @@
       "context": "bear",
       "method": "stage7_global",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1892,7 +1892,7 @@
       "context": "bear",
       "method": "stage21_global",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1909,7 +1909,7 @@
       "context": "bear",
       "method": "stage21_global",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1926,7 +1926,7 @@
       "context": "bear",
       "method": "stage21_recent",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1943,7 +1943,7 @@
       "context": "bear",
       "method": "stage21_recent",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1960,7 +1960,7 @@
       "context": "bear",
       "method": "selected",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1977,7 +1977,7 @@
       "context": "bear",
       "method": "selected",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.08254995290625153
     },
@@ -1994,7 +1994,7 @@
       "context": "repair",
       "method": "stage7_global",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2011,7 +2011,7 @@
       "context": "repair",
       "method": "stage7_global",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2028,7 +2028,7 @@
       "context": "repair",
       "method": "stage21_global",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2045,7 +2045,7 @@
       "context": "repair",
       "method": "stage21_global",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2062,7 +2062,7 @@
       "context": "repair",
       "method": "stage21_recent",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2079,7 +2079,7 @@
       "context": "repair",
       "method": "stage21_recent",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2096,7 +2096,7 @@
       "context": "repair",
       "method": "selected",
       "top_k": 10,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     },
@@ -2113,7 +2113,7 @@
       "context": "repair",
       "method": "selected",
       "top_k": 30,
-      "potential_hit": NaN,
+      "potential_hit": null,
       "potential_recall": null,
       "baseline_net14": -0.05920466452852214
     }
@@ -2483,7 +2483,7 @@
     "1229437724559484320.json.gz": "9b74a659149dd8013e0fc3c74a320e9465c0417081cb613105944b53aa65f3da",
     "7518503997543148868.json.gz": "2d2e60c86d1d8d2df8838a08240902a529daa01aef86aec7c7e0de504b52bb56",
     "5925614818862742411.json.gz": "b195e719c9a713d561424182d7dd470d1da814a59fbf7b0a9c930accf7db4966",
-    "8244171592052627335.json.gz": "7d39f38fdd4650cade33b310c7d850b33cedf03fa107a846fc3b5f9934cb36bb",
+    "8244171592052627335.json.gz": "3dc121568217795a87362537012c687d68466c57c5e779d7c1223234b8c388d0",
     "116805772270194928.json.gz": "c15690a058654ad617c1b5e119e7e37f17cd625f1a6b79d69109b3a6cf637e8c",
     "7206891117224829584.json.gz": "f6cc77a96854edd1da3f3b523d8d4874e5cba10a8915d9813bbeb23544f1d30f",
     "8729450793389842499.json.gz": "04c6259b679600a494659ceb40296a5a8819621e96a11cd0f0b99237c6b18c98",
@@ -2782,7 +2782,7 @@
     "2620893475749666157.json.gz": "1e5dc762c4ac425dc5d4471d80a287ae79e5bd08b4bee003aa3bc50032b784fb",
     "2170584948915323543.json.gz": "fbfe63702cd110c68e74120c794f048f47d78ae17f0190e22934a10e1590f382",
     "2761927831323695561.json.gz": "58878c0a0ce628a18dbc4d69d196d1baf6b8059bae5572da0005d3b242c82a54",
-    "640174305739308770.json.gz": "d0b5a290bc75ae58ea2ed31612126572264b03065ae664e7bbea5c626291d051",
+    "640174305739308770.json.gz": "77710afa5f0a03ca481a147466cdf052b635124e65758639938eb0f6331a17a3",
     "1821025515490795381.json.gz": "683927a5383ba2b6673cf91a773afc79e322be9b32d11592fb7affc72c001c1d",
     "1747472448285506150.json.gz": "1fb776cd702a129104064ed3d8bb73c738f1057492f6a9473d3233393ae5e4bd",
     "4004531166770454302.json.gz": "dad7de23d30ad8e1ad899cc9b1377c2bf9547a83c1b908173dd1436bacebb1a1",
