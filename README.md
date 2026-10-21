@@ -1,3 +1,11 @@
+## 独立监控名单与评分子池（2026-10-21）
+
+- **完整监控表以悠悠原始items.txt为准，当前815件**：[815件监控表](https://github.com/Bowen389/up/blob/main/data/intraday_scores_latest.csv)。报价失败或暂不评分不会删除商品。
+- `output/daily_multifactor_scores.csv` 仅为符合研究资格的评分子池，不再决定报价和求购监控范围。
+- [逐件评分资格诊断](output/score_pool_status.json)说明历史不足300条、低于30元、研究品类排除、缺日、量能和平价等原因；缺分留空，不当作0分。
+
+---
+
 ## 三次盘中参考入口（2026-10-21新增）
 
 [最新盘中报告](https://github.com/Bowen389/up/blob/main/data/intraday_latest.md) · [报价与每日求购明细](https://github.com/Bowen389/up/blob/main/data/intraday_scores_latest.csv)
