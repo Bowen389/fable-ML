@@ -12,6 +12,10 @@ class Checks(unittest.TestCase):
         b,mb=feature_frame(raw)
         pd.testing.assert_frame_equal(a[a.date<=cut],b[b.date<=cut])
         for k in ma:pd.testing.assert_series_equal(ma[k][a.date<=cut],mb[k][b.date<=cut])
+    def test_user_fee_convention(self):
+        self.assertAlmostEqual(net_ratio(1),-.01)
+        self.assertAlmostEqual(net_ratio(1.1),.089)
+        self.assertAlmostEqual(net_ratio(.9),-.109)
     def test_costs_and_entry_timing(self):
         g=self.raw().set_index('date');g['close']=100.;day=g.index[20]
         x=outcome(g,day,'7');self.assertAlmostEqual(x['net'],net_ratio(1));self.assertEqual(x['exit_date'],str((day+pd.Timedelta(days=8)).date()))

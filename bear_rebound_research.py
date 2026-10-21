@@ -67,7 +67,7 @@ def feature_frame(raw):
         masks['first_pullback'].loc[g.index]=pull
     return d,masks
 
-def net_ratio(ratio):return ratio*(1-.005)/(1+.005)*(1-.025)-1
+def net_ratio(ratio):return ratio*(1-.01)-1
 
 def outcome(g,day,policy):
     entryday=day+pd.Timedelta(days=1)
@@ -146,12 +146,12 @@ def main():
                     summaries.append({'rule':rule,'gate':gate,'policy':policy,'window':label,'signals':len(signals),'evaluated':len(mature),'all':stats(mature),'bear':stats([x for x in mature if x['bear_context']])})
     pd.DataFrame(events).to_csv(OUT/'trades.csv.gz',index=False,compression='gzip')
     pd.DataFrame(case_rows).to_json(OUT/'case_detection.json',orient='records',force_ascii=False,indent=2)
-    manifest={'asof':str(latest.date()),'requested':len(universe),'loaded':len(frames),'failed':failed,'case_coverage':coverage,'hashes':{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in CACHE.glob('*.gz')},'fee':.025,'slippage_each_side':.005,'minimum_exit_days':7,'price':'youpin','volume':'all-platform proxy','production_score_modified':False}
+    manifest={'asof':str(latest.date()),'requested':len(universe),'loaded':len(frames),'failed':failed,'case_coverage':coverage,'hashes':{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in CACHE.glob('*.gz')},'fee':.01,'buy_fee':0.,'sell_fee':.01,'slippage_each_side':0.,'minimum_exit_days':7,'price':'youpin','volume':'all-platform proxy','production_score_modified':False}
     (OUT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
     report={'fixed_before_run':True,'parameter_search':False,'qualified_systems':[],'qualification_status':'研究诊断，未设自动晋级；须独立事件及前瞻验证','summaries':summaries}
     (OUT/'results.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
     pct=lambda x:'—' if x is None else f'{x:.2%}'
-    lines=['# 熊市反弹独立回测',f'截至{latest.date()}；取数{len(frames)}/{len(universe)}；案例精确加载{sum(x["loaded"] for x in coverage)}/{len(coverage)}。','现行评分公式未改。三规则×两环境×五退出，共30个固定方案，无收益最优自动选择。','价格为悠悠日K，成交量为全平台代理；次日收盘代理入场，手续费2.5%，双边各0.5%滑点。','最早第7日退出；动态退出按触发收盘成交，存在乐观执行假设。MAE按收盘价，不代表盘中最大回撤。','仅逐商品去重，不是资金组合净值；固定池有存活偏差。开发与2026事件诊断不冒充独立验证。','100根历史门槛为独立早期研究要求，不改生产300根门槛；缺日不补价，退出窗口要求真实报价和正成交量。','缺失历史求购、会员档位与Whale不倒填。组内未触发也保留；三个事件在±14日内诊断首次信号，不能当作自动事件发现。','','| 规则 | 环境 | 退出 | 时段 | 信号/可评估 | 熊市n | 熊市净均值 | 熊市净中位 | 熊市胜率 | 熊市P10 |','|---|---|---|---|---:|---:|---:|---:|---:|---:|']
+    lines=['# 熊市反弹独立回测',f'截至{latest.date()}；取数{len(frames)}/{len(universe)}；案例精确加载{sum(x["loaded"] for x in coverage)}/{len(coverage)}。','现行评分公式未改。三规则×两环境×五退出，共30个固定方案，无收益最优自动选择。','价格为悠悠日K，成交量为全平台代理；次日收盘代理入场，仅卖出手续费1%，买入不收费，不考虑滑点。','最早第7日退出；动态退出按触发收盘成交，存在乐观执行假设。MAE按收盘价，不代表盘中最大回撤。','仅逐商品去重，不是资金组合净值；固定池有存活偏差。开发与2026事件诊断不冒充独立验证。','100根历史门槛为独立早期研究要求，不改生产300根门槛；缺日不补价，退出窗口要求真实报价和正成交量。','缺失历史求购、会员档位与Whale不倒填。组内未触发也保留；三个事件在±14日内诊断首次信号，不能当作自动事件发现。','','| 规则 | 环境 | 退出 | 时段 | 信号/可评估 | 熊市n | 熊市净均值 | 熊市净中位 | 熊市胜率 | 熊市P10 |','|---|---|---|---|---:|---:|---:|---:|---:|---:|']
     for s in summaries:
         b=s['bear'];lines.append(f'| {s["rule"]} | {s["gate"]} | {s["policy"]} | {s["window"]} | {s["signals"]}/{s["evaluated"]} | {b["n"]} | {pct(b["mean"])} | {pct(b["median"])} | {pct(b["win"])} | {pct(b["p10"])} |')
     lines+=['','## 案例覆盖缺口',*[f'- {x["name"]}：mapped={x["mapped"]}, loaded={x["loaded"]}, event_close={x["event_close_available"]}' for x in coverage if not x['loaded'] or not x['event_close_available']],'','完整逐笔、案例触发及覆盖见同目录文件；未通过系统验证，不输出正式买入资格。']
