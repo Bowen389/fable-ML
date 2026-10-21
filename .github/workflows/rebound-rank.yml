@@ -58,11 +58,17 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
+          result_backup=$(mktemp -d)
+          cp -a output/rebound_rank "$result_backup/"
           git add output/rebound_rank
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'Publish independent rebound ranking diagnostics'
+          if ! git diff --cached --quiet; then git commit -m 'Prepare independent rebound ranking diagnostics'; fi
           for attempt in 1 2 3; do
-            git pull --rebase origin main
+            git fetch origin main
+            git checkout -B publish-rebound FETCH_HEAD
+            cp -a "$result_backup/rebound_rank/." output/rebound_rank/
+            git add output/rebound_rank
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Publish independent rebound ranking diagnostics'
             if git push origin HEAD:main; then exit 0; fi
           done
           exit 1
