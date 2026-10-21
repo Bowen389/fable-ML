@@ -1,0 +1,283 @@
+{
+  "version": "case-pattern-v1",
+  "asof": "2026-10-20",
+  "loaded": 766,
+  "requested": 775,
+  "failures": [
+    {
+      "name": "M4A4 | Falak (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Desert Eagle | Eastern Enigma (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "AWP | Black Box (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "AUG | Lapis Lazuli (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "P250 | Lotus Imprint (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "CZ75-Auto | Hydraulics (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "M4A4 | Dark Operative (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Tec-9 | Sultan (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    }
+  ],
+  "features": [
+    "r1",
+    "r3",
+    "r7",
+    "r30",
+    "rv",
+    "cv",
+    "share",
+    "washv",
+    "base_drift",
+    "base_range",
+    "drawdown",
+    "rs7",
+    "breadth",
+    "breadth_change3",
+    "m3",
+    "m7",
+    "m30",
+    "support_gap",
+    "trend_gap",
+    "accumulation",
+    "uniformity",
+    "support",
+    "strength",
+    "risk",
+    "log_price",
+    "log_volume20",
+    "early_drift",
+    "early_range",
+    "early_vol_change",
+    "early_vol_cv",
+    "middle_return",
+    "middle_volume",
+    "wash_return",
+    "wash_support",
+    "wash_contraction",
+    "recent_volume_step",
+    "volume_up_fraction",
+    "price_up_fraction",
+    "close_location",
+    "up_down_volume",
+    "price_efficiency",
+    "observations20",
+    "positive_volume20",
+    "is_glove",
+    "is_agent",
+    "return_3",
+    "return_5",
+    "return_10",
+    "return_14",
+    "return_21",
+    "return_45",
+    "return_60",
+    "return_90",
+    "volatility_5",
+    "volume_cv_5",
+    "volatility_10",
+    "volume_cv_10",
+    "volatility_20",
+    "volume_cv_20",
+    "relative_3",
+    "peer_relative_3",
+    "peer_momentum_3",
+    "relative_7",
+    "peer_relative_7",
+    "peer_momentum_7",
+    "relative_14",
+    "peer_relative_14",
+    "peer_momentum_14",
+    "relative_21",
+    "peer_relative_21",
+    "peer_momentum_21",
+    "early_drift_percentile",
+    "early_vol_change_percentile",
+    "middle_volume_percentile",
+    "wash_contraction_percentile",
+    "recent_volume_step_percentile",
+    "volatility_10_percentile",
+    "log_volume20_percentile"
+  ],
+  "training_label_rule": "仅人工案例窗口且潜在涨幅>=15%且14日净收益>0为正；同期未点名且潜在涨幅<10%且14日净收益<=0为负；其余不标负",
+  "selected_leaves": 15,
+  "selection": [
+    {
+      "leaves": 7,
+      "mean_event_ap": 0.023489983761505,
+      "folds": [
+        {
+          "held_event": "2026-02-09",
+          "leaves": 7,
+          "train_positive": 96,
+          "train_negative": 6565,
+          "rows": 9780,
+          "ap": 0.04251567229151675,
+          "top30_rows": 450,
+          "top30_evaluated": 428,
+          "top30_net14": 0.07812410371301558,
+          "top30_win14": 0.5841121495327103
+        },
+        {
+          "held_event": "2026-05-27",
+          "leaves": 7,
+          "train_positive": 151,
+          "train_negative": 6407,
+          "rows": 10680,
+          "ap": 0.021947260816487537,
+          "top30_rows": 450,
+          "top30_evaluated": 418,
+          "top30_net14": 0.2619657516235253,
+          "top30_win14": 0.8779904306220095
+        },
+        {
+          "held_event": "2026-08-22",
+          "leaves": 7,
+          "train_positive": 175,
+          "train_negative": 3942,
+          "rows": 11024,
+          "ap": 0.0060070181765107065,
+          "top30_rows": 450,
+          "top30_evaluated": 441,
+          "top30_net14": 0.004338845683983988,
+          "top30_win14": 0.4444444444444444
+        }
+      ]
+    },
+    {
+      "leaves": 15,
+      "mean_event_ap": 0.03009428725884018,
+      "folds": [
+        {
+          "held_event": "2026-02-09",
+          "leaves": 15,
+          "train_positive": 96,
+          "train_negative": 6565,
+          "rows": 9780,
+          "ap": 0.05517340105641859,
+          "top30_rows": 450,
+          "top30_evaluated": 403,
+          "top30_net14": 0.04768237298746616,
+          "top30_win14": 0.5607940446650124
+        },
+        {
+          "held_event": "2026-05-27",
+          "leaves": 15,
+          "train_positive": 151,
+          "train_negative": 6407,
+          "rows": 10680,
+          "ap": 0.029442467883967614,
+          "top30_rows": 450,
+          "top30_evaluated": 423,
+          "top30_net14": 0.24292615951924337,
+          "top30_win14": 0.8628841607565012
+        },
+        {
+          "held_event": "2026-08-22",
+          "leaves": 15,
+          "train_positive": 175,
+          "train_negative": 3942,
+          "rows": 11024,
+          "ap": 0.005666992836134343,
+          "top30_rows": 450,
+          "top30_evaluated": 439,
+          "top30_net14": 0.0062239223715239165,
+          "top30_win14": 0.43735763097949887
+        }
+      ]
+    }
+  ],
+  "event_holdout_metrics": [
+    {
+      "event": "2026-02-09",
+      "rows": 9780,
+      "ap": 0.05517340105641859,
+      "top30_rows": 450,
+      "top30_evaluated": 403,
+      "top30_net14": 0.04768237298746616,
+      "top30_win14": 0.5607940446650124
+    },
+    {
+      "event": "2026-05-27",
+      "rows": 10680,
+      "ap": 0.029442467883967614,
+      "top30_rows": 450,
+      "top30_evaluated": 423,
+      "top30_net14": 0.24292615951924337,
+      "top30_win14": 0.8628841607565012
+    },
+    {
+      "event": "2026-08-22",
+      "rows": 11024,
+      "ap": 0.005666992836134343,
+      "top30_rows": 450,
+      "top30_evaluated": 439,
+      "top30_net14": 0.0062239223715239165,
+      "top30_win14": 0.43735763097949887
+    }
+  ],
+  "apparent_fit_metrics": [
+    {
+      "event": "2026-02-09",
+      "rows": 9780,
+      "ap": 1.0,
+      "top30_rows": 450,
+      "top30_evaluated": 368,
+      "top30_net14": 0.1383231459301808,
+      "top30_win14": 0.8016304347826086
+    },
+    {
+      "event": "2026-05-27",
+      "rows": 10680,
+      "ap": 1.0,
+      "top30_rows": 450,
+      "top30_evaluated": 440,
+      "top30_net14": 0.33881253206916956,
+      "top30_win14": 0.8545454545454545
+    },
+    {
+      "event": "2026-08-22",
+      "rows": 11024,
+      "ap": 1.0,
+      "top30_rows": 450,
+      "top30_evaluated": 423,
+      "top30_net14": 0.08365421476892616,
+      "top30_win14": 0.6430260047281324
+    }
+  ],
+  "fee_sell": 0.01,
+  "fee_buy": 0,
+  "slippage": 0,
+  "production_modified": false,
+  "qualified_systems": [],
+  "historically_tradable_validation": false,
+  "limitations": [
+    "事件留一使用其他事件的训练标签；早期事件可能学到后期事件，属于回溯机制研究，不是当时可执行收益",
+    "模型复杂度也按这三个事件的平均AP选择，事件留一结果已参与开发，不能宣称最终独立测试",
+    "同一事件日共享市场变量，样本相关；案例数据有选择偏差",
+    "known_case_apparent_fit是训练案例拟合效果，不代表泛化",
+    "current_candidates只作新数据的前瞻研究记录；未完成独立事件验证"
+  ]
+}
