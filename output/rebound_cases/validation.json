@@ -209,6 +209,78 @@
       ]
     }
   ],
+  "common_feature_directions": [
+    {
+      "feature": "peer_momentum_21",
+      "direction": "lower",
+      "minimum_absolute_effect_iqr": 0.7530659127785705
+    },
+    {
+      "feature": "peer_relative_7",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.28721424173683907
+    },
+    {
+      "feature": "peer_relative_14",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.2454622566723219
+    },
+    {
+      "feature": "peer_relative_3",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.2397853040898116
+    },
+    {
+      "feature": "volatility_10_percentile",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.1875022458731249
+    },
+    {
+      "feature": "relative_7",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.18656001461483993
+    },
+    {
+      "feature": "early_vol_cv",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.17546309562912524
+    },
+    {
+      "feature": "peer_momentum_7",
+      "direction": "lower",
+      "minimum_absolute_effect_iqr": 0.17007194189541652
+    },
+    {
+      "feature": "relative_3",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.16916790433593115
+    },
+    {
+      "feature": "early_range",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.16613211909051245
+    },
+    {
+      "feature": "relative_14",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.11194477750944884
+    },
+    {
+      "feature": "recent_volume_step",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.09016910481575027
+    },
+    {
+      "feature": "peer_momentum_14",
+      "direction": "lower",
+      "minimum_absolute_effect_iqr": 0.04329858260419661
+    },
+    {
+      "feature": "volatility_5",
+      "direction": "higher",
+      "minimum_absolute_effect_iqr": 0.036352002666281545
+    }
+  ],
   "event_holdout_metrics": [
     {
       "event": "2026-02-09",
