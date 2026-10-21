@@ -15,6 +15,6 @@ r.ROOT=root;r.OUT=root/'output'/'rebound_entries';r.CACHE=root/'cache';r.collect
 r.main()
 x=json.loads((r.OUT/'validation.json').read_text())
 assert x['production_modified'] is False
-assert len(x['summaries'])==120
+assert len(x['summaries'])==360
 assert (r.OUT/'trades.csv.gz').exists()
 print('SYNTHETIC_PHASE_PIPELINE_PASS')

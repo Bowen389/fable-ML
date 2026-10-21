@@ -15,6 +15,21 @@ class PhaseTests(unittest.TestCase):
         b,_=phases(raw,set());sel=a.date.le('2026-01-25')
         self.assertEqual(a.loc[sel,'phase'].tolist(),b.loc[sel,'phase'].tolist())
         for k in masks(a):self.assertEqual(masks(a)[k][sel].tolist(),masks(b)[k][sel].tolist())
+    def test_topk_global_rank_before_filters(self):
+        d,_=phases(self.frame(),set())
+        for k in (3,5,30):
+            for signal in masks(d,k).values():
+                self.assertTrue(d.loc[signal,'rank'].le(k).all())
+                self.assertLessEqual(int(signal.groupby(d.date).sum().max()),k)
+
+    def test_multiple_sectors_with_calendar_gaps(self):
+        d=self.frame();other=d.copy();other['name']=other.name.str.replace('AK-47','M4A1-S',regex=False)
+        d=d[~d.date.eq('2026-01-10')];other=other[~other.date.eq('2026-01-10')]
+        raw=pd.concat([d,other],ignore_index=True);out,q=phases(raw,set())
+        self.assertEqual(len(out),len(raw))
+        self.assertFalse(q.duplicated(['date','sector']).any())
+        self.assertFalse(q.sector.isna().any())
+
     def test_small_group_unknown(self):
         d,q=phases(self.frame().query('rank < 8'),set());self.assertTrue(d.phase.eq('unknown').all())
     def test_exit_delayed_and_missing_not_zero(self):
