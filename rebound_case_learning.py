@@ -54,6 +54,29 @@ def case_windows(pred,cases,method):
             for K in (10,30):result.append({'event':str(anchor.date()),'name':item['name'],'cn':item['cn'],'method':method,'top_k':K,**window_summary(z,anchor,'rank',K)})
     return result
 
+def feature_contrasts(sample,cols):
+    rows=[]
+    for ei,z in sample.groupby('event_id',sort=True):
+        pos=z[z.learning_label.eq(1)];neg=z[z.learning_label.eq(0)]
+        for col in cols:
+            a=pos[col].dropna();b=neg[col].dropna()
+            spread=float(b.quantile(.75)-b.quantile(.25)) if len(b) else np.nan
+            am=float(a.median()) if len(a) else None;bm=float(b.median()) if len(b) else None
+            rows.append({'event_id':int(ei),'feature':col,'positive_n':len(a),'negative_n':len(b),'positive_median':am,'negative_median':bm,'difference_in_negative_iqr':(am-bm)/spread if am is not None and bm is not None and spread>0 else None})
+    return rows
+
+def common_directions(rows,event_count):
+    allowed=('early_','middle_','wash_','recent_','relative_','peer_','volume_up_','price_up_','price_efficiency','volatility_')
+    common=[]
+    for feature in sorted({x['feature'] for x in rows}):
+        if not feature.startswith(allowed):continue
+        q=[x for x in rows if x['feature']==feature and x['positive_n']>=5 and x['negative_n']>=10 and x['difference_in_negative_iqr'] is not None]
+        if len(q)!=event_count:continue
+        signs=[np.sign(x['difference_in_negative_iqr']) for x in q]
+        if len(set(signs))==1 and signs[0]!=0:
+            common.append({'feature':feature,'direction':'higher' if signs[0]>0 else 'lower','minimum_absolute_effect_iqr':float(min(abs(x['difference_in_negative_iqr']) for x in q))})
+    return sorted(common,key=lambda x:x['minimum_absolute_effect_iqr'],reverse=True)
+
 def main():
     OUT.mkdir(parents=True,exist_ok=True);CACHE.mkdir(exist_ok=True)
     cases=json.loads((ROOT/'research/bear_rebound_cases.json').read_text());u=include_registered_items(json.loads((ROOT/'firepulse_universe.json').read_text()),cases)
@@ -76,6 +99,8 @@ def main():
     if not frames:raise RuntimeError('No history')
     d,cols=add_stages(enrich(feature_frame(pd.concat(frames,ignore_index=True))[0]));latest=d[d.eligible].date.max()
     sample=event_samples(d,cases);folds=[];all_predictions={};selection=[]
+    contrasts=feature_contrasts(sample,cols);shared=common_directions(contrasts,len(cases['events']))
+    pd.DataFrame(contrasts).to_csv(OUT/'feature_contrasts.csv',index=False,encoding='utf-8-sig')
     for leaves in (7,15):
         chunks=[];records=[]
         for ei,event in enumerate(cases['events']):
@@ -109,13 +134,15 @@ def main():
         z=d[d.name.isin(names)&d.date.between(anchor-pd.Timedelta(days=60),anchor+pd.Timedelta(days=21))]
         feature_paths.append(z[['date','name','cn','eligible','close','volume']+cols].assign(event=event['dates'][0]))
     pd.concat(feature_paths).to_csv(OUT/'case_feature_paths.csv.gz',index=False,compression='gzip')
-    result={'version':'case-pattern-v1','asof':str(latest.date()),'loaded':len(frames),'requested':len(u),'failures':fail,'features':cols,'training_label_rule':'仅人工案例窗口且潜在涨幅>=15%且14日净收益>0为正；同期未点名且潜在涨幅<10%且14日净收益<=0为负；其余不标负','selected_leaves':chosen,'selection':selection,'event_holdout_metrics':[{'event':cases['events'][int(ei)]['dates'][0],**metrics(z)} for ei,z in held.groupby('event_id')],'apparent_fit_metrics':[{'event':cases['events'][int(ei)]['dates'][0],**metrics(z)} for ei,z in apparent.groupby('event_id')],'fee_sell':.01,'fee_buy':0,'slippage':0,'production_modified':False,'qualified_systems':[],'historically_tradable_validation':False,'limitations':['事件留一使用其他事件的训练标签；早期事件可能学到后期事件，属于回溯机制研究，不是当时可执行收益','模型复杂度也按这三个事件的平均AP选择，事件留一结果已参与开发，不能宣称最终独立测试','同一事件日共享市场变量，样本相关；案例数据有选择偏差','known_case_apparent_fit是训练案例拟合效果，不代表泛化','current_candidates只作新数据的前瞻研究记录；未完成独立事件验证']}
+    result={'version':'case-pattern-v1','asof':str(latest.date()),'loaded':len(frames),'requested':len(u),'failures':fail,'features':cols,'training_label_rule':'仅人工案例窗口且潜在涨幅>=15%且14日净收益>0为正；同期未点名且潜在涨幅<10%且14日净收益<=0为负；其余不标负','selected_leaves':chosen,'selection':selection,'common_feature_directions':shared,'event_holdout_metrics':[{'event':cases['events'][int(ei)]['dates'][0],**metrics(z)} for ei,z in held.groupby('event_id')],'apparent_fit_metrics':[{'event':cases['events'][int(ei)]['dates'][0],**metrics(z)} for ei,z in apparent.groupby('event_id')],'fee_sell':.01,'fee_buy':0,'slippage':0,'production_modified':False,'qualified_systems':[],'historically_tradable_validation':False,'limitations':['事件留一使用其他事件的训练标签；早期事件可能学到后期事件，属于回溯机制研究，不是当时可执行收益','模型复杂度也按这三个事件的平均AP选择，事件留一结果已参与开发，不能宣称最终独立测试','同一事件日共享市场变量，样本相关；案例数据有选择偏差','known_case_apparent_fit是训练案例拟合效果，不代表泛化','current_candidates只作新数据的前瞻研究记录；未完成独立事件验证']}
     (OUT/'validation.json').write_text(json.dumps(clean_json(result),ensure_ascii=False,indent=2,allow_nan=False))
     lines=['# 已知龙头形态学习：开发拟合与事件留一',f'截至{latest.date()}；加载{len(frames)}/{len(u)}；特征{len(cols)}项；复杂度{chosen}叶。','**本报告是回溯开发研究，不是历史上可交易的独立验证。**','人工案例身份仅用来构建训练标签，绝不作为模型输入；同时剔除尚未完成后续结果的训练样本。','正例要求已知案例当日之后仍有>=15%拉升潜力且14日净收益为正；同日失败商品作负例，未标注的赢家不强行当成负例。','轮流拿掉整段2月/5月/8月行情，用其余两段训练再排序该段；早期留一可能使用较晚事件，须与按时间滚动v3明确分开。','另列known_case_apparent_fit，直接反映开发模型能否记住这些形态；其效果不能当作样本外成绩。','±7日最佳名次为事后诊断，首次前30及其后收益同时保留。卖出1%、买入0、零滑点。','','| 事件 | 方法 | 可评估 | ±7日前30覆盖 |','|---|---|---:|---:|']
     for event in cases['events']:
         for method in ('event_holdout_retrospective','known_case_apparent_fit'):
             q=[x for x in windows if x['event']==event['dates'][0] and x['method']==method and x['top_k']==30]
             lines.append(f'| {event["dates"][0]} | {method} | {sum(x["days_evaluated"]>0 for x in q)}/{len(q)} | {sum(x["first_top_date"] is not None for x in q)} |')
+    lines+=['','## 三段行情同方向的描述性特征','这些是已选案例与失败对照的分布差异，不是因果证明；没有同方向特征时不强行宣称手法一致。','| 特征 | 成功案例相对对照 | 三事件最小差异/IQR |','|---|---|---:|']
+    for item in shared[:15]:lines.append(f'| {item["feature"]} | {item["direction"]} | {item["minimum_absolute_effect_iqr"]:.3f} |')
     lines+=['','## 研究边界',*['- '+x for x in result['limitations']],'','完整首次入榜见case_windows.csv；解释路径见case_feature_paths.csv.gz；所有同榜误报保留在逐日排名文件中。']
     text='\n'.join(lines)+'\n';(OUT/'report.md').write_text(text)
     if os.environ.get('GITHUB_STEP_SUMMARY'):Path(os.environ['GITHUB_STEP_SUMMARY']).write_text(text)

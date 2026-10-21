@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
 import numpy as np
-from rebound_case_learning import event_samples,fit,score_rows
+from rebound_case_learning import event_samples,fit,score_rows,feature_contrasts,common_directions
 class CaseChecks(unittest.TestCase):
     def test_unlabelled_winners_not_negative(self):
         d=pd.DataFrame({'date':pd.to_datetime(['2026-05-27']*4),'name':['case','winner','loser','neutral'],'eligible':True,'potential21':[.3,.4,.02,.12],'y14':[.2,.3,-.1,-.01]})
@@ -11,6 +11,11 @@ class CaseChecks(unittest.TestCase):
         self.assertEqual(z.loc['loser','learning_label'],0)
         self.assertTrue(pd.isna(z.loc['winner','learning_label']))
         self.assertTrue(pd.isna(z.loc['neutral','learning_label']))
+    def test_inconsistent_features_not_called_common(self):
+        rows=[{"event_id":i,"feature":"early_drift","positive_n":10,"negative_n":20,"difference_in_negative_iqr":sign} for i,sign in enumerate([1.,1.,-1.])]
+        self.assertEqual(common_directions(rows,3),[])
+        rows[-1]["difference_in_negative_iqr"]=.5
+        self.assertEqual(common_directions(rows,3)[0]["direction"],"higher")
     def test_name_changes_do_not_change_prediction(self):
         rng=np.random.default_rng(3);n=200
         d=pd.DataFrame({'a':rng.normal(size=n),'b':rng.normal(size=n),'date':pd.Timestamp('2026-01-01'),'name':['fixture']*n,'learning_label':[0,1]*(n//2)})
