@@ -1,0 +1,173 @@
+{
+  "version": "common-factors-development-v1",
+  "asof": "2026-10-20",
+  "loaded": 766,
+  "requested": 775,
+  "failures": [
+    {
+      "name": "M4A4 | Falak (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Desert Eagle | Eastern Enigma (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "AWP | Black Box (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "AUG | Lapis Lazuli (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "P250 | Lotus Imprint (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "CZ75-Auto | Hydraulics (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "M4A4 | Dark Operative (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    },
+    {
+      "name": "Tec-9 | Sultan (Factory New)",
+      "error": "Less than 100 valid completed bars"
+    }
+  ],
+  "selected_profile": 225,
+  "weights": {
+    "relative_lead": 0.4,
+    "relative_turn": 0.2,
+    "volume_step": 0.4,
+    "volatility_activation": 0.0,
+    "cold_peer": 0.0,
+    "early_participation": 0.0
+  },
+  "profiles_tested": 252,
+  "selection_objective": [
+    0.6666666666666666,
+    0.7777777777777777,
+    -81.44444444444444
+  ],
+  "coverage_goal": "前30且未来峰值潜力>=15%、固定7或14日净收益为正；未来结果仅用于开发目标，不用于当日过滤",
+  "folds": [
+    {
+      "held_event": "2026-02-09",
+      "selected_profile": 228,
+      "weights": {
+        "relative_lead": 0.4,
+        "relative_turn": 0.4,
+        "volume_step": 0.0,
+        "volatility_activation": 0.2,
+        "cold_peer": 0.0,
+        "early_participation": 0.0
+      }
+    },
+    {
+      "held_event": "2026-05-27",
+      "selected_profile": 179,
+      "weights": {
+        "relative_lead": 0.2,
+        "relative_turn": 0.2,
+        "volume_step": 0.4,
+        "volatility_activation": 0.2,
+        "cold_peer": 0.0,
+        "early_participation": 0.0
+      }
+    },
+    {
+      "held_event": "2026-08-22",
+      "selected_profile": 124,
+      "weights": {
+        "relative_lead": 0.0,
+        "relative_turn": 0.8,
+        "volume_step": 0.2,
+        "volatility_activation": 0.0,
+        "cold_peer": 0.0,
+        "early_participation": 0.0
+      }
+    }
+  ],
+  "metrics": [
+    {
+      "method": "development_selected",
+      "event": "2026-02-09",
+      "signals": 450,
+      "evaluated": 388,
+      "mean_net14": 0.04104493456160655,
+      "median_net14": 0.028821497580000188,
+      "win14": 0.5927835051546392,
+      "potential_hit": 0.42
+    },
+    {
+      "method": "development_selected",
+      "event": "2026-05-27",
+      "signals": 450,
+      "evaluated": 399,
+      "mean_net14": 0.13346824489046089,
+      "median_net14": 0.07921511627906974,
+      "win14": 0.6491228070175439,
+      "potential_hit": 0.5044444444444445
+    },
+    {
+      "method": "development_selected",
+      "event": "2026-08-22",
+      "signals": 450,
+      "evaluated": 337,
+      "mean_net14": -0.022629084686359394,
+      "median_net14": -0.04059999999999997,
+      "win14": 0.34124629080118696,
+      "potential_hit": 0.14666666666666667
+    },
+    {
+      "method": "event_holdout_development",
+      "event": "2026-02-09",
+      "signals": 450,
+      "evaluated": 409,
+      "mean_net14": 0.05463678759248548,
+      "median_net14": 0.024736842105263168,
+      "win14": 0.5501222493887531,
+      "potential_hit": 0.4711111111111111
+    },
+    {
+      "method": "event_holdout_development",
+      "event": "2026-05-27",
+      "signals": 450,
+      "evaluated": 405,
+      "mean_net14": 0.20407569392597752,
+      "median_net14": 0.12734342452437142,
+      "win14": 0.6765432098765433,
+      "potential_hit": 0.5955555555555555
+    },
+    {
+      "method": "event_holdout_development",
+      "event": "2026-08-22",
+      "signals": 450,
+      "evaluated": 361,
+      "mean_net14": 0.0015440773287955733,
+      "median_net14": -0.020743779777660176,
+      "win14": 0.4182825484764543,
+      "potential_hit": 0.2
+    }
+  ],
+  "fee_sell": 0.01,
+  "fee_buy": 0,
+  "slippage": 0,
+  "production_modified": false,
+  "qualified_systems": [],
+  "historically_tradable_validation": false,
+  "limitations": [
+    "六因子的发现已使用三个事件，因此事件留一也只是开发诊断，不能视作完全独立验证",
+    "权重网格直接按指定案例±7日排名选取，存在已知赢家与多重比较偏差",
+    "没有具体商品名称或ID加分；但缺失因子贡献0并显式显示覆盖率",
+    "最佳排名是事后窗口统计，不等于当时知道何时交易；首入榜日期与收益另列",
+    "仅研究日K代理成交与商品日统计，不是资金组合回测"
+  ]
+}

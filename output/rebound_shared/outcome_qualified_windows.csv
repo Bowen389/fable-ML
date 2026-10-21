@@ -1,0 +1,125 @@
+﻿event,name,cn,method,top_k,best_rank,best_date,first_top_date,first_days_vs_anchor,first_price_vs_anchor,first_net7,first_net14,days_evaluated,days_top_k
+2026-02-09,★ Bloodhound Gloves | Charred (Minimal Wear),血猎手套（★） | 焦炭 (略有磨损),development_selected,10,19.0,2026-02-12,,,,,,4,0
+2026-02-09,★ Bloodhound Gloves | Charred (Minimal Wear),血猎手套（★） | 焦炭 (略有磨损),development_selected,30,19.0,2026-02-12,2026-02-12,3.0,,0.06071428571428572,0.20918599999999987,4,3
+2026-02-09,★ Bloodhound Gloves | Snakebite (Minimal Wear),血猎手套（★） | 蛇咬 (略有磨损),development_selected,10,7.0,2026-02-13,2026-02-12,3.0,0.544776119402985,0.04863440611252612,0.21944894651539704,7,4
+2026-02-09,★ Bloodhound Gloves | Snakebite (Minimal Wear),血猎手套（★） | 蛇咬 (略有磨损),development_selected,30,7.0,2026-02-13,2026-02-12,3.0,0.544776119402985,0.04863440611252612,0.21944894651539704,7,4
+2026-02-09,★ Bloodhound Gloves | Guerrilla (Minimal Wear),血猎手套（★） | 游击队 (略有磨损),development_selected,10,4.0,2026-02-13,2026-02-13,4.0,,-0.010230232558139596,0.16152325581395344,3,2
+2026-02-09,★ Bloodhound Gloves | Guerrilla (Minimal Wear),血猎手套（★） | 游击队 (略有磨损),development_selected,30,4.0,2026-02-13,2026-02-13,4.0,,-0.010230232558139596,0.16152325581395344,3,2
+2026-02-09,★ Bloodhound Gloves | Bronzed (Minimal Wear),血猎手套（★） | 染铜 (略有磨损),development_selected,10,3.0,2026-02-10,2026-02-10,1.0,,0.624563206577595,0.4773689619732786,7,3
+2026-02-09,★ Bloodhound Gloves | Bronzed (Minimal Wear),血猎手套（★） | 染铜 (略有磨损),development_selected,30,3.0,2026-02-10,2026-02-10,1.0,,0.624563206577595,0.4773689619732786,7,4
+2026-02-09,★ Specialist Gloves | Foundation (Minimal Wear),专业手套（★） | 元勋 (略有磨损),development_selected,10,17.0,2026-02-10,,,,,,2,0
+2026-02-09,★ Specialist Gloves | Foundation (Minimal Wear),专业手套（★） | 元勋 (略有磨损),development_selected,30,17.0,2026-02-10,2026-02-10,1.0,0.09199591639027105,0.25451488990971005,0.22315103754158083,2,1
+2026-02-09,★ Specialist Gloves | Forest DDPAT (Minimal Wear),专业手套（★） | 森林 DDPAT (略有磨损),development_selected,10,2.0,2026-02-14,2026-02-12,3.0,0.4702879313865631,0.06640086498175424,0.2390052709825652,7,4
+2026-02-09,★ Specialist Gloves | Forest DDPAT (Minimal Wear),专业手套（★） | 森林 DDPAT (略有磨损),development_selected,30,2.0,2026-02-14,2026-02-10,1.0,0.0863794159689606,0.5237890904612732,0.5733108071704007,7,5
+2026-02-09,★ Specialist Gloves | Crimson Kimono (Minimal Wear),专业手套（★） | 深红和服 (略有磨损),development_selected,10,,,,,,,,0,0
+2026-02-09,★ Specialist Gloves | Crimson Kimono (Minimal Wear),专业手套（★） | 深红和服 (略有磨损),development_selected,30,,,,,,,,0,0
+2026-02-09,★ Specialist Gloves | Emerald Web (Minimal Wear),专业手套（★） | 翠绿之网 (略有磨损),development_selected,10,96.0,2026-02-08,,,,,,7,0
+2026-02-09,★ Specialist Gloves | Emerald Web (Minimal Wear),专业手套（★） | 翠绿之网 (略有磨损),development_selected,30,96.0,2026-02-08,,,,,,7,0
+2026-02-09,★ Moto Gloves | Boom! (Minimal Wear),摩托手套（★） | *嘣！* (略有磨损),development_selected,10,6.0,2026-02-12,2026-02-12,3.0,0.4687457508595405,0.060285381026438545,0.3625972006220839,8,2
+2026-02-09,★ Moto Gloves | Boom! (Minimal Wear),摩托手套（★） | *嘣！* (略有磨损),development_selected,30,6.0,2026-02-12,2026-02-12,3.0,0.4687457508595405,0.060285381026438545,0.3625972006220839,8,4
+2026-02-09,★ Moto Gloves | Eclipse (Minimal Wear),摩托手套（★） | 日蚀 (略有磨损),development_selected,10,5.0,2026-02-13,2026-02-12,3.0,0.4057507987220448,0.048728813559322015,0.36324258474576276,8,2
+2026-02-09,★ Moto Gloves | Eclipse (Minimal Wear),摩托手套（★） | 日蚀 (略有磨损),development_selected,30,5.0,2026-02-13,2026-02-12,3.0,0.4057507987220448,0.048728813559322015,0.36324258474576276,8,3
+2026-02-09,★ Moto Gloves | Cool Mint (Minimal Wear),摩托手套（★） | 清凉薄荷 (略有磨损),development_selected,10,13.0,2026-02-11,,,,,,5,0
+2026-02-09,★ Moto Gloves | Cool Mint (Minimal Wear),摩托手套（★） | 清凉薄荷 (略有磨损),development_selected,30,13.0,2026-02-11,2026-02-11,2.0,0.22744010546892768,0.10676923076923073,0.08950769230769229,5,2
+2026-02-09,★ Moto Gloves | Spearmint (Minimal Wear),摩托手套（★） | 薄荷 (略有磨损),development_selected,10,71.0,2026-02-08,,,,,,4,0
+2026-02-09,★ Moto Gloves | Spearmint (Minimal Wear),摩托手套（★） | 薄荷 (略有磨损),development_selected,30,71.0,2026-02-08,,,,,,4,0
+2026-02-09,★ Hand Wraps | Spruce DDPAT (Minimal Wear),裹手（★） | 云杉 DDPAT (略有磨损),development_selected,10,8.0,2026-02-14,2026-02-14,5.0,0.7313722562341347,-0.02666582914572857,0.23874371859296484,10,1
+2026-02-09,★ Hand Wraps | Spruce DDPAT (Minimal Wear),裹手（★） | 云杉 DDPAT (略有磨损),development_selected,30,8.0,2026-02-14,2026-02-12,3.0,0.5493504554278035,-0.002750491159135615,0.28006876227897837,10,4
+2026-02-09,★ Hand Wraps | Slaughter (Minimal Wear),裹手（★） | 屠夫 (略有磨损),development_selected,10,10.0,2026-02-11,2026-02-11,2.0,0.28059407441085105,0.1024082394800161,0.061481793437028864,5,1
+2026-02-09,★ Hand Wraps | Slaughter (Minimal Wear),裹手（★） | 屠夫 (略有磨损),development_selected,30,10.0,2026-02-11,2026-02-10,1.0,0.11373797075092829,0.2652668639053255,0.20674556213017747,5,2
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),裹手（★） | 恶土 (略有磨损),development_selected,10,3.0,2026-02-11,2026-02-11,2.0,0.2366230677764567,0.11454838709677406,0.19758064516129026,3,1
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),裹手（★） | 恶土 (略有磨损),development_selected,30,3.0,2026-02-11,2026-02-11,2.0,0.2366230677764567,0.11454838709677406,0.19758064516129026,3,1
+2026-02-09,★ Hand Wraps | Leather (Minimal Wear),裹手（★） | 皮革 (略有磨损),development_selected,10,4.0,2026-02-12,2026-02-12,3.0,0.5506920126730033,-0.015180829015544073,0.024675647668393808,4,1
+2026-02-09,★ Hand Wraps | Leather (Minimal Wear),裹手（★） | 皮革 (略有磨损),development_selected,30,4.0,2026-02-12,2026-02-12,3.0,0.5506920126730033,-0.015180829015544073,0.024675647668393808,4,1
+2026-02-09,★ Sport Gloves | Hedge Maze (Minimal Wear),运动手套（★） | 树篱迷宫 (略有磨损),development_selected,10,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Hedge Maze (Minimal Wear),运动手套（★） | 树篱迷宫 (略有磨损),development_selected,30,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Pandora's Box (Minimal Wear),运动手套（★） | 潘多拉之盒 (略有磨损),development_selected,10,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Pandora's Box (Minimal Wear),运动手套（★） | 潘多拉之盒 (略有磨损),development_selected,30,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Superconductor (Minimal Wear),运动手套（★） | 超导体 (略有磨损),development_selected,10,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Superconductor (Minimal Wear),运动手套（★） | 超导体 (略有磨损),development_selected,30,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Arid (Minimal Wear),运动手套（★） | 干旱 (略有磨损),development_selected,10,143.0,2026-02-10,,,,,,3,0
+2026-02-09,★ Sport Gloves | Arid (Minimal Wear),运动手套（★） | 干旱 (略有磨损),development_selected,30,143.0,2026-02-10,,,,,,3,0
+2026-02-09,★ Driver Gloves | Convoy (Minimal Wear),驾驶手套（★） | 护卫 (略有磨损),development_selected,10,16.0,2026-02-11,,,,,,14,0
+2026-02-09,★ Driver Gloves | Convoy (Minimal Wear),驾驶手套（★） | 护卫 (略有磨损),development_selected,30,16.0,2026-02-11,2026-02-11,2.0,0.21323529411764697,0.15732394366197178,0.14338028169014083,14,4
+2026-02-09,★ Driver Gloves | Lunar Weave (Minimal Wear),驾驶手套（★） | 月色织物 (略有磨损),development_selected,10,3.0,2026-02-12,2026-02-12,3.0,0.6567164179104477,0.2597839135654261,0.25027611044417775,4,1
+2026-02-09,★ Driver Gloves | Lunar Weave (Minimal Wear),驾驶手套（★） | 月色织物 (略有磨损),development_selected,30,3.0,2026-02-12,2026-02-12,3.0,0.6567164179104477,0.2597839135654261,0.25027611044417775,4,1
+2026-02-09,★ Driver Gloves | Crimson Weave (Minimal Wear),驾驶手套（★） | 深红织物 (略有磨损),development_selected,10,34.0,2026-02-10,,,,,,8,0
+2026-02-09,★ Driver Gloves | Crimson Weave (Minimal Wear),驾驶手套（★） | 深红织物 (略有磨损),development_selected,30,34.0,2026-02-10,,,,,,8,0
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),驾驶手套（★） | 菱背蛇纹 (略有磨损),development_selected,10,30.0,2026-02-10,,,,,,2,0
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),驾驶手套（★） | 菱背蛇纹 (略有磨损),development_selected,30,30.0,2026-02-10,2026-02-10,1.0,0.06771835321277409,0.4542897327707456,0.3728340365682139,2,1
+2026-05-27,USP-S | Cyrex (Factory New),USP消音版 | 次时代 (崭新出厂),development_selected,10,3.0,2026-05-30,2026-05-29,2.0,0.35588235294117654,0.22267281105990788,0.6788940092165898,15,2
+2026-05-27,USP-S | Cyrex (Factory New),USP消音版 | 次时代 (崭新出厂),development_selected,30,3.0,2026-05-30,2026-05-28,1.0,0.1977941176470588,0.5247288503253795,1.11196420824295,15,5
+2026-05-27,Glock-18 | Nuclear Garden (Factory New),格洛克18型 | 核子花园 (崭新出厂),development_selected,10,25.0,2026-05-29,,,,,,15,0
+2026-05-27,Glock-18 | Nuclear Garden (Factory New),格洛克18型 | 核子花园 (崭新出厂),development_selected,30,25.0,2026-05-29,2026-05-29,2.0,0.20616113744075837,0.2568852459016393,0.2190163934426228,15,1
+2026-05-27,FAMAS | Mecha Industries (Factory New),法玛斯 | 机械工业 (崭新出厂),development_selected,10,15.0,2026-05-29,,,,,,15,0
+2026-05-27,FAMAS | Mecha Industries (Factory New),法玛斯 | 机械工业 (崭新出厂),development_selected,30,15.0,2026-05-29,2026-05-28,1.0,0.04942693409742116,0.42669172932330834,0.8497368421052631,15,2
+2026-05-27,M4A1-S | Flashback (Factory New),M4A1消音版 | 闪回 (崭新出厂),development_selected,10,8.0,2026-05-27,2026-05-27,0.0,0.0,0.13951522684897455,0.5800498446239901,15,1
+2026-05-27,M4A1-S | Flashback (Factory New),M4A1消音版 | 闪回 (崭新出厂),development_selected,30,8.0,2026-05-27,2026-05-27,0.0,0.0,0.13951522684897455,0.5800498446239901,15,2
+2026-08-22,AK-47 | Asiimov (Factory New),AK-47 | 二西莫夫 (崭新出厂),development_selected,10,13.0,2026-08-26,,,,,,12,0
+2026-08-22,AK-47 | Asiimov (Factory New),AK-47 | 二西莫夫 (崭新出厂),development_selected,30,13.0,2026-08-26,2026-08-24,2.0,0.01020942408376957,0.3069937483011689,0.2539820603424843,12,2
+2026-08-22,AK-47 | Neon Rider (Factory New),AK-47 | 霓虹骑士 (崭新出厂),development_selected,10,23.0,2026-08-18,,,,,,11,0
+2026-08-22,AK-47 | Neon Rider (Factory New),AK-47 | 霓虹骑士 (崭新出厂),development_selected,30,23.0,2026-08-18,2026-08-18,-4.0,-0.13809880239520955,0.10639365918097754,0.3470277410832232,11,1
+2026-08-22,AK-47 | Case Hardened (Factory New),AK-47 | 表面淬火 (崭新出厂),development_selected,10,97.0,2026-08-19,,,,,,13,0
+2026-08-22,AK-47 | Case Hardened (Factory New),AK-47 | 表面淬火 (崭新出厂),development_selected,30,97.0,2026-08-19,,,,,,13,0
+2026-02-09,★ Bloodhound Gloves | Charred (Minimal Wear),血猎手套（★） | 焦炭 (略有磨损),event_holdout_development,10,23.0,2026-02-12,,,,,,4,0
+2026-02-09,★ Bloodhound Gloves | Charred (Minimal Wear),血猎手套（★） | 焦炭 (略有磨损),event_holdout_development,30,23.0,2026-02-12,2026-02-12,3.0,,0.06071428571428572,0.20918599999999987,4,3
+2026-02-09,★ Bloodhound Gloves | Snakebite (Minimal Wear),血猎手套（★） | 蛇咬 (略有磨损),event_holdout_development,10,7.0,2026-02-13,2026-02-13,4.0,0.6115671641791045,0.020000000000000018,0.17692307692307674,7,3
+2026-02-09,★ Bloodhound Gloves | Snakebite (Minimal Wear),血猎手套（★） | 蛇咬 (略有磨损),event_holdout_development,30,7.0,2026-02-13,2026-02-12,3.0,0.544776119402985,0.04863440611252612,0.21944894651539704,7,4
+2026-02-09,★ Bloodhound Gloves | Guerrilla (Minimal Wear),血猎手套（★） | 游击队 (略有磨损),event_holdout_development,10,5.0,2026-02-13,2026-02-12,3.0,,0.02657411656723263,0.18082147774208335,3,3
+2026-02-09,★ Bloodhound Gloves | Guerrilla (Minimal Wear),血猎手套（★） | 游击队 (略有磨损),event_holdout_development,30,5.0,2026-02-13,2026-02-12,3.0,,0.02657411656723263,0.18082147774208335,3,3
+2026-02-09,★ Bloodhound Gloves | Bronzed (Minimal Wear),血猎手套（★） | 染铜 (略有磨损),event_holdout_development,10,4.0,2026-02-12,2026-02-10,1.0,,0.624563206577595,0.4773689619732786,7,3
+2026-02-09,★ Bloodhound Gloves | Bronzed (Minimal Wear),血猎手套（★） | 染铜 (略有磨损),event_holdout_development,30,4.0,2026-02-12,2026-02-10,1.0,,0.624563206577595,0.4773689619732786,7,5
+2026-02-09,★ Specialist Gloves | Foundation (Minimal Wear),专业手套（★） | 元勋 (略有磨损),event_holdout_development,10,55.0,2026-02-10,,,,,,2,0
+2026-02-09,★ Specialist Gloves | Foundation (Minimal Wear),专业手套（★） | 元勋 (略有磨损),event_holdout_development,30,55.0,2026-02-10,,,,,,2,0
+2026-02-09,★ Specialist Gloves | Forest DDPAT (Minimal Wear),专业手套（★） | 森林 DDPAT (略有磨损),event_holdout_development,10,2.0,2026-02-16,2026-02-12,3.0,0.4702879313865631,0.06640086498175424,0.2390052709825652,7,4
+2026-02-09,★ Specialist Gloves | Forest DDPAT (Minimal Wear),专业手套（★） | 森林 DDPAT (略有磨损),event_holdout_development,30,2.0,2026-02-16,2026-02-12,3.0,0.4702879313865631,0.06640086498175424,0.2390052709825652,7,4
+2026-02-09,★ Specialist Gloves | Crimson Kimono (Minimal Wear),专业手套（★） | 深红和服 (略有磨损),event_holdout_development,10,,,,,,,,0,0
+2026-02-09,★ Specialist Gloves | Crimson Kimono (Minimal Wear),专业手套（★） | 深红和服 (略有磨损),event_holdout_development,30,,,,,,,,0,0
+2026-02-09,★ Specialist Gloves | Emerald Web (Minimal Wear),专业手套（★） | 翠绿之网 (略有磨损),event_holdout_development,10,135.0,2026-02-08,,,,,,7,0
+2026-02-09,★ Specialist Gloves | Emerald Web (Minimal Wear),专业手套（★） | 翠绿之网 (略有磨损),event_holdout_development,30,135.0,2026-02-08,,,,,,7,0
+2026-02-09,★ Moto Gloves | Boom! (Minimal Wear),摩托手套（★） | *嘣！* (略有磨损),event_holdout_development,10,13.0,2026-02-12,,,,,,8,0
+2026-02-09,★ Moto Gloves | Boom! (Minimal Wear),摩托手套（★） | *嘣！* (略有磨损),event_holdout_development,30,13.0,2026-02-12,2026-02-12,3.0,0.4687457508595405,0.060285381026438545,0.3625972006220839,8,5
+2026-02-09,★ Moto Gloves | Eclipse (Minimal Wear),摩托手套（★） | 日蚀 (略有磨损),event_holdout_development,10,18.0,2026-02-13,,,,,,8,0
+2026-02-09,★ Moto Gloves | Eclipse (Minimal Wear),摩托手套（★） | 日蚀 (略有磨损),event_holdout_development,30,18.0,2026-02-13,2026-02-12,3.0,0.4057507987220448,0.048728813559322015,0.36324258474576276,8,4
+2026-02-09,★ Moto Gloves | Cool Mint (Minimal Wear),摩托手套（★） | 清凉薄荷 (略有磨损),event_holdout_development,10,16.0,2026-02-11,,,,,,5,0
+2026-02-09,★ Moto Gloves | Cool Mint (Minimal Wear),摩托手套（★） | 清凉薄荷 (略有磨损),event_holdout_development,30,16.0,2026-02-11,2026-02-11,2.0,0.22744010546892768,0.10676923076923073,0.08950769230769229,5,2
+2026-02-09,★ Moto Gloves | Spearmint (Minimal Wear),摩托手套（★） | 薄荷 (略有磨损),event_holdout_development,10,187.0,2026-02-08,,,,,,4,0
+2026-02-09,★ Moto Gloves | Spearmint (Minimal Wear),摩托手套（★） | 薄荷 (略有磨损),event_holdout_development,30,187.0,2026-02-08,,,,,,4,0
+2026-02-09,★ Hand Wraps | Spruce DDPAT (Minimal Wear),裹手（★） | 云杉 DDPAT (略有磨损),event_holdout_development,10,2.0,2026-02-14,2026-02-12,3.0,0.5493504554278035,-0.002750491159135615,0.28006876227897837,10,4
+2026-02-09,★ Hand Wraps | Spruce DDPAT (Minimal Wear),裹手（★） | 云杉 DDPAT (略有磨损),event_holdout_development,30,2.0,2026-02-14,2026-02-12,3.0,0.5493504554278035,-0.002750491159135615,0.28006876227897837,10,5
+2026-02-09,★ Hand Wraps | Slaughter (Minimal Wear),裹手（★） | 屠夫 (略有磨损),event_holdout_development,10,6.0,2026-02-11,2026-02-11,2.0,0.28059407441085105,0.1024082394800161,0.061481793437028864,5,1
+2026-02-09,★ Hand Wraps | Slaughter (Minimal Wear),裹手（★） | 屠夫 (略有磨损),event_holdout_development,30,6.0,2026-02-11,2026-02-11,2.0,0.28059407441085105,0.1024082394800161,0.061481793437028864,5,1
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),裹手（★） | 恶土 (略有磨损),event_holdout_development,10,19.0,2026-02-11,,,,,,3,0
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),裹手（★） | 恶土 (略有磨损),event_holdout_development,30,19.0,2026-02-11,2026-02-11,2.0,0.2366230677764567,0.11454838709677406,0.19758064516129026,3,1
+2026-02-09,★ Hand Wraps | Leather (Minimal Wear),裹手（★） | 皮革 (略有磨损),event_holdout_development,10,6.0,2026-02-12,2026-02-12,3.0,0.5506920126730033,-0.015180829015544073,0.024675647668393808,4,1
+2026-02-09,★ Hand Wraps | Leather (Minimal Wear),裹手（★） | 皮革 (略有磨损),event_holdout_development,30,6.0,2026-02-12,2026-02-11,2.0,0.23194930798732694,0.06329587612237209,0.06978977364374428,4,2
+2026-02-09,★ Sport Gloves | Hedge Maze (Minimal Wear),运动手套（★） | 树篱迷宫 (略有磨损),event_holdout_development,10,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Hedge Maze (Minimal Wear),运动手套（★） | 树篱迷宫 (略有磨损),event_holdout_development,30,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Pandora's Box (Minimal Wear),运动手套（★） | 潘多拉之盒 (略有磨损),event_holdout_development,10,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Pandora's Box (Minimal Wear),运动手套（★） | 潘多拉之盒 (略有磨损),event_holdout_development,30,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Superconductor (Minimal Wear),运动手套（★） | 超导体 (略有磨损),event_holdout_development,10,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Superconductor (Minimal Wear),运动手套（★） | 超导体 (略有磨损),event_holdout_development,30,,,,,,,,0,0
+2026-02-09,★ Sport Gloves | Arid (Minimal Wear),运动手套（★） | 干旱 (略有磨损),event_holdout_development,10,67.0,2026-02-10,,,,,,3,0
+2026-02-09,★ Sport Gloves | Arid (Minimal Wear),运动手套（★） | 干旱 (略有磨损),event_holdout_development,30,67.0,2026-02-10,,,,,,3,0
+2026-02-09,★ Driver Gloves | Convoy (Minimal Wear),驾驶手套（★） | 护卫 (略有磨损),event_holdout_development,10,5.0,2026-02-11,2026-02-11,2.0,0.21323529411764697,0.15732394366197178,0.14338028169014083,14,3
+2026-02-09,★ Driver Gloves | Convoy (Minimal Wear),驾驶手套（★） | 护卫 (略有磨损),event_holdout_development,30,5.0,2026-02-11,2026-02-11,2.0,0.21323529411764697,0.15732394366197178,0.14338028169014083,14,5
+2026-02-09,★ Driver Gloves | Lunar Weave (Minimal Wear),驾驶手套（★） | 月色织物 (略有磨损),event_holdout_development,10,1.0,2026-02-12,2026-02-11,2.0,0.28358208955223874,0.4849999999999999,0.3873868918918917,4,2
+2026-02-09,★ Driver Gloves | Lunar Weave (Minimal Wear),驾驶手套（★） | 月色织物 (略有磨损),event_holdout_development,30,1.0,2026-02-12,2026-02-11,2.0,0.28358208955223874,0.4849999999999999,0.3873868918918917,4,2
+2026-02-09,★ Driver Gloves | Crimson Weave (Minimal Wear),驾驶手套（★） | 深红织物 (略有磨损),event_holdout_development,10,28.0,2026-02-10,,,,,,8,0
+2026-02-09,★ Driver Gloves | Crimson Weave (Minimal Wear),驾驶手套（★） | 深红织物 (略有磨损),event_holdout_development,30,28.0,2026-02-10,2026-02-10,1.0,0.07487579843860903,0.1914290054689083,0.11737852947133898,8,1
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),驾驶手套（★） | 菱背蛇纹 (略有磨损),event_holdout_development,10,76.0,2026-02-10,,,,,,2,0
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),驾驶手套（★） | 菱背蛇纹 (略有磨损),event_holdout_development,30,76.0,2026-02-10,,,,,,2,0
+2026-05-27,USP-S | Cyrex (Factory New),USP消音版 | 次时代 (崭新出厂),event_holdout_development,10,21.0,2026-05-30,,,,,,15,0
+2026-05-27,USP-S | Cyrex (Factory New),USP消音版 | 次时代 (崭新出厂),event_holdout_development,30,21.0,2026-05-30,2026-05-29,2.0,0.35588235294117654,0.22267281105990788,0.6788940092165898,15,2
+2026-05-27,Glock-18 | Nuclear Garden (Factory New),格洛克18型 | 核子花园 (崭新出厂),event_holdout_development,10,20.0,2026-05-23,,,,,,15,0
+2026-05-27,Glock-18 | Nuclear Garden (Factory New),格洛克18型 | 核子花园 (崭新出厂),event_holdout_development,30,20.0,2026-05-23,2026-05-21,-6.0,-0.09246445497630329,0.5270000000000001,1.1854999999999998,15,4
+2026-05-27,FAMAS | Mecha Industries (Factory New),法玛斯 | 机械工业 (崭新出厂),event_holdout_development,10,38.0,2026-05-29,,,,,,15,0
+2026-05-27,FAMAS | Mecha Industries (Factory New),法玛斯 | 机械工业 (崭新出厂),event_holdout_development,30,38.0,2026-05-29,,,,,,15,0
+2026-05-27,M4A1-S | Flashback (Factory New),M4A1消音版 | 闪回 (崭新出厂),event_holdout_development,10,11.0,2026-05-27,,,,,,15,0
+2026-05-27,M4A1-S | Flashback (Factory New),M4A1消音版 | 闪回 (崭新出厂),event_holdout_development,30,11.0,2026-05-27,2026-05-27,0.0,0.0,0.13951522684897455,0.5800498446239901,15,2
+2026-08-22,AK-47 | Asiimov (Factory New),AK-47 | 二西莫夫 (崭新出厂),event_holdout_development,10,28.0,2026-08-26,,,,,,12,0
+2026-08-22,AK-47 | Asiimov (Factory New),AK-47 | 二西莫夫 (崭新出厂),event_holdout_development,30,28.0,2026-08-26,2026-08-26,4.0,-0.01675392670157072,0.15867535545023692,0.0650710900473932,12,1
+2026-08-22,AK-47 | Neon Rider (Factory New),AK-47 | 霓虹骑士 (崭新出厂),event_holdout_development,10,45.0,2026-08-20,,,,,,11,0
+2026-08-22,AK-47 | Neon Rider (Factory New),AK-47 | 霓虹骑士 (崭新出厂),event_holdout_development,30,45.0,2026-08-20,,,,,,11,0
+2026-08-22,AK-47 | Case Hardened (Factory New),AK-47 | 表面淬火 (崭新出厂),event_holdout_development,10,165.0,2026-08-15,,,,,,13,0
+2026-08-22,AK-47 | Case Hardened (Factory New),AK-47 | 表面淬火 (崭新出厂),event_holdout_development,30,165.0,2026-08-15,,,,,,13,0
