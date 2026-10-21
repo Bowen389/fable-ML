@@ -1,11 +1,18 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-10-21T10:45:23.256311+08:00",
+  "generated_at": "2026-10-21T17:04:55.516456+08:00",
   "asof": "2026-10-20",
   "items_requested": 773,
   "items_loaded": 716,
   "rows": 922416,
   "daily_rows": 661,
+  "scoring_pool_status_counts": {
+    "可评分": 661,
+    "历史不足": 57,
+    "量能条件不足": 37,
+    "研究品类排除": 43,
+    "低于价格门槛": 18
+  },
   "failures": [
     {
       "name": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
@@ -104,11 +111,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "Glock-18 | Fully Tuned (Factory New)",
+      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+      "name": "Glock-18 | Fully Tuned (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {

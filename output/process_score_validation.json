@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
   "asof": "2026-10-20",
-  "generated_at": "2026-10-21T10:43:43.102502+08:00",
+  "generated_at": "2026-10-21T17:01:10.787217+08:00",
   "source": "Firepulse public interface",
   "price_basis": "youpin daily OHLC",
   "volume_basis": "all-platform proxy",
@@ -17,11 +17,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
