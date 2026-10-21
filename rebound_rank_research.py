@@ -32,7 +32,7 @@ def enrich(d):
         path=pd.concat([c.shift(-j)/c.shift(-1)-1 for j in range(1,16)],axis=1)
         d.loc[g.index,'mae14']=path.min(axis=1).where(d.loc[g.index,'y14'].notna())
     # Outcome ranks are labels ONLY; never passed to model or heuristic.
-    rank=d.y7.where(d.eligible).groupby(d.date).rank(ascending=False,method='min')
+    rank=d.y7.where(d.eligible).groupby(d.date).rank(ascending=False,method='first')
     d['winner7']=(rank.le(30)&d.y7.gt(0)).astype(float).where(d.y7.notna())
     return d
 
@@ -43,7 +43,7 @@ def rank_value(value):
     return int(value) if pd.notna(value) else None
 
 def daily_rank(d,score):
-    return score.groupby(d.date).rank(ascending=False,method='min')
+    return score.groupby(d.date).rank(ascending=False,method='first')
 
 def measure(z):
     e=z[z.y14.notna()]

@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from rebound_rank_research import enrich,samples_before,COLS,rank_value
+from rebound_rank_research import enrich,samples_before,COLS,rank_value,daily_rank
 from bear_rebound_research import feature_frame
 import test_bear_rebound
 class RankChecks(unittest.TestCase):
@@ -15,6 +15,10 @@ class RankChecks(unittest.TestCase):
         q=samples_before(d,'2026-02-01')
         self.assertEqual(len(q),2)
         self.assertTrue((q.date+pd.Timedelta(days=15)<pd.Timestamp('2026-02-01')).all())
+    def test_exact_top_k_with_ties(self):
+        d=pd.DataFrame({"date":pd.to_datetime(["2026-01-01"]*4)})
+        ranks=daily_rank(d,pd.Series([1.,1.,1.,1.]))
+        self.assertEqual(ranks.le(2).sum(),2)
     def test_missing_rank_preserved(self):
         self.assertIsNone(rank_value(float("nan")))
         self.assertEqual(rank_value(3.),3)
