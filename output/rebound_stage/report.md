@@ -124,4 +124,4 @@
 | 2026-08-22 | selected | 3/3 | 0 |
 
 逐日名次见case_daily.csv，首次入榜及最佳日期见case_windows.csv；当前研究候选不等于买入推荐。
-精确磨损补采：[{"name": "★ Sport Gloves | Hedge Maze (Minimal Wear)", "resolved_id": "640174305739308770", "status": "exact_match"}, {"name": "★ Sport Gloves | Pandora's Box (Minimal Wear)", "resolved_id": "8244171592052627335", "status": "exact_match"}]
+精确磨损补采：[]
