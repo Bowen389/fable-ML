@@ -6,7 +6,8 @@ from pathlib import Path
 import joblib
 import numpy as np
 import pandas as pd
-from sklearn.ensemble import HistGradientBoostingRegressor
+from sklearn.ensemble import HistGradientBoostingRegressor,HistGradientBoostingClassifier
+from sklearn.metrics import average_precision_score
 from bear_rebound_research import feature_frame,net_ratio
 from leader_research import CACHE,collect
 ROOT=Path(__file__).resolve().parent
@@ -69,6 +70,22 @@ def fit_pick(d,start):
         if best is None or objective>best[0]:best=(objective,model,leaves)
     return best[1],{'start':str(start.date()),'train_n':len(train),'cal_n':len(cal),'train_last_label':str((train.date.max()+pd.Timedelta(days=15)).date()),'cal_last_label':str((cal.date.max()+pd.Timedelta(days=15)).date()),'selected_leaves':best[2],'attempts':attempts}
 
+def fit_leader(d,start):
+    start=pd.Timestamp(start);calstart=start-pd.Timedelta(days=120)
+    available=samples_before(d,start)
+    train=available[available.date+pd.Timedelta(days=15)<calstart]
+    cal=available[available.date>=calstart]
+    if train.winner7.nunique()<2 or cal.winner7.nunique()<2:raise ValueError('Insufficient leader classes')
+    best=None;attempts=[]
+    for leaves in (7,15):
+        model=HistGradientBoostingClassifier(max_leaf_nodes=leaves,max_iter=100,learning_rate=.05,l2_regularization=20,min_samples_leaf=100,early_stopping=False,class_weight='balanced',random_state=42)
+        model.fit(train[COLS],train.winner7)
+        pred=model.predict_proba(cal[COLS])[:,1]
+        ap=float(average_precision_score(cal.winner7,pred))
+        attempts.append({'leaves':leaves,'cal_average_precision':ap})
+        if best is None or ap>best[0]:best=(ap,model,leaves)
+    return best[1],{'selected_leaves':best[2],'attempts':attempts,'train_n':len(train),'cal_n':len(cal),'class_output':'balanced model raw score, not calibrated probability'}
+
 def main():
     OUT.mkdir(parents=True,exist_ok=True);CACHE.mkdir(exist_ok=True)
     today=pd.Timestamp.now(tz='Asia/Shanghai').tz_localize(None).normalize()
@@ -87,8 +104,9 @@ def main():
     splits=[('2026_Q1','2026-01-01','2026-04-01'),('2026_Q2','2026-04-01','2026-07-01'),('2026_Q3','2026-07-01','2026-10-01'),('2026_Q4_partial','2026-10-01',str((latest+pd.Timedelta(days=1)).date()))]
     predictions=[];folds=[]
     for label,lo,hi in splits:
-        model,meta=fit_pick(d,lo);meta['window']=label
+        model,meta=fit_pick(d,lo);leader,lmeta=fit_leader(d,lo);meta['leader_model']=lmeta;meta['window']=label
         z=d[d.eligible&d.date.ge(lo)&d.date.lt(hi)].copy()
+        z['leader_score']=leader.predict_proba(z[COLS])[:,1];z['leader_rank']=daily_rank(z,z.leader_score)
         z['model_score']=model.predict(z[COLS]);z['model_rank']=daily_rank(z,z.model_score);z['heuristic_rank']=daily_rank(z,z.heuristic)
         folds.append(meta);predictions.append(z);print('FOLD',label,'selected',meta['selected_leaves'],'rows',len(z),flush=True)
     pred=pd.concat(predictions,ignore_index=True)
@@ -99,7 +117,7 @@ def main():
             q=z if context=='all' else z[z.bear_context] if context=='bear' else z[z.environment_ok]
             # Ranks remain global; environmental filtering never renumbers candidates.
             base=q.y14.mean()
-            for method,col in [('fixed_evidence','heuristic_rank'),('return_model','model_rank')]:
+            for method,col in [('fixed_evidence','heuristic_rank'),('return_model','model_rank'),('leader_classifier','leader_rank')]:
                 for K in (10,30):
                     top=q[q[col]<=K];m=measure(top)
                     winners=q[q.winner7.eq(1)]
@@ -110,24 +128,26 @@ def main():
         anchor=pd.Timestamp(event['dates'][0])
         for item in event.get('members',event.get('cases',[])):
             z=pred[pred.name.eq(item['name'])&pred.date.between(anchor-pd.Timedelta(days=14),anchor+pd.Timedelta(days=14))]
-            for method,col in [('fixed_evidence','heuristic_rank'),('return_model','model_rank')]:
+            for method,col in [('fixed_evidence','heuristic_rank'),('return_model','model_rank'),('leader_classifier','leader_rank')]:
                 for offset in (-7,-3,0,3,7):
                     date=anchor+pd.Timedelta(days=offset);q=z[z.date.eq(date)]
                     x=q.iloc[0] if len(q) else None
                     case_rows.append({'event':str(anchor.date()),'date':str(date.date()),'name':item['name'],'cn':item['cn'],'method':method,'rank':rank_value(x[col]) if x is not None else None,'pool':int(pred.date.eq(date).sum()),'net7':float(x.y7) if x is not None and pd.notna(x.y7) else None,'net14':float(x.y14) if x is not None and pd.notna(x.y14) else None,'status':('evaluated' if pd.notna(x[col]) else 'missing_evidence') if x is not None else 'missing_or_ineligible'})
     # Fit final model only with labels complete before prediction date; research output only.
     model,meta=fit_pick(d,latest);current=d[d.eligible&d.date.eq(latest)].copy()
+    leader,lmeta=fit_leader(d,latest);meta['leader_model']=lmeta
+    current['leader_score']=leader.predict_proba(current[COLS])[:,1];current['leader_rank']=daily_rank(current,current.leader_score)
     current['model_score']=model.predict(current[COLS]);current['rank']=daily_rank(current,current.model_score)
     current['reference_score']=100*(1-(current['rank']-1)/max(len(current)-1,1))
     current['status']='研究候选，未获买入资格'
-    current.sort_values('rank')[['date','name','cn','id','close','rank','reference_score','accumulation','uniformity','support','strength','risk','environment_ok','status']].to_csv(OUT/'current_candidates.csv',index=False,encoding='utf-8-sig')
-    joblib.dump(model,OUT/'research_model.joblib')
+    current.sort_values('rank')[['date','name','cn','id','close','rank','leader_rank','reference_score','accumulation','uniformity','support','strength','risk','environment_ok','status']].to_csv(OUT/'current_candidates.csv',index=False,encoding='utf-8-sig')
+    joblib.dump({'return_model':model,'leader_classifier':leader,'features':COLS},OUT/'research_model.joblib')
     pd.DataFrame(case_rows).to_csv(OUT/'case_rankings.csv',index=False,encoding='utf-8-sig')
-    pred[['date','name','model_rank','heuristic_rank','model_score','heuristic','y7','y14','mae14','winner7','bear_context','environment_ok']].to_csv(OUT/'historical_rankings.csv.gz',index=False,compression='gzip')
-    result={'version':'independent-rebound-rank-v1','asof':str(latest.date()),'items_requested':len(u),'items_loaded':len(frames),'failures':fail,'features':COLS,'folds':folds,'current_fit':meta,'summaries':summaries,'fee_sell':.01,'fee_buy':0,'slippage':0,'qualified_systems':[],'production_modified':False,'validation_status':'历史滚动诊断；人工事件已公开，不构成未见市场事件；无自动晋级'}
+    pred[['date','name','model_rank','leader_rank','heuristic_rank','model_score','leader_score','heuristic','y7','y14','mae14','winner7','bear_context','environment_ok']].to_csv(OUT/'historical_rankings.csv.gz',index=False,compression='gzip')
+    result={'version':'independent-rebound-rank-v2','asof':str(latest.date()),'items_requested':len(u),'items_loaded':len(frames),'failures':fail,'features':COLS,'folds':folds,'current_fit':meta,'summaries':summaries,'fee_sell':.01,'fee_buy':0,'slippage':0,'qualified_systems':[],'production_modified':False,'validation_status':'历史滚动诊断；人工事件已公开，不构成未见市场事件；无自动晋级'}
     (OUT/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))
     pct=lambda x:'—' if x is None else f'{x:.2%}'
-    lines=['# 熊市反弹龙头排序研究',f'截至{latest.date()}；数据{len(frames)}/{len(u)}件。现行评分公式未改。','卖出手续费1%，买入0，滑点0；信号后次日收盘代理入场，7/14自然日收盘退出。','模型只用显式白名单特征；按季度扩展训练，校准段120日，训练与校准标签均在各自边界前完成。两个复杂度只按校准段风险调整净收益选择。','模型预测14日净收益+0.3×14日收盘最大不利变动；正向收益训练截断100%，负向截断−80%。固定先验分作对照，不按点名商品加分。','未来7日净收益正且当日可评估池前30仅为事后龙头标签，不进入特征。排名按全池，熊市/局部修复为分组评价。','分数是当日排序映射，不是盈利概率。每日重复候选与持仓重叠；以下为商品日统计，不是独立交易或资金组合收益。','固定池有存活偏差，历史修订和已知事件构成研究局限；缺日/量无法完成标签的样本被排除，要结合信号数与可评估数判断。','无真实会员身份/成本；承接是价格量能代理，缺历史求购不倒填。两款略磨缺ID仍明确缺失。','**目前不授予正式买入资格；通过历史诊断也必须冻结模型并接受前瞻验证。**','','| 时段 | 环境 | 模型 | 前K | 信号/结果 | 14日净均值 | 同池基准 | 胜率 | 7日龙头召回 |','|---|---|---|---:|---:|---:|---:|---:|']
+    lines=['# 熊市反弹龙头排序研究',f'截至{latest.date()}；数据{len(frames)}/{len(u)}件。现行评分公式未改。','卖出手续费1%，买入0，滑点0；信号后次日收盘代理入场，7/14自然日收盘退出。','模型只用显式白名单特征；按季度扩展训练，校准段120日，训练与校准标签均在各自边界前完成。两个复杂度只按校准段风险调整净收益选择。','模型预测14日净收益+0.3×14日收盘最大不利变动；正向收益训练截断100%，负向截断−80%。固定先验分作对照，不按点名商品加分。','另加平衡类别HGB分类器直接学习未来7日净收益正且当日可评估池前30；两个复杂度仅按校准段平均精确率选择。分类器原始输出不是校准概率。未来标签不进入特征。排名按全池，熊市/局部修复为分组评价。','分数是当日排序映射，不是盈利概率。每日重复候选与持仓重叠；以下为商品日统计，不是独立交易或资金组合收益。','固定池有存活偏差，历史修订和已知事件构成研究局限；缺日/量无法完成标签的样本被排除，要结合信号数与可评估数判断。','无真实会员身份/成本；承接是价格量能代理，缺历史求购不倒填。两款略磨缺ID仍明确缺失。','**目前不授予正式买入资格；通过历史诊断也必须冻结模型并接受前瞻验证。**','','| 时段 | 环境 | 模型 | 前K | 信号/结果 | 14日净均值 | 同池基准 | 胜率 | 7日龙头召回 |','|---|---|---|---:|---:|---:|---:|---:|']
     for s in summaries:
         lines.append(f'| {s["window"]} | {s["context"]} | {s["method"]} | {s["top_k"]} | {s["signals"]}/{s["n"]} | {pct(s["mean14"])} | {pct(s["baseline_mean14"])} | {pct(s["win14"])} | {pct(s["winner_recall7"])} |')
     lines+=['','逐案例−7/−3/0/+3/+7日排名与收益见case_rankings.csv；每日完整排名见historical_rankings.csv.gz；当前研究候选见current_candidates.csv。']
