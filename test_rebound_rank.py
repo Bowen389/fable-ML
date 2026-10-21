@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from rebound_rank_research import enrich,samples_before,COLS
+from rebound_rank_research import enrich,samples_before,COLS,rank_value
 from bear_rebound_research import feature_frame
 import test_bear_rebound
 class RankChecks(unittest.TestCase):
@@ -15,6 +15,9 @@ class RankChecks(unittest.TestCase):
         q=samples_before(d,'2026-02-01')
         self.assertEqual(len(q),2)
         self.assertTrue((q.date+pd.Timedelta(days=15)<pd.Timestamp('2026-02-01')).all())
+    def test_missing_rank_preserved(self):
+        self.assertIsNone(rank_value(float("nan")))
+        self.assertEqual(rank_value(3.),3)
     def test_no_identity_or_labels(self):
         self.assertFalse(set(COLS)&{'name','id','cn','winner7','y7','y14','mae14'})
 if __name__=='__main__':unittest.main()

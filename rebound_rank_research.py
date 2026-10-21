@@ -39,6 +39,9 @@ def enrich(d):
 def samples_before(d,boundary):
     return d[d.eligible&d.y14.notna()&(d.date+pd.Timedelta(days=15)<pd.Timestamp(boundary))]
 
+def rank_value(value):
+    return int(value) if pd.notna(value) else None
+
 def daily_rank(d,score):
     return score.groupby(d.date).rank(ascending=False,method='min')
 
@@ -111,7 +114,7 @@ def main():
                 for offset in (-7,-3,0,3,7):
                     date=anchor+pd.Timedelta(days=offset);q=z[z.date.eq(date)]
                     x=q.iloc[0] if len(q) else None
-                    case_rows.append({'event':str(anchor.date()),'date':str(date.date()),'name':item['name'],'cn':item['cn'],'method':method,'rank':int(x[col]) if x is not None else None,'pool':int(pred.date.eq(date).sum()),'net7':float(x.y7) if x is not None and pd.notna(x.y7) else None,'net14':float(x.y14) if x is not None and pd.notna(x.y14) else None,'status':'evaluated' if x is not None else 'missing_or_ineligible'})
+                    case_rows.append({'event':str(anchor.date()),'date':str(date.date()),'name':item['name'],'cn':item['cn'],'method':method,'rank':rank_value(x[col]) if x is not None else None,'pool':int(pred.date.eq(date).sum()),'net7':float(x.y7) if x is not None and pd.notna(x.y7) else None,'net14':float(x.y14) if x is not None and pd.notna(x.y14) else None,'status':('evaluated' if pd.notna(x[col]) else 'missing_evidence') if x is not None else 'missing_or_ineligible'})
     # Fit final model only with labels complete before prediction date; research output only.
     model,meta=fit_pick(d,latest);current=d[d.eligible&d.date.eq(latest)].copy()
     current['model_score']=model.predict(current[COLS]);current['rank']=daily_rank(current,current.model_score)
