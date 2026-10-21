@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "focus": "熊市反弹",
   "events": [
     {
@@ -8,8 +8,208 @@
         "2026-02-10"
       ],
       "group": "一代手套，略有磨损",
-      "exact_members_status": "待按发行代际核对；不能用全部略磨手套替代",
-      "empirically_verified": false
+      "exact_members_status": "用户明确指定六类共24款，全部限定Minimal Wear；22款已匹配，2款缺精确磨损ID",
+      "empirically_verified": false,
+      "members": [
+        {
+          "name": "★ Bloodhound Gloves | Charred (Minimal Wear)",
+          "cn": "血猎手套（★） | 焦炭 (略有磨损)",
+          "id": "1926576747180746349",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Bloodhound Gloves | Snakebite (Minimal Wear)",
+          "cn": "血猎手套（★） | 蛇咬 (略有磨损)",
+          "id": "3858021357242564276",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Bloodhound Gloves | Guerrilla (Minimal Wear)",
+          "cn": "血猎手套（★） | 游击队 (略有磨损)",
+          "id": "7993535841188227469",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
+          "cn": "血猎手套（★） | 染铜 (略有磨损)",
+          "id": "6634699327941262153",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Specialist Gloves | Foundation (Minimal Wear)",
+          "cn": "专业手套（★） | 元勋 (略有磨损)",
+          "id": "5021703235186835170",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Specialist Gloves | Forest DDPAT (Minimal Wear)",
+          "cn": "专业手套（★） | 森林 DDPAT (略有磨损)",
+          "id": "786600940225956799",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Specialist Gloves | Crimson Kimono (Minimal Wear)",
+          "cn": "专业手套（★） | 深红和服 (略有磨损)",
+          "id": "3049230258094845719",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Specialist Gloves | Emerald Web (Minimal Wear)",
+          "cn": "专业手套（★） | 翠绿之网 (略有磨损)",
+          "id": "3789681113879681955",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Moto Gloves | Boom! (Minimal Wear)",
+          "cn": "摩托手套（★） | *嘣！* (略有磨损)",
+          "id": "1258692388183203353",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+          "cn": "摩托手套（★） | 日蚀 (略有磨损)",
+          "id": "3416666501845980555",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+          "cn": "摩托手套（★） | 清凉薄荷 (略有磨损)",
+          "id": "4979760929928932525",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Moto Gloves | Spearmint (Minimal Wear)",
+          "cn": "摩托手套（★） | 薄荷 (略有磨损)",
+          "id": "2786938686485230807",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+          "cn": "裹手（★） | 云杉 DDPAT (略有磨损)",
+          "id": "2070703168529767726",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Hand Wraps | Slaughter (Minimal Wear)",
+          "cn": "裹手（★） | 屠夫 (略有磨损)",
+          "id": "5391046059965573862",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Hand Wraps | Badlands (Minimal Wear)",
+          "cn": "裹手（★） | 恶土 (略有磨损)",
+          "id": "1166087850306748955",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Hand Wraps | Leather (Minimal Wear)",
+          "cn": "裹手（★） | 皮革 (略有磨损)",
+          "id": "4846707569022081127",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Sport Gloves | Hedge Maze (Minimal Wear)",
+          "cn": "运动手套（★） | 树篱迷宫 (略有磨损)",
+          "id": null,
+          "mapping_status": "missing_exact_wear_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Sport Gloves | Pandora's Box (Minimal Wear)",
+          "cn": "运动手套（★） | 潘多拉之盒 (略有磨损)",
+          "id": null,
+          "mapping_status": "missing_exact_wear_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Sport Gloves | Superconductor (Minimal Wear)",
+          "cn": "运动手套（★） | 超导体 (略有磨损)",
+          "id": "4702501213402260675",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Sport Gloves | Arid (Minimal Wear)",
+          "cn": "运动手套（★） | 干旱 (略有磨损)",
+          "id": "8838952631552499184",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Driver Gloves | Convoy (Minimal Wear)",
+          "cn": "驾驶手套（★） | 护卫 (略有磨损)",
+          "id": "5660976324743502162",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+          "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
+          "id": "5718277887552591517",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Driver Gloves | Crimson Weave (Minimal Wear)",
+          "cn": "驾驶手套（★） | 深红织物 (略有磨损)",
+          "id": "8050666389189566156",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        },
+        {
+          "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+          "cn": "驾驶手套（★） | 菱背蛇纹 (略有磨损)",
+          "id": "6543295844858820545",
+          "mapping_status": "exact_in_current_universe",
+          "label_source": "user_supplied_first_generation_group",
+          "empirically_verified": false
+        }
+      ],
+      "coverage": {
+        "requested": 24,
+        "exact_ids": 22,
+        "missing_exact_ids": 2,
+        "history_coverage_verified": false
+      }
     },
     {
       "dates": [
@@ -88,5 +288,7 @@
         }
       ]
     }
-  ]
+  ],
+  "production_score_change_allowed": false,
+  "research_mode": "independent_comparison"
 }
