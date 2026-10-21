@@ -11,6 +11,7 @@ from process_score import refresh_item,process_features,evidence_score
 from leader_research import ROOT,CACHE,features,net
 from cs2.features import _days_since_ext
 from cs2.rules import load_rules
+from pool_audit import write_pool_audit
 
 VERSION='regime-multifactor-v1'
 FACTORS=['量能','承接代理','趋势','波动风险','相对强度','过程结构']
@@ -204,6 +205,7 @@ def main():
     out=ROOT/'output';out.mkdir(exist_ok=True)
     today=pd.Timestamp.now(tz='Asia/Shanghai').tz_localize(None).normalize()
     universe=json.loads((ROOT/'firepulse_universe.json').read_text())
+    full_universe=list(universe)
     excluded=('Nova |','XM1014 |','MAG-7 |','Sawed-Off |','Negev |','M249 |','R8 Revolver |')
     universe=[x for x in universe if not x['name'].startswith(excluded)]
     cats=pd.read_csv(ROOT/'universe.csv');catmap=dict(zip(cats.name.astype(str),cats.cat.astype(str)))
@@ -221,6 +223,7 @@ def main():
     raw=pd.concat(frames,ignore_index=True);print('MULTIFACTOR_DATA',len(frames),len(raw),flush=True)
     d=process_features(features(raw));d,m,sectors=original_and_factor_features(d,universe)
     latest=d[d.eligible].groupby('name').date.max().value_counts().idxmax();d=d[d.date<=latest].copy()
+    pool_audit=write_pool_audit(full_universe,failed,d,latest,out)
     rules=load_rules();masks=entry_masks(d,rules)
     split=latest-pd.Timedelta(days=90);development_end=latest-pd.Timedelta(days=270)
     rolling_edges=pd.date_range(latest-pd.Timedelta(days=121),latest-pd.Timedelta(days=31),periods=4)
@@ -301,7 +304,7 @@ def main():
     scores.to_csv(out/'daily_multifactor_scores.csv',index=False,encoding='utf-8-sig')
     sectors[sectors.date.eq(latest)].to_csv(out/'multifactor_sector_snapshot.csv',index=False,encoding='utf-8-sig')
     manifest={'version':VERSION,'generated_at':now,'asof':str(latest.date()),'items_requested':len(universe),'items_loaded':len(frames),
-        'rows':len(raw),'daily_rows':len(scores),'failures':failed,'source':'Firepulse YOUPIN prices; global all-platform volume proxy',
+        'rows':len(raw),'daily_rows':len(scores),'scoring_pool_status_counts':pool_audit['status_counts'],'failures':failed,'source':'Firepulse YOUPIN prices; global all-platform volume proxy',
         'calibration_start':str(development_end.date()),'validation_start':str(split.date()),'profiles':PROFILES,'entry_methods':ENTRIES,
         'rolling_signal_start':str(rolling_edges[0].date()),'rolling_signal_end':str(rolling_edges[-1].date()),
         'total_search_combinations_including_rolling':total_trials,'results':results,'qualified_systems':[r['id'] for r in results if r['qualified']],
@@ -354,3 +357,4 @@ def main():
     print('MULTIFACTOR_COMPLETE',json.dumps({k:manifest[k] for k in ['asof','daily_rows','qualified_systems','daily_allowed_rows','total_search_combinations_including_rolling']},ensure_ascii=False),flush=True)
 
 if __name__=='__main__':main()
+

@@ -18,7 +18,7 @@ def main():
     manifest=json.loads((ROOT/'output/process_score_validation.json').read_text())
     asof=manifest['asof'];version=manifest['version']
     paths=['output/process_score_report.md','output/process_score_validation.json','output/daily_process_scores.csv']
-    extra=['output/multifactor_report.md','output/multifactor_validation.json','output/daily_multifactor_scores.csv','output/multifactor_sector_snapshot.csv']
+    extra=['output/multifactor_report.md','output/multifactor_validation.json','output/daily_multifactor_scores.csv','output/multifactor_sector_snapshot.csv','output/score_pool_status.json']
     paths += [p for p in extra if (ROOT/p).exists()]
     entries=[{'path':p,'mode':'100644','type':'blob','content':(ROOT/p).read_text(encoding='utf-8-sig')} for p in paths]
     # Immutable first score snapshot for each data day and algorithm version; latest reports may be refreshed.
@@ -47,3 +47,4 @@ def main():
             time.sleep(5)
 
 if __name__=='__main__':main()
+

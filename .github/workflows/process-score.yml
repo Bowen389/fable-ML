@@ -7,6 +7,7 @@ on:
     paths:
       - 'process_score.py'
       - 'multifactor_research.py'
+      - 'pool_audit.py'
       - 'publish_process_scores.py'
       - '.github/workflows/process-score.yml'
 permissions:
@@ -52,6 +53,8 @@ jobs:
         run: python -u process_score.py
       - name: Check historical scores cannot see future data
         run: python verify_multifactor_causality.py
+      - name: Verify per-item scoring eligibility diagnostics
+        run: python -m unittest -v test_pool_audit.py
       - name: Compare regime-conditioned multifactor entry methods
         run: python -u multifactor_research.py
       - name: Publish daily scores and immutable dated snapshot
@@ -68,6 +71,7 @@ jobs:
             output/process_return_model.joblib
             output/daily_process_scores.csv
             output/multifactor_*
+            output/score_pool_status.json
             output/daily_multifactor_scores.csv
             research_cache
           retention-days: 30
@@ -76,3 +80,4 @@ jobs:
         with:
           path: research_cache
           key: firepulse-process-v1-${{ github.run_id }}
+
