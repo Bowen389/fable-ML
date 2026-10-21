@@ -17,6 +17,14 @@ ROOT=Path(__file__).resolve().parent
 OUT=ROOT/'output'/'rebound_stage'
 SPECS={'stage7_global':('winner7',None),'stage21_global':('winner21',None),'stage21_recent':('winner21',540)}
 
+def clean_json(value):
+    if isinstance(value,dict):return {k:clean_json(v) for k,v in value.items()}
+    if isinstance(value,(list,tuple)):return [clean_json(v) for v in value]
+    if isinstance(value,(float,np.floating)):return float(value) if np.isfinite(value) else None
+    if isinstance(value,np.integer):return int(value)
+    if isinstance(value,np.bool_):return bool(value)
+    return value
+
 def norm(s):return ''.join(unicodedata.normalize('NFKC',str(s)).casefold().split())
 
 def exact_search(payload,item):
@@ -197,7 +205,7 @@ def main():
     current.sort_values('selected_rank')[['date','name','cn','id','close','selected_rank','status']+[k+'_rank' for k in SPECS]+['early_drift','early_vol_change','middle_return','middle_volume','wash_return','wash_support','wash_contraction','recent_volume_step','relative_7','peer_momentum_7','environment_ok']].to_csv(OUT/'current_candidates.csv',index=False,encoding='utf-8-sig')
     joblib.dump({'models':models,'features':cols,'selection':audit},OUT/'models.joblib')
     result={'version':'stage-rebound-v3','asof':str(latest.date()),'items_requested':len(universe),'items_loaded':len(frames),'failures':fail,'exact_wear_resolution':resolution,'features':cols,'folds':folds,'current_fit':audit,'summaries':summaries,'fee_buy':0,'fee_sell':.01,'slippage':0,'production_modified':False,'qualified_systems':[],'manual_case_labels_used_in_training':False,'validation_status':'反复研究后的历史滚动诊断，需独立事件及前瞻验证','data_hashes':{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in CACHE.glob('*.gz')}}
-    (OUT/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))
+    (OUT/'validation.json').write_text(json.dumps(clean_json(result),ensure_ascii=False,indent=2,allow_nan=False))
     pct=lambda v:'—' if v is None else f'{v:.2%}'
     lines=['# 时序阶段反弹龙头研究 v3',f'截至{latest.date()}，加载{len(frames)}/{len(universe)}件，输入{len(cols)}项。现行评分未改。','成本：买入0、卖出1%、滑点0。次日收盘代理入场，真实日K不保证可成交。','新增蓄势（此前21至60日）、中段量价台阶（此前7至21日）、洗盘（此前2至7日）、当前放量的相对顺序；全平台量与悠悠价格分别使用。承接及会员建仓仍为代理。','比较未来7日涨幅前30目标，以及未来第7至21日收盘最大净涨幅至少15%且前30的潜力目标；后者是事后标签，绝非保证可在峰值卖出。实际收益仍列固定7/14日结果。','三个固定模型按季度训练，120日校准，22日标签隔离；近期模型只训练校准日前540日。跨目标按校准AP相对基准率的提升选择，不查看点名案例或预测季度结果选模。','人工案例只用于回放诊断，不输入身份、不加商品奖金。经过多轮已看历史结果，不能把2026年称为完全未见事件。','±7日最优名次仅是事后窗口诊断；首次入榜日期、与锚点价格差、入榜后固定收益同时保留，避免只展示涨后好看的日期。','每日商品日信号重叠，不是独立交易或组合收益。退出收益缺失按缺失保留。还没有通过完整买入验证的系统。','','| 时段 | 环境 | 模型 | 前K | 结果n | 14日净均值 | 胜率 | 潜力龙头召回 |','|---|---|---|---:|---:|---:|---:|']
     for s in summaries:lines.append(f'| {s["window"]} | {s["context"]} | {s["method"]} | {s["top_k"]} | {s["n"]} | {pct(s["mean14"])} | {pct(s["win14"])} | {pct(s["potential_recall"])} |')

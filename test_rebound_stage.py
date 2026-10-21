@@ -4,7 +4,7 @@ import pandas as pd
 import test_bear_rebound
 from bear_rebound_research import feature_frame
 from rebound_rank_research import enrich
-from rebound_stage_research import add_stages,split_before,window_summary,exact_search
+from rebound_stage_research import add_stages,split_before,window_summary,exact_search,clean_json
 class StageChecks(unittest.TestCase):
     def test_features_ignore_future(self):
         raw=test_bear_rebound.Checks().raw();a,cols=add_stages(enrich(feature_frame(raw)[0]));cut=raw.date.iloc[130]
@@ -23,6 +23,10 @@ class StageChecks(unittest.TestCase):
         q=pd.DataFrame({'date':pd.date_range('2026-05-26',periods=3),'rank':[20,100,1],'close':[100.,110,130],'y7':[.1,.2,.3],'y14':[.1,.2,.3]})
         s=window_summary(q,anchor,'rank',30)
         self.assertEqual(s['first_top_date'],'2026-05-26');self.assertEqual(s['best_date'],'2026-05-28');self.assertEqual(s['days_top_k'],2)
+    def test_json_missing_values(self):
+        import json
+        x=clean_json({"a":float("nan"),"b":[float("inf"),np.float64(2.)]})
+        self.assertEqual(json.loads(json.dumps(x,allow_nan=False)),{"a":None,"b":[None,2.]})
     def test_exact_wear_only(self):
         item={'name':'Glove (Minimal Wear)','cn':'手套 (略有磨损)'}
         self.assertIsNone(exact_search({'data':[{'name':'Glove (Field-Tested)','id':'1234567890123456'}]},item))
