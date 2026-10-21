@@ -1,3 +1,11 @@
+## 三次盘中参考入口（2026-10-21新增）
+
+[最新盘中报告](https://github.com/Bowen389/up/blob/main/data/intraday_latest.md) · [报价与每日求购明细](https://github.com/Bowen389/up/blob/main/data/intraday_scores_latest.csv)
+
+日线模型仍每天10:15计划计算一次。悠悠仓库使用已有凭据，在北京时间11:15、15:15、21:15刷新挂牌报价并合并日线评分；求购仍每天17:07由原任务采集一次，盘中只复用最新快照。三种时间分别标注，不把过期求购称为实时承接，不把盘中价格倒填为完整日K。
+
+---
+
 ## 2026-10-20 新增：市场/板块条件下的多因子研究评分
 
 - [每日多因子报告](output/multifactor_report.md) · [全池评分、触发、未满足条件](output/daily_multifactor_scores.csv) · [完整公式](docs/multifactor_formula.md)。
