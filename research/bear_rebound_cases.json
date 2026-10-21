@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "focus": "熊市反弹",
+  "events": [
+    {
+      "dates": [
+        "2026-02-09",
+        "2026-02-10"
+      ],
+      "group": "一代手套，略有磨损",
+      "exact_members_status": "待按发行代际核对；不能用全部略磨手套替代",
+      "empirically_verified": false
+    },
+    {
+      "dates": [
+        "2026-05-27"
+      ],
+      "cases": [
+        {
+          "name": "USP-S | Cyrex (Factory New)",
+          "cn": "USP消音版 | 次时代 (崭新出厂)",
+          "id": "3942739586799084362",
+          "event_date": "2026-05-27",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        },
+        {
+          "name": "Glock-18 | Nuclear Garden (Factory New)",
+          "cn": "格洛克18型 | 核子花园 (崭新出厂)",
+          "id": "3151181931628298670",
+          "event_date": "2026-05-27",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        },
+        {
+          "name": "FAMAS | Mecha Industries (Factory New)",
+          "cn": "法玛斯 | 机械工业 (崭新出厂)",
+          "id": "6371396571026541862",
+          "event_date": "2026-05-27",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        },
+        {
+          "name": "M4A1-S | Flashback (Factory New)",
+          "cn": "M4A1消音版 | 闪回 (崭新出厂)",
+          "id": "771593967545262571",
+          "event_date": "2026-05-27",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        }
+      ]
+    },
+    {
+      "dates": [
+        "2026-08-22"
+      ],
+      "cases": [
+        {
+          "name": "AK-47 | Asiimov (Factory New)",
+          "cn": "AK-47 | 二西莫夫 (崭新出厂)",
+          "id": "57885205488778631",
+          "event_date": "2026-08-22",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        },
+        {
+          "name": "AK-47 | Neon Rider (Factory New)",
+          "cn": "AK-47 | 霓虹骑士 (崭新出厂)",
+          "id": "6307801186722482985",
+          "event_date": "2026-08-22",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        },
+        {
+          "name": "AK-47 | Case Hardened (Factory New)",
+          "cn": "AK-47 | 表面淬火 (崭新出厂)",
+          "id": "3813742019565312408",
+          "event_date": "2026-08-22",
+          "wear_status": "研究池现有FN版本；用户未指定磨损，不能视为已确认",
+          "label_source": "user_case_annotation",
+          "empirically_verified": false
+        }
+      ]
+    }
+  ]
+}
