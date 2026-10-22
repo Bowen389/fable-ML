@@ -1,0 +1,189 @@
+{
+  "version": "daily-coil-v1",
+  "asof": "2026-10-21",
+  "generated_at": "2026-10-22T13:38:19.845749+08:00",
+  "expected_completed_date": "2026-10-21",
+  "status": "ok",
+  "loaded": 764,
+  "requested": 775,
+  "failures": [
+    {
+      "name": "M4A4 | Falak (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "Desert Eagle | Eastern Enigma (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "AWP | Black Box (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "AUG | Lapis Lazuli (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "P250 | Lotus Imprint (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "CZ75-Auto | Hydraulics (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "M4A4 | Dark Operative (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "Tec-9 | Sultan (Factory New)",
+      "error": "Less than 100 observed bars"
+    },
+    {
+      "name": "★ Sport Gloves | Hedge Maze (Minimal Wear)",
+      "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/640174305739308770.json.gz'"
+    },
+    {
+      "name": "★ Sport Gloves | Pandora's Box (Minimal Wear)",
+      "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
+    }
+  ],
+  "daily_rows": 711,
+  "market_ok": true,
+  "buy_validated": false,
+  "production_scoring_modified": false,
+  "new_requests": 0,
+  "training_runs": 0,
+  "price_basis": "悠悠日K",
+  "volume_basis": "全平台成交量代理",
+  "lists": {
+    "sequence": [
+      {
+        "name": "FAMAS | Styx (Factory New)",
+        "cn": "法玛斯 | 冥界之憎 (崭新出厂)",
+        "close": 920.0,
+        "sequence": 72.61737946841443,
+        "bear_start": 77.20301522502119,
+        "early_coil": 71.48680670278854,
+        "shape_state": "蓄势后量能激活代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.1分；持续放量17.8分；量价台阶14.2分"
+      },
+      {
+        "name": "P250 | Black & Tan (Factory New)",
+        "cn": "P250 | 潜藏者 (崭新出厂)",
+        "close": 70.0,
+        "sequence": 66.23065260634672,
+        "bear_start": 68.88423437626656,
+        "early_coil": 57.36841932505607,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "持续放量20.0分；缩量洗盘代理13.7分；量价台阶13.6分"
+      },
+      {
+        "name": "AUG | Random Access (Factory New)",
+        "cn": "AUG | 随机存取 (崭新出厂)",
+        "close": 74.0,
+        "sequence": 55.69133540013876,
+        "bear_start": 49.32538880833346,
+        "early_coil": 67.40961737029487,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.4分；支撑与空间10.9分；量价台阶10.2分"
+      },
+      {
+        "name": "M4A4 | Red DDPAT (Factory New)",
+        "cn": "M4A4 | 红色 DDPAT (崭新出厂)",
+        "close": 988.99,
+        "sequence": 54.82661325463561,
+        "bear_start": 67.65597549995151,
+        "early_coil": 46.85165714332994,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.8251805985552141,
+        "reasons": "持续放量17.3分；量价台阶15.0分；相对同类领先10.0分"
+      },
+      {
+        "name": "M4A1-S | Atomic Alloy (Factory New)",
+        "cn": "M4A1消音版 | 原子合金 (崭新出厂)",
+        "close": 1343.0,
+        "sequence": 52.96433356447049,
+        "bear_start": 59.523764298700726,
+        "early_coil": 55.161776139117656,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理17.3分；量价台阶13.0分；相对同类领先10.0分"
+      }
+    ],
+    "early_coil": [
+      {
+        "name": "FAMAS | Styx (Factory New)",
+        "cn": "法玛斯 | 冥界之憎 (崭新出厂)",
+        "close": 920.0,
+        "sequence": 72.61737946841443,
+        "bear_start": 77.20301522502119,
+        "early_coil": 71.48680670278854,
+        "shape_state": "蓄势后量能激活代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.1分；持续放量17.8分；量价台阶14.2分"
+      },
+      {
+        "name": "AUG | Random Access (Factory New)",
+        "cn": "AUG | 随机存取 (崭新出厂)",
+        "close": 74.0,
+        "sequence": 55.69133540013876,
+        "bear_start": 49.32538880833346,
+        "early_coil": 67.40961737029487,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.4分；支撑与空间10.9分；量价台阶10.2分"
+      },
+      {
+        "name": "AUG | Torque (Factory New)",
+        "cn": "AUG | 力矩 (崭新出厂)",
+        "close": 53.8,
+        "sequence": 52.55666332173523,
+        "bear_start": 52.230496523649784,
+        "early_coil": 61.96643162156377,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理15.8分；量价台阶14.1分；相对同类领先10.0分"
+      },
+      {
+        "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+        "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
+        "close": 659.0,
+        "sequence": 51.27679413966056,
+        "bear_start": 52.49660868854321,
+        "early_coil": 61.12670597609081,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理15.5分；量价台阶10.3分；相对同类领先10.0分"
+      },
+      {
+        "name": "P250 | Black & Tan (Factory New)",
+        "cn": "P250 | 潜藏者 (崭新出厂)",
+        "close": 70.0,
+        "sequence": 66.23065260634672,
+        "bear_start": 68.88423437626656,
+        "early_coil": 57.36841932505607,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "持续放量20.0分；缩量洗盘代理13.7分；量价台阶13.6分"
+      }
+    ]
+  }
+}
