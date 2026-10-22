@@ -3,210 +3,210 @@
     "name":"P250 | Hive (Factory New)",
     "close":35.85,
     "regime":0,
-    "score":0.9932794223,
-    "T0_percentile":0.9458762887
+    "score":1.0806864519,
+    "T0_percentile":0.9627727856
   },
   {
-    "name":"Tec-9 | Phoenix Chalk (Factory New)",
-    "close":53.78,
+    "name":"CZ75-Auto | Syndicate (Factory New)",
+    "close":74.99,
     "regime":0,
-    "score":0.9788630321,
-    "T0_percentile":0.9097938144
+    "score":1.0152374377,
+    "T0_percentile":0.8087291399
   },
   {
-    "name":"AK-47 | Steel Delta (Factory New)",
-    "close":49.2,
+    "name":"P2000 | Scorpion (Factory New)",
+    "close":258.0,
     "regime":0,
-    "score":0.9371988865,
-    "T0_percentile":0.9201030928
-  },
-  {
-    "name":"P2000 | Space Race (Factory New)",
-    "close":99.86,
-    "regime":0,
-    "score":0.9349702306,
-    "T0_percentile":0.8273195876
-  },
-  {
-    "name":"AUG | Arctic Wolf (Factory New)",
-    "close":42.5,
-    "regime":0,
-    "score":0.78940007,
-    "T0_percentile":0.8157216495
-  },
-  {
-    "name":"P2000 | Red FragCam (Factory New)",
-    "close":79.88,
-    "regime":0,
-    "score":0.6807562957,
-    "T0_percentile":0.9523195876
-  },
-  {
-    "name":"P250 | Contamination (Factory New)",
-    "close":33.26,
-    "regime":0,
-    "score":0.6371684161,
-    "T0_percentile":0.9716494845
+    "score":0.935062607,
+    "T0_percentile":0.9319640565
   },
   {
     "name":"AUG | Torque (Factory New)",
-    "close":53.79,
+    "close":53.8,
     "regime":0,
-    "score":0.6191935806,
-    "T0_percentile":0.9420103093
+    "score":0.8462406233,
+    "T0_percentile":0.8934531451
   },
   {
-    "name":"SSG 08 | Detour (Factory New)",
-    "close":132.5,
+    "name":"P250 | Contamination (Factory New)",
+    "close":33.05,
     "regime":0,
-    "score":0.6130497889,
-    "T0_percentile":0.8659793814
+    "score":0.8060239551,
+    "T0_percentile":0.9756097561
   },
   {
     "name":"MP7 | Asterion (Factory New)",
-    "close":47.58,
+    "close":47.78,
     "regime":0,
-    "score":0.542510284,
-    "T0_percentile":0.9149484536
+    "score":0.6881921773,
+    "T0_percentile":0.9127086008
   },
   {
-    "name":"M4A1-S | Boreal Forest (Factory New)",
-    "close":48.26,
+    "name":"MP7 | Neon Ply (Factory New)",
+    "close":70.7,
     "regime":0,
-    "score":0.5411976253,
-    "T0_percentile":0.7886597938
+    "score":0.6382172032,
+    "T0_percentile":0.8498074454
   },
   {
-    "name":"P250 | Vino Primo (Factory New)",
-    "close":71.04,
+    "name":"P250 | Dark Filigree (Factory New)",
+    "close":37.7,
     "regime":0,
-    "score":0.5073704499,
-    "T0_percentile":0.8711340206
+    "score":0.6167528152,
+    "T0_percentile":0.9435173299
   },
   {
-    "name":"Five-SeveN | Hot Shot (Factory New)",
-    "close":199.41,
+    "name":"FAMAS | Macabre (Factory New)",
+    "close":47.05,
     "regime":0,
-    "score":0.5065479359,
-    "T0_percentile":0.9059278351
+    "score":0.5746222565,
+    "T0_percentile":0.8164313222
+  },
+  {
+    "name":"MP7 | Impire (Factory New)",
+    "close":39.47,
+    "regime":0,
+    "score":0.5246770156,
+    "T0_percentile":0.971758665
+  },
+  {
+    "name":"Glock-18 | Off World (Factory New)",
+    "close":54.6,
+    "regime":0,
+    "score":0.5008169332,
+    "T0_percentile":0.9871630295
+  },
+  {
+    "name":"Tec-9 | Phoenix Chalk (Factory New)",
+    "close":58.0,
+    "regime":0,
+    "score":0.4826880216,
+    "T0_percentile":0.9807445443
+  },
+  {
+    "name":"FAMAS | Hexane (Factory New)",
+    "close":39.66,
+    "regime":0,
+    "score":0.47130781,
+    "T0_percentile":0.8305519897
   },
   {
     "name":"Glock-18 | Red Tire (Factory New)",
-    "close":62.9,
+    "close":63.5,
     "regime":0,
-    "score":0.4969557387,
-    "T0_percentile":0.9536082474
+    "score":0.4711418495,
+    "T0_percentile":0.998716303
   },
   {
-    "name":"Five-SeveN | Copper Galaxy (Factory New)",
-    "close":90.79,
+    "name":"PP-Bizon | Cobalt Halftone (Factory New)",
+    "close":32.5,
     "regime":0,
-    "score":0.4493802393,
-    "T0_percentile":0.9304123711
+    "score":0.4708567548,
+    "T0_percentile":0.9897304236
   },
   {
     "name":"Tec-9 | Jambiya (Factory New)",
     "close":31.65,
     "regime":0,
-    "score":0.44057261,
-    "T0_percentile":0.8427835052
-  },
-  {
-    "name":"Glock-18 | Ironwork (Factory New)",
-    "close":303.0,
-    "regime":0,
-    "score":0.4310131821,
-    "T0_percentile":0.9355670103
-  },
-  {
-    "name":"P250 | Forest Night (Factory New)",
-    "close":54.0,
-    "regime":0,
-    "score":0.4267447591,
-    "T0_percentile":0.9394329897
-  },
-  {
-    "name":"Dual Berettas | Moon in Libra (Factory New)",
-    "close":31.04,
-    "regime":0,
-    "score":0.4055745345,
-    "T0_percentile":0.7268041237
-  },
-  {
-    "name":"Tec-9 | Blue Titanium (Factory New)",
-    "close":149.25,
-    "regime":0,
-    "score":0.4039443478,
-    "T0_percentile":0.8775773196
-  },
-  {
-    "name":"P250 | Dark Filigree (Factory New)",
-    "close":39.0,
-    "regime":0,
-    "score":0.3860405164,
-    "T0_percentile":0.881443299
-  },
-  {
-    "name":"Five-SeveN | Triumvirate (Factory New)",
-    "close":66.6,
-    "regime":0,
-    "score":0.3826901117,
-    "T0_percentile":0.9574742268
-  },
-  {
-    "name":"CZ75-Auto | Syndicate (Factory New)",
-    "close":76.38,
-    "regime":0,
-    "score":0.3812593659,
-    "T0_percentile":0.6481958763
-  },
-  {
-    "name":"Galil AR | Vandal (Factory New)",
-    "close":54.97,
-    "regime":0,
-    "score":0.3800578659,
-    "T0_percentile":0.6932989691
+    "score":0.4490688923,
+    "T0_percentile":0.9525032092
   },
   {
     "name":"MAC-10 | Nuclear Garden (Factory New)",
-    "close":145.56,
+    "close":147.49,
     "regime":0,
-    "score":0.3661241623,
-    "T0_percentile":0.993556701
+    "score":0.4229711212,
+    "T0_percentile":0.8767650834
   },
   {
-    "name":"P250 | Undertow (Factory New)",
-    "close":210.1,
+    "name":"Galil AR | Vandal (Factory New)",
+    "close":56.29,
     "regime":0,
-    "score":0.3619481304,
-    "T0_percentile":0.7474226804
+    "score":0.4217612026,
+    "T0_percentile":0.8433889602
   },
   {
-    "name":"P2000 | Scorpion (Factory New)",
-    "close":267.6,
+    "name":"P250 | Forest Night (Factory New)",
+    "close":53.46,
     "regime":0,
-    "score":0.3616889034,
-    "T0_percentile":0.8518041237
+    "score":0.4113715943,
+    "T0_percentile":0.9268292683
   },
   {
-    "name":"P250 | Crimson Kimono (Factory New)",
-    "close":115.9,
+    "name":"SSG 08 | Detour (Factory New)",
+    "close":132.3,
     "regime":0,
-    "score":0.3215086378,
-    "T0_percentile":0.8672680412
+    "score":0.4069572747,
+    "T0_percentile":0.8536585366
   },
   {
     "name":"Tec-9 | Isaac (Factory New)",
-    "close":83.97,
+    "close":84.12,
     "regime":0,
-    "score":0.3085688541,
-    "T0_percentile":0.8092783505
+    "score":0.3884557038,
+    "T0_percentile":0.9088575096
   },
   {
-    "name":"FAMAS | Hexane (Factory New)",
-    "close":37.69,
+    "name":"Dual Berettas | Moon in Libra (Factory New)",
+    "close":31.6,
     "regime":0,
-    "score":0.3044865882,
-    "T0_percentile":0.6095360825
+    "score":0.3862787853,
+    "T0_percentile":0.8023106547
+  },
+  {
+    "name":"Five-SeveN | Copper Galaxy (Factory New)",
+    "close":91.96,
+    "regime":0,
+    "score":0.374054665,
+    "T0_percentile":0.9537869063
+  },
+  {
+    "name":"AUG | Navy Murano (Factory New)",
+    "close":52.89,
+    "regime":0,
+    "score":0.3713892797,
+    "T0_percentile":0.810012837
+  },
+  {
+    "name":"MAC-10 | Surfwood (Factory New)",
+    "close":159.79,
+    "regime":0,
+    "score":0.3302191452,
+    "T0_percentile":0.8292682927
+  },
+  {
+    "name":"P250 | Undertow (Factory New)",
+    "close":209.68,
+    "regime":0,
+    "score":0.3297479877,
+    "T0_percentile":0.7984595635
+  },
+  {
+    "name":"P2000 | Red FragCam (Factory New)",
+    "close":86.38,
+    "regime":0,
+    "score":0.3219954387,
+    "T0_percentile":0.8780487805
+  },
+  {
+    "name":"AWP | Black Nile (Factory New)",
+    "close":79.33,
+    "regime":0,
+    "score":0.300674644,
+    "T0_percentile":0.9396662388
+  },
+  {
+    "name":"P250 | Vino Primo (Factory New)",
+    "close":72.59,
+    "regime":0,
+    "score":0.2837892156,
+    "T0_percentile":0.9370988447
+  },
+  {
+    "name":"Dual Berettas | Switch Board (Factory New)",
+    "close":38.24,
+    "regime":0,
+    "score":0.262097569,
+    "T0_percentile":0.946084724
   }
 ]
