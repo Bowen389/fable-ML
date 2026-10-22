@@ -1,0 +1,11 @@
+event,name,signal_date,entry_date,exit_date,phase,sector,net,status,known_event_window,setup_date,setup_rank,watch_age,current_rank,method,exit
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),2026-02-11,2026-02-12,2026-02-19,starting,一代手套_略磨,0.10183807954812885,evaluated,True,2026-02-11,1,0,1.0,top3_setup_now__market,fixed7
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),2026-02-11,2026-02-12,2026-02-19,starting,一代手套_略磨,0.11454838709677406,evaluated,True,2026-02-11,3,0,3.0,top3_setup_now__market,fixed7
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),2026-02-11,2026-02-12,2026-02-16,starting,一代手套_略磨,0.19992939515180042,evaluated,True,2026-02-11,1,0,1.0,top3_setup_now__market,sector_fade14
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),2026-02-11,2026-02-12,2026-02-16,starting,一代手套_略磨,0.22951612903225804,evaluated,True,2026-02-11,3,0,3.0,top3_setup_now__market,sector_fade14
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),2026-02-11,2026-02-12,2026-02-19,starting,一代手套_略磨,0.10183807954812885,evaluated,True,2026-02-11,1,0,1.0,top5_setup_now__market,fixed7
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),2026-02-11,2026-02-12,2026-02-19,starting,一代手套_略磨,0.11454838709677406,evaluated,True,2026-02-11,3,0,3.0,top5_setup_now__market,fixed7
+2026-02-09,★ Specialist Gloves | Foundation (Minimal Wear),2026-02-11,2026-02-12,2026-02-19,starting,一代手套_略磨,0.08365497668761401,evaluated,True,2026-02-11,5,0,5.0,top5_setup_now__market,fixed7
+2026-02-09,★ Driver Gloves | Diamondback (Minimal Wear),2026-02-11,2026-02-12,2026-02-16,starting,一代手套_略磨,0.19992939515180042,evaluated,True,2026-02-11,1,0,1.0,top5_setup_now__market,sector_fade14
+2026-02-09,★ Hand Wraps | Badlands (Minimal Wear),2026-02-11,2026-02-12,2026-02-16,starting,一代手套_略磨,0.22951612903225804,evaluated,True,2026-02-11,3,0,3.0,top5_setup_now__market,sector_fade14
+2026-02-09,★ Specialist Gloves | Foundation (Minimal Wear),2026-02-11,2026-02-12,2026-02-16,starting,一代手套_略磨,0.14961483884046212,evaluated,True,2026-02-11,5,0,5.0,top5_setup_now__market,sector_fade14

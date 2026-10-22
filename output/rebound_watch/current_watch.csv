@@ -1,0 +1,49 @@
+﻿date,name,top_k,method,setup_date,setup_rank,setup_score,watch_age,current_rank,drawdown,wash_seen,market_ok,relay_ok,phase,signal,reason
+2026-10-21,P250 | Contaminant (Factory New),3,top3_setup_now__market,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),3,top3_setup_now__both,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),3,top3_volume_confirm__market,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),3,top3_volume_confirm__both,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),3,top3_wash_reclaim__market,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),3,top3_wash_reclaim__both,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),3,top3_setup_now__market,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),3,top3_setup_now__both,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),3,top3_volume_confirm__market,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),3,top3_volume_confirm__both,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),3,top3_wash_reclaim__market,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),3,top3_wash_reclaim__both,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),3,top3_setup_now__market,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),3,top3_setup_now__both,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),3,top3_volume_confirm__market,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),3,top3_volume_confirm__both,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),3,top3_wash_reclaim__market,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),3,top3_wash_reclaim__both,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),5,top5_setup_now__market,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),5,top5_setup_now__both,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),5,top5_volume_confirm__market,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),5,top5_volume_confirm__both,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),5,top5_wash_reclaim__market,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,P250 | Contaminant (Factory New),5,top5_wash_reclaim__both,2026-10-16,1,99.88652482269504,5,276.0,0.0,True,True,True,starting,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),5,top5_setup_now__market,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),5,top5_setup_now__both,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),5,top5_volume_confirm__market,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),5,top5_volume_confirm__both,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),5,top5_wash_reclaim__market,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Tec-9 | Fubar (Minimal Wear),5,top5_wash_reclaim__both,2026-10-16,2,98.70379757106976,5,246.0,-0.08639053254437867,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),5,top5_setup_now__market,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),5,top5_setup_now__both,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),5,top5_volume_confirm__market,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),5,top5_volume_confirm__both,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),5,top5_wash_reclaim__market,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Five-SeveN | Triumvirate (Factory New),5,top5_wash_reclaim__both,2026-10-16,3,95.73266669514548,5,112.0,0.0,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Galil AR | Stone Cold (Factory New),5,top5_setup_now__market,2026-10-16,4,95.49457215369428,5,208.0,-0.05595065768770835,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Galil AR | Stone Cold (Factory New),5,top5_setup_now__both,2026-10-16,4,95.49457215369428,5,208.0,-0.05595065768770835,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Galil AR | Stone Cold (Factory New),5,top5_volume_confirm__market,2026-10-16,4,95.49457215369428,5,208.0,-0.05595065768770835,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Galil AR | Stone Cold (Factory New),5,top5_volume_confirm__both,2026-10-16,4,95.49457215369428,5,208.0,-0.05595065768770835,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Galil AR | Stone Cold (Factory New),5,top5_wash_reclaim__market,2026-10-16,4,95.49457215369428,5,208.0,-0.05595065768770835,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Galil AR | Stone Cold (Factory New),5,top5_wash_reclaim__both,2026-10-16,4,95.49457215369428,5,208.0,-0.05595065768770835,False,True,True,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Glock-18 | Off World (Factory New),5,top5_setup_now__market,2026-10-16,5,94.15788807399184,5,47.0,0.0,False,True,False,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Glock-18 | Off World (Factory New),5,top5_setup_now__both,2026-10-16,5,94.15788807399184,5,47.0,0.0,False,True,False,expanding,False,后排不足
+2026-10-21,Glock-18 | Off World (Factory New),5,top5_volume_confirm__market,2026-10-16,5,94.15788807399184,5,47.0,0.0,False,True,False,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Glock-18 | Off World (Factory New),5,top5_volume_confirm__both,2026-10-16,5,94.15788807399184,5,47.0,0.0,False,True,False,expanding,False,后排不足
+2026-10-21,Glock-18 | Off World (Factory New),5,top5_wash_reclaim__market,2026-10-16,5,94.15788807399184,5,47.0,0.0,False,True,False,expanding,False,形态未满足或本观察期已触发
+2026-10-21,Glock-18 | Off World (Factory New),5,top5_wash_reclaim__both,2026-10-16,5,94.15788807399184,5,47.0,0.0,False,True,False,expanding,False,后排不足
