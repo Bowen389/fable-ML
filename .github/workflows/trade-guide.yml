@@ -29,16 +29,36 @@ jobs:
           python-version: '3.11'
       - name: Generate evidence-based guide
         run: python -u trade_guide.py
-      - name: Save guide
+      - name: Save guide while preserving concurrent daily candidates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          backup=$(mktemp -d)
+          cp output/guide_latest.md output/guide_latest.json "$backup/"
           git add output/guide_latest.md output/guide_latest.json
-          if ! git diff --cached --quiet; then
-            git commit -m "report: update unified trading guide"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+          if ! git diff --cached --quiet; then git commit -m "Prepare unified guide"; fi
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -B publish-unified-guide FETCH_HEAD
+            cp "$backup/guide_latest.md" "$backup/guide_latest.json" output/
+            python - <<'PY'
+          import json
+          from pathlib import Path
+          from coil_report_section import load_coil_snapshot,merge_coil_section
+          root=Path.cwd()
+          p=root/'output/guide_latest.json'
+          guide=json.loads(p.read_text())
+          guide['coil_candidates']=load_coil_snapshot(root)
+          p.write_text(json.dumps(guide,ensure_ascii=False,indent=2))
+          p=root/'output/guide_latest.md'
+          p.write_text(merge_coil_section(p.read_text(),root,report_asof=guide['signal']['date']))
+          PY
+            git add output/guide_latest.md output/guide_latest.json
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m "Update unified trading guide"
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1
       - uses: actions/upload-artifact@v4
         with:
           name: unified-trade-guide
@@ -46,3 +66,4 @@ jobs:
             output/guide_latest.md
             output/guide_latest.json
           retention-days: 30
+

@@ -11,6 +11,7 @@ import sqlite3
 import tempfile
 from datetime import datetime, timedelta, timezone
 import urllib.request
+from coil_report_section import load_coil_snapshot,merge_coil_section
 
 TZ = timezone(timedelta(hours=8))
 ROOT = Path(__file__).resolve().parent
@@ -133,6 +134,7 @@ def main():
                               '519为最低挂牌价，不保证可成交；本报告不自动下单']}
     out = ROOT / 'output'
     out.mkdir(exist_ok=True)
+    report['coil_candidates']=load_coil_snapshot(ROOT)
     (out / 'guide_latest.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
     fmt = lambda v: '缺失' if v is None else f'{v:+.2f}%'
     lines = ['# 统一交易指导 · 基准版', '', f'商品：{NAME}', f'生成时间：{now.isoformat(timespec="seconds")}', '',
@@ -152,7 +154,7 @@ def main():
              '## 来源', *[f'- {key}: {value["url"]}' for key, value in sources.items()],
              '- 单品实时采样：https://github.com/Bowen389/up/actions/runs/39430760444',
              '- 昨日同期350件及求购持平：用户提供的近似观察，非自动采集。', '']
-    markdown = '\n'.join(lines)
+    markdown = merge_coil_section('\n'.join(lines),ROOT,report_asof=signal['date'])
     (out / 'guide_latest.md').write_text(markdown, encoding='utf-8')
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as handle:
@@ -162,3 +164,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

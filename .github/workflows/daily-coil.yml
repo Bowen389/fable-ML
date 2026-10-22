@@ -1,0 +1,74 @@
+name: Daily accumulation watch candidates
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [Daily leader process scores]
+    types: [completed]
+    branches: [main]
+  push:
+    branches: [main]
+    paths:
+      - 'daily_coil_scores.py'
+      - 'coil_report_section.py'
+      - 'publish_daily_coil.py'
+      - 'test_daily_coil.py'
+      - 'rebound_coil_research.py'
+      - '.github/workflows/daily-coil.yml'
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: daily-coil-candidates
+  cancel-in-progress: false
+jobs:
+  daily-coil:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      OMP_NUM_THREADS: '2'
+      OPENBLAS_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Initialize explicit module status
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          out=Path('output');out.mkdir(exist_ok=True)
+          (out/'daily_coil_candidates.json').write_text(json.dumps({'version':'daily-coil-v1','status':'error','error':'本轮候选生成尚未完成；请查看任务日志','buy_validated':False,'lists':{}},ensure_ascii=False))
+          (out/'daily_coil_scores.csv').write_text('name,sequence,status\n')
+          (out/'daily_coil_report.md').write_text('本轮蓄势候选尚未完成生成。\n')
+          PY
+      - run: pip install pandas==2.2.3 numpy==2.3.5 scikit-learn==1.8.0 joblib
+      - uses: actions/cache/restore@v4
+        with:
+          path: research_cache
+          key: firepulse-process-v1-coil-${{ github.run_id }}
+          restore-keys: firepulse-process-v1-
+      - name: Verify parity, freshness, failures and concurrent report merge
+        run: python -m unittest -v test_daily_coil.py
+      - name: Generate daily candidates without requests or model fitting
+        id: generate
+        continue-on-error: true
+        run: python -u daily_coil_scores.py
+      - name: Publish candidates or explicit module failure
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python -u publish_daily_coil.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: daily-coil-candidates
+          path: output/daily_coil_*
+          retention-days: 30
+      - name: Fail visibly after publishing an error status
+        if: steps.generate.outcome == 'failure'
+        run: exit 1
+
