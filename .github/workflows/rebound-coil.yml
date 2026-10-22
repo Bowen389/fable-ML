@@ -1,0 +1,77 @@
+name: Independent aligned accumulation leader scores
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'rebound_coil_research.py'
+      - 'test_rebound_coil.py'
+      - '.github/workflows/rebound-coil.yml'
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: independent-rebound-coil
+  cancel-in-progress: false
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      OMP_NUM_THREADS: '2'
+      OPENBLAS_NUM_THREADS: '2'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas==2.2.3 numpy==2.3.5 scikit-learn==1.8.0 joblib
+      - uses: actions/cache/restore@v4
+        id: cache
+        with:
+          path: research_cache
+          key: firepulse-process-v1-bear-${{ github.run_id }}
+          restore-keys: firepulse-process-v1-
+      - name: Bootstrap preserved raw history if cache absent
+        if: steps.cache.outputs.cache-matched-key == ''
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: leader-stage-research
+          run-id: 39435460636
+          github-token: ${{ github.token }}
+          path: bootstrap
+      - name: Restore raw cache only
+        run: |
+          mkdir -p research_cache
+          if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
+      - name: Verify causality, fees, gaps and holding period
+        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py test_rebound_shared.py test_rebound_memory.py test_rebound_coil.py
+      - name: Run independent fixed-rule historical study
+        run: python verify_rebound_coil_pipeline.py
+      - name: Run actual historical phase study
+        run: python -u rebound_coil_research.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: independent-rebound-coil
+          path: output/rebound_coil
+          retention-days: 30
+      - name: Publish independent results only
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          result_backup=$(mktemp -d)
+          cp -a output/rebound_coil "$result_backup/"
+          git add output/rebound_coil
+          if ! git diff --cached --quiet; then git commit -m 'Prepare independent frozen rebound entry diagnostics'; fi
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -B publish-rebound-coil FETCH_HEAD
+            mkdir -p output/rebound_coil
+            cp -a "$result_backup/rebound_coil/." output/rebound_coil/
+            git add output/rebound_coil
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Publish independent frozen rebound entry diagnostics'
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1
