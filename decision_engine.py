@@ -34,7 +34,7 @@ def build(system,pool,coils,multifactor,current):
             factors={k:num(c.get(k)) for k in ('build','tier','wash','activation','relative')};pen=num(c.get('penalty'))
             if all(v is not None for v in factors.values()) and pen is not None:
                 weights=dict(build=30,tier=15,wash=20,activation=15,relative=10)
-                parts={k:round(weights[k]*clip(v),3) for k,v in factors.items()};parts['risk']=round(10*clip(1-pen/30),3);potential=round(sum(parts.values()),2);reasons=c.get('reasons','').split('；')
+                parts={k:round(weights[k]*clip(v),3) for k,v in factors.items()};parts['risk']=round(10*clip(1-pen/30),3);potential=round(sum(parts.values()),2);labels=dict(build='前期参与代理',tier='量价台阶',wash='洗盘代理',activation='持续放量',relative='相对强度',risk='风险质量');reasons=[f'{labels[k]} {v:.1f}分' for k,v in sorted(parts.items(),key=lambda kv:-kv[1])[:3]]
         if potential is None:block.append('潜力因子缺失或非昨日完整日K')
         price=num(q.get('实时挂牌价'));fresh=False
         try:
