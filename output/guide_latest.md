@@ -1,7 +1,7 @@
 # 统一交易指导 · 基准版
 
 商品：Glock-18 | Dragon Tattoo (Factory New)
-生成时间：2026-10-22T10:19:12+08:00
+生成时间：2026-10-22T13:36:53+08:00
 
 | 项目 | 证据 |
 |---|---|
@@ -34,3 +34,11 @@
 - up_database: https://raw.githubusercontent.com/Bowen389/up/main/data/yyyp.db
 - 单品实时采样：https://github.com/Bowen389/up/actions/runs/39430760444
 - 昨日同期350件及求购持平：用户提供的近似观察，非自动采集。
+
+<!-- daily-coil:start -->
+## 每日蓄势观察候选
+
+**独立研究证据分，未通过买入系统验证；不自动开仓、不改变原有买点资格。**
+
+状态：数据不足／生成失败，不能解释为零候选。原因：本次日报尚未取得蓄势候选文件
+<!-- daily-coil:end -->

@@ -1,6 +1,6 @@
 {
   "version": "guide-baseline-v1",
-  "generated_at": "2026-10-22T10:19:12.857653+08:00",
+  "generated_at": "2026-10-22T13:36:53.742865+08:00",
   "item": "Glock-18 | Dragon Tattoo (Factory New)",
   "mapping": {
     "yyyp_id": 43712,
@@ -27,7 +27,7 @@
     "note": "run仅精确到日期或分钟，并非逐笔行情时间；厚度阈值沿用up配置"
   },
   "manual_comparison": null,
-  "supply_age_hours": 34.32023823694444,
+  "supply_age_hours": 37.61492857361111,
   "market": {
     "date": "2026-10-21",
     "above_ma30_pct": 21.6,
@@ -79,5 +79,9 @@
     "求购厚度是阈值内挂单金额，不是成交量",
     "不同采集时间及价格口径不能算实际收益",
     "519为最低挂牌价，不保证可成交；本报告不自动下单"
-  ]
+  ],
+  "coil_candidates": {
+    "status": "missing",
+    "error": "本次日报尚未取得蓄势候选文件"
+  }
 }
