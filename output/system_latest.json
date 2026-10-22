@@ -1,6 +1,6 @@
 {
   "version": "unified-system-v1",
-  "generated_at": "2026-10-22T14:23:33.103510+08:00",
+  "generated_at": "2026-10-22T16:20:05.432120+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -95,7 +95,7 @@
       ],
       "status": "partial",
       "rows": 815,
-      "age_hours": 2.2355413008333334
+      "age_hours": 4.272340851944445
     },
     "demand": {
       "status": "ok",
@@ -109,7 +109,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-10-22T06:23:33+00:00",
-      "age_hours": 2.5895277777777778e-05,
+      "age_hours": 1.9423392594444444,
       "scan": {
         "processed": 30,
         "selected": 30,
@@ -147,25 +147,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "f3ea0cc60c5434c26670607a76fe4d6eec31379e124f5efad3e1ec222334aa4c",
       "bytes": 64514474,
-      "fetched_at": "2026-10-22T14:17:45.834417+08:00"
+      "fetched_at": "2026-10-22T16:19:58.832236+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/main/data/intraday_scores_latest.csv",
       "sha256": "25315b0b10fb3fe77be6f3d9ed156948607a92e8c572f9466daf655685f03f82",
       "bytes": 525012,
-      "fetched_at": "2026-10-22T14:17:46.011370+08:00"
+      "fetched_at": "2026-10-22T16:19:58.948516+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/main/data/intraday_latest.json",
       "sha256": "900aaae2b8592ae82506e2d78cef21354619e9f68bc11aa0bf66a0b10d033114",
       "bytes": 3215,
-      "fetched_at": "2026-10-22T14:17:46.096887+08:00"
+      "fetched_at": "2026-10-22T16:19:59.045714+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/main/data/yyyp.db",
       "sha256": "b014aeb53b7aeba59ef9c239a85624c2df7a0125a0ba7b8ca0056aae22164085",
       "bytes": 26771456,
-      "fetched_at": "2026-10-22T14:17:46.927283+08:00"
+      "fetched_at": "2026-10-22T16:19:59.457850+08:00"
     }
   },
   "traditional_hits": [
