@@ -7,6 +7,7 @@ from datetime import datetime,timedelta,timezone
 from pathlib import Path
 import urllib.request
 from integrations.traditional import signal_types,family_count
+from decision_engine import candle_features,build as build_decisions,render as render_decisions
 ROOT=Path(__file__).resolve().parent
 TZ=timezone(timedelta(hours=8))
 START='<!-- unified-system:start -->';END='<!-- unified-system:end -->'
@@ -72,6 +73,7 @@ def traditional(path,today):
         eligible=len(z)>=300 and last['date']==asof and 30<=last['close']<=13000
         if eligible:types=signal_types(z)
         row={'name':name,'group':last['group'],'asof':last['date'],'price':last['close'],'bars':len(z),'eligible':eligible,'families':family_count(types) if eligible else None,'types':types,'status':'scanned' if eligible else 'history_or_price_or_date_ineligible'}
+        row.update(candle_features(z))
         rows.append(row)
         if types:hits.append(row)
     hits.sort(key=lambda r:(-r['families'],r['name']))
@@ -191,7 +193,12 @@ def main():
     coils=readrows(out/'daily_coil_scores.csv') if (out/'daily_coil_scores.csv').exists() else []
     monitor=join_monitor(monitor,coils,hits)
     result={'version':'unified-system-v1','generated_at':now().isoformat(),'status':'partial' if any(m.get('status') not in ('ok','success','available') for m in modules.values()) else 'ok','modules':modules,'sources':sources,'traditional_hits':hits,'demand_rank':ranks,'monitor':monitor,'coil':coil,'original_hits':originals,'purchase_list_requests':0}
-    dump(out/'system_latest.json',result);(out/'system_latest.md').write_text(render(result));dump(out/'demand_whales.json',{'meta':modules['demand'],'rank':ranks});writecsv(out/'demand_whales.csv',ranks);writecsv(out/'traditional_pool.csv',pool);writecsv(out/'traditional_hits.csv',hits);writecsv(out/'unified_monitor.csv',monitor)
-    if os.environ.get('GITHUB_STEP_SUMMARY'):Path(os.environ['GITHUB_STEP_SUMMARY']).write_text(render(result))
+    multi=readrows(out/'daily_multifactor_scores.csv') if (out/'daily_multifactor_scores.csv').exists() else []
+    decision=build_decisions(result,pool,coils,multi,now());result['decision']={k:v for k,v in decision.items() if k!='rows'}
+    dump(out/'decision_latest.json',decision);writecsv(out/'decision_latest.csv',decision['rows']);(out/'decision_latest.md').write_text(render_decisions(decision))
+    history=out/'history'/('decision_'+now().date().isoformat()+'_'+decision['version']+'.json')
+    if not history.exists():dump(history,decision)
+    dump(out/'system_latest.json',result);(out/'system_latest.md').write_text(render_decisions(decision)+'\n---\n\n'+render(result));dump(out/'demand_whales.json',{'meta':modules['demand'],'rank':ranks});writecsv(out/'demand_whales.csv',ranks);writecsv(out/'traditional_pool.csv',pool);writecsv(out/'traditional_hits.csv',hits);writecsv(out/'unified_monitor.csv',monitor)
+    if os.environ.get('GITHUB_STEP_SUMMARY'):Path(os.environ['GITHUB_STEP_SUMMARY']).write_text(render_decisions(decision))
     print('UNIFIED_SYSTEM_COMPLETE',json.dumps({'status':result['status'],'modules':{k:v.get('status') for k,v in modules.items()},'monitored':len(monitor),'traditional_hits':len(hits)},ensure_ascii=False),flush=True)
 if __name__=='__main__':main()

@@ -9,6 +9,8 @@ on:
   push:
     branches: [main]
     paths:
+      - decision_engine.py
+      - test_decision_engine.py
       - unified_system.py
       - system_report_section.py
       - publish_unified_system.py
@@ -41,7 +43,7 @@ jobs:
           python-version: '3.11'
       - run: pip install requests
       - name: Verify integration boundaries
-        run: python -m unittest test_unified_system -v
+        run: python -m unittest test_unified_system test_decision_engine -v
       - name: Build full report
         env:
           CSQAQ_TOKEN: ${{ secrets.CSQAQ_TOKEN }}
@@ -50,7 +52,7 @@ jobs:
           CRON: ${{ github.event.schedule }}
         run: |
           args=()
-          if [[ "$COLLECT" == "true" || "$EVENT" == "push" || "$CRON" == "7 12 * * *" ]]; then args+=(--collect-whale); fi
+          if [[ "$COLLECT" == "true" || "$CRON" == "7 12 * * *" ]]; then args+=(--collect-whale); fi
           python -u unified_system.py report "${args[@]}"
       - name: Publish reports and Whale checkpoint
         env:
@@ -60,6 +62,7 @@ jobs:
         with:
           name: unified-system
           path: |
+            output/decision_latest.*
             output/system_latest.*
             output/demand_whales.*
             output/traditional_pool.csv

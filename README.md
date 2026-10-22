@@ -1,3 +1,9 @@
+## 综合决策主入口
+
+[查看综合决策主报告](output/decision_latest.md) · [全部商品决策](output/decision_latest.csv) · [评分公式与限制](docs/decision_engine.md)
+
+每日主结论以综合决策层为准：市场许可、潜力Top5、入场分、触发区间和失效原因。研究版未验证，不自动交易；原模块作为底层证据保留。
+
 ## 一体化系统入口
 
 [查看统一总报告](output/system_latest.md) · [运行统一任务](../../actions/workflows/unified-system.yml) · [接入说明](docs/unified_system.md)
