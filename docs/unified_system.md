@@ -18,7 +18,7 @@
 - `python unified_system.py collect-quotes`
 - `python unified_system.py collect-traditional`
 
-悠悠原生采集需要 YP_RAW_HEADERS 或原采集器支持的请求头配置，传统原生采集需要 API_KEY；这些凭据不会自动从其他仓库迁移。
+悠悠原生采集需要 YP_RAW_HEADERS 或原采集器支持的请求头配置，传统原生采集需要 STEAMDT_API_KEY；这些凭据不会自动从其他仓库迁移。
 Whale实采需要本仓库 Actions Secret `CSQAQ_TOKEN`，可在统一任务手动勾选 collect_whale。首次采集建立基线，不回放历史；首次没有新增事件不等于没有大户活动。没有凭据会明确显示 not_configured，不使用演示数据。Playwright依赖只在真实Whale采集需要时安装。
 
 ## 数据口径

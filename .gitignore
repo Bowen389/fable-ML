@@ -6,3 +6,5 @@ data/integrations/
 integrations/up/data/
 integrations/up/config.json
 state/whale_monitor/debug/
+integrations/up/headers.txt
+state/whale_monitor/config.json
