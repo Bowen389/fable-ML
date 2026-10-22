@@ -1,6 +1,6 @@
 {
   "version": "guide-baseline-v1",
-  "generated_at": "2026-10-22T13:36:53.742865+08:00",
+  "generated_at": "2026-10-22T13:55:18.588388+08:00",
   "item": "Glock-18 | Dragon Tattoo (Factory New)",
   "mapping": {
     "yyyp_id": 43712,
@@ -27,7 +27,7 @@
     "note": "run仅精确到日期或分钟，并非逐笔行情时间；厚度阈值沿用up配置"
   },
   "manual_comparison": null,
-  "supply_age_hours": 37.61492857361111,
+  "supply_age_hours": 37.92183010777778,
   "market": {
     "date": "2026-10-21",
     "above_ma30_pct": 21.6,
@@ -48,7 +48,7 @@
   },
   "whale": {
     "role": "辅助",
-    "status": "未接入本轮报告；不参与打分或否决"
+    "status": "一体化栏目单列展示；不参与该单品打分或否决"
   },
   "errors": [],
   "sources": {
@@ -62,7 +62,7 @@
     },
     "fable_report": {
       "url": "https://raw.githubusercontent.com/Bowen389/fable-ML/main/output/latest.md",
-      "sha256": "91282e653368709b17445ac0bbe5dc7298d500e924594d270187ef44d4f7f40a"
+      "sha256": "82a6ea9f591ef823e554a4ae8699ed8f87ce2b749623f10d0964cb682742fca7"
     },
     "fable_model": {
       "url": "https://raw.githubusercontent.com/Bowen389/fable-ML/main/state/ml_meta.json",
@@ -268,5 +268,6 @@
         }
       ]
     }
-  }
+  },
+  "integrated_system": null
 }
