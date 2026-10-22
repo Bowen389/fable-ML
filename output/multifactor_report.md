@@ -136,3 +136,21 @@ S = clip(100 × Σ[环境对应权重 × 因子(0–1)] − 风险扣分, 0, 100
 研究费用：卖出1%、买入0、无滑点。该栏不重跑历史回测或拟合模型；分数不是涨幅概率。
 [完整分项](https://github.com/Bowen389/fable-ML/blob/main/output/daily_coil_scores.csv) · [独立验证报告](https://github.com/Bowen389/fable-ML/blob/main/output/rebound_coil/report.md)
 <!-- daily-coil:end -->
+
+<!-- unified-system:start -->
+## 一体化模块汇总
+
+汇总时间：2026-10-22T13:55:27.258678+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+
+| 模块 | 状态 | 数据日期／说明 |
+|---|---|---|
+| 四类传统买点全扫 | ok | 2026-10-21 |
+| 全池报价与在售 | partial | 2026-10-22T12:03:44.944882+08:00 |
+| 求购与大户求购排行 | ok | 2026-10-21 |
+| CSQAQ Whale辅助 | not_configured | fable-ML 未配置 CSQAQ_TOKEN；Whale代码已纳入，未进行实采 |
+| 蓄势评分 | ok | 2026-10-21 |
+| 原版规则与ML | available | 2026-10-21 |
+
+[查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
+Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
+<!-- unified-system:end -->
