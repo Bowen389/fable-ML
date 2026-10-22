@@ -149,13 +149,14 @@ def main():
     current.sort_values('sequence_rank')[cols].to_csv(OUT/'current_candidates.csv',index=False,encoding='utf-8-sig')
     result={'version':'aligned-coil-v1','asof':str(latest.date()),'loaded':len(frames),'requested':len(u),'failures':fail,'profiles':{key:dict(zip(FACTORS,w.tolist())) for key,w in PROFILES.items()},'folds':audits,'current_fit':current_fit,'summaries':summaries,'qualified_systems':[],'production_modified':False,'fee_buy':0,'fee_sell':.01,'slippage':0,'limitations':['三个固定量价对齐窗口只按当时证据选取，不按未来涨幅对齐；固定窗口仍是近似过程，不证明真实建仓','分项是可解释证据强度，不等于收益概率；会员档位、真实交易身份与成本不可从日K认定','学习权重只用季度开始前已成熟8日标签，非负约束与固定正则；人工指定名单只回放，不加分','当前参考模型与季度模型分开列示，不把今天拟合模型反推历史','已经反复看过这些历史事件，季度训练不等于全新独立样本；门控及阈值仍属开发假设','只把Top3/5作为入场比较，Top30仅案例覆盖诊断；窗口最佳名次不是已知可交易入场时点','每商品固定去重后检查未来数据；持有窗口缺报价或非正成交量不记零收益','价格悠悠、成交量全平台；真实求购历史不足不倒填；逐笔平均收益不是组合收益','所有交易次日收盘代理入场，卖出1%、无滑点；当前分项高也不自动开仓']}
     (OUT/'validation.json').write_text(json.dumps(clean_json(result),ensure_ascii=False,indent=2,allow_nan=False))
+    safe=lambda x:str(x).replace('|',' / ').replace('\n',' ')
     p=lambda x:'—' if x is None else f'{x:.2%}'
     lines=['# 对齐蓄势、洗盘、持续放量：独立证据评分',f'历史截至{latest.date()}，加载{len(frames)}/{len(u)}。','完整链条分项：前期参与20、台阶15、洗盘20、持续放量20、支撑空间15、相对领先10；风险最多扣30。另比较熊市启动、提前蓄势固定权重和季度因果学习非负权重。','分数未获买入资格，不能解释为越高越赚钱。32个入场方案：4评分×Top3/5×不限/大盘许可×7/14天。','','| 时段 | 范围 | 评分 | 前K | 门控 | 持有 | 结果/信号 | 净均值 | 中位 | 胜率 |','|---|---|---|---:|---|---:|---:|---:|---:|---:|']
     for s in summaries:lines.append(f'| {s["period"]} | {s["context"]} | {s["method"]} | {s["top_k"]} | {s["gate"]} | {s["hold"]} | {s["n"]}/{s["signals"]} | {p(s["mean"])} | {p(s["median"])} | {p(s["win"])} |')
     lines+=['','## 当前形态证据前五（固定完整链条分，不是买入推荐）','| 商品 | 分数 | 风险扣分 | 证据覆盖 | 主要分项 |','|---|---:|---:|---:|---|']
-    for _,x in current.sort_values('sequence_rank').head(5).iterrows():lines.append(f'| {x.cn} | {x.sequence:.1f} | {x.penalty:.1f} | {x.coverage:.0%} | {x.reasons} |')
+    for _,x in current.sort_values('sequence_rank').head(5).iterrows():lines.append(f'| {safe(x.cn)} | {x.sequence:.1f} | {x.penalty:.1f} | {x.coverage:.0%} | {x.reasons} |')
     lines+=['','## 提前蓄势观察前五（不等于允许买入）','| 商品 | 提前蓄势分 | 形态 | 风险扣分 |','|---|---:|---|---:|']
-    for _,x in current.sort_values('early_coil_rank').head(5).iterrows():lines.append(f'| {x.cn} | {x.early_coil:.1f} | {x.shape_state} | {x.penalty:.1f} |')
+    for _,x in current.sort_values('early_coil_rank').head(5).iterrows():lines.append(f'| {safe(x.cn)} | {x.early_coil:.1f} | {x.shape_state} | {x.penalty:.1f} |')
     lines+=['','## 指定事件覆盖','| 事件 | 评分 | 前K | 有覆盖/名单数 |','|---|---|---:|---:|']
     for event in cases['events']:
         for method in methods:
