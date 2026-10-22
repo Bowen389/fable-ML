@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-10-20",
-  "generated_at": "2026-10-21T17:01:10.787217+08:00",
+  "asof": "2026-10-21",
+  "generated_at": "2026-10-22T10:44:30.416900+08:00",
   "source": "Firepulse public interface",
   "price_basis": "youpin daily OHLC",
   "volume_basis": "all-platform proxy",
@@ -269,202 +269,202 @@
     "status": "未验证为买入系统",
     "predictive_rank_validated": true,
     "buy_validated": false,
-    "train_n": 27625,
-    "cal_n": 95312,
-    "test_n": 38353,
-    "train_maturity_cutoff": "2026-01-23",
-    "cal_maturity_cutoff": "2026-07-22",
+    "train_n": 27705,
+    "cal_n": 95487,
+    "test_n": 38331,
+    "train_maturity_cutoff": "2026-01-24",
+    "cal_maturity_cutoff": "2026-07-23",
     "trials": [
       {
         "leaves": 7,
-        "cal_average_precision": 0.293961545232149,
+        "cal_average_precision": 0.29550276822082056,
         "cal_top": {
-          "n": 9618,
+          "n": 9637,
           "days": 149,
-          "items": 480,
-          "hit_rate": 0.3301102100228738,
-          "barrier_mean_net": -0.0006699044365686699,
-          "fixed30_mean_net": 0.05870741904956944
+          "items": 481,
+          "hit_rate": 0.3318460101691398,
+          "barrier_mean_net": -0.0009164873924600314,
+          "fixed30_mean_net": 0.06121034671522232
         }
       },
       {
         "leaves": 15,
-        "cal_average_precision": 0.2998577639265548,
+        "cal_average_precision": 0.2919750107555066,
         "cal_top": {
-          "n": 9620,
+          "n": 9638,
           "days": 149,
-          "items": 543,
-          "hit_rate": 0.3202702702702703,
-          "barrier_mean_net": -0.006396869547790156,
-          "fixed30_mean_net": 0.05560603896690891
+          "items": 545,
+          "hit_rate": 0.31531438057688316,
+          "barrier_mean_net": -0.00841905844601166,
+          "fixed30_mean_net": 0.05066236849221457
         }
       },
       {
         "leaves": 31,
-        "cal_average_precision": 0.29508881577046236,
+        "cal_average_precision": 0.29517931189271684,
         "cal_top": {
-          "n": 9620,
+          "n": 9638,
           "days": 149,
-          "items": 611,
-          "hit_rate": 0.31465696465696463,
-          "barrier_mean_net": -0.007553950442527165,
-          "fixed30_mean_net": 0.055527882070505304
+          "items": 621,
+          "hit_rate": 0.3136542851213945,
+          "barrier_mean_net": -0.007388501330177522,
+          "fixed30_mean_net": 0.05126823788178989
         }
       }
     ],
-    "selected_leaves": 15,
+    "selected_leaves": 7,
     "test_base": {
-      "n": 38353,
+      "n": 38331,
       "days": 59,
-      "items": 714,
-      "hit_rate": 0.03939717883868276,
-      "barrier_mean_net": -0.10127887477001757,
-      "fixed30_mean_net": -0.16029848938673597
+      "items": 713,
+      "hit_rate": 0.03923717095823224,
+      "barrier_mean_net": -0.10114366634132481,
+      "fixed30_mean_net": -0.15969272453657196
     },
     "test_top_decile": {
-      "n": 3866,
+      "n": 3863,
       "days": 59,
-      "items": 356,
-      "hit_rate": 0.07294361096740817,
-      "barrier_mean_net": -0.11690268851571944,
-      "fixed30_mean_net": -0.23869562495964475
+      "items": 354,
+      "hit_rate": 0.07507118819570283,
+      "barrier_mean_net": -0.1145968223513352,
+      "fixed30_mean_net": -0.2322115716037922
     },
-    "test_lift": 1.851493257070156,
+    "test_lift": 1.913267097559498,
     "daily_block_lift_difference_ci95": [
-      0.010846428918344003,
-      0.0633286654222079
+      0.015195123878441298,
+      0.06919783417574053
     ],
-    "test_brier": 0.05364526839713018,
+    "test_brier": 0.05441777958136455,
     "return_model": {
       "selected_leaves": 7,
       "trials": [
         {
           "leaves": 7,
           "cal_top": {
-            "n": 9617,
+            "n": 9641,
             "days": 149,
-            "items": 631,
-            "hit_rate": 0.3062285536029947,
-            "barrier_mean_net": -0.008684150661802139,
-            "fixed30_mean_net": 0.05336236077025331
+            "items": 618,
+            "hit_rate": 0.30712581682398093,
+            "barrier_mean_net": -0.009265948450282805,
+            "fixed30_mean_net": 0.045965831206552885
           }
         },
         {
           "leaves": 15,
           "cal_top": {
-            "n": 9620,
+            "n": 9638,
             "days": 149,
-            "items": 616,
-            "hit_rate": 0.295010395010395,
-            "barrier_mean_net": -0.014719518761146072,
-            "fixed30_mean_net": 0.03582362100840087
+            "items": 645,
+            "hit_rate": 0.2990246939199004,
+            "barrier_mean_net": -0.013137636190498124,
+            "fixed30_mean_net": 0.03796779343088638
           }
         },
         {
           "leaves": 31,
           "cal_top": {
-            "n": 9620,
+            "n": 9639,
             "days": 149,
-            "items": 672,
-            "hit_rate": 0.2891891891891892,
-            "barrier_mean_net": -0.016358553013398815,
-            "fixed30_mean_net": 0.035392436011645545
+            "items": 654,
+            "hit_rate": 0.29017532939101565,
+            "barrier_mean_net": -0.01659492615472262,
+            "fixed30_mean_net": 0.03811554600983155
           }
         }
       ],
       "test_top_decile": {
-        "n": 3866,
+        "n": 3863,
         "days": 59,
-        "items": 398,
-        "hit_rate": 0.0719089498189343,
-        "barrier_mean_net": -0.11555303062562629,
-        "fixed30_mean_net": -0.22981998842598206
+        "items": 397,
+        "hit_rate": 0.07895418068858401,
+        "barrier_mean_net": -0.11247944343956032,
+        "fixed30_mean_net": -0.23021684829434794
       },
       "buy_validated": false
     },
     "frozen_model_three_windows": [
       {
-        "start": "2026-07-23",
-        "end": "2026-08-11",
+        "start": "2026-07-24",
+        "end": "2026-08-12",
         "base": {
-          "n": 13053,
-          "days": 20,
-          "items": 708,
-          "hit_rate": 0.023825940396843638,
-          "barrier_mean_net": -0.11584793441956047,
-          "fixed30_mean_net": -0.11746835410681832
-        },
-        "rise_top": {
-          "n": 1316,
-          "days": 20,
-          "items": 244,
-          "hit_rate": 0.04331306990881459,
-          "barrier_mean_net": -0.14560504734543014,
-          "fixed30_mean_net": -0.18317081096312315
-        },
-        "return_top": {
-          "n": 1317,
-          "days": 20,
-          "items": 258,
-          "hit_rate": 0.03644646924829157,
-          "barrier_mean_net": -0.14970283176896168,
-          "fixed30_mean_net": -0.18414253713719653
-        }
-      },
-      {
-        "start": "2026-08-12",
-        "end": "2026-08-31",
-        "base": {
-          "n": 12976,
+          "n": 13023,
           "days": 20,
           "items": 707,
-          "hit_rate": 0.0841553637484587,
-          "barrier_mean_net": -0.06786106987732769,
-          "fixed30_mean_net": -0.13960776888751408
+          "hit_rate": 0.025262996237426092,
+          "barrier_mean_net": -0.1137655866005289,
+          "fixed30_mean_net": -0.11290784367558791
         },
         "rise_top": {
-          "n": 1309,
+          "n": 1311,
           "days": 20,
-          "items": 248,
-          "hit_rate": 0.15889992360580596,
-          "barrier_mean_net": -0.06105221726961025,
-          "fixed30_mean_net": -0.2370235153009673
+          "items": 229,
+          "hit_rate": 0.05034324942791762,
+          "barrier_mean_net": -0.14222317688390293,
+          "fixed30_mean_net": -0.17809886922008908
         },
         "return_top": {
-          "n": 1308,
+          "n": 1313,
           "days": 20,
-          "items": 286,
-          "hit_rate": 0.15825688073394495,
-          "barrier_mean_net": -0.06190740908407698,
-          "fixed30_mean_net": -0.23018204134700204
+          "items": 252,
+          "hit_rate": 0.03427265803503427,
+          "barrier_mean_net": -0.14889095724564427,
+          "fixed30_mean_net": -0.1791347803840794
         }
       },
       {
-        "start": "2026-09-01",
-        "end": "2026-09-19",
+        "start": "2026-08-13",
+        "end": "2026-09-01",
         "base": {
-          "n": 12324,
-          "days": 19,
-          "items": 706,
-          "hit_rate": 0.008763388510223954,
-          "barrier_mean_net": -0.12103378394577707,
-          "fixed30_mean_net": -0.22744751121460577
+          "n": 12992,
+          "days": 20,
+          "items": 707,
+          "hit_rate": 0.0812807881773399,
+          "barrier_mean_net": -0.07097637208181747,
+          "fixed30_mean_net": -0.14834932547830854
         },
         "rise_top": {
-          "n": 1241,
-          "days": 19,
-          "items": 259,
-          "hit_rate": 0.0136986301369863,
-          "barrier_mean_net": -0.14537646985436378,
-          "fixed30_mean_net": -0.2993398205782033
+          "n": 1310,
+          "days": 20,
+          "items": 252,
+          "hit_rate": 0.15190839694656488,
+          "barrier_mean_net": -0.06683735618346129,
+          "fixed30_mean_net": -0.2522504017312328
         },
         "return_top": {
-          "n": 1241,
+          "n": 1310,
+          "days": 20,
+          "items": 269,
+          "hit_rate": 0.17862595419847327,
+          "barrier_mean_net": -0.057238708974494276,
+          "fixed30_mean_net": -0.24703741334212273
+        }
+      },
+      {
+        "start": "2026-09-02",
+        "end": "2026-09-20",
+        "base": {
+          "n": 12316,
           "days": 19,
-          "items": 294,
-          "hit_rate": 0.018533440773569703,
-          "barrier_mean_net": -0.1358537436559033,
-          "fixed30_mean_net": -0.2779131698334247
+          "items": 707,
+          "hit_rate": 0.00966222799610263,
+          "barrier_mean_net": -0.11962029994670843,
+          "fixed30_mean_net": -0.22112930654514243
+        },
+        "rise_top": {
+          "n": 1242,
+          "days": 19,
+          "items": 254,
+          "hit_rate": 0.020128824476650563,
+          "barrier_mean_net": -0.13580998651213916,
+          "fixed30_mean_net": -0.26819457108695455
+        },
+        "return_top": {
+          "n": 1240,
+          "days": 19,
+          "items": 292,
+          "hit_rate": 0.020967741935483872,
+          "barrier_mean_net": -0.1322835116023412,
+          "fixed30_mean_net": -0.2665360539020879
         }
       }
     ]
@@ -472,39 +472,39 @@
   "evidence_score_bands": [
     {
       "band": "0–20",
-      "n": 16179,
+      "n": 16278,
       "days": 59,
-      "items": 663,
-      "hit_rate": 0.058161814698065396,
-      "barrier_mean_net": -0.10111013337581073,
-      "fixed30_mean_net": -0.17931080689370563
+      "items": 664,
+      "hit_rate": 0.0578080845312692,
+      "barrier_mean_net": -0.10098170214035308,
+      "fixed30_mean_net": -0.178298291943805
     },
     {
       "band": "20–40",
-      "n": 16701,
+      "n": 16632,
       "days": 59,
-      "items": 692,
-      "hit_rate": 0.03119573678222861,
-      "barrier_mean_net": -0.10185464319464047,
-      "fixed30_mean_net": -0.1493065190793144
+      "items": 691,
+      "hit_rate": 0.030904280904280903,
+      "barrier_mean_net": -0.10170642376277657,
+      "fixed30_mean_net": -0.1487202034002426
     },
     {
       "band": "40–60",
-      "n": 5322,
+      "n": 5269,
       "days": 59,
-      "items": 477,
-      "hit_rate": 0.008831266441187523,
-      "barrier_mean_net": -0.10063753139668874,
-      "fixed30_mean_net": -0.1382177635893756
+      "items": 475,
+      "hit_rate": 0.008920098690453597,
+      "barrier_mean_net": -0.10052101748056687,
+      "fixed30_mean_net": -0.13805934066932588
     },
     {
       "band": "60–80",
-      "n": 151,
-      "days": 44,
+      "n": 152,
+      "days": 45,
       "items": 53,
-      "hit_rate": 0.013245033112582781,
-      "barrier_mean_net": -0.07828144424088769,
-      "fixed30_mean_net": -0.1171874552975779
+      "hit_rate": 0.013157894736842105,
+      "barrier_mean_net": -0.07849503921741392,
+      "fixed30_mean_net": -0.11771801980637384
     },
     {
       "band": "80–100",
@@ -516,10 +516,10 @@
       "fixed30_mean_net": null
     }
   ],
-  "daily_rows": 661,
-  "historical_rows": 922416,
+  "daily_rows": 658,
+  "historical_rows": 923132,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-10-20",
+  "expected_completed_date": "2026-10-21",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
