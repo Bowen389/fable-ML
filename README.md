@@ -1,3 +1,9 @@
+## 一体化系统入口
+
+[查看统一总报告](output/system_latest.md) · [运行统一任务](../../actions/workflows/unified-system.yml) · [接入说明](docs/unified_system.md)
+
+已纳入四类传统买点、815件悠悠报价与求购、大户求购排行、Whale V7、原版ML及蓄势观察。悠悠复用既有采集，Whale实采需本仓库 CSQAQ_TOKEN；不修改评分公式、不自动交易。
+
 ## 独立监控名单与评分子池（2026-10-21）
 
 - **完整监控表以悠悠原始items.txt为准，当前815件**：[815件监控表](https://github.com/Bowen389/up/blob/main/data/intraday_scores_latest.csv)。报价失败或暂不评分不会删除商品。

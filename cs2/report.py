@@ -5,6 +5,7 @@ import json, os
 from .scan import sort_hits
 from . import config as C
 from coil_report_section import merge_coil_section
+from system_report_section import merge_system_section
 
 
 def md_table(df, max_rows=60):
@@ -87,7 +88,7 @@ def build_markdown(ctx):
     if fi:
         L.append('')
         L.append(f"<sub>数据更新：需更新 {fi.get('todo', 0)}，成功 {fi.get('ok', 0)}，失败 {fi.get('fail', 0)}" + (f"，每饰品返回 {fi.get('hist_med')} 条" if fi.get('hist_med') else '') + ('，**已到时间上限未完成**' if fi.get('stopped') else '') + '</sub>')
-    return merge_coil_section('\n'.join(L) + '\n', C.ROOT, report_asof=str(last.date()))
+    return merge_system_section(merge_coil_section('\n'.join(L) + '\n', C.ROOT, report_asof=str(last.date())), C.ROOT)
 
 
 def build_short(ctx, max_len=1800):
@@ -115,4 +116,5 @@ def build_short(ctx, max_len=1800):
         if len(closed): L.append(f"已结算 {len(closed)} 笔：胜率 {(closed.net_ret > 0).mean():.0%}，中位 {closed.net_ret.median():+.1%}")
     txt = '\n'.join(L)
     return txt[:max_len]
+
 

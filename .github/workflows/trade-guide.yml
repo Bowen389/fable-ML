@@ -45,13 +45,15 @@ jobs:
           import json
           from pathlib import Path
           from coil_report_section import load_coil_snapshot,merge_coil_section
+          from system_report_section import merge_system_section,load_system
           root=Path.cwd()
           p=root/'output/guide_latest.json'
           guide=json.loads(p.read_text())
           guide['coil_candidates']=load_coil_snapshot(root)
+          guide['integrated_system']=load_system(root)
           p.write_text(json.dumps(guide,ensure_ascii=False,indent=2))
           p=root/'output/guide_latest.md'
-          p.write_text(merge_coil_section(p.read_text(),root,report_asof=guide['signal']['date']))
+          p.write_text(merge_system_section(merge_coil_section(p.read_text(),root,report_asof=guide['signal']['date']),root))
           PY
             git add output/guide_latest.md output/guide_latest.json
             if git diff --cached --quiet; then exit 0; fi

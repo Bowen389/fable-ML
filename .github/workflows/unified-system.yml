@@ -1,0 +1,68 @@
+name: Unified CS2 system
+on:
+  workflow_dispatch:
+    inputs:
+      collect_whale:
+        description: Collect real Whale events (requires CSQAQ_TOKEN)
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - unified_system.py
+      - system_report_section.py
+      - publish_unified_system.py
+      - test_unified_system.py
+      - integrations/**
+      - .github/workflows/unified-system.yml
+  workflow_run:
+    workflows: [Daily accumulation watch candidates, daily-scan]
+    types: [completed]
+    branches: [main]
+  schedule:
+    - cron: '45 3,7,13 * * *'
+    - cron: '7 12 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: unified-cs2-system
+  cancel-in-progress: false
+jobs:
+  report:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - name: Verify integration boundaries
+        run: python -m unittest test_unified_system -v
+      - name: Build full report
+        env:
+          CSQAQ_TOKEN: ${{ secrets.CSQAQ_TOKEN }}
+          COLLECT: ${{ github.event.inputs.collect_whale }}
+          EVENT: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+        run: |
+          args=()
+          if [[ "$COLLECT" == "true" || "$EVENT" == "push" || "$CRON" == "7 12 * * *" ]]; then args+=(--collect-whale); fi
+          python -u unified_system.py report "${args[@]}"
+      - name: Publish reports and Whale checkpoint
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -u publish_unified_system.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: unified-system
+          path: |
+            output/system_latest.*
+            output/demand_whales.*
+            output/traditional_pool.csv
+            output/traditional_hits.csv
+            output/unified_monitor.csv
+          retention-days: 30

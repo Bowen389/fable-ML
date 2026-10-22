@@ -12,6 +12,7 @@ import tempfile
 from datetime import datetime, timedelta, timezone
 import urllib.request
 from coil_report_section import load_coil_snapshot,merge_coil_section
+from system_report_section import merge_system_section,load_system
 
 TZ = timezone(timedelta(hours=8))
 ROOT = Path(__file__).resolve().parent
@@ -127,7 +128,7 @@ def main():
               'item': NAME, 'mapping': {'yyyp_id': 43712, 'csqaq_id': 1114},
               'signal': signal, 'current_supply': current, 'manual_comparison': comparable_manual,
               'supply_age_hours': current_age, 'market': market, 'assessment': result,
-              'whale': {'role': '辅助', 'status': '未接入本轮报告；不参与打分或否决'},
+              'whale': {'role': '辅助', 'status': '一体化栏目单列展示；不参与该单品打分或否决'},
               'errors': errors, 'sources': sources,
               'limitations': ['未验证策略收益，不给胜率或最优参数结论', '在售减少不等于成交',
                               '求购厚度是阈值内挂单金额，不是成交量', '不同采集时间及价格口径不能算实际收益',
@@ -135,6 +136,7 @@ def main():
     out = ROOT / 'output'
     out.mkdir(exist_ok=True)
     report['coil_candidates']=load_coil_snapshot(ROOT)
+    report['integrated_system']=load_system(ROOT) and {'report':'output/system_latest.md'}
     (out / 'guide_latest.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
     fmt = lambda v: '缺失' if v is None else f'{v:+.2f}%'
     lines = ['# 统一交易指导 · 基准版', '', f'商品：{NAME}', f'生成时间：{now.isoformat(timespec="seconds")}', '',
@@ -147,14 +149,14 @@ def main():
              f'| 求购变化 | {result.get("demand_description", "缺失")} |',
              f'| 市场背景 | {market.get("date")}；站上MA30比例 {market.get("above_ma30_pct", "缺失")}% |',
              f'| ML启用资格 | {market["ml_validation"]}；仅展示资格，不伪造评分 |',
-             '| Whale | 辅助信息，本轮未接入，不设硬门槛 |', '',
+             '| Whale | 辅助信息，见一体化模块汇总；不设硬门槛 |', '',
              '**当前分类：' + result['status'] + '**', '',
              '技术信号、供需及市场环境分别展示。基准版不把指标个数当胜率，不宣称供需共振。', '',
              '## 数据限制', *['- ' + x for x in report['limitations']], *['- ' + x for x in errors], '',
              '## 来源', *[f'- {key}: {value["url"]}' for key, value in sources.items()],
              '- 单品实时采样：https://github.com/Bowen389/up/actions/runs/39430760444',
              '- 昨日同期350件及求购持平：用户提供的近似观察，非自动采集。', '']
-    markdown = merge_coil_section('\n'.join(lines),ROOT,report_asof=signal['date'])
+    markdown = merge_system_section(merge_coil_section('\n'.join(lines),ROOT,report_asof=signal['date']),ROOT)
     (out / 'guide_latest.md').write_text(markdown, encoding='utf-8')
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as handle:
@@ -164,4 +166,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
