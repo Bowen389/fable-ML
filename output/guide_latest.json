@@ -1,43 +1,36 @@
 {
   "version": "guide-baseline-v1",
-  "generated_at": "2026-10-21T10:23:12.561807+08:00",
+  "generated_at": "2026-10-22T10:19:12.857653+08:00",
   "item": "Glock-18 | Dragon Tattoo (Factory New)",
   "mapping": {
     "yyyp_id": 43712,
     "csqaq_id": 1114
   },
   "signal": {
-    "date": "2026-10-20",
-    "open": 515.0,
-    "close": 518.88,
-    "high": 520.0,
-    "low": 496.0,
+    "date": "2026-10-21",
+    "open": 518.88,
+    "close": 507.5,
+    "high": 518.88,
+    "low": 500.0,
     "types": [],
     "families": 0
   },
   "current_supply": {
-    "at": "2026-10-20T21:29:20+08:00",
-    "source": "https://github.com/Bowen389/up/actions/runs/39430760444",
-    "kind": "action_log_rounded",
-    "price": 519.0,
-    "on_sale": 342,
-    "depth": 6115,
-    "depth_qty": 13,
-    "ratio": 0.85,
-    "note": "厚度为日志四舍五入值，非完整精度订单簿；独立单品测试快照"
+    "at": "2026-10-21",
+    "name": "格洛克 18 型 | 黑龙纹身 (崭新出厂)",
+    "price": 507.0,
+    "on_sale": 360,
+    "depth": 9248.0,
+    "depth_qty": 20,
+    "kind": "repository_snapshot",
+    "source": "https://raw.githubusercontent.com/Bowen389/up/main/data/yyyp.db",
+    "note": "run仅精确到日期或分钟，并非逐笔行情时间；厚度阈值沿用up配置"
   },
-  "manual_comparison": {
-    "at": "2026-10-19",
-    "source": "user_report_2026-10-20",
-    "kind": "manual_approximate",
-    "on_sale": 350,
-    "demand_change": "flat",
-    "note": "用户提供昨日同期约350件、求购持平；没有精确历史厚度，不计算厚度百分比"
-  },
-  "supply_age_hours": 12.897933835277778,
+  "manual_comparison": null,
+  "supply_age_hours": 34.32023823694444,
   "market": {
-    "date": "2026-10-20",
-    "above_ma30_pct": 18.9,
+    "date": "2026-10-21",
+    "above_ma30_pct": 21.6,
     "ml_validation": {
       "10": false,
       "14": false,
@@ -46,12 +39,12 @@
     "note": "原有规则的通过/未通过不等于buy-cs形态的验证结论；不产生未经验证的ML评分"
   },
   "assessment": {
-    "status": "最新完整日无技术买点",
-    "supply_change_pct": -2.285714285714291,
+    "status": "数据过期，等待更新",
+    "supply_change_pct": null,
     "demand_change_pct": null,
-    "price_change_pct": 0.023126734505085622,
-    "demand_description": "用户报告持平；未计算精确变动率",
-    "market_weak": true
+    "price_change_pct": -0.09852216748768017,
+    "demand_description": "未取得可比厚度",
+    "market_weak": false
   },
   "whale": {
     "role": "辅助",
@@ -61,7 +54,7 @@
   "sources": {
     "buy_bars": {
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
-      "sha256": "caea26142c60c1d79a886156901aba89179735fc86b46f3452ab7c359ea0c9dc"
+      "sha256": "f3ea0cc60c5434c26670607a76fe4d6eec31379e124f5efad3e1ec222334aa4c"
     },
     "buy_rules": {
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/scanner.py",
@@ -69,7 +62,7 @@
     },
     "fable_report": {
       "url": "https://raw.githubusercontent.com/Bowen389/fable-ML/main/output/latest.md",
-      "sha256": "a7fc32d89b7004b30208affbad9b4d39df3160a641b63a52cf4af273c0970158"
+      "sha256": "91282e653368709b17445ac0bbe5dc7298d500e924594d270187ef44d4f7f40a"
     },
     "fable_model": {
       "url": "https://raw.githubusercontent.com/Bowen389/fable-ML/main/state/ml_meta.json",
@@ -77,7 +70,7 @@
     },
     "up_database": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/main/data/yyyp.db",
-      "sha256": "17e355db2de3a727ec4bb447ad34f9b4d1a2e33bcdf81c5730bc766c72c60bfc"
+      "sha256": "b014aeb53b7aeba59ef9c239a85624c2df7a0125a0ba7b8ca0056aae22164085"
     }
   },
   "limitations": [
