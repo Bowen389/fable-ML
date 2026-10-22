@@ -1,3 +1,35 @@
+<!-- unified-system:start -->
+## 综合决策（主结论）
+
+市场：反弹启动；权限：研究放行；研究入场满足 0 件。尚未通过买入验证。
+
+| 商品 | 潜力 | 入场 | 状态 |
+|---|---:|---:|---|
+| 法玛斯  /  冥界之憎 (崭新出厂) | 86.74 | 34.27 | 等待条件 |
+| M4A1消音版  /  原子合金 (崭新出厂) | 67.06 | 34.67 | 等待条件 |
+| P250  /  潜藏者 (崭新出厂) | 66.1 | 35.06 | 等待条件 |
+| AUG  /  随机存取 (崭新出厂) | 64.51 | 54.9 | 等待条件 |
+| 格洛克18型  /  铁之作 (崭新出厂) | 64.49 | 36.26 | 等待条件 |
+
+[综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
+
+### 底层证据与覆盖
+
+汇总时间：2026-10-22T18:15:51.604364+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+
+| 模块 | 状态 | 数据日期／说明 |
+|---|---|---|
+| 四类传统买点全扫 | ok | 2026-10-21 |
+| 全池报价与在售 | partial | 2026-10-22T16:20:54.394219+08:00 |
+| 求购与大户求购排行 | ok | 2026-10-21 |
+| CSQAQ Whale辅助 | partial | 2026-10-22T06:23:33+00:00 |
+| 蓄势评分 | ok | 2026-10-21 |
+| 原版规则与ML | available | 2026-10-21 |
+
+[查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
+Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
+<!-- unified-system:end -->
+
 # 市场与板块条件下的多因子评分研究
 
 截至2026-10-21；716/773件数据，657件每日评分。
@@ -136,21 +168,3 @@ S = clip(100 × Σ[环境对应权重 × 因子(0–1)] − 风险扣分, 0, 100
 研究费用：卖出1%、买入0、无滑点。该栏不重跑历史回测或拟合模型；分数不是涨幅概率。
 [完整分项](https://github.com/Bowen389/fable-ML/blob/main/output/daily_coil_scores.csv) · [独立验证报告](https://github.com/Bowen389/fable-ML/blob/main/output/rebound_coil/report.md)
 <!-- daily-coil:end -->
-
-<!-- unified-system:start -->
-## 一体化模块汇总
-
-汇总时间：2026-10-22T16:20:05.432120+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
-
-| 模块 | 状态 | 数据日期／说明 |
-|---|---|---|
-| 四类传统买点全扫 | ok | 2026-10-21 |
-| 全池报价与在售 | partial | 2026-10-22T12:03:44.944882+08:00 |
-| 求购与大户求购排行 | ok | 2026-10-21 |
-| CSQAQ Whale辅助 | partial | 2026-10-22T06:23:33+00:00 |
-| 蓄势评分 | ok | 2026-10-21 |
-| 原版规则与ML | available | 2026-10-21 |
-
-[查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
-Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
-<!-- unified-system:end -->
