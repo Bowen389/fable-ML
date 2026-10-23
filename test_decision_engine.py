@@ -34,3 +34,14 @@ class Decisions(unittest.TestCase):
         for r in p:r['r3']=-.06;r['prior_r3']=-.02
         x=build(s,p,c,[],NOW);self.assertEqual(x['market']['state'],'下跌加速');self.assertEqual(x['research_ready'],0)
 if __name__=='__main__':unittest.main()
+
+
+class MissingScores(unittest.TestCase):
+    def test_no_scores_is_unavailable_not_zero_opportunities(self):
+        from decision_engine import render
+        s,p,c=fixture()
+        for r in c:r['date']='2026-10-20'
+        result=build(s,p,c,[],NOW)
+        self.assertEqual(result['status'],'data_unavailable')
+        self.assertEqual(result['data_status'],'unavailable')
+        self.assertIn('不是零买点',render(result))

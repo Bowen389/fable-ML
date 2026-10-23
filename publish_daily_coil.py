@@ -5,6 +5,16 @@ import urllib.request,urllib.error
 from coil_report_section import merge_coil_section
 ROOT=Path(__file__).resolve().parent
 
+def remote_text(api,path,head):
+    remote=api('/contents/'+path+'?ref='+head)
+    if remote.get('encoding')!='base64' or not remote.get('content'):
+        sha=remote.get('sha')
+        if not sha:raise ValueError('Remote file has no blob SHA: '+path)
+        remote=api('/git/blobs/'+sha)
+    if remote.get('encoding')!='base64' or not remote.get('content'):
+        raise ValueError('Remote file content unavailable: '+path)
+    return base64.b64decode(remote['content'],validate=False).decode('utf-8-sig')
+
 def main():
     token=os.environ['GITHUB_TOKEN'];repo=os.environ['GITHUB_REPOSITORY'];base='https://api.github.com/repos/'+repo
     def api(path,data=None,method=None):
@@ -17,19 +27,17 @@ def main():
         try:
             head=api('/git/ref/heads/main')['object']['sha'];tree=api('/git/commits/'+head)['tree']['sha'];current=list(entries)
             for p in ('output/latest.md','output/process_score_report.md','output/multifactor_report.md','output/guide_latest.md'):
-                try:remote=api('/contents/'+p+'?ref='+head)
+                try:text=remote_text(api,p,head)
                 except urllib.error.HTTPError as exc:
                     if exc.code==404:continue
                     raise
-                if remote.get('encoding')!='base64':raise ValueError('Unsupported report encoding')
-                text=base64.b64decode(remote['content']).decode('utf-8-sig')
                 current.append({'path':p,'type':'blob','mode':'100644','content':merge_coil_section(text,ROOT)})
             try:
-                remote=api('/contents/output/guide_latest.json?ref='+head)
+                guide_text=remote_text(api,'output/guide_latest.json',head)
             except urllib.error.HTTPError as exc:
                 if exc.code!=404:raise
             else:
-                guide=json.loads(base64.b64decode(remote['content']).decode('utf-8-sig'))
+                guide=json.loads(guide_text)
                 guide['coil_candidates']=meta
                 current.append({'path':'output/guide_latest.json','type':'blob','mode':'100644','content':json.dumps(guide,ensure_ascii=False,indent=2)})
             if meta.get('status')=='ok':

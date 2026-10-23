@@ -75,3 +75,18 @@ class DailyCoilTests(unittest.TestCase):
             self.assertEqual(meta['status'],'ok');self.assertEqual(meta['new_requests'],0);self.assertEqual(meta['training_runs'],0)
             self.assertEqual(len(meta['lists']['sequence']),5);self.assertFalse(meta['buy_validated'])
 if __name__=='__main__':unittest.main()
+
+
+class LargeRemoteFileTests(unittest.TestCase):
+    def test_large_contents_falls_back_to_exact_git_blob(self):
+        calls=[]
+        def api(path):
+            calls.append(path)
+            if path.startswith('/contents/'):return {'encoding':'none','content':'','sha':'large-sha'}
+            self.assertEqual(path,'/git/blobs/large-sha')
+            return {'encoding':'base64','content':base64.b64encode(b'{"large":true}').decode()}
+        self.assertEqual(json.loads(publisher.remote_text(api,'output/guide_latest.json','head')),{'large':True})
+        self.assertEqual(len(calls),2)
+    def test_unavailable_blob_is_failure_not_empty_json(self):
+        with self.assertRaises(ValueError):
+            publisher.remote_text(lambda p:{'sha':'broken','encoding':'none','content':''},'output/guide_latest.json','head')
