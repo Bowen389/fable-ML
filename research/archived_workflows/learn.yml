@@ -1,8 +1,6 @@
 name: monthly-learn
 
 on:
-  schedule:
-    - cron: '0 3 1 * *'         # 每月 1 日 UTC 03:00（北京 11:00），在当天 daily-scan 之后
   workflow_dispatch:
     inputs:
       retune:

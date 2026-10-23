@@ -1,15 +1,7 @@
 name: unified-trade-guide
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: [daily-scan]
-    types: [completed]
-    branches: [main]
-  push:
-    paths:
-      - trade_guide.py
-      - guide_observations.json
-      - .github/workflows/trade-guide.yml
+
 permissions:
   contents: write
 concurrency:

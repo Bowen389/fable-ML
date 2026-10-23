@@ -1,16 +1,12 @@
-name: Independent normalized shape transfer
+name: Independent rebound phase and exit research
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'rebound_shape_transfer.py'
-      - 'test_rebound_shapes.py'
-      - '.github/workflows/rebound-shapes.yml'
+
 permissions:
   contents: write
   actions: read
 concurrency:
-  group: independent-rebound-shapes
+  group: independent-rebound-phases
   cancel-in-progress: false
 jobs:
   backtest:
@@ -45,31 +41,33 @@ jobs:
           mkdir -p research_cache
           if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
       - name: Verify causality, fees, gaps and holding period
-        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py
+        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py test_rebound_shared.py test_rebound_memory.py test_rebound_phases.py
       - name: Run independent fixed-rule historical study
-        run: python -u rebound_shape_transfer.py
+        run: python verify_rebound_phase_pipeline.py
+      - name: Run actual historical phase study
+        run: python -u rebound_phase_research.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: independent-rebound-shapes
-          path: output/rebound_shapes
+          name: independent-rebound-phases
+          path: output/rebound_phases
           retention-days: 30
       - name: Publish independent results only
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
           result_backup=$(mktemp -d)
-          cp -a output/rebound_shapes "$result_backup/"
-          git add output/rebound_shapes
-          if ! git diff --cached --quiet; then git commit -m 'Prepare independent normalized rebound shape diagnostics'; fi
+          cp -a output/rebound_phases "$result_backup/"
+          git add output/rebound_phases
+          if ! git diff --cached --quiet; then git commit -m 'Prepare independent frozen rebound entry diagnostics'; fi
           for attempt in 1 2 3; do
             git fetch origin main
-            git checkout -B publish-rebound-shapes FETCH_HEAD
-            mkdir -p output/rebound_shapes
-            cp -a "$result_backup/rebound_shapes/." output/rebound_shapes/
-            git add output/rebound_shapes
+            git checkout -B publish-rebound-phases FETCH_HEAD
+            mkdir -p output/rebound_phases
+            cp -a "$result_backup/rebound_phases/." output/rebound_phases/
+            git add output/rebound_phases
             if git diff --cached --quiet; then exit 0; fi
-            git commit -m 'Publish independent normalized rebound shape diagnostics'
+            git commit -m 'Publish independent frozen rebound entry diagnostics'
             if git push origin HEAD:main; then exit 0; fi
           done
           exit 1

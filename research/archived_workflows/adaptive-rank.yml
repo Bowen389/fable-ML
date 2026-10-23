@@ -1,11 +1,7 @@
 name: daily-adaptive-rank
 on:
-  schedule:
-    - cron: '45 2 * * *' # Asia/Shanghai 10:45, GitHub schedules may be delayed
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ['.github/workflows/adaptive-rank.yml']
+
 permissions:
   contents: write
 concurrency:

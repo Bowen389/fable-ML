@@ -1,11 +1,7 @@
 name: Independent rebound group review
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'rebound_group_review.py'
-      - 'test_rebound_groups.py'
-      - '.github/workflows/rebound-groups.yml'
+
 permissions:
   contents: write
 concurrency:

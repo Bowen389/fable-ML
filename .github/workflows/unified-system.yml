@@ -19,10 +19,7 @@ on:
       - test_unified_system.py
       - integrations/**
       - .github/workflows/unified-system.yml
-  workflow_run:
-    workflows: [Daily accumulation watch candidates]
-    types: [completed]
-    branches: [main]
+
   schedule:
     - cron: '47 2 * * *' # 10:47, after morning quotes and daily scores
     - cron: '7 8,14 * * *' # 16:07 and 22:07; upstream completion is checked

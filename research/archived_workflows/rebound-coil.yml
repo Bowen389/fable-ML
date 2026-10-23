@@ -1,16 +1,12 @@
-name: Independent rebound entry validation
+name: Independent aligned accumulation leader scores
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'rebound_entry_validation.py'
-      - 'test_rebound_entries.py'
-      - '.github/workflows/rebound-entries.yml'
+
 permissions:
   contents: write
   actions: read
 concurrency:
-  group: independent-rebound-entries
+  group: independent-rebound-coil
   cancel-in-progress: false
 jobs:
   backtest:
@@ -45,29 +41,31 @@ jobs:
           mkdir -p research_cache
           if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
       - name: Verify causality, fees, gaps and holding period
-        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py test_rebound_shared.py test_rebound_memory.py test_rebound_entries.py
+        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py test_rebound_shared.py test_rebound_memory.py test_rebound_coil.py
       - name: Run independent fixed-rule historical study
-        run: python -u rebound_entry_validation.py
+        run: python verify_rebound_coil_pipeline.py
+      - name: Run actual historical phase study
+        run: python -u rebound_coil_research.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: independent-rebound-entries
-          path: output/rebound_entries
+          name: independent-rebound-coil
+          path: output/rebound_coil
           retention-days: 30
       - name: Publish independent results only
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
           result_backup=$(mktemp -d)
-          cp -a output/rebound_entries "$result_backup/"
-          git add output/rebound_entries
+          cp -a output/rebound_coil "$result_backup/"
+          git add output/rebound_coil
           if ! git diff --cached --quiet; then git commit -m 'Prepare independent frozen rebound entry diagnostics'; fi
           for attempt in 1 2 3; do
             git fetch origin main
-            git checkout -B publish-rebound-entries FETCH_HEAD
-            mkdir -p output/rebound_entries
-            cp -a "$result_backup/rebound_entries/." output/rebound_entries/
-            git add output/rebound_entries
+            git checkout -B publish-rebound-coil FETCH_HEAD
+            mkdir -p output/rebound_coil
+            cp -a "$result_backup/rebound_coil/." output/rebound_coil/
+            git add output/rebound_coil
             if git diff --cached --quiet; then exit 0; fi
             git commit -m 'Publish independent frozen rebound entry diagnostics'
             if git push origin HEAD:main; then exit 0; fi

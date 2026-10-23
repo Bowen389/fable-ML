@@ -1,16 +1,12 @@
-name: Independent known leader pattern learning
+name: Independent normalized shape transfer
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'rebound_case_learning.py'
-      - 'test_rebound_cases.py'
-      - '.github/workflows/rebound-cases.yml'
+
 permissions:
   contents: write
   actions: read
 concurrency:
-  group: independent-rebound-cases
+  group: independent-rebound-shapes
   cancel-in-progress: false
 jobs:
   backtest:
@@ -45,31 +41,31 @@ jobs:
           mkdir -p research_cache
           if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
       - name: Verify causality, fees, gaps and holding period
-        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py
+        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py
       - name: Run independent fixed-rule historical study
-        run: python -u rebound_case_learning.py
+        run: python -u rebound_shape_transfer.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: independent-rebound-cases
-          path: output/rebound_cases
+          name: independent-rebound-shapes
+          path: output/rebound_shapes
           retention-days: 30
       - name: Publish independent results only
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
           result_backup=$(mktemp -d)
-          cp -a output/rebound_cases "$result_backup/"
-          git add output/rebound_cases
-          if ! git diff --cached --quiet; then git commit -m 'Prepare independent rebound known-case pattern diagnostics'; fi
+          cp -a output/rebound_shapes "$result_backup/"
+          git add output/rebound_shapes
+          if ! git diff --cached --quiet; then git commit -m 'Prepare independent normalized rebound shape diagnostics'; fi
           for attempt in 1 2 3; do
             git fetch origin main
-            git checkout -B publish-rebound-cases FETCH_HEAD
-            mkdir -p output/rebound_cases
-            cp -a "$result_backup/rebound_cases/." output/rebound_cases/
-            git add output/rebound_cases
+            git checkout -B publish-rebound-shapes FETCH_HEAD
+            mkdir -p output/rebound_shapes
+            cp -a "$result_backup/rebound_shapes/." output/rebound_shapes/
+            git add output/rebound_shapes
             if git diff --cached --quiet; then exit 0; fi
-            git commit -m 'Publish independent rebound known-case pattern diagnostics'
+            git commit -m 'Publish independent normalized rebound shape diagnostics'
             if git push origin HEAD:main; then exit 0; fi
           done
           exit 1

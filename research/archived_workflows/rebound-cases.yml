@@ -1,16 +1,12 @@
-name: Independent frozen leader watch entries
+name: Independent known leader pattern learning
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'rebound_watch_research.py'
-      - 'test_rebound_watch.py'
-      - '.github/workflows/rebound-watch.yml'
+
 permissions:
   contents: write
   actions: read
 concurrency:
-  group: independent-rebound-watch
+  group: independent-rebound-cases
   cancel-in-progress: false
 jobs:
   backtest:
@@ -45,33 +41,31 @@ jobs:
           mkdir -p research_cache
           if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
       - name: Verify causality, fees, gaps and holding period
-        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py test_rebound_shapes.py test_rebound_shared.py test_rebound_memory.py test_rebound_watch.py
+        run: python -m unittest -v test_bear_rebound.py test_rebound_rank.py test_rebound_stage.py test_rebound_cases.py
       - name: Run independent fixed-rule historical study
-        run: python verify_rebound_watch_pipeline.py
-      - name: Run actual historical phase study
-        run: python -u rebound_watch_research.py
+        run: python -u rebound_case_learning.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: independent-rebound-watch
-          path: output/rebound_watch
+          name: independent-rebound-cases
+          path: output/rebound_cases
           retention-days: 30
       - name: Publish independent results only
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
           result_backup=$(mktemp -d)
-          cp -a output/rebound_watch "$result_backup/"
-          git add output/rebound_watch
-          if ! git diff --cached --quiet; then git commit -m 'Prepare independent frozen rebound entry diagnostics'; fi
+          cp -a output/rebound_cases "$result_backup/"
+          git add output/rebound_cases
+          if ! git diff --cached --quiet; then git commit -m 'Prepare independent rebound known-case pattern diagnostics'; fi
           for attempt in 1 2 3; do
             git fetch origin main
-            git checkout -B publish-rebound-watch FETCH_HEAD
-            mkdir -p output/rebound_watch
-            cp -a "$result_backup/rebound_watch/." output/rebound_watch/
-            git add output/rebound_watch
+            git checkout -B publish-rebound-cases FETCH_HEAD
+            mkdir -p output/rebound_cases
+            cp -a "$result_backup/rebound_cases/." output/rebound_cases/
+            git add output/rebound_cases
             if git diff --cached --quiet; then exit 0; fi
-            git commit -m 'Publish independent frozen rebound entry diagnostics'
+            git commit -m 'Publish independent rebound known-case pattern diagnostics'
             if git push origin HEAD:main; then exit 0; fi
           done
           exit 1

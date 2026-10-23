@@ -1,10 +1,7 @@
 name: buy-parameter-research
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - research_buy_params.py
-      - .github/workflows/buy-parameter-research.yml
+
 permissions:
   contents: write
 concurrency:

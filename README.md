@@ -1,3 +1,7 @@
+## 日常核心运行
+
+已精简为5个核心工作流：采集扫描、固定日线评分、蓄势评分、综合决策、代码检查。每日不重训、不重新搜索历史参数，19个历史研究/旧单品工作流已归档。[执行清单](docs/core_execution.md)
+
 ## 综合决策主入口
 
 [查看综合决策主报告](output/decision_latest.md) · [全部商品决策](output/decision_latest.csv) · [评分公式与限制](docs/decision_engine.md)

@@ -183,6 +183,16 @@ def train_and_evaluate(d,cols,latest):
     return model,iso,metrics,test
 
 
+def daily_model_result(out,d,cols,latest):
+    if os.environ.get('DAILY_INFERENCE_ONLY')!='1':
+        return train_and_evaluate(d,cols,latest)
+    path=Path(out)/'process_score_validation.json'
+    frozen=json.loads(path.read_text()) if path.exists() else {}
+    old=frozen.get('validation_asof') or frozen.get('asof')
+    metrics=dict(frozen.get('metrics',{}))
+    metrics.update(buy_validated=False,status='固定公式日常证据分；历史验证冻结于'+str(old),training_runs=0,validation_asof=old)
+    return None,None,metrics,pd.DataFrame()
+
 def main():
     CACHE.mkdir(exist_ok=True);out=ROOT/'output';out.mkdir(exist_ok=True)
     today=pd.Timestamp.now(tz='Asia/Shanghai').tz_localize(None).normalize()
@@ -208,7 +218,7 @@ def main():
           'early_range40','early_drift40','second_wave_return','second_wave_volume','wash_drawdown','wash_volume_ratio',
           'volume_cv7','volume_max_share7','volume_rising_days7','volume_acceleration','early_cost_gap','price_efficiency7','support_recovery']
     assert not set(cols)&set(FUTURE_FEATURES+['big_rise_label','barrier_net','label_maturity'])
-    model,iso,metrics,test=train_and_evaluate(d,cols,latest)
+    model,iso,metrics,test=daily_model_result(out,d,cols,latest)
     current=d[(d.date==latest)&d.eligible&d.volume_ok].copy()
     current['模型排序分位']=np.nan
     current['收益模型排序分位']=np.nan
@@ -242,6 +252,7 @@ def main():
         for band,g in test.groupby('band',observed=False):bands.append({'band':str(band),**measures(g)})
         test[['name','date','big_rise_label','barrier_net','net30','证据分']+[c for c in ['model_raw','model_calibrated','return_model_raw'] if c in test]].to_csv(out/'process_score_holdout.csv.gz',index=False,compression='gzip')
     manifest={'version':'leader-process-score-v1','asof':str(latest.date()),'generated_at':pd.Timestamp.now(tz='Asia/Shanghai').isoformat(),
+              'training_runs':0 if os.environ.get('DAILY_INFERENCE_ONLY')=='1' else 1,'validation_asof':metrics.get('validation_asof',str(latest.date())),'daily_mode':os.environ.get('DAILY_INFERENCE_ONLY')=='1',
               'source':'Firepulse public interface','price_basis':'youpin daily OHLC','volume_basis':'all-platform proxy',
               'items_requested':len(universe),'items_loaded':len(frames),'failures':failures,'feature_columns':cols,
               'metrics':metrics,'evidence_score_bands':bands,'daily_rows':len(current),'historical_rows':len(raw),'earliest_price_date':str(raw.date.min().date()),
@@ -265,7 +276,7 @@ def main():
            '## 过程证据分（0–100）','',
            '| 项目 | 最高分 |','|---|---:|','| 前期建仓代理 | 20 |','| 第二轮量价台阶 | 15 |','| 洗盘承接代理 | 20 |','| 均匀放量 | 20 |','| 价格空间 | 15 |','| 相对强度 | 10 |',
            '','风险扣分最多30分；缺失证据不给分。所有分项由当日及以前数据计算。',
-           '## 独立时段模型验证','',f'- 标签：{manifest["target"]}',f'- 参数选择：{metrics.get("selected_leaves","样本不足")}叶节点；只按校准段平均精确率选择。',
+           '## 独立时段模型验证（每日模式沿用历史结果）','',f'- 本轮训练次数：{manifest["training_runs"]}；历史验证截至：{manifest["validation_asof"]}；本轮不重新认证买入资格。',f'- 标签：{manifest["target"]}',f'- 参数选择：{metrics.get("selected_leaves","样本不足")}叶节点；只按校准段平均精确率选择。',
            f'- 训练/校准/留出样本：{metrics.get("train_n")}/{metrics.get("cal_n")}/{metrics.get("test_n")}',
            f'- 留出全池大涨标签率：{pct(metrics.get("test_base",{}).get("hit_rate"))}',
            f'- 留出每日模型前10%大涨标签率：{pct(metrics.get("test_top_decile",{}).get("hit_rate"))}',

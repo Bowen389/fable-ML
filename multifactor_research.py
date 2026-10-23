@@ -201,6 +201,18 @@ def qualify(s,windows,gate):
         and len(windows)==3 and all(w['n']>=10 and w['days']>=5 and w['mean'] is not None and w['mean']>0 for w in windows))
 
 
+def load_daily_frozen_results(out,masks):
+    path=Path(out)/'multifactor_validation.json'
+    if not path.exists():raise RuntimeError('Daily mode requires frozen multifactor research; no automatic parameter search')
+    prior=json.loads(path.read_text());byid={r['id']:r for r in prior.get('results',[])}
+    results=[]
+    for eid in masks:
+        r=dict(byid.get(eid,{'id':eid,'name':ENTRIES[eid],'recipe':None}))
+        r['historical_qualified']=r.get('historical_qualified',r.get('qualified',False))
+        r.update(qualified=False,status='冻结参数日常证据；本轮未重做历史资格检验')
+        results.append(r)
+    return results,prior.get('validation_asof') or prior.get('asof')
+
 def main():
     out=ROOT/'output';out.mkdir(exist_ok=True)
     today=pd.Timestamp.now(tz='Asia/Shanghai').tz_localize(None).normalize()
@@ -227,9 +239,11 @@ def main():
     rules=load_rules();masks=entry_masks(d,rules)
     split=latest-pd.Timedelta(days=90);development_end=latest-pd.Timedelta(days=270)
     rolling_edges=pd.date_range(latest-pd.Timedelta(days=121),latest-pd.Timedelta(days=31),periods=4)
-    results=[];total_trials=0;rows=[]
+    daily_mode=os.environ.get('DAILY_INFERENCE_ONLY')=='1'
+    results=[];total_trials=0;rows=[];validation_asof=str(latest.date())
+    if daily_mode:results,validation_asof=load_daily_frozen_results(out,masks)
     # Each method is selected on earlier calibration data, then frozen for the last-90-day check.
-    for eid,mask in masks.items():
+    for eid,mask in ([] if daily_mode else masks.items()):
         recipe,trials=select_recipe(d,mask,split,development_end);total_trials+=trials
         if recipe is None:
             results.append({'id':eid,'name':ENTRIES[eid],'status':'校准样本不足','qualified':False});continue
@@ -305,6 +319,7 @@ def main():
     sectors[sectors.date.eq(latest)].to_csv(out/'multifactor_sector_snapshot.csv',index=False,encoding='utf-8-sig')
     manifest={'version':VERSION,'generated_at':now,'asof':str(latest.date()),'items_requested':len(universe),'items_loaded':len(frames),
         'rows':len(raw),'daily_rows':len(scores),'scoring_pool_status_counts':pool_audit['status_counts'],'failures':failed,'source':'Firepulse YOUPIN prices; global all-platform volume proxy',
+        'daily_mode':daily_mode,'validation_asof':validation_asof,'parameter_search_runs':0 if daily_mode else 1,
         'calibration_start':str(development_end.date()),'validation_start':str(split.date()),'profiles':PROFILES,'entry_methods':ENTRIES,
         'rolling_signal_start':str(rolling_edges[0].date()),'rolling_signal_end':str(rolling_edges[-1].date()),
         'total_search_combinations_including_rolling':total_trials,'results':results,'qualified_systems':[r['id'] for r in results if r['qualified']],
@@ -322,6 +337,7 @@ def main():
     (out/'multifactor_validation.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2,default=int))
     pct=lambda x:'—' if x is None else f'{x:.2%}'
     lines=['# 市场与板块条件下的多因子评分研究','',f'截至{latest.date()}；{len(frames)}/{len(universe)}件数据，{len(scores)}件每日评分。',
+        f'本轮参数搜索：{total_trials}组；历史检验截至{validation_asof}；每日模式不重复回测或升级买入资格。',
         f'通过完整检验的系统：{", ".join(manifest["qualified_systems"]) or "无"}；当前允许前瞻模拟观察：{manifest["daily_allowed_rows"]}件。',
         '','## 原版审计','',
         '复用原版短/中/长周期规则、MA30市场广度分档、90日指数回撤、短长波动比和ATR思想。原版五规则当前均为probation；本研究不改变其状态。原LightGBM只做收益排序，不能把它的分位视为成功概率。',

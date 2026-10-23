@@ -1,10 +1,16 @@
 name: Daily leader process scores
 on:
   workflow_dispatch:
+    inputs:
+      full_research:
+        description: Run expensive model fitting and historical parameter search
+        type: boolean
+        default: false
   schedule:
     - cron: '15 2 * * *'
   push:
     paths:
+      - 'test_core_daily.py'
       - 'process_score.py'
       - 'multifactor_research.py'
       - 'pool_audit.py'
@@ -24,6 +30,7 @@ jobs:
       OMP_NUM_THREADS: '2'
       OPENBLAS_NUM_THREADS: '2'
       REFRESH_PUBLIC_DATA: '1'
+      DAILY_INFERENCE_ONLY: ${{ inputs.full_research == true && '0' || '1' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -49,13 +56,15 @@ jobs:
         run: |
           mkdir -p research_cache
           if [ -d bootstrap/research_cache ]; then cp -n bootstrap/research_cache/*.json.gz research_cache/; fi
-      - name: Refresh completed bars and evaluate scores
+      - name: Verify daily mode never fits or retunes
+        run: python -m unittest -v test_core_daily.py
+      - name: Refresh completed bars and calculate fixed daily evidence
         run: python -u process_score.py
       - name: Check historical scores cannot see future data
         run: python verify_multifactor_causality.py
       - name: Verify per-item scoring eligibility diagnostics
         run: python -m unittest -v test_pool_audit.py
-      - name: Compare regime-conditioned multifactor entry methods
+      - name: Calculate daily multifactor evidence with frozen research parameters
         run: python -u multifactor_research.py
       - name: Publish daily scores and immutable dated snapshot
         env:
@@ -67,8 +76,6 @@ jobs:
           name: process-score-research
           path: |
             output/process_score_*
-            output/process_rank_model.joblib
-            output/process_return_model.joblib
             output/daily_process_scores.csv
             output/multifactor_*
             output/score_pool_status.json
