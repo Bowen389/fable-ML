@@ -1,53 +1,18 @@
 # CS2 综合决策主报告
 
-生成：2026-10-22T22:17:10.374986+08:00；完整日K：2026-10-21；版本 decision-v1。
+生成：2026-10-23T10:21:51.517878+08:00；完整日K：2026-10-22；版本 decision-v1。
 
 **研究观察版，尚未通过买入验证，不自动交易。**
 
 市场：**反弹启动**；权限：**研究放行**；同日环境样本 1048。
-监控 815 件；潜力可评分 623 件；研究入场条件满足 0 件。
+监控 815 件；潜力可评分 0 件；研究入场条件满足 0 件。
 
 ## 潜力Top5及入场决策
 
 | 商品 | 潜力分 | 入场分 | 状态 | 未满足条件 |
 |---|---:|---:|---|---|
-| 法玛斯 ／ 冥界之憎 (崭新出厂) | 86.74 | 37.54 | 等待条件 | 价格超过入场观察上限，等待回踩；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| M4A1消音版 ／ 原子合金 (崭新出厂) | 67.06 | 36.44 | 等待条件 | 可比求购厚度下降超过20%；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| P250 ／ 潜藏者 (崭新出厂) | 66.1 | 41.18 | 等待条件 | 价格超过入场观察上限，等待回踩；无传统日K买点；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| AUG ／ 随机存取 (崭新出厂) | 64.51 | 62.5 | 入场证据不足 | 无硬阻断，仍需评分门槛 |
-| 格洛克18型 ／ 铁之作 (崭新出厂) | 64.49 | 41.45 | 等待条件 | 无传统日K买点；同板块暂无其他提前蓄势分≥60的接力观察品 |
 
 ## 触发与失效
-
-**法玛斯 ／ 冥界之憎 (崭新出厂)**
-- 理由：前期参与代理 28.7分；量价台阶 14.2分；持续放量 13.3分
-- 触发：挂牌价在670.0至863.25区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 670.0；入场观察上限 863.25；失效参考 640.25（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**M4A1消音版 ／ 原子合金 (崭新出厂)**
-- 理由：前期参与代理 26.0分；量价台阶 13.0分；相对强度 10.0分
-- 触发：挂牌价在1030.0至1314.7区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 1030.0；入场观察上限 1314.7；失效参考 988.68（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**P250 ／ 潜藏者 (崭新出厂)**
-- 理由：持续放量 15.0分；洗盘代理 13.7分；量价台阶 13.6分
-- 触发：挂牌价在59.68至65.93区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 59.68；入场观察上限 65.93；失效参考 58.15（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**AUG ／ 随机存取 (崭新出厂)**
-- 理由：前期参与代理 29.1分；量价台阶 10.2分；风险质量 10.0分
-- 触发：挂牌价在66.77至73.45区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 66.77；入场观察上限 73.45；失效参考 65.51（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**格洛克18型 ／ 铁之作 (崭新出厂)**
-- 理由：前期参与代理 26.7分；量价台阶 12.2分；相对强度 10.0分
-- 触发：挂牌价在239.0至305.57区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 239.0；入场观察上限 305.57；失效参考 225.73（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
 
 ## 研究入场Top5
 本轮无商品满足全部研究入场条件，潜力Top5不是买入名单。
@@ -65,53 +30,53 @@
 
 # CS2 一体化总报告
 
-生成时间：2026-10-22T22:17:10.369474+08:00
+生成时间：2026-10-23T10:21:51.512989+08:00
 
 **原版规则、四类传统买点、蓄势分、求购与Whale分列展示；不自动下单。**
 
 | 模块 | 状态 | 数据日期／覆盖 |
 |---|---|---|
-| traditional | ok | 2026-10-21 |
+| traditional | ok | 2026-10-22 |
 | quotes | partial | 2026-10-22T22:12:29.542289+08:00 |
 | demand | ok | 2026-10-22 |
 | whale | partial | 2026-10-22T12:45:12+00:00 |
 | coil | ok | 2026-10-21 |
-| original | available | 2026-10-21 |
+| original | available | 2026-10-22 |
 
 ## 四类传统买点（全量扫描）
-数据日 2026-10-21；研究池 2138 件；实际扫描 1048 件；命中 184 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
+数据日 2026-10-22；研究池 2139 件；实际扫描 1048 件；命中 145 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
 | 商品 | 日K价 | 家族数 | 形态 |
 |---|---|---|---|
-| AUG  /  Arctic Wolf (Factory New) | 51.39 | 2 | 双金叉 12/26/9＋上影吞没 |
-| AWP  /  LongDog (Factory New) | 3068.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| AWP  /  Phobos (Factory New) | 38.59 | 2 | 均线合一 MA5/12/21＋单针承接 |
-| Desert Eagle  /  Sputnik (Factory New) | 59.94 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| Dual Berettas  /  Royal Consorts (Factory New) | 174.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| Galil AR  /  Kami (Factory New) | 33.31 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| Galil AR  /  Stone Cold (Factory New) | 150.0 | 2 | 均线合一 MA7/14/21＋单针承接 |
-| Glock-18  /  Bunsen Burner (Factory New) | 33.9 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| Glock-18  /  Catacombs (Factory New) | 34.9 | 2 | 均线合一 MA5/12/21＋单针承接 |
-| M4A1-S  /  Nitro (Factory New) | 68.2 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋上影吞没 |
-| M4A4  /  Griffin (Factory New) | 518.8 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| Souvenir MAG-7  /  Sand Dune (Factory New) | 287.46 | 2 | 双金叉 5/12/4＋均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| USP-S  /  Cortex (Factory New) | 174.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| XM1014  /  Ancient Lore (Factory New) | 299.0 | 2 | 双金叉 12/26/9＋双金叉 5/12/4＋均线合一 MA5/12/21 |
-| Zeus x27  /  Charged Up (Factory New) | 84.9 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| ★ Moto Gloves  /  Cool Mint (Field-Tested) | 6190.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| AK-47  /  Blue Laminate (Factory New) | 152.0 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| AK-47  /  Case Hardened (Factory New) | 2596.0 | 1 | 双金叉 12/26/9 |
-| AK-47  /  Jungle Spray (Factory New) | 1028.0 | 1 | 双金叉 12/26/9 |
-| AK-47  /  Leet Museo (Factory New) | 3420.0 | 1 | 均线合一 MA7/14/21 |
-| AK-47  /  Neon Revolution (Factory New) | 1448.0 | 1 | 单针承接 |
-| AK-47  /  Phantom Disruptor (Factory New) | 133.9 | 1 | 上影吞没 |
-| AK-47  /  Steel Delta (Factory New) | 46.8 | 1 | 单针承接 |
-| AUG  /  Chameleon (Factory New) | 524.0 | 1 | 双金叉 12/26/9 |
-| AUG  /  Condemned (Factory New) | 37.99 | 1 | 均线合一 MA5/12/21 |
-| AUG  /  Midnight Lily (Factory New) | 2137.9 | 1 | 均线合一 MA7/14/21 |
-| AUG  /  Random Access (Factory New) | 74.0 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| AWP  /  Acheron (Factory New) | 57.9 | 1 | 均线合一 MA7/14/21 |
-| AWP  /  Chromatic Aberration (Factory New) | 414.09 | 1 | 双金叉 5/12/4 |
-| AWP  /  Chrome Cannon (Factory New) | 384.0 | 1 | 双金叉 12/26/9 |
+| AK-47  /  Safety Net (Factory New) | 71.0 | 2 | 均线合一 MA7/14/21＋单针承接 |
+| AWP  /  LongDog (Factory New) | 2898.5 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| Desert Eagle  /  Sputnik (Factory New) | 57.95 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| Dual Berettas  /  Royal Consorts (Factory New) | 174.49 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| Galil AR  /  Kami (Factory New) | 30.6 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| Glock-18  /  Catacombs (Factory New) | 31.69 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| Souvenir P250  /  Vino Primo (Factory New) | 698.5 | 2 | 双金叉 12/26/9＋双金叉 5/12/4＋均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| ★ Moto Gloves  /  Cool Mint (Field-Tested) | 5968.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| ★ Sport Gloves  /  Amphibious (Minimal Wear) | 3479.5 | 2 | 双金叉 12/26/9＋上影吞没 |
+| AK-47  /  Blue Laminate (Factory New) | 146.5 | 1 | 均线合一 MA7/14/21 |
+| AK-47  /  Leet Museo (Factory New) | 3400.0 | 1 | 均线合一 MA7/14/21 |
+| AUG  /  Lil' Pig (Factory New) | 425.0 | 1 | 均线合一 MA7/14/21 |
+| AUG  /  Random Access (Factory New) | 72.1 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AUG  /  Stymphalian (Factory New) | 42.86 | 1 | 双金叉 5/12/4 |
+| AUG  /  Wings (Factory New) | 70.8 | 1 | 双金叉 12/26/9＋双金叉 5/12/4 |
+| AWP  /  Acheron (Factory New) | 58.6 | 1 | 单针承接 |
+| AWP  /  Electric Hive (Factory New) | 428.0 | 1 | 单针承接 |
+| AWP  /  Phobos (Factory New) | 38.0 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AWP  /  Silk Tiger (Factory New) | 2690.0 | 1 | 单针承接 |
+| Aspirant  /  Gendarmerie Nationale | 53.7 | 1 | 单针承接 |
+| Bio-Haz Specialist  /  SWAT | 58.44 | 1 | 上影吞没 |
+| Bloody Darryl The Strapped  /  The Professionals | 178.0 | 1 | 单针承接 |
+| CZ75-Auto  /  Chalice (Factory New) | 2999.99 | 1 | 单针承接 |
+| CZ75-Auto  /  Eco (Factory New) | 78.76 | 1 | 双金叉 12/26/9 |
+| CZ75-Auto  /  Polymer (Factory New) | 32.99 | 1 | 单针承接 |
+| CZ75-Auto  /  Xiangliu (Factory New) | 89.8 | 1 | 双金叉 5/12/4 |
+| Desert Eagle  /  Code Red (Factory New) | 1105.0 | 1 | 上影吞没 |
+| Desert Eagle  /  Conspiracy (Factory New) | 159.5 | 1 | 单针承接 |
+| Desert Eagle  /  Golden Koi (Factory New) | 1183.98 | 1 | 单针承接 |
+| Desert Eagle  /  Kumicho Dragon (Factory New) | 383.0 | 1 | 单针承接 |
 完整扫描与命中：output/traditional_pool.csv、output/traditional_hits.csv；全量结果未合并到单一Glock样本。
 
 ## 悠悠求购、在售与报价
@@ -189,7 +154,7 @@
 |---|---|---|---|
 
 ## 原版ML与规则扫描
-原版规则候选 0 条；数据日期 2026-10-21。
+原版规则候选 0 条；数据日期 2026-10-22。
 | 规则 | 商品 | 价格 |
 |---|---|---|
 原规则状态和资格保持独立，详见 output/latest.md、output/process_score_report.md、output/multifactor_report.md。
