@@ -1,8 +1,9 @@
 {
   "version": "decision-v1",
-  "generated_at": "2026-10-23T10:21:51.517878+08:00",
+  "generated_at": "2026-10-23T11:26:08.727217+08:00",
   "asof": "2026-10-22",
-  "status": "research_only",
+  "status": "data_unavailable",
+  "data_status": "unavailable",
   "validated": false,
   "live_buy_allowed": false,
   "market": {
@@ -52,7 +53,7 @@
         "demand": 19.94
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "80.5351467205225",
+      "legacy_multifactor": "72.70862139231018",
       "coil_sequence": "51.27679413966056",
       "reasons": [],
       "triggers": [
@@ -95,7 +96,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "78.41128997331423",
+      "legacy_multifactor": "63.51134332243492",
       "coil_sequence": "48.350184064421015",
       "reasons": [],
       "triggers": [],
@@ -139,7 +140,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "76.892063002579",
+      "legacy_multifactor": "75.92236664336605",
       "coil_sequence": "38.053645646412214",
       "reasons": [],
       "triggers": [
@@ -186,7 +187,7 @@
         "demand": 12.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "76.0495158546398",
+      "legacy_multifactor": "63.692247111513566",
       "coil_sequence": "30.46389482258553",
       "reasons": [],
       "triggers": [
@@ -234,7 +235,7 @@
         "demand": 17.56
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "75.98102153697653",
+      "legacy_multifactor": "69.10787424663057",
       "coil_sequence": "49.591435542227785",
       "reasons": [],
       "triggers": [
@@ -281,7 +282,7 @@
         "demand": 16.16
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "74.01715178914779",
+      "legacy_multifactor": "62.094794873241895",
       "coil_sequence": "55.69133540013876",
       "reasons": [],
       "triggers": [
@@ -327,7 +328,7 @@
         "demand": 19.07
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "73.58035204900925",
+      "legacy_multifactor": "65.51941563466515",
       "coil_sequence": "38.58586225849345",
       "reasons": [],
       "triggers": [
@@ -374,7 +375,7 @@
         "demand": 17.57
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "73.4837209678617",
+      "legacy_multifactor": "70.26562981990459",
       "coil_sequence": "52.33965263879413",
       "reasons": [],
       "triggers": [
@@ -421,7 +422,7 @@
         "demand": 3.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "73.39935535632982",
+      "legacy_multifactor": "65.54671781174247",
       "coil_sequence": "52.96433356447049",
       "reasons": [],
       "triggers": [
@@ -469,7 +470,7 @@
         "demand": 19.97
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "73.2669019630927",
+      "legacy_multifactor": null,
       "coil_sequence": "66.23065260634672",
       "reasons": [],
       "triggers": [
@@ -515,7 +516,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "71.44410696889958",
+      "legacy_multifactor": "46.68529009650012",
       "coil_sequence": "17.383478464329183",
       "reasons": [],
       "triggers": [
@@ -563,7 +564,7 @@
         "demand": 17.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "69.80012286693093",
+      "legacy_multifactor": "58.07992455710358",
       "coil_sequence": "40.58187077241041",
       "reasons": [],
       "triggers": [
@@ -610,7 +611,7 @@
         "demand": 14.99
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "69.28928134301019",
+      "legacy_multifactor": "64.44270100717156",
       "coil_sequence": "54.82661325463561",
       "reasons": [],
       "triggers": [
@@ -658,7 +659,7 @@
         "demand": 6.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "68.66257040208727",
+      "legacy_multifactor": "68.50040713666297",
       "coil_sequence": "24.483364764715333",
       "reasons": [],
       "triggers": [
@@ -702,7 +703,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "68.57602032911316",
+      "legacy_multifactor": "67.22426054101354",
       "coil_sequence": "25.753784141982024",
       "reasons": [],
       "triggers": [],
@@ -746,7 +747,7 @@
         "demand": 13.07
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "68.32233204638925",
+      "legacy_multifactor": "61.01252140907067",
       "coil_sequence": "27.889574446438488",
       "reasons": [],
       "triggers": [
@@ -793,7 +794,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "68.29587826943056",
+      "legacy_multifactor": "65.77363354646575",
       "coil_sequence": "29.29432245428382",
       "reasons": [],
       "triggers": [
@@ -841,7 +842,7 @@
         "demand": 23.72
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "67.96864636484608",
+      "legacy_multifactor": "60.354663373263826",
       "coil_sequence": "27.766888089571722",
       "reasons": [],
       "triggers": [
@@ -887,7 +888,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "67.00912223292923",
+      "legacy_multifactor": "59.37969803801602",
       "coil_sequence": "51.28095264691641",
       "reasons": [],
       "triggers": [
@@ -935,7 +936,7 @@
         "demand": 10.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "66.70197365443835",
+      "legacy_multifactor": "73.01882413409378",
       "coil_sequence": "52.55666332173523",
       "reasons": [],
       "triggers": [
@@ -983,7 +984,7 @@
         "demand": 18.87
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "66.63387885244478",
+      "legacy_multifactor": "59.65465028002872",
       "coil_sequence": "21.925450199270202",
       "reasons": [],
       "triggers": [
@@ -1031,7 +1032,7 @@
         "demand": 3.13
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "65.99288299147787",
+      "legacy_multifactor": "68.02111458478791",
       "coil_sequence": "30.726349209060643",
       "reasons": [],
       "triggers": [
@@ -1079,7 +1080,7 @@
         "demand": 24.06
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "65.98632973260769",
+      "legacy_multifactor": "58.1586768336856",
       "coil_sequence": "20.72887663785584",
       "reasons": [],
       "triggers": [
@@ -1126,7 +1127,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "65.47606926689764",
+      "legacy_multifactor": "58.82848556612568",
       "coil_sequence": "19.70198376533404",
       "reasons": [],
       "triggers": [
@@ -1174,7 +1175,7 @@
         "demand": 17.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "65.19465699325544",
+      "legacy_multifactor": "61.738979416563545",
       "coil_sequence": "21.573440626998014",
       "reasons": [],
       "triggers": [
@@ -1220,7 +1221,7 @@
         "demand": 17.07
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "65.00467879742938",
+      "legacy_multifactor": "58.853346668920615",
       "coil_sequence": "24.537741542710094",
       "reasons": [],
       "triggers": [
@@ -1268,7 +1269,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "64.99866741504343",
+      "legacy_multifactor": "60.53255133824339",
       "coil_sequence": "28.84846165088336",
       "reasons": [],
       "triggers": [
@@ -1316,7 +1317,7 @@
         "demand": 23.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "64.94578760375407",
+      "legacy_multifactor": "58.34199201079563",
       "coil_sequence": "46.08568481666795",
       "reasons": [],
       "triggers": [
@@ -1363,7 +1364,7 @@
         "demand": 0.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "64.65460867255881",
+      "legacy_multifactor": "38.97988422670943",
       "coil_sequence": "32.55718771624446",
       "reasons": [],
       "triggers": [
@@ -1412,7 +1413,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "64.41113777483444",
+      "legacy_multifactor": "54.35878843299472",
       "coil_sequence": "23.712589034576574",
       "reasons": [],
       "triggers": [
@@ -1457,7 +1458,7 @@
         "demand": 3.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.99011496895418",
+      "legacy_multifactor": "57.31734505913302",
       "coil_sequence": "29.702354448372425",
       "reasons": [],
       "triggers": [
@@ -1505,7 +1506,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.9337301799314",
+      "legacy_multifactor": "45.40331003806723",
       "coil_sequence": "22.943197573586033",
       "reasons": [],
       "triggers": [
@@ -1554,7 +1555,7 @@
         "demand": 6.27
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.900205756534156",
+      "legacy_multifactor": "55.300578156251724",
       "coil_sequence": "27.188400543623153",
       "reasons": [],
       "triggers": [
@@ -1601,7 +1602,7 @@
         "demand": 11.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.85280492559379",
+      "legacy_multifactor": "55.49336410701444",
       "coil_sequence": "24.197675280886518",
       "reasons": [],
       "triggers": [
@@ -1649,7 +1650,7 @@
         "demand": 6.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.783231225860426",
+      "legacy_multifactor": "50.1046788677284",
       "coil_sequence": "38.424586942192825",
       "reasons": [],
       "triggers": [
@@ -1697,7 +1698,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.76219287373989",
+      "legacy_multifactor": "72.55492482825342",
       "coil_sequence": "32.10573567528491",
       "reasons": [],
       "triggers": [
@@ -1744,7 +1745,7 @@
         "demand": 13.98
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.676532607256",
+      "legacy_multifactor": "49.09711526152188",
       "coil_sequence": "26.520128569119187",
       "reasons": [],
       "triggers": [
@@ -1792,7 +1793,7 @@
         "demand": 9.39
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.5394309286918",
+      "legacy_multifactor": "66.24465593788746",
       "coil_sequence": "34.88327863950632",
       "reasons": [],
       "triggers": [
@@ -1839,7 +1840,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.49540529409797",
+      "legacy_multifactor": "62.21186626692786",
       "coil_sequence": "21.51098596292168",
       "reasons": [],
       "triggers": [
@@ -1882,7 +1883,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.47421033666358",
+      "legacy_multifactor": "58.74509547620621",
       "coil_sequence": "23.232238712771682",
       "reasons": [],
       "triggers": [],
@@ -1926,7 +1927,7 @@
         "demand": 3.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.39680529989624",
+      "legacy_multifactor": "63.657332378623074",
       "coil_sequence": "23.555376998655802",
       "reasons": [],
       "triggers": [
@@ -1975,7 +1976,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.36779233808048",
+      "legacy_multifactor": "56.02544330856334",
       "coil_sequence": "30.08180412914863",
       "reasons": [],
       "triggers": [
@@ -2022,7 +2023,7 @@
         "demand": 8.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.21508566254038",
+      "legacy_multifactor": "58.70316144060056",
       "coil_sequence": "28.144303079081258",
       "reasons": [],
       "triggers": [
@@ -2070,7 +2071,7 @@
         "demand": 2.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.182877267914336",
+      "legacy_multifactor": "51.241788154200684",
       "coil_sequence": "29.61291218103831",
       "reasons": [],
       "triggers": [
@@ -2118,7 +2119,7 @@
         "demand": 2.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.10897546511441",
+      "legacy_multifactor": "60.44198883346792",
       "coil_sequence": "29.497440264964393",
       "reasons": [],
       "triggers": [
@@ -2164,7 +2165,7 @@
         "demand": 7.44
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.037188675851205",
+      "legacy_multifactor": "54.826951111990695",
       "coil_sequence": "19.6847659325385",
       "reasons": [],
       "triggers": [
@@ -2213,7 +2214,7 @@
         "demand": 16.16
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.03014105632913",
+      "legacy_multifactor": "59.3366569106126",
       "coil_sequence": "28.64766930382563",
       "reasons": [],
       "triggers": [
@@ -2258,7 +2259,7 @@
         "demand": 21.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "63.00135021784817",
+      "legacy_multifactor": "57.14383503891247",
       "coil_sequence": "22.219898484415335",
       "reasons": [],
       "triggers": [
@@ -2304,7 +2305,7 @@
         "demand": 4.83
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.85296123244447",
+      "legacy_multifactor": "57.676208040569975",
       "coil_sequence": "22.739715555674614",
       "reasons": [],
       "triggers": [
@@ -2352,7 +2353,7 @@
         "demand": 24.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.8408492282901",
+      "legacy_multifactor": "58.825700422773174",
       "coil_sequence": "20.26131495227545",
       "reasons": [],
       "triggers": [
@@ -2399,7 +2400,7 @@
         "demand": 22.88
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.7628975274075",
+      "legacy_multifactor": "56.48716693682216",
       "coil_sequence": "31.010693808915534",
       "reasons": [],
       "triggers": [
@@ -2440,7 +2441,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.76079748440202",
+      "legacy_multifactor": "57.44938117260469",
       "coil_sequence": "24.174771643338385",
       "reasons": [],
       "triggers": [],
@@ -2484,7 +2485,7 @@
         "demand": 18.28
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.57470134602136",
+      "legacy_multifactor": "64.78560403202383",
       "coil_sequence": "72.61737946841443",
       "reasons": [],
       "triggers": [
@@ -2531,7 +2532,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.46326354322464",
+      "legacy_multifactor": "60.13023646352643",
       "coil_sequence": "24.325217846204282",
       "reasons": [],
       "triggers": [
@@ -2579,7 +2580,7 @@
         "demand": 20.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.34916010493251",
+      "legacy_multifactor": "59.286798001742426",
       "coil_sequence": "23.93750690454355",
       "reasons": [],
       "triggers": [
@@ -2626,7 +2627,7 @@
         "demand": 7.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.2606052445276",
+      "legacy_multifactor": "66.83869611822271",
       "coil_sequence": "24.909952862076537",
       "reasons": [],
       "triggers": [
@@ -2674,7 +2675,7 @@
         "demand": 12.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.247744644961365",
+      "legacy_multifactor": "57.49438572660366",
       "coil_sequence": "28.64402386987293",
       "reasons": [],
       "triggers": [
@@ -2722,7 +2723,7 @@
         "demand": 11.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.235281114002674",
+      "legacy_multifactor": "56.64719402133278",
       "coil_sequence": "26.07852330127861",
       "reasons": [],
       "triggers": [
@@ -2769,7 +2770,7 @@
         "demand": 0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.159165442925115",
+      "legacy_multifactor": "66.9048829506075",
       "coil_sequence": "34.36194336148971",
       "reasons": [],
       "triggers": [
@@ -2817,7 +2818,7 @@
         "demand": 14.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.095014045625305",
+      "legacy_multifactor": "62.60187156157902",
       "coil_sequence": "40.906779524917496",
       "reasons": [],
       "triggers": [
@@ -2864,7 +2865,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "62.08836530136171",
+      "legacy_multifactor": "57.66838601728459",
       "coil_sequence": "27.132758413432914",
       "reasons": [],
       "triggers": [
@@ -2913,7 +2914,7 @@
         "demand": 13.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.993099889772864",
+      "legacy_multifactor": "60.16722327383932",
       "coil_sequence": "25.83426960728501",
       "reasons": [],
       "triggers": [
@@ -2961,7 +2962,7 @@
         "demand": 6.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.80235727259314",
+      "legacy_multifactor": "54.965291135517255",
       "coil_sequence": "44.010692426726294",
       "reasons": [],
       "triggers": [
@@ -3007,7 +3008,7 @@
         "demand": 11.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.781420756274116",
+      "legacy_multifactor": "63.75977281673323",
       "coil_sequence": "17.01288805438955",
       "reasons": [],
       "triggers": [
@@ -3057,7 +3058,7 @@
         "demand": 11.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.7317933985801",
+      "legacy_multifactor": "62.43826505103874",
       "coil_sequence": "14.821229953717037",
       "reasons": [],
       "triggers": [
@@ -3105,7 +3106,7 @@
         "demand": 4.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.560557909181334",
+      "legacy_multifactor": "60.32288348811693",
       "coil_sequence": "16.330018256145934",
       "reasons": [],
       "triggers": [
@@ -3154,7 +3155,7 @@
         "demand": 4.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.55422346296698",
+      "legacy_multifactor": "52.290592943056794",
       "coil_sequence": "31.947455557083163",
       "reasons": [],
       "triggers": [
@@ -3200,7 +3201,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.54866671884016",
+      "legacy_multifactor": "52.574055838126164",
       "coil_sequence": "24.226333494201455",
       "reasons": [],
       "triggers": [
@@ -3249,7 +3250,7 @@
         "demand": 0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.40071665473399",
+      "legacy_multifactor": "53.819871126493354",
       "coil_sequence": "14.160779639040507",
       "reasons": [],
       "triggers": [
@@ -3298,7 +3299,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.37860361639157",
+      "legacy_multifactor": "55.43576873673226",
       "coil_sequence": "28.825453131391267",
       "reasons": [],
       "triggers": [
@@ -3346,7 +3347,7 @@
         "demand": 20.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.374628799744066",
+      "legacy_multifactor": "60.79263427749666",
       "coil_sequence": "23.41550986546759",
       "reasons": [],
       "triggers": [
@@ -3393,7 +3394,7 @@
         "demand": 2.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.364597469527595",
+      "legacy_multifactor": "48.56769134711838",
       "coil_sequence": "25.102286447026465",
       "reasons": [],
       "triggers": [
@@ -3440,7 +3441,7 @@
         "demand": 17.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.36102230825253",
+      "legacy_multifactor": "56.01427017877876",
       "coil_sequence": "25.355217845606916",
       "reasons": [],
       "triggers": [
@@ -3487,7 +3488,7 @@
         "demand": 1.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.2665477198034",
+      "legacy_multifactor": "47.19066978887716",
       "coil_sequence": "17.55109467668902",
       "reasons": [],
       "triggers": [
@@ -3535,7 +3536,7 @@
         "demand": 22.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.14068498833499",
+      "legacy_multifactor": "58.889516718188894",
       "coil_sequence": "17.88082433760307",
       "reasons": [],
       "triggers": [
@@ -3583,7 +3584,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "61.07919144830931",
+      "legacy_multifactor": "56.147632267101145",
       "coil_sequence": "18.16872910979994",
       "reasons": [],
       "triggers": [
@@ -3629,7 +3630,7 @@
         "demand": 12.87
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.79430126119787",
+      "legacy_multifactor": "57.35710405970815",
       "coil_sequence": "24.814238821423373",
       "reasons": [],
       "triggers": [
@@ -3677,7 +3678,7 @@
         "demand": 3.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.79362200227247",
+      "legacy_multifactor": "48.059732236649985",
       "coil_sequence": "30.334834885802806",
       "reasons": [],
       "triggers": [
@@ -3725,7 +3726,7 @@
         "demand": 5.16
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.76338222384293",
+      "legacy_multifactor": "60.5909351880219",
       "coil_sequence": "23.952688020820652",
       "reasons": [],
       "triggers": [
@@ -3771,7 +3772,7 @@
         "demand": 19.49
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.74255303614095",
+      "legacy_multifactor": "59.81800659579226",
       "coil_sequence": "18.487006117544155",
       "reasons": [],
       "triggers": [
@@ -3818,7 +3819,7 @@
         "demand": 6.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.740567153339875",
+      "legacy_multifactor": "58.55977480713358",
       "coil_sequence": "22.921933389156102",
       "reasons": [],
       "triggers": [
@@ -3867,7 +3868,7 @@
         "demand": 9.38
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.64239423854373",
+      "legacy_multifactor": "65.19493530450971",
       "coil_sequence": "31.177064105518554",
       "reasons": [],
       "triggers": [
@@ -3913,7 +3914,7 @@
         "demand": 8.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.60051425933777",
+      "legacy_multifactor": "61.79472955495531",
       "coil_sequence": "25.986164672131927",
       "reasons": [],
       "triggers": [
@@ -3961,7 +3962,7 @@
         "demand": 12.77
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.600127413666236",
+      "legacy_multifactor": "50.95657356079186",
       "coil_sequence": "26.782892592872575",
       "reasons": [],
       "triggers": [
@@ -4008,7 +4009,7 @@
         "demand": 8.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.497620996267244",
+      "legacy_multifactor": "52.16547564534565",
       "coil_sequence": "28.074657184387334",
       "reasons": [],
       "triggers": [
@@ -4055,7 +4056,7 @@
         "demand": 10.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.36159287333744",
+      "legacy_multifactor": "57.56793344600101",
       "coil_sequence": "26.253004417730942",
       "reasons": [],
       "triggers": [
@@ -4102,7 +4103,7 @@
         "demand": 0.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.35425273782785",
+      "legacy_multifactor": "64.13761145883984",
       "coil_sequence": "17.52141913439251",
       "reasons": [],
       "triggers": [
@@ -4151,7 +4152,7 @@
         "demand": 3.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.30835223892992",
+      "legacy_multifactor": "63.03572504407655",
       "coil_sequence": "33.300557953391596",
       "reasons": [],
       "triggers": [
@@ -4200,7 +4201,7 @@
         "demand": 18.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.28690075303557",
+      "legacy_multifactor": "63.86287009009292",
       "coil_sequence": "29.157836428689496",
       "reasons": [],
       "triggers": [
@@ -4246,7 +4247,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "60.25056699530465",
+      "legacy_multifactor": "62.77447629776254",
       "coil_sequence": "28.606120394616042",
       "reasons": [],
       "triggers": [
@@ -4294,7 +4295,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.219771623729166",
+      "legacy_multifactor": "46.38651910863385",
       "coil_sequence": "27.213536058457272",
       "reasons": [],
       "triggers": [
@@ -4341,7 +4342,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.08119267945645",
+      "legacy_multifactor": "65.28301204543568",
       "coil_sequence": "24.002843194478398",
       "reasons": [],
       "triggers": [
@@ -4390,7 +4391,7 @@
         "demand": 1.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "60.015339369860385",
+      "legacy_multifactor": "58.631675472662494",
       "coil_sequence": "13.713423811560958",
       "reasons": [],
       "triggers": [
@@ -4439,7 +4440,7 @@
         "demand": 6.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.92542735918875",
+      "legacy_multifactor": "49.70537526624029",
       "coil_sequence": "22.620432029607628",
       "reasons": [],
       "triggers": [
@@ -4486,7 +4487,7 @@
         "demand": 6.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.89776492935458",
+      "legacy_multifactor": "62.29749028560189",
       "coil_sequence": "22.1454052770291",
       "reasons": [],
       "triggers": [
@@ -4535,7 +4536,7 @@
         "demand": 6.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.88285877313282",
+      "legacy_multifactor": "48.46273184893689",
       "coil_sequence": "28.11783778221112",
       "reasons": [],
       "triggers": [
@@ -4584,7 +4585,7 @@
         "demand": 3.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.87198975678888",
+      "legacy_multifactor": "60.59293853465706",
       "coil_sequence": "27.243896080665998",
       "reasons": [],
       "triggers": [
@@ -4631,7 +4632,7 @@
         "demand": 1.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.86352475983379",
+      "legacy_multifactor": "59.595105617062885",
       "coil_sequence": "13.964513617053518",
       "reasons": [],
       "triggers": [
@@ -4680,7 +4681,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.84258860579554",
+      "legacy_multifactor": "67.1815379231083",
       "coil_sequence": "28.512555947675168",
       "reasons": [],
       "triggers": [
@@ -4724,7 +4725,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.718392888616364",
+      "legacy_multifactor": "53.473535539417696",
       "coil_sequence": "24.646926869771438",
       "reasons": [],
       "triggers": [
@@ -4772,7 +4773,7 @@
         "demand": 17.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.70004182987645",
+      "legacy_multifactor": "62.43635893446372",
       "coil_sequence": "32.70145040853505",
       "reasons": [],
       "triggers": [
@@ -4820,7 +4821,7 @@
         "demand": 13.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.5890181586949",
+      "legacy_multifactor": "48.230294336272685",
       "coil_sequence": "30.223394288562865",
       "reasons": [],
       "triggers": [
@@ -4865,7 +4866,7 @@
         "demand": 18.62
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.537385605334755",
+      "legacy_multifactor": "65.42418932304095",
       "coil_sequence": "24.89591501150181",
       "reasons": [],
       "triggers": [
@@ -4913,7 +4914,7 @@
         "demand": 4.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.488123625377106",
+      "legacy_multifactor": "57.45565534983662",
       "coil_sequence": "26.196296629217308",
       "reasons": [],
       "triggers": [
@@ -4961,7 +4962,7 @@
         "demand": 5.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.47712474856539",
+      "legacy_multifactor": "50.99384578076328",
       "coil_sequence": "23.852648499364058",
       "reasons": [],
       "triggers": [
@@ -5009,7 +5010,7 @@
         "demand": 13.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.40234537062711",
+      "legacy_multifactor": "51.26655128190265",
       "coil_sequence": "38.83702922443901",
       "reasons": [],
       "triggers": [
@@ -5054,7 +5055,7 @@
         "demand": 17.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.39379750048677",
+      "legacy_multifactor": "59.89860776398089",
       "coil_sequence": "28.494372176477075",
       "reasons": [],
       "triggers": [
@@ -5102,7 +5103,7 @@
         "demand": 7.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.30550150687742",
+      "legacy_multifactor": "59.72940411303331",
       "coil_sequence": "25.83785336875463",
       "reasons": [],
       "triggers": [
@@ -5150,7 +5151,7 @@
         "demand": 17.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.206299517369295",
+      "legacy_multifactor": "55.014592576485335",
       "coil_sequence": "16.353711564294336",
       "reasons": [],
       "triggers": [
@@ -5196,7 +5197,7 @@
         "demand": 3.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.18249290820141",
+      "legacy_multifactor": "50.401670049393246",
       "coil_sequence": "24.958950248070877",
       "reasons": [],
       "triggers": [
@@ -5244,7 +5245,7 @@
         "demand": 5.23
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.1756257454991",
+      "legacy_multifactor": "58.12395732609674",
       "coil_sequence": "15.035031501402244",
       "reasons": [],
       "triggers": [
@@ -5291,7 +5292,7 @@
         "demand": 12.42
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.17423333074079",
+      "legacy_multifactor": "48.761799044779714",
       "coil_sequence": "23.97996297522288",
       "reasons": [],
       "triggers": [
@@ -5338,7 +5339,7 @@
         "demand": 3.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.126973468041136",
+      "legacy_multifactor": "54.5320295254337",
       "coil_sequence": "17.378571852647497",
       "reasons": [],
       "triggers": [
@@ -5386,7 +5387,7 @@
         "demand": 6.86
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.113193547134976",
+      "legacy_multifactor": "70.86631332847651",
       "coil_sequence": "27.42882622004096",
       "reasons": [],
       "triggers": [
@@ -5434,7 +5435,7 @@
         "demand": 6.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.09788939375168",
+      "legacy_multifactor": "48.13347567978846",
       "coil_sequence": "26.227662266441218",
       "reasons": [],
       "triggers": [
@@ -5483,7 +5484,7 @@
         "demand": 6.26
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.09092122410253",
+      "legacy_multifactor": "53.62789661824288",
       "coil_sequence": "24.53307614413012",
       "reasons": [],
       "triggers": [
@@ -5529,7 +5530,7 @@
         "demand": 4.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.08406355465412",
+      "legacy_multifactor": "51.68752284945225",
       "coil_sequence": "24.98831504580027",
       "reasons": [],
       "triggers": [
@@ -5577,7 +5578,7 @@
         "demand": 4.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.06792420113589",
+      "legacy_multifactor": "62.375906153020466",
       "coil_sequence": "28.208106234844877",
       "reasons": [],
       "triggers": [
@@ -5625,7 +5626,7 @@
         "demand": 10.99
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.06607290153423",
+      "legacy_multifactor": "60.3592294089091",
       "coil_sequence": "23.906081265770442",
       "reasons": [],
       "triggers": [
@@ -5673,7 +5674,7 @@
         "demand": 2.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.05720163412435",
+      "legacy_multifactor": "47.456707624810406",
       "coil_sequence": "11.805349360832109",
       "reasons": [],
       "triggers": [
@@ -5721,7 +5722,7 @@
         "demand": 6.83
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.05374686712754",
+      "legacy_multifactor": "42.69166311637859",
       "coil_sequence": "23.557050339317836",
       "reasons": [],
       "triggers": [
@@ -5768,7 +5769,7 @@
         "demand": 16.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.04772962538929",
+      "legacy_multifactor": "63.020131388727386",
       "coil_sequence": "30.70667713861126",
       "reasons": [],
       "triggers": [
@@ -5816,7 +5817,7 @@
         "demand": 14.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.9911036073297",
+      "legacy_multifactor": "58.70547423995161",
       "coil_sequence": "20.061895672489403",
       "reasons": [],
       "triggers": [
@@ -5863,7 +5864,7 @@
         "demand": 6.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.97709567305501",
+      "legacy_multifactor": "59.73826889397876",
       "coil_sequence": "52.64377384615797",
       "reasons": [],
       "triggers": [
@@ -5911,7 +5912,7 @@
         "demand": 16.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.959544638240565",
+      "legacy_multifactor": "48.49600082926927",
       "coil_sequence": "24.444449212943177",
       "reasons": [],
       "triggers": [
@@ -5958,7 +5959,7 @@
         "demand": 4.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.93286840114176",
+      "legacy_multifactor": "60.45744250634635",
       "coil_sequence": "19.00200010904808",
       "reasons": [],
       "triggers": [
@@ -6004,7 +6005,7 @@
         "demand": 16.73
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.900561905365954",
+      "legacy_multifactor": "61.16157224566729",
       "coil_sequence": "23.93525163836349",
       "reasons": [],
       "triggers": [
@@ -6052,7 +6053,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.89410065801963",
+      "legacy_multifactor": "56.97583062574078",
       "coil_sequence": "34.72692964997933",
       "reasons": [],
       "triggers": [
@@ -6099,7 +6100,7 @@
         "demand": 4.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.88418776588381",
+      "legacy_multifactor": "51.321931442100755",
       "coil_sequence": "19.547282651249148",
       "reasons": [],
       "triggers": [
@@ -6147,7 +6148,7 @@
         "demand": 6.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.842582811493294",
+      "legacy_multifactor": "54.83865707508343",
       "coil_sequence": "18.530976317689625",
       "reasons": [],
       "triggers": [
@@ -6196,7 +6197,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.841024697913234",
+      "legacy_multifactor": "53.33764076399071",
       "coil_sequence": "35.276387394704486",
       "reasons": [],
       "triggers": [
@@ -6241,7 +6242,7 @@
         "demand": 10.62
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.83888821636953",
+      "legacy_multifactor": "63.58806313478982",
       "coil_sequence": "15.757474361549185",
       "reasons": [],
       "triggers": [
@@ -6289,7 +6290,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.808942355792816",
+      "legacy_multifactor": "44.89994112468335",
       "coil_sequence": "30.99850080541581",
       "reasons": [],
       "triggers": [
@@ -6335,7 +6336,7 @@
         "demand": 15.31
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.753458344726454",
+      "legacy_multifactor": "58.040868775885066",
       "coil_sequence": "27.158601646049952",
       "reasons": [],
       "triggers": [
@@ -6383,7 +6384,7 @@
         "demand": 22.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.735881287477596",
+      "legacy_multifactor": "50.61205077687464",
       "coil_sequence": "25.95976597017719",
       "reasons": [],
       "triggers": [
@@ -6430,7 +6431,7 @@
         "demand": 6.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.7277949898717",
+      "legacy_multifactor": "50.37793878837517",
       "coil_sequence": "22.4135663232473",
       "reasons": [],
       "triggers": [
@@ -6478,7 +6479,7 @@
         "demand": 5.78
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.63279990437525",
+      "legacy_multifactor": null,
       "coil_sequence": "31.946508267384452",
       "reasons": [],
       "triggers": [
@@ -6525,7 +6526,7 @@
         "demand": 19.21
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.486279493723636",
+      "legacy_multifactor": "52.96920104018443",
       "coil_sequence": "28.27867747364602",
       "reasons": [],
       "triggers": [
@@ -6570,7 +6571,7 @@
         "demand": 17.13
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.48364306361397",
+      "legacy_multifactor": "62.0025920099311",
       "coil_sequence": "24.191728884647524",
       "reasons": [],
       "triggers": [
@@ -6616,7 +6617,7 @@
         "demand": 19.29
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.481150579082176",
+      "legacy_multifactor": "52.471118081348756",
       "coil_sequence": "21.01103829388901",
       "reasons": [],
       "triggers": [
@@ -6657,7 +6658,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.45737728591367",
+      "legacy_multifactor": "56.250841691506515",
       "coil_sequence": "21.04244428079097",
       "reasons": [],
       "triggers": [],
@@ -6702,7 +6703,7 @@
         "demand": 24.82
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.354454161245116",
+      "legacy_multifactor": "49.36224814610384",
       "coil_sequence": "20.40212928706147",
       "reasons": [],
       "triggers": [
@@ -6749,7 +6750,7 @@
         "demand": 5.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.35383156354911",
+      "legacy_multifactor": "49.73837573076982",
       "coil_sequence": "20.10555455738747",
       "reasons": [],
       "triggers": [
@@ -6797,7 +6798,7 @@
         "demand": 1.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.25930857368221",
+      "legacy_multifactor": "45.25875191833095",
       "coil_sequence": "29.715141367136553",
       "reasons": [],
       "triggers": [
@@ -6845,7 +6846,7 @@
         "demand": 16.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.18181413308856",
+      "legacy_multifactor": "62.40608929682071",
       "coil_sequence": "29.123524878391656",
       "reasons": [],
       "triggers": [
@@ -6892,7 +6893,7 @@
         "demand": 12.24
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.14691669170152",
+      "legacy_multifactor": "48.87129926385277",
       "coil_sequence": "14.797835294465749",
       "reasons": [],
       "triggers": [
@@ -6939,7 +6940,7 @@
         "demand": 10.83
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "58.11400665157392",
+      "legacy_multifactor": "57.878448104257",
       "coil_sequence": "27.225018774673416",
       "reasons": [],
       "triggers": [
@@ -6986,7 +6987,7 @@
         "demand": 8.52
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.97453244954689",
+      "legacy_multifactor": "52.28382687977847",
       "coil_sequence": "29.744556855125932",
       "reasons": [],
       "triggers": [
@@ -7033,7 +7034,7 @@
         "demand": 19.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.9704295821812",
+      "legacy_multifactor": "58.153337785265926",
       "coil_sequence": "29.762356610366737",
       "reasons": [],
       "triggers": [
@@ -7074,7 +7075,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.90864520036011",
+      "legacy_multifactor": "58.203045078379525",
       "coil_sequence": "18.37968135194987",
       "reasons": [],
       "triggers": [],
@@ -7119,7 +7120,7 @@
         "demand": 21.31
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.876363955620825",
+      "legacy_multifactor": "58.512783309951054",
       "coil_sequence": "32.55434326213153",
       "reasons": [],
       "triggers": [
@@ -7166,7 +7167,7 @@
         "demand": 0.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.870217138464",
+      "legacy_multifactor": "60.34452846073144",
       "coil_sequence": "33.32767135594756",
       "reasons": [],
       "triggers": [
@@ -7213,7 +7214,7 @@
         "demand": 9.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.85841323635034",
+      "legacy_multifactor": "55.853837267473494",
       "coil_sequence": "19.130213470653946",
       "reasons": [],
       "triggers": [
@@ -7260,7 +7261,7 @@
         "demand": 17.88
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.837596570494895",
+      "legacy_multifactor": "53.35124349123224",
       "coil_sequence": "19.218925605687318",
       "reasons": [],
       "triggers": [
@@ -7308,7 +7309,7 @@
         "demand": 13.37
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.71875066003695",
+      "legacy_multifactor": "58.01936094729682",
       "coil_sequence": "17.567747570846684",
       "reasons": [],
       "triggers": [
@@ -7355,7 +7356,7 @@
         "demand": 16.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.697745896943985",
+      "legacy_multifactor": "52.86303877357097",
       "coil_sequence": "23.983432111847225",
       "reasons": [],
       "triggers": [
@@ -7402,7 +7403,7 @@
         "demand": 15.93
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.66613732543499",
+      "legacy_multifactor": "56.14353382451836",
       "coil_sequence": "22.77708195950185",
       "reasons": [],
       "triggers": [
@@ -7449,7 +7450,7 @@
         "demand": 17.68
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.631822144927845",
+      "legacy_multifactor": "54.04743871149955",
       "coil_sequence": "17.770823612687696",
       "reasons": [],
       "triggers": [
@@ -7495,7 +7496,7 @@
         "demand": 5.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.63022881087618",
+      "legacy_multifactor": "61.110053115140104",
       "coil_sequence": "25.776029538435992",
       "reasons": [],
       "triggers": [
@@ -7544,7 +7545,7 @@
         "demand": 9.88
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.62315577570259",
+      "legacy_multifactor": "53.17280208261871",
       "coil_sequence": "12.262445901614294",
       "reasons": [],
       "triggers": [
@@ -7591,7 +7592,7 @@
         "demand": 20.41
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.58612471510618",
+      "legacy_multifactor": "54.487687996243494",
       "coil_sequence": "22.173834068492088",
       "reasons": [],
       "triggers": [
@@ -7638,7 +7639,7 @@
         "demand": 4.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.56735480268137",
+      "legacy_multifactor": "60.11256147771218",
       "coil_sequence": "18.763442208975487",
       "reasons": [],
       "triggers": [
@@ -7687,7 +7688,7 @@
         "demand": 18.19
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.54537936183295",
+      "legacy_multifactor": "54.89097570947132",
       "coil_sequence": "26.755945116587498",
       "reasons": [],
       "triggers": [
@@ -7734,7 +7735,7 @@
         "demand": 12.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.53007718590979",
+      "legacy_multifactor": "51.75740733088019",
       "coil_sequence": "18.66924462587862",
       "reasons": [],
       "triggers": [
@@ -7779,7 +7780,7 @@
         "demand": 7.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.521530025530154",
+      "legacy_multifactor": "55.69354705985704",
       "coil_sequence": "19.24979572916169",
       "reasons": [],
       "triggers": [
@@ -7828,7 +7829,7 @@
         "demand": 9.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.49687876174685",
+      "legacy_multifactor": "50.44665587702736",
       "coil_sequence": "29.784982842505933",
       "reasons": [],
       "triggers": [
@@ -7874,7 +7875,7 @@
         "demand": 3.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.48970081153132",
+      "legacy_multifactor": "48.89155326829344",
       "coil_sequence": "22.451125876846948",
       "reasons": [],
       "triggers": [
@@ -7921,7 +7922,7 @@
         "demand": 13.26
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.4591842059739",
+      "legacy_multifactor": "59.80213827047819",
       "coil_sequence": "17.59661476685324",
       "reasons": [],
       "triggers": [
@@ -7969,7 +7970,7 @@
         "demand": 9.73
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.454726841502016",
+      "legacy_multifactor": "56.93249612589211",
       "coil_sequence": "15.539692134821722",
       "reasons": [],
       "triggers": [
@@ -8013,7 +8014,7 @@
         "demand": 19.66
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.446312977845196",
+      "legacy_multifactor": "59.889289747516685",
       "coil_sequence": "21.87034826259201",
       "reasons": [],
       "triggers": [
@@ -8061,7 +8062,7 @@
         "demand": 7.07
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.436412216980095",
+      "legacy_multifactor": "55.28247713425816",
       "coil_sequence": "28.125839822032777",
       "reasons": [],
       "triggers": [
@@ -8109,7 +8110,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.4230026554186",
+      "legacy_multifactor": "58.558281102227326",
       "coil_sequence": "38.29315588704277",
       "reasons": [],
       "triggers": [
@@ -8155,7 +8156,7 @@
         "demand": 12.98
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.41313521603879",
+      "legacy_multifactor": "63.73053445872286",
       "coil_sequence": "22.380488213023636",
       "reasons": [],
       "triggers": [
@@ -8203,7 +8204,7 @@
         "demand": 14.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.412245904957125",
+      "legacy_multifactor": "49.92491864098549",
       "coil_sequence": "12.024565194854125",
       "reasons": [],
       "triggers": [
@@ -8250,7 +8251,7 @@
         "demand": 8.34
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.38118518322198",
+      "legacy_multifactor": "50.67328057858841",
       "coil_sequence": "27.48341821157714",
       "reasons": [],
       "triggers": [
@@ -8297,7 +8298,7 @@
         "demand": 11.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.37439449414678",
+      "legacy_multifactor": "49.16967577015729",
       "coil_sequence": "29.527549598457632",
       "reasons": [],
       "triggers": [
@@ -8345,7 +8346,7 @@
         "demand": 5.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.34700978609413",
+      "legacy_multifactor": "56.16902385172408",
       "coil_sequence": "24.574723626778024",
       "reasons": [],
       "triggers": [
@@ -8392,7 +8393,7 @@
         "demand": 17.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.30928638998921",
+      "legacy_multifactor": "53.912657073298774",
       "coil_sequence": "26.15252708248383",
       "reasons": [],
       "triggers": [
@@ -8439,7 +8440,7 @@
         "demand": 8.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.29313770784017",
+      "legacy_multifactor": "55.26824481125412",
       "coil_sequence": "24.14238265251671",
       "reasons": [],
       "triggers": [
@@ -8486,7 +8487,7 @@
         "demand": 4.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.265401740593425",
+      "legacy_multifactor": "47.57618626158243",
       "coil_sequence": "20.94429115628509",
       "reasons": [],
       "triggers": [
@@ -8534,7 +8535,7 @@
         "demand": 11.92
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.23076153657729",
+      "legacy_multifactor": "58.05122599146012",
       "coil_sequence": "21.237077474642064",
       "reasons": [],
       "triggers": [
@@ -8581,7 +8582,7 @@
         "demand": 12.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.22134042988276",
+      "legacy_multifactor": "52.46099037833707",
       "coil_sequence": "23.077084973283807",
       "reasons": [],
       "triggers": [
@@ -8628,7 +8629,7 @@
         "demand": 16.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.19454027799459",
+      "legacy_multifactor": "57.341584082870554",
       "coil_sequence": "21.853419440185398",
       "reasons": [],
       "triggers": [
@@ -8676,7 +8677,7 @@
         "demand": 21.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.14596975798985",
+      "legacy_multifactor": "60.261245017971135",
       "coil_sequence": "10.5517246574422",
       "reasons": [],
       "triggers": [
@@ -8722,7 +8723,7 @@
         "demand": 17.26
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "57.01459706589995",
+      "legacy_multifactor": "62.40084502296307",
       "coil_sequence": "25.756696087816067",
       "reasons": [],
       "triggers": [
@@ -8770,7 +8771,7 @@
         "demand": 4.11
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.987081199258625",
+      "legacy_multifactor": "58.09360438501267",
       "coil_sequence": "30.785276640887005",
       "reasons": [],
       "triggers": [
@@ -8815,7 +8816,7 @@
         "demand": 20.37
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.98594322854861",
+      "legacy_multifactor": "47.007342400368216",
       "coil_sequence": "21.140096125997722",
       "reasons": [],
       "triggers": [
@@ -8863,7 +8864,7 @@
         "demand": 24.98
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.971278381104796",
+      "legacy_multifactor": "55.68877428960041",
       "coil_sequence": "35.33628772576644",
       "reasons": [],
       "triggers": [
@@ -8903,7 +8904,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.95779971791676",
+      "legacy_multifactor": "59.54394890438903",
       "coil_sequence": "13.113520858369936",
       "reasons": [],
       "triggers": [],
@@ -8948,7 +8949,7 @@
         "demand": 9.32
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.93016368971121",
+      "legacy_multifactor": "45.3746139425434",
       "coil_sequence": "29.389691295974096",
       "reasons": [],
       "triggers": [
@@ -8995,7 +8996,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.89662403084633",
+      "legacy_multifactor": "57.88093234653111",
       "coil_sequence": "25.33619184109744",
       "reasons": [],
       "triggers": [
@@ -9043,7 +9044,7 @@
         "demand": 5.69
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.85688906120989",
+      "legacy_multifactor": "53.0926345023088",
       "coil_sequence": "18.723076433513995",
       "reasons": [],
       "triggers": [
@@ -9090,7 +9091,7 @@
         "demand": 18.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.85331031549386",
+      "legacy_multifactor": "50.150459495242025",
       "coil_sequence": "39.952211400660005",
       "reasons": [],
       "triggers": [
@@ -9131,7 +9132,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.84648615345066",
+      "legacy_multifactor": "55.81053011442722",
       "coil_sequence": "39.83114762831502",
       "reasons": [],
       "triggers": [],
@@ -9175,7 +9176,7 @@
         "demand": 2.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.835470051114214",
+      "legacy_multifactor": "53.70686747611274",
       "coil_sequence": "17.769246295901574",
       "reasons": [],
       "triggers": [
@@ -9223,7 +9224,7 @@
         "demand": 5.52
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.82895314615928",
+      "legacy_multifactor": "53.611930834229746",
       "coil_sequence": "31.528288761789582",
       "reasons": [],
       "triggers": [
@@ -9270,7 +9271,7 @@
         "demand": 6.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.747091070602366",
+      "legacy_multifactor": "57.23680012058474",
       "coil_sequence": "25.267565090204002",
       "reasons": [],
       "triggers": [
@@ -9318,7 +9319,7 @@
         "demand": 5.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.68263139692732",
+      "legacy_multifactor": "47.05961309298058",
       "coil_sequence": "30.547540310089033",
       "reasons": [],
       "triggers": [
@@ -9366,7 +9367,7 @@
         "demand": 8.28
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.66120524788132",
+      "legacy_multifactor": "45.50180475949221",
       "coil_sequence": "17.86813942891601",
       "reasons": [],
       "triggers": [
@@ -9413,7 +9414,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.61834193288928",
+      "legacy_multifactor": "53.675489800328634",
       "coil_sequence": "15.773474130301125",
       "reasons": [],
       "triggers": [
@@ -9461,7 +9462,7 @@
         "demand": 15.36
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.58785915380285",
+      "legacy_multifactor": "39.40044948925265",
       "coil_sequence": "29.450069016632394",
       "reasons": [],
       "triggers": [
@@ -9508,7 +9509,7 @@
         "demand": 11.67
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.58778375121998",
+      "legacy_multifactor": "33.93405329498695",
       "coil_sequence": "27.99909507340443",
       "reasons": [],
       "triggers": [
@@ -9555,7 +9556,7 @@
         "demand": 21.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.585995414504396",
+      "legacy_multifactor": "49.69145454654914",
       "coil_sequence": "27.023800993572173",
       "reasons": [],
       "triggers": [
@@ -9602,7 +9603,7 @@
         "demand": 12.23
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.57585968029828",
+      "legacy_multifactor": "56.090486054775454",
       "coil_sequence": "23.357316751585095",
       "reasons": [],
       "triggers": [
@@ -9647,7 +9648,7 @@
         "demand": 8.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.53752490364858",
+      "legacy_multifactor": "51.97607216357035",
       "coil_sequence": "19.20472630254511",
       "reasons": [],
       "triggers": [
@@ -9696,7 +9697,7 @@
         "demand": 16.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.474219741950826",
+      "legacy_multifactor": "54.43249981511589",
       "coil_sequence": "18.41714513560545",
       "reasons": [],
       "triggers": [
@@ -9743,7 +9744,7 @@
         "demand": 17.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.47093596278609",
+      "legacy_multifactor": "37.98312591206134",
       "coil_sequence": "34.86839370743134",
       "reasons": [],
       "triggers": [
@@ -9790,7 +9791,7 @@
         "demand": 13.27
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.45146522133929",
+      "legacy_multifactor": "50.44328264812788",
       "coil_sequence": "24.630346146057473",
       "reasons": [],
       "triggers": [
@@ -9837,7 +9838,7 @@
         "demand": 7.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.39380497215149",
+      "legacy_multifactor": "52.662173501887125",
       "coil_sequence": "18.03295002369977",
       "reasons": [],
       "triggers": [
@@ -9883,7 +9884,7 @@
         "demand": 3.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.35182076794876",
+      "legacy_multifactor": "53.47300799019521",
       "coil_sequence": "15.783185528219082",
       "reasons": [],
       "triggers": [
@@ -9932,7 +9933,7 @@
         "demand": 14.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.348740894088046",
+      "legacy_multifactor": "41.662838761419565",
       "coil_sequence": "23.46339671789117",
       "reasons": [],
       "triggers": [
@@ -9979,7 +9980,7 @@
         "demand": 9.94
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.34867341343749",
+      "legacy_multifactor": "53.3280898453065",
       "coil_sequence": "20.775618490794656",
       "reasons": [],
       "triggers": [
@@ -10026,7 +10027,7 @@
         "demand": 22.18
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.312743621997576",
+      "legacy_multifactor": "57.06540703879258",
       "coil_sequence": "29.733011793338385",
       "reasons": [],
       "triggers": [
@@ -10070,7 +10071,7 @@
         "demand": 11.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.30415275026854",
+      "legacy_multifactor": "61.75219519272329",
       "coil_sequence": "22.462795658912754",
       "reasons": [],
       "triggers": [
@@ -10120,7 +10121,7 @@
         "demand": 18.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.28801092688885",
+      "legacy_multifactor": "53.17003698361663",
       "coil_sequence": "15.35065682076257",
       "reasons": [],
       "triggers": [
@@ -10167,7 +10168,7 @@
         "demand": 20.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.19394642638322",
+      "legacy_multifactor": "57.522391729854384",
       "coil_sequence": "19.79470083942818",
       "reasons": [],
       "triggers": [
@@ -10214,7 +10215,7 @@
         "demand": 5.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.181719174220135",
+      "legacy_multifactor": "50.89513602024029",
       "coil_sequence": "24.28670614899339",
       "reasons": [],
       "triggers": [
@@ -10261,7 +10262,7 @@
         "demand": 16.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.13608721279832",
+      "legacy_multifactor": "52.42601141407191",
       "coil_sequence": "25.63084583839101",
       "reasons": [],
       "triggers": [
@@ -10308,7 +10309,7 @@
         "demand": 0.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.12365970512384",
+      "legacy_multifactor": "56.292497681498844",
       "coil_sequence": "27.099446438636207",
       "reasons": [],
       "triggers": [
@@ -10357,7 +10358,7 @@
         "demand": 10.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.12104740014085",
+      "legacy_multifactor": "55.60597053916666",
       "coil_sequence": "18.38734186211237",
       "reasons": [],
       "triggers": [
@@ -10399,7 +10400,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.04773498765952",
+      "legacy_multifactor": "49.443202977829955",
       "coil_sequence": "18.994440902020955",
       "reasons": [],
       "triggers": [],
@@ -10443,7 +10444,7 @@
         "demand": 16.04
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.035227347583685",
+      "legacy_multifactor": "49.85926400535065",
       "coil_sequence": "21.833083136407712",
       "reasons": [],
       "triggers": [
@@ -10485,7 +10486,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.0324424378618",
+      "legacy_multifactor": "57.87081679327728",
       "coil_sequence": "19.970990024682898",
       "reasons": [],
       "triggers": [],
@@ -10529,7 +10530,7 @@
         "demand": 6.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.01366412893315",
+      "legacy_multifactor": "48.55664830233094",
       "coil_sequence": "21.815776866901388",
       "reasons": [],
       "triggers": [
@@ -10577,7 +10578,7 @@
         "demand": 16.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "56.00565848036918",
+      "legacy_multifactor": "53.31320331744268",
       "coil_sequence": "7.361439794773132",
       "reasons": [],
       "triggers": [
@@ -10619,7 +10620,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.92988366754588",
+      "legacy_multifactor": "54.048325613224826",
       "coil_sequence": "23.512155233201817",
       "reasons": [],
       "triggers": [],
@@ -10663,7 +10664,7 @@
         "demand": 20.19
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.848079254310676",
+      "legacy_multifactor": "56.20026268053822",
       "coil_sequence": "26.774331242829437",
       "reasons": [],
       "triggers": [
@@ -10710,7 +10711,7 @@
         "demand": 12.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.83297577384805",
+      "legacy_multifactor": "45.193454756211636",
       "coil_sequence": "20.485984027513638",
       "reasons": [],
       "triggers": [
@@ -10757,7 +10758,7 @@
         "demand": 4.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.79347652786855",
+      "legacy_multifactor": "55.620728184436764",
       "coil_sequence": "22.951539954358203",
       "reasons": [],
       "triggers": [
@@ -10804,7 +10805,7 @@
         "demand": 11.69
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.750085010069064",
+      "legacy_multifactor": "48.84333731281834",
       "coil_sequence": "18.44979855972646",
       "reasons": [],
       "triggers": [
@@ -10851,7 +10852,7 @@
         "demand": 12.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.6920321811333",
+      "legacy_multifactor": "51.232013794443",
       "coil_sequence": "30.00417223195502",
       "reasons": [],
       "triggers": [
@@ -10898,7 +10899,7 @@
         "demand": 6.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.67932976554171",
+      "legacy_multifactor": "51.96963597444294",
       "coil_sequence": "23.43474953197348",
       "reasons": [],
       "triggers": [
@@ -10945,7 +10946,7 @@
         "demand": 7.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.64992083614156",
+      "legacy_multifactor": "44.20376714033627",
       "coil_sequence": "32.328766910226925",
       "reasons": [],
       "triggers": [
@@ -10992,7 +10993,7 @@
         "demand": 6.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.60787493647147",
+      "legacy_multifactor": "47.212983215736735",
       "coil_sequence": "22.033338518026",
       "reasons": [],
       "triggers": [
@@ -11039,7 +11040,7 @@
         "demand": 12.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.58218261770202",
+      "legacy_multifactor": "61.20955355815742",
       "coil_sequence": "30.06433855016454",
       "reasons": [],
       "triggers": [
@@ -11081,7 +11082,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.56225622511653",
+      "legacy_multifactor": "56.741837744381954",
       "coil_sequence": "23.004583902043173",
       "reasons": [],
       "triggers": [],
@@ -11125,7 +11126,7 @@
         "demand": 16.59
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.5531910009886",
+      "legacy_multifactor": "51.846886647877334",
       "coil_sequence": "30.417190956449183",
       "reasons": [],
       "triggers": [
@@ -11170,7 +11171,7 @@
         "demand": 10.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.49916953841333",
+      "legacy_multifactor": "58.806737272286234",
       "coil_sequence": "16.13306748119447",
       "reasons": [],
       "triggers": [
@@ -11219,7 +11220,7 @@
         "demand": 11.06
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.45601186528006",
+      "legacy_multifactor": "53.8516247728863",
       "coil_sequence": "23.561847252813813",
       "reasons": [],
       "triggers": [
@@ -11266,7 +11267,7 @@
         "demand": 10.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.325139096906064",
+      "legacy_multifactor": "55.103747936580724",
       "coil_sequence": "34.843016958687215",
       "reasons": [],
       "triggers": [
@@ -11313,7 +11314,7 @@
         "demand": 5.32
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.309415929227214",
+      "legacy_multifactor": "50.892357690722925",
       "coil_sequence": "26.905914880462838",
       "reasons": [],
       "triggers": [
@@ -11360,7 +11361,7 @@
         "demand": 13.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.277142363220776",
+      "legacy_multifactor": "55.37400794419195",
       "coil_sequence": "45.406273060050346",
       "reasons": [],
       "triggers": [
@@ -11408,7 +11409,7 @@
         "demand": 16.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.19961268289766",
+      "legacy_multifactor": "63.38764949997247",
       "coil_sequence": "9.335529632061572",
       "reasons": [],
       "triggers": [
@@ -11456,7 +11457,7 @@
         "demand": 14.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.18887018408064",
+      "legacy_multifactor": "61.47959467555889",
       "coil_sequence": "13.553493760628186",
       "reasons": [],
       "triggers": [
@@ -11504,7 +11505,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.160508091787094",
+      "legacy_multifactor": "58.8880901843843",
       "coil_sequence": "23.866313707079854",
       "reasons": [],
       "triggers": [
@@ -11551,7 +11552,7 @@
         "demand": 23.68
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.149762482035655",
+      "legacy_multifactor": "56.126847587484896",
       "coil_sequence": "29.982512444237912",
       "reasons": [],
       "triggers": [
@@ -11597,7 +11598,7 @@
         "demand": 16.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.12412615149109",
+      "legacy_multifactor": "61.286998584516205",
       "coil_sequence": "15.394540018975487",
       "reasons": [],
       "triggers": [
@@ -11645,7 +11646,7 @@
         "demand": 7.07
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.08046930920598",
+      "legacy_multifactor": "53.60128316483277",
       "coil_sequence": "26.099273365715263",
       "reasons": [],
       "triggers": [
@@ -11691,7 +11692,7 @@
         "demand": 4.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.06889836864792",
+      "legacy_multifactor": "53.86932300353856",
       "coil_sequence": "34.146792417057554",
       "reasons": [],
       "triggers": [
@@ -11738,7 +11739,7 @@
         "demand": 10.74
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "55.06270075081835",
+      "legacy_multifactor": "50.81827429891697",
       "coil_sequence": "35.07145621140901",
       "reasons": [],
       "triggers": [
@@ -11786,7 +11787,7 @@
         "demand": 8.11
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.934681485487694",
+      "legacy_multifactor": "44.10335263957124",
       "coil_sequence": "25.62309042684138",
       "reasons": [],
       "triggers": [
@@ -11831,7 +11832,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.8383352429766",
+      "legacy_multifactor": "48.56842103698393",
       "coil_sequence": "8.62841394417724",
       "reasons": [],
       "triggers": [
@@ -11879,7 +11880,7 @@
         "demand": 22.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.81752901584701",
+      "legacy_multifactor": "57.96601033829819",
       "coil_sequence": "19.417565136889916",
       "reasons": [],
       "triggers": [
@@ -11927,7 +11928,7 @@
         "demand": 5.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.80377584577688",
+      "legacy_multifactor": "48.65975362829346",
       "coil_sequence": "22.03478417379034",
       "reasons": [],
       "triggers": [
@@ -11974,7 +11975,7 @@
         "demand": 9.11
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.78939770218027",
+      "legacy_multifactor": "58.01744623508833",
       "coil_sequence": "9.765389738003055",
       "reasons": [],
       "triggers": [
@@ -12020,7 +12021,7 @@
         "demand": 9.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.775678856676336",
+      "legacy_multifactor": "54.58944979748844",
       "coil_sequence": "25.703571248668567",
       "reasons": [],
       "triggers": [
@@ -12068,7 +12069,7 @@
         "demand": 17.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.734852341521034",
+      "legacy_multifactor": "41.411754531246174",
       "coil_sequence": "17.61751216711662",
       "reasons": [],
       "triggers": [
@@ -12115,7 +12116,7 @@
         "demand": 11.51
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.676885042321885",
+      "legacy_multifactor": "62.570434277401375",
       "coil_sequence": "17.84109773718739",
       "reasons": [],
       "triggers": [
@@ -12163,7 +12164,7 @@
         "demand": 8.94
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.66998139689232",
+      "legacy_multifactor": "44.28365521974133",
       "coil_sequence": "27.84125199193624",
       "reasons": [],
       "triggers": [
@@ -12210,7 +12211,7 @@
         "demand": 12.53
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.66701581924698",
+      "legacy_multifactor": "60.01889720893539",
       "coil_sequence": "8.992905481738848",
       "reasons": [],
       "triggers": [
@@ -12257,7 +12258,7 @@
         "demand": 15.61
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.644172913964304",
+      "legacy_multifactor": "52.54946452831254",
       "coil_sequence": "28.04090981802885",
       "reasons": [],
       "triggers": [
@@ -12304,7 +12305,7 @@
         "demand": 12.56
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.63956240392675",
+      "legacy_multifactor": "53.75397803735341",
       "coil_sequence": "32.2596976234956",
       "reasons": [],
       "triggers": [
@@ -12352,7 +12353,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.6029731906248",
+      "legacy_multifactor": "57.558213690289804",
       "coil_sequence": "28.93359367473668",
       "reasons": [],
       "triggers": [
@@ -12398,7 +12399,7 @@
         "demand": 10.47
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.59809008489097",
+      "legacy_multifactor": "58.726557722867035",
       "coil_sequence": "25.705085206850534",
       "reasons": [],
       "triggers": [
@@ -12444,7 +12445,7 @@
         "demand": 1.8
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "54.57911796494839",
+      "legacy_multifactor": "53.23610797484062",
       "coil_sequence": "21.427343428946518",
       "reasons": [],
       "triggers": [
@@ -12493,7 +12494,7 @@
         "demand": 16.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.546262353967535",
+      "legacy_multifactor": "54.97210485875139",
       "coil_sequence": "31.138675368871336",
       "reasons": [],
       "triggers": [
@@ -12540,7 +12541,7 @@
         "demand": 13.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.501736816479365",
+      "legacy_multifactor": "64.71424820229782",
       "coil_sequence": "23.142770215656867",
       "reasons": [],
       "triggers": [
@@ -12588,7 +12589,7 @@
         "demand": 23.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.46689667501931",
+      "legacy_multifactor": "55.43886471666575",
       "coil_sequence": "23.462008943377683",
       "reasons": [],
       "triggers": [
@@ -12635,7 +12636,7 @@
         "demand": 5.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.414056045409765",
+      "legacy_multifactor": "60.340415738597045",
       "coil_sequence": "23.624721181948644",
       "reasons": [],
       "triggers": [
@@ -12684,7 +12685,7 @@
         "demand": 10.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.40574919053899",
+      "legacy_multifactor": "59.684403807404394",
       "coil_sequence": "18.064210257670567",
       "reasons": [],
       "triggers": [
@@ -12731,7 +12732,7 @@
         "demand": 4.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.39794668423077",
+      "legacy_multifactor": "64.55323950084959",
       "coil_sequence": "24.586354081054708",
       "reasons": [],
       "triggers": [
@@ -12780,7 +12781,7 @@
         "demand": 1.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.35557714601177",
+      "legacy_multifactor": "58.30241922729197",
       "coil_sequence": "31.600463185319306",
       "reasons": [],
       "triggers": [
@@ -12827,7 +12828,7 @@
         "demand": 15.77
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.34054201211488",
+      "legacy_multifactor": "55.23845028461357",
       "coil_sequence": "15.126254045601115",
       "reasons": [],
       "triggers": [
@@ -12873,7 +12874,7 @@
         "demand": 4.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.32437976036514",
+      "legacy_multifactor": "55.50251019145597",
       "coil_sequence": "34.00701157101078",
       "reasons": [],
       "triggers": [
@@ -12921,7 +12922,7 @@
         "demand": 1.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.24901934438614",
+      "legacy_multifactor": "54.324291573495714",
       "coil_sequence": "32.651520939208304",
       "reasons": [],
       "triggers": [
@@ -12970,7 +12971,7 @@
         "demand": 6.16
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.167267422186384",
+      "legacy_multifactor": "55.06523111068392",
       "coil_sequence": "20.526805120124912",
       "reasons": [],
       "triggers": [
@@ -13017,7 +13018,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.15381922351471",
+      "legacy_multifactor": "62.85077047994597",
       "coil_sequence": "27.78976142380005",
       "reasons": [],
       "triggers": [
@@ -13065,7 +13066,7 @@
         "demand": 15.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.150318264690945",
+      "legacy_multifactor": "54.974760602425285",
       "coil_sequence": "26.21745697533864",
       "reasons": [],
       "triggers": [
@@ -13110,7 +13111,7 @@
         "demand": 19.82
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.12060990176166",
+      "legacy_multifactor": "53.78557411513438",
       "coil_sequence": "5.246969636773974",
       "reasons": [],
       "triggers": [
@@ -13156,7 +13157,7 @@
         "demand": 7.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.04892097190012",
+      "legacy_multifactor": "49.78297039640081",
       "coil_sequence": "1.806600205554684",
       "reasons": [],
       "triggers": [
@@ -13203,7 +13204,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.03549114707668",
+      "legacy_multifactor": "47.99666841366618",
       "coil_sequence": "11.99913800570337",
       "reasons": [],
       "triggers": [
@@ -13252,7 +13253,7 @@
         "demand": 12.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "54.00152470975458",
+      "legacy_multifactor": "47.536961258607086",
       "coil_sequence": "16.1849962116794",
       "reasons": [],
       "triggers": [
@@ -13297,7 +13298,7 @@
         "demand": 21.97
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.96750225944882",
+      "legacy_multifactor": "54.743621406054125",
       "coil_sequence": "24.712822251686916",
       "reasons": [],
       "triggers": [
@@ -13345,7 +13346,7 @@
         "demand": 15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.94849092820613",
+      "legacy_multifactor": "46.8814001867396",
       "coil_sequence": "3.8100861887635276",
       "reasons": [],
       "triggers": [
@@ -13388,7 +13389,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.909956834631636",
+      "legacy_multifactor": "50.57687493105718",
       "coil_sequence": "11.696818881685964",
       "reasons": [],
       "triggers": [],
@@ -13432,7 +13433,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.81746108385139",
+      "legacy_multifactor": "34.88093243236524",
       "coil_sequence": "40.073089562742254",
       "reasons": [],
       "triggers": [
@@ -13481,7 +13482,7 @@
         "demand": 8.91
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.81394606818547",
+      "legacy_multifactor": "59.756759342289264",
       "coil_sequence": "24.9461528627558",
       "reasons": [],
       "triggers": [
@@ -13529,7 +13530,7 @@
         "demand": 7.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.80003942636697",
+      "legacy_multifactor": "51.80347080290135",
       "coil_sequence": "23.204247312968686",
       "reasons": [],
       "triggers": [
@@ -13577,7 +13578,7 @@
         "demand": 5.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.79686382219173",
+      "legacy_multifactor": "54.28467957862022",
       "coil_sequence": "25.218122255087607",
       "reasons": [],
       "triggers": [
@@ -13625,7 +13626,7 @@
         "demand": 20.91
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.77180841080638",
+      "legacy_multifactor": "49.754321741105514",
       "coil_sequence": "19.43555332338473",
       "reasons": [],
       "triggers": [
@@ -13673,7 +13674,7 @@
         "demand": 18.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.71869317502588",
+      "legacy_multifactor": "47.26495803458548",
       "coil_sequence": "20.793325485568978",
       "reasons": [],
       "triggers": [
@@ -13720,7 +13721,7 @@
         "demand": 15.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.697327393645125",
+      "legacy_multifactor": "45.04477464872665",
       "coil_sequence": "30.810651427512813",
       "reasons": [],
       "triggers": [
@@ -13766,7 +13767,7 @@
         "demand": null
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.661238752971066",
+      "legacy_multifactor": "55.9300781554645",
       "coil_sequence": "26.668717742156886",
       "reasons": [],
       "triggers": [
@@ -13815,7 +13816,7 @@
         "demand": 9.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.65992874531391",
+      "legacy_multifactor": "59.28581236991274",
       "coil_sequence": "19.66636841473226",
       "reasons": [],
       "triggers": [
@@ -13861,7 +13862,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.621928507273765",
+      "legacy_multifactor": "52.82333480753788",
       "coil_sequence": "12.050753491694843",
       "reasons": [],
       "triggers": [
@@ -13910,7 +13911,7 @@
         "demand": 5.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.551334454445566",
+      "legacy_multifactor": "53.12049805396602",
       "coil_sequence": "7.906753617591107",
       "reasons": [],
       "triggers": [
@@ -13957,7 +13958,7 @@
         "demand": 14.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.53840174346934",
+      "legacy_multifactor": "51.5881323692924",
       "coil_sequence": "16.68300898289774",
       "reasons": [],
       "triggers": [
@@ -14003,7 +14004,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.52960585294693",
+      "legacy_multifactor": "55.57277061511313",
       "coil_sequence": "14.457052158993443",
       "reasons": [],
       "triggers": [
@@ -14051,7 +14052,7 @@
         "demand": 15.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.52712369505349",
+      "legacy_multifactor": "52.85174589979522",
       "coil_sequence": "21.627079578868052",
       "reasons": [],
       "triggers": [
@@ -14098,7 +14099,7 @@
         "demand": 16.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.49931620416953",
+      "legacy_multifactor": "53.69798908638245",
       "coil_sequence": "36.774704809590524",
       "reasons": [],
       "triggers": [
@@ -14146,7 +14147,7 @@
         "demand": 8.52
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.394630110158694",
+      "legacy_multifactor": "54.04627423779226",
       "coil_sequence": "19.111658471624192",
       "reasons": [],
       "triggers": [
@@ -14193,7 +14194,7 @@
         "demand": 19.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.32726292469325",
+      "legacy_multifactor": "61.749499433682",
       "coil_sequence": "26.27720504009164",
       "reasons": [],
       "triggers": [
@@ -14240,7 +14241,7 @@
         "demand": 14.23
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.323619267114154",
+      "legacy_multifactor": "46.861255077840354",
       "coil_sequence": "32.55014379671561",
       "reasons": [],
       "triggers": [
@@ -14287,7 +14288,7 @@
         "demand": 10.47
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.242917670073375",
+      "legacy_multifactor": "52.08312690438307",
       "coil_sequence": "36.35573755736859",
       "reasons": [],
       "triggers": [
@@ -14335,7 +14336,7 @@
         "demand": 14.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.23551930490653",
+      "legacy_multifactor": "53.47766567960305",
       "coil_sequence": "19.632790915452837",
       "reasons": [],
       "triggers": [
@@ -14381,7 +14382,7 @@
         "demand": 23.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.230292015122046",
+      "legacy_multifactor": "46.95232624911224",
       "coil_sequence": "27.595378513602025",
       "reasons": [],
       "triggers": [
@@ -14427,7 +14428,7 @@
         "demand": 10.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.22001672653944",
+      "legacy_multifactor": "53.92806044443768",
       "coil_sequence": "23.85965828466161",
       "reasons": [],
       "triggers": [
@@ -14474,7 +14475,7 @@
         "demand": 3.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.15390915165585",
+      "legacy_multifactor": "55.67738997578925",
       "coil_sequence": "16.639466531702798",
       "reasons": [],
       "triggers": [
@@ -14521,7 +14522,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "53.13753890271079",
+      "legacy_multifactor": "64.78821860312634",
       "coil_sequence": "30.609638698893242",
       "reasons": [],
       "triggers": [
@@ -14571,7 +14572,7 @@
         "demand": 3.29
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.13450528732774",
+      "legacy_multifactor": "64.92258710713837",
       "coil_sequence": "28.319683082793212",
       "reasons": [],
       "triggers": [
@@ -14617,7 +14618,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.133350547562586",
+      "legacy_multifactor": "58.981243267257135",
       "coil_sequence": "4.19870496126277",
       "reasons": [],
       "triggers": [
@@ -14665,7 +14666,7 @@
         "demand": 11.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.12898008241069",
+      "legacy_multifactor": "45.32445691010904",
       "coil_sequence": "23.08677465097049",
       "reasons": [],
       "triggers": [
@@ -14712,7 +14713,7 @@
         "demand": 20.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.11297203162928",
+      "legacy_multifactor": "50.73288515117699",
       "coil_sequence": "24.447258092862917",
       "reasons": [],
       "triggers": [
@@ -14759,7 +14760,7 @@
         "demand": null
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.09134693046639",
+      "legacy_multifactor": "48.67184937806302",
       "coil_sequence": "25.85252889676811",
       "reasons": [],
       "triggers": [
@@ -14807,7 +14808,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.080907768189235",
+      "legacy_multifactor": "56.99507301886177",
       "coil_sequence": "16.947077842174288",
       "reasons": [],
       "triggers": [
@@ -14855,7 +14856,7 @@
         "demand": 17.94
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.07907038403857",
+      "legacy_multifactor": "61.43703656804512",
       "coil_sequence": "32.268277762258286",
       "reasons": [],
       "triggers": [
@@ -14903,7 +14904,7 @@
         "demand": 3.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.069911835011084",
+      "legacy_multifactor": "43.904109892723056",
       "coil_sequence": "35.00564785184473",
       "reasons": [],
       "triggers": [
@@ -14951,7 +14952,7 @@
         "demand": 16.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.061431706902965",
+      "legacy_multifactor": "54.90200491962231",
       "coil_sequence": "16.56553595615589",
       "reasons": [],
       "triggers": [
@@ -14997,7 +14998,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.00755901625217",
+      "legacy_multifactor": "58.622275698446614",
       "coil_sequence": "27.443498648384093",
       "reasons": [],
       "triggers": [
@@ -15046,7 +15047,7 @@
         "demand": 8.04
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.94194313857232",
+      "legacy_multifactor": "57.07436144510542",
       "coil_sequence": "23.682456746200533",
       "reasons": [],
       "triggers": [
@@ -15093,7 +15094,7 @@
         "demand": 5.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.91719810104598",
+      "legacy_multifactor": "31.95434120169636",
       "coil_sequence": "26.98631066662757",
       "reasons": [],
       "triggers": [
@@ -15141,7 +15142,7 @@
         "demand": 3.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.89351984411908",
+      "legacy_multifactor": "39.51570089710431",
       "coil_sequence": "28.110179293797817",
       "reasons": [],
       "triggers": [
@@ -15188,7 +15189,7 @@
         "demand": 14.87
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.81349064231484",
+      "legacy_multifactor": "51.53218613886603",
       "coil_sequence": "20.19983902729338",
       "reasons": [],
       "triggers": [
@@ -15235,7 +15236,7 @@
         "demand": 13.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.790368552290204",
+      "legacy_multifactor": "40.31360712928282",
       "coil_sequence": "23.494407695321854",
       "reasons": [],
       "triggers": [
@@ -15281,7 +15282,7 @@
         "demand": 3.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.75149926227526",
+      "legacy_multifactor": "50.987355123709875",
       "coil_sequence": "12.213458364222593",
       "reasons": [],
       "triggers": [
@@ -15329,7 +15330,7 @@
         "demand": 9.57
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.73275221042165",
+      "legacy_multifactor": "46.76938095708425",
       "coil_sequence": "20.191557633322027",
       "reasons": [],
       "triggers": [
@@ -15376,7 +15377,7 @@
         "demand": 17.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.71884646243261",
+      "legacy_multifactor": "54.47944779960767",
       "coil_sequence": "18.426854906714198",
       "reasons": [],
       "triggers": [
@@ -15423,7 +15424,7 @@
         "demand": 6.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.70789324697542",
+      "legacy_multifactor": "54.669168798756274",
       "coil_sequence": "25.242059529019592",
       "reasons": [],
       "triggers": [
@@ -15471,7 +15472,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.70321096879419",
+      "legacy_multifactor": "52.55939164832512",
       "coil_sequence": "35.24073568853957",
       "reasons": [],
       "triggers": [
@@ -15518,7 +15519,7 @@
         "demand": 9.79
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.67898539600016",
+      "legacy_multifactor": "50.687280285868376",
       "coil_sequence": "26.547679427527356",
       "reasons": [],
       "triggers": [
@@ -15565,7 +15566,7 @@
         "demand": 8.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.64566881317359",
+      "legacy_multifactor": "55.34924064998171",
       "coil_sequence": "15.657738984494475",
       "reasons": [],
       "triggers": [
@@ -15612,7 +15613,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.62330940427994",
+      "legacy_multifactor": "47.59313893432908",
       "coil_sequence": "28.793742458972304",
       "reasons": [],
       "triggers": [
@@ -15660,7 +15661,7 @@
         "demand": 0.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.60797402600817",
+      "legacy_multifactor": "44.12359670035494",
       "coil_sequence": "20.576050936718477",
       "reasons": [],
       "triggers": [
@@ -15708,7 +15709,7 @@
         "demand": 17.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.583047248629676",
+      "legacy_multifactor": "50.62851238385592",
       "coil_sequence": "17.74488302339379",
       "reasons": [],
       "triggers": [
@@ -15755,7 +15756,7 @@
         "demand": 9.02
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.571445930698104",
+      "legacy_multifactor": "52.41716765905164",
       "coil_sequence": "26.37932738748399",
       "reasons": [],
       "triggers": [
@@ -15801,7 +15802,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.568373012624505",
+      "legacy_multifactor": "53.78761094399418",
       "coil_sequence": "16.730402612483868",
       "reasons": [],
       "triggers": [
@@ -15849,7 +15850,7 @@
         "demand": 13.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.56505826125698",
+      "legacy_multifactor": "45.37196506295854",
       "coil_sequence": "21.926982381003185",
       "reasons": [],
       "triggers": [
@@ -15896,7 +15897,7 @@
         "demand": 6.17
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.564381272992755",
+      "legacy_multifactor": "49.10905588265722",
       "coil_sequence": "27.657468221845384",
       "reasons": [],
       "triggers": [
@@ -15938,7 +15939,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.35994729378094",
+      "legacy_multifactor": "58.10356313282236",
       "coil_sequence": "19.306825672213247",
       "reasons": [],
       "triggers": [],
@@ -15982,7 +15983,7 @@
         "demand": 8.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.33505340347895",
+      "legacy_multifactor": "48.04003386610592",
       "coil_sequence": "15.116107522973348",
       "reasons": [],
       "triggers": [
@@ -16030,7 +16031,7 @@
         "demand": 2.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.3011724270251",
+      "legacy_multifactor": "45.50460458403673",
       "coil_sequence": "29.31048301876576",
       "reasons": [],
       "triggers": [
@@ -16078,7 +16079,7 @@
         "demand": 7.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.269894746874726",
+      "legacy_multifactor": "48.42757056116713",
       "coil_sequence": "20.408574090021038",
       "reasons": [],
       "triggers": [
@@ -16126,7 +16127,7 @@
         "demand": 6.76
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.26318437320402",
+      "legacy_multifactor": "45.04343806278987",
       "coil_sequence": "24.892347885396326",
       "reasons": [],
       "triggers": [
@@ -16171,7 +16172,7 @@
         "demand": 24.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.251418015453744",
+      "legacy_multifactor": "62.91136193092319",
       "coil_sequence": "15.503875785374994",
       "reasons": [],
       "triggers": [
@@ -16219,7 +16220,7 @@
         "demand": 14.84
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.1666128943317",
+      "legacy_multifactor": "57.30684562090678",
       "coil_sequence": "15.074589762609293",
       "reasons": [],
       "triggers": [
@@ -16266,7 +16267,7 @@
         "demand": 21.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.13365674247073",
+      "legacy_multifactor": "59.97237854812543",
       "coil_sequence": "14.281886671479207",
       "reasons": [],
       "triggers": [
@@ -16314,7 +16315,7 @@
         "demand": 17.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.05993851035537",
+      "legacy_multifactor": "58.378656593520105",
       "coil_sequence": "6.862511382592492",
       "reasons": [],
       "triggers": [
@@ -16362,7 +16363,7 @@
         "demand": 16.21
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "52.054527616241465",
+      "legacy_multifactor": "55.77569453426949",
       "coil_sequence": "23.77129750220477",
       "reasons": [],
       "triggers": [
@@ -16409,7 +16410,7 @@
         "demand": 10.08
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.961306891981195",
+      "legacy_multifactor": "55.031318887343296",
       "coil_sequence": "11.749373188395325",
       "reasons": [],
       "triggers": [
@@ -16455,7 +16456,7 @@
         "demand": 9.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.91194774705552",
+      "legacy_multifactor": "55.370196627232694",
       "coil_sequence": "30.265003105192278",
       "reasons": [],
       "triggers": [
@@ -16504,7 +16505,7 @@
         "demand": 5.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.88647088675443",
+      "legacy_multifactor": "43.8079421884301",
       "coil_sequence": "10.698273192542768",
       "reasons": [],
       "triggers": [
@@ -16552,7 +16553,7 @@
         "demand": 8.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.87893104713067",
+      "legacy_multifactor": "54.27584710128599",
       "coil_sequence": "27.23824294401793",
       "reasons": [],
       "triggers": [
@@ -16600,7 +16601,7 @@
         "demand": 7.17
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.814204324717096",
+      "legacy_multifactor": "50.44464336681995",
       "coil_sequence": "15.51725245983761",
       "reasons": [],
       "triggers": [
@@ -16647,7 +16648,7 @@
         "demand": 3.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.73743464531678",
+      "legacy_multifactor": "50.487715546964864",
       "coil_sequence": "11.230490158663198",
       "reasons": [],
       "triggers": [
@@ -16695,7 +16696,7 @@
         "demand": 10.38
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.701310129620545",
+      "legacy_multifactor": "60.51761905187662",
       "coil_sequence": "31.12799459608491",
       "reasons": [],
       "triggers": [
@@ -16743,7 +16744,7 @@
         "demand": 8.61
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.686330009626744",
+      "legacy_multifactor": "46.69868352835271",
       "coil_sequence": "13.896537686765882",
       "reasons": [],
       "triggers": [
@@ -16790,7 +16791,7 @@
         "demand": 11.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.655054153718304",
+      "legacy_multifactor": "47.45829954349389",
       "coil_sequence": "6.673897517808894",
       "reasons": [],
       "triggers": [
@@ -16835,7 +16836,7 @@
         "demand": 17.19
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.64511256682458",
+      "legacy_multifactor": "57.77779442841763",
       "coil_sequence": "22.46369060473659",
       "reasons": [],
       "triggers": [
@@ -16883,7 +16884,7 @@
         "demand": 15.71
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.629499624732524",
+      "legacy_multifactor": "49.32645871886174",
       "coil_sequence": "29.361753401439945",
       "reasons": [],
       "triggers": [
@@ -16930,7 +16931,7 @@
         "demand": 13.31
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.61260554513325",
+      "legacy_multifactor": "53.47678787765338",
       "coil_sequence": "20.11873179391929",
       "reasons": [],
       "triggers": [
@@ -16977,7 +16978,7 @@
         "demand": 7.14
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.5622840672682",
+      "legacy_multifactor": "64.249233168053",
       "coil_sequence": "32.61888394753631",
       "reasons": [],
       "triggers": [
@@ -17025,7 +17026,7 @@
         "demand": 13.16
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.54449866403235",
+      "legacy_multifactor": "53.193330605227274",
       "coil_sequence": "8.368688152351357",
       "reasons": [],
       "triggers": [
@@ -17072,7 +17073,7 @@
         "demand": 13.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.54338003083836",
+      "legacy_multifactor": "50.22893025476406",
       "coil_sequence": "30.09053369166399",
       "reasons": [],
       "triggers": [
@@ -17119,7 +17120,7 @@
         "demand": 5.97
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.538200019841995",
+      "legacy_multifactor": null,
       "coil_sequence": "36.62975388179848",
       "reasons": [],
       "triggers": [
@@ -17167,7 +17168,7 @@
         "demand": 16.89
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.52909073027687",
+      "legacy_multifactor": "62.82676551695591",
       "coil_sequence": "11.52579004609957",
       "reasons": [],
       "triggers": [
@@ -17213,7 +17214,7 @@
         "demand": 2.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.49912717912323",
+      "legacy_multifactor": "52.35039376323972",
       "coil_sequence": "19.06502274373147",
       "reasons": [],
       "triggers": [
@@ -17262,7 +17263,7 @@
         "demand": 6.66
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.48345005699228",
+      "legacy_multifactor": "37.69704445569707",
       "coil_sequence": "20.124921329001864",
       "reasons": [],
       "triggers": [
@@ -17309,7 +17310,7 @@
         "demand": 10.41
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.47549380025204",
+      "legacy_multifactor": "43.05354662780728",
       "coil_sequence": "28.75948739878334",
       "reasons": [],
       "triggers": [
@@ -17356,7 +17357,7 @@
         "demand": 12.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.47043624513504",
+      "legacy_multifactor": "43.98930948043889",
       "coil_sequence": "22.21701797141052",
       "reasons": [],
       "triggers": [
@@ -17404,7 +17405,7 @@
         "demand": 2.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.458625704004746",
+      "legacy_multifactor": "43.98034959898186",
       "coil_sequence": "32.0798918949744",
       "reasons": [],
       "triggers": [
@@ -17452,7 +17453,7 @@
         "demand": 3.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.444265574183056",
+      "legacy_multifactor": "34.4066307212536",
       "coil_sequence": "12.233542695820162",
       "reasons": [],
       "triggers": [
@@ -17499,7 +17500,7 @@
         "demand": 13.17
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.436974667219026",
+      "legacy_multifactor": "49.34478980417259",
       "coil_sequence": "24.67518612434661",
       "reasons": [],
       "triggers": [
@@ -17546,7 +17547,7 @@
         "demand": 1.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.38587608657136",
+      "legacy_multifactor": "40.118647924368744",
       "coil_sequence": "13.230247710367546",
       "reasons": [],
       "triggers": [
@@ -17595,7 +17596,7 @@
         "demand": 11.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.347265120720046",
+      "legacy_multifactor": "47.830782942537304",
       "coil_sequence": "24.22439800052409",
       "reasons": [],
       "triggers": [
@@ -17642,7 +17643,7 @@
         "demand": 5.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.304223859360334",
+      "legacy_multifactor": "46.477341422119224",
       "coil_sequence": "22.172770883751618",
       "reasons": [],
       "triggers": [
@@ -17690,7 +17691,7 @@
         "demand": 18.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.3010892628532",
+      "legacy_multifactor": "49.50058702882688",
       "coil_sequence": "20.08226504991786",
       "reasons": [],
       "triggers": [
@@ -17736,7 +17737,7 @@
         "demand": 3.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.28218465068832",
+      "legacy_multifactor": "36.212561500269956",
       "coil_sequence": "27.424768948631694",
       "reasons": [],
       "triggers": [
@@ -17784,7 +17785,7 @@
         "demand": 1.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.27568094314533",
+      "legacy_multifactor": "57.49737301049274",
       "coil_sequence": "19.078670882687895",
       "reasons": [],
       "triggers": [
@@ -17832,7 +17833,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.273377091391644",
+      "legacy_multifactor": "49.00792520148157",
       "coil_sequence": "26.3973598044743",
       "reasons": [],
       "triggers": [
@@ -17877,7 +17878,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.26837942936186",
+      "legacy_multifactor": "55.00804730881587",
       "coil_sequence": "11.233104975489622",
       "reasons": [],
       "triggers": [
@@ -17927,7 +17928,7 @@
         "demand": 3.71
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.255644152471945",
+      "legacy_multifactor": "50.29242710618328",
       "coil_sequence": "24.28975087732606",
       "reasons": [],
       "triggers": [
@@ -17974,7 +17975,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.199264680251574",
+      "legacy_multifactor": "49.98962122182464",
       "coil_sequence": "26.879253976633887",
       "reasons": [],
       "triggers": [
@@ -18020,7 +18021,7 @@
         "demand": 19.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.19550690342902",
+      "legacy_multifactor": "55.88786204584719",
       "coil_sequence": "16.099530173472754",
       "reasons": [],
       "triggers": [
@@ -18068,7 +18069,7 @@
         "demand": 5.73
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.18293611107803",
+      "legacy_multifactor": "52.55174446877048",
       "coil_sequence": "26.880372434110626",
       "reasons": [],
       "triggers": [
@@ -18115,7 +18116,7 @@
         "demand": 19.92
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.12933603992599",
+      "legacy_multifactor": "53.126676604102165",
       "coil_sequence": "24.99634100992499",
       "reasons": [],
       "triggers": [
@@ -18162,7 +18163,7 @@
         "demand": 10.56
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.1085458605668",
+      "legacy_multifactor": "52.82552127320462",
       "coil_sequence": "16.722729348184323",
       "reasons": [],
       "triggers": [
@@ -18208,7 +18209,7 @@
         "demand": 4.59
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.10756060558664",
+      "legacy_multifactor": "47.34433615481568",
       "coil_sequence": "21.267467091176503",
       "reasons": [],
       "triggers": [
@@ -18253,7 +18254,7 @@
         "demand": 18.14
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.094044921488866",
+      "legacy_multifactor": "54.345534643585815",
       "coil_sequence": "13.57297533371161",
       "reasons": [],
       "triggers": [
@@ -18301,7 +18302,7 @@
         "demand": 3.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "51.052543477673076",
+      "legacy_multifactor": "58.257073468905304",
       "coil_sequence": "25.63233431740264",
       "reasons": [],
       "triggers": [
@@ -18349,7 +18350,7 @@
         "demand": 10.62
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.99747404697571",
+      "legacy_multifactor": "54.88229610790597",
       "coil_sequence": "18.81896919794532",
       "reasons": [],
       "triggers": [
@@ -18396,7 +18397,7 @@
         "demand": 10.31
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.99458031997723",
+      "legacy_multifactor": "55.74730093484773",
       "coil_sequence": "17.32187154003723",
       "reasons": [],
       "triggers": [
@@ -18441,7 +18442,7 @@
         "demand": 17.58
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.97288822569275",
+      "legacy_multifactor": "53.52313735988067",
       "coil_sequence": "13.969899037196306",
       "reasons": [],
       "triggers": [
@@ -18489,7 +18490,7 @@
         "demand": 3.44
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.958440730749345",
+      "legacy_multifactor": "53.75952263315173",
       "coil_sequence": "13.255984927703095",
       "reasons": [],
       "triggers": [
@@ -18536,7 +18537,7 @@
         "demand": 15.91
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.86929364892989",
+      "legacy_multifactor": "43.90208215567841",
       "coil_sequence": "18.362334669524138",
       "reasons": [],
       "triggers": [
@@ -18583,7 +18584,7 @@
         "demand": 17.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.8645148829081",
+      "legacy_multifactor": "55.0234230073279",
       "coil_sequence": "12.631164075295796",
       "reasons": [],
       "triggers": [
@@ -18630,7 +18631,7 @@
         "demand": 13.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.817159722078344",
+      "legacy_multifactor": "57.07748193809296",
       "coil_sequence": "20.123492902134746",
       "reasons": [],
       "triggers": [
@@ -18677,7 +18678,7 @@
         "demand": 1.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.80195438847246",
+      "legacy_multifactor": "44.414856517455235",
       "coil_sequence": "13.316760973366087",
       "reasons": [],
       "triggers": [
@@ -18724,7 +18725,7 @@
         "demand": 1.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.708176583757535",
+      "legacy_multifactor": "50.04170894450284",
       "coil_sequence": "3.4318175364297154",
       "reasons": [],
       "triggers": [
@@ -18772,7 +18773,7 @@
         "demand": 9.34
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.6893243286164",
+      "legacy_multifactor": "56.01581777842922",
       "coil_sequence": "11.970638551806786",
       "reasons": [],
       "triggers": [
@@ -18819,7 +18820,7 @@
         "demand": 4.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.63404327418103",
+      "legacy_multifactor": "30.097988273755057",
       "coil_sequence": "18.218106687650113",
       "reasons": [],
       "triggers": [
@@ -18867,7 +18868,7 @@
         "demand": 18.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.56889081222864",
+      "legacy_multifactor": "39.54754179415469",
       "coil_sequence": "31.871712419747833",
       "reasons": [],
       "triggers": [
@@ -18914,7 +18915,7 @@
         "demand": 4.71
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.522060540799096",
+      "legacy_multifactor": "45.36889623452449",
       "coil_sequence": "34.01043120367086",
       "reasons": [],
       "triggers": [
@@ -18961,7 +18962,7 @@
         "demand": 10.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.48855673980015",
+      "legacy_multifactor": null,
       "coil_sequence": "21.980827146799577",
       "reasons": [],
       "triggers": [
@@ -19008,7 +19009,7 @@
         "demand": 9.14
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.462532261823725",
+      "legacy_multifactor": "49.61176528301445",
       "coil_sequence": "31.06806058938995",
       "reasons": [],
       "triggers": [
@@ -19055,7 +19056,7 @@
         "demand": 15.89
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.45841203586202",
+      "legacy_multifactor": "54.45953016353965",
       "coil_sequence": "24.05133785351267",
       "reasons": [],
       "triggers": [
@@ -19100,7 +19101,7 @@
         "demand": 13.33
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.4512731646432",
+      "legacy_multifactor": "55.305380417418995",
       "coil_sequence": "20.79618717753522",
       "reasons": [],
       "triggers": [
@@ -19148,7 +19149,7 @@
         "demand": 6.87
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.43980857736848",
+      "legacy_multifactor": "52.80009343013716",
       "coil_sequence": "26.54373448937627",
       "reasons": [],
       "triggers": [
@@ -19195,7 +19196,7 @@
         "demand": 16.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.41934951360718",
+      "legacy_multifactor": "53.008367851372405",
       "coil_sequence": "16.727751857881238",
       "reasons": [],
       "triggers": [
@@ -19241,7 +19242,7 @@
         "demand": 10.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.331135117746705",
+      "legacy_multifactor": "31.80526135842246",
       "coil_sequence": "36.73990308619102",
       "reasons": [],
       "triggers": [
@@ -19288,7 +19289,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.31162979929831",
+      "legacy_multifactor": "45.64977369809719",
       "coil_sequence": "38.42014039693338",
       "reasons": [],
       "triggers": [
@@ -19337,7 +19338,7 @@
         "demand": 19.56
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.24886499456772",
+      "legacy_multifactor": "53.92763637382223",
       "coil_sequence": "6.228982992443697",
       "reasons": [],
       "triggers": [
@@ -19384,7 +19385,7 @@
         "demand": 4.67
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.239373181414116",
+      "legacy_multifactor": "46.41924987329437",
       "coil_sequence": "20.110344731238815",
       "reasons": [],
       "triggers": [
@@ -19431,7 +19432,7 @@
         "demand": 8.49
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.22466355547412",
+      "legacy_multifactor": "52.57577795843886",
       "coil_sequence": "29.391514334656932",
       "reasons": [],
       "triggers": [
@@ -19478,7 +19479,7 @@
         "demand": 9.66
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.22189720622268",
+      "legacy_multifactor": "44.625421352723",
       "coil_sequence": "19.50895318985433",
       "reasons": [],
       "triggers": [
@@ -19525,7 +19526,7 @@
         "demand": null
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.17545157170492",
+      "legacy_multifactor": "48.646199832847245",
       "coil_sequence": "24.99034571844374",
       "reasons": [],
       "triggers": [
@@ -19572,7 +19573,7 @@
         "demand": 5.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.14501307328367",
+      "legacy_multifactor": "61.170748884518275",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -19621,7 +19622,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "50.070632467730455",
+      "legacy_multifactor": "48.07831907787782",
       "coil_sequence": "15.55032459547051",
       "reasons": [],
       "triggers": [
@@ -19669,7 +19670,7 @@
         "demand": 3.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.98567827587059",
+      "legacy_multifactor": "53.290722096215795",
       "coil_sequence": "18.431661225571553",
       "reasons": [],
       "triggers": [
@@ -19717,7 +19718,7 @@
         "demand": 13.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.96298884545299",
+      "legacy_multifactor": "51.86153699137568",
       "coil_sequence": "19.711053562542336",
       "reasons": [],
       "triggers": [
@@ -19765,7 +19766,7 @@
         "demand": 5.54
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.920607037249965",
+      "legacy_multifactor": "44.600034366741305",
       "coil_sequence": "12.6231887326201",
       "reasons": [],
       "triggers": [
@@ -19812,7 +19813,7 @@
         "demand": 6.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.831846613590095",
+      "legacy_multifactor": "56.745074622154746",
       "coil_sequence": "14.65194811474548",
       "reasons": [],
       "triggers": [
@@ -19860,7 +19861,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.822891034846556",
+      "legacy_multifactor": "50.83209464356009",
       "coil_sequence": "30.84250725832326",
       "reasons": [],
       "triggers": [
@@ -19908,7 +19909,7 @@
         "demand": 7.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.80280644790651",
+      "legacy_multifactor": "47.32958950311381",
       "coil_sequence": "15.676642753672834",
       "reasons": [],
       "triggers": [
@@ -19957,7 +19958,7 @@
         "demand": 5.61
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.73532325720475",
+      "legacy_multifactor": "51.06226711354491",
       "coil_sequence": "18.640266335504457",
       "reasons": [],
       "triggers": [
@@ -20004,7 +20005,7 @@
         "demand": 3.43
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.63634278228911",
+      "legacy_multifactor": "40.626193530809964",
       "coil_sequence": "15.580415265682703",
       "reasons": [],
       "triggers": [
@@ -20051,7 +20052,7 @@
         "demand": 13.99
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.62391126940166",
+      "legacy_multifactor": "42.52456762107465",
       "coil_sequence": "3.844105226211223",
       "reasons": [],
       "triggers": [
@@ -20098,7 +20099,7 @@
         "demand": 15.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.61377690633474",
+      "legacy_multifactor": "50.075033380510405",
       "coil_sequence": "28.67328343506822",
       "reasons": [],
       "triggers": [
@@ -20146,7 +20147,7 @@
         "demand": 3.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.57981085485476",
+      "legacy_multifactor": "37.97077665120719",
       "coil_sequence": "19.660609948300397",
       "reasons": [],
       "triggers": [
@@ -20194,7 +20195,7 @@
         "demand": 7.89
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.57503516796857",
+      "legacy_multifactor": "46.15283594432621",
       "coil_sequence": "9.029181547183278",
       "reasons": [],
       "triggers": [
@@ -20241,7 +20242,7 @@
         "demand": 13.78
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.38356110099312",
+      "legacy_multifactor": "55.02478950238289",
       "coil_sequence": "20.197171605217925",
       "reasons": [],
       "triggers": [
@@ -20283,7 +20284,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.29271972968988",
+      "legacy_multifactor": "55.55045170528842",
       "coil_sequence": "5.7519635773511055",
       "reasons": [],
       "triggers": [],
@@ -20327,7 +20328,7 @@
         "demand": 7.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.28838686840498",
+      "legacy_multifactor": "45.56533646317186",
       "coil_sequence": "14.834937088911829",
       "reasons": [],
       "triggers": [
@@ -20374,7 +20375,7 @@
         "demand": 5.23
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.277124313485885",
+      "legacy_multifactor": "49.42099188672963",
       "coil_sequence": "10.439525713034772",
       "reasons": [],
       "triggers": [
@@ -20421,7 +20422,7 @@
         "demand": 5.52
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.219655899629764",
+      "legacy_multifactor": "58.19460687338061",
       "coil_sequence": "20.865710380155242",
       "reasons": [],
       "triggers": [
@@ -20468,7 +20469,7 @@
         "demand": 23.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.12917827302091",
+      "legacy_multifactor": "47.34055495692157",
       "coil_sequence": "23.870066022138953",
       "reasons": [],
       "triggers": [
@@ -20515,7 +20516,7 @@
         "demand": 11.99
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.11953969011178",
+      "legacy_multifactor": "54.84748654372419",
       "coil_sequence": "8.101911558586771",
       "reasons": [],
       "triggers": [
@@ -20559,7 +20560,7 @@
         "demand": 19.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "49.015768396889456",
+      "legacy_multifactor": "56.596647673522746",
       "coil_sequence": "23.77599036611328",
       "reasons": [],
       "triggers": [
@@ -20607,7 +20608,7 @@
         "demand": 20.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.997257353557735",
+      "legacy_multifactor": "52.215427344678055",
       "coil_sequence": "21.708561168777926",
       "reasons": [],
       "triggers": [
@@ -20654,7 +20655,7 @@
         "demand": 7.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.99542447715493",
+      "legacy_multifactor": "38.092321899742174",
       "coil_sequence": "29.11779280850672",
       "reasons": [],
       "triggers": [
@@ -20702,7 +20703,7 @@
         "demand": 12.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.98854270152896",
+      "legacy_multifactor": "46.646753125799115",
       "coil_sequence": "16.767331544837248",
       "reasons": [],
       "triggers": [
@@ -20749,7 +20750,7 @@
         "demand": 3.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.9681255822831",
+      "legacy_multifactor": "50.520451211832906",
       "coil_sequence": "23.699090301480215",
       "reasons": [],
       "triggers": [
@@ -20795,7 +20796,7 @@
         "demand": 21.42
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.96811401852624",
+      "legacy_multifactor": "54.97272642091201",
       "coil_sequence": "6.203567695470028",
       "reasons": [],
       "triggers": [
@@ -20838,7 +20839,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.92346142635298",
+      "legacy_multifactor": "41.441076417784174",
       "coil_sequence": "23.93759561178819",
       "reasons": [],
       "triggers": [],
@@ -20882,7 +20883,7 @@
         "demand": 5.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.91533551570735",
+      "legacy_multifactor": "57.551639005037735",
       "coil_sequence": "21.952989539446975",
       "reasons": [],
       "triggers": [
@@ -20930,7 +20931,7 @@
         "demand": 1.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.889319853308436",
+      "legacy_multifactor": "48.57000425738168",
       "coil_sequence": "24.92160605399486",
       "reasons": [],
       "triggers": [
@@ -20979,7 +20980,7 @@
         "demand": 8.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.840199218638226",
+      "legacy_multifactor": "51.31124161803912",
       "coil_sequence": "16.622374621866335",
       "reasons": [],
       "triggers": [
@@ -21026,7 +21027,7 @@
         "demand": 8.29
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.700307670870515",
+      "legacy_multifactor": "50.331123002557774",
       "coil_sequence": "26.04937865649753",
       "reasons": [],
       "triggers": [
@@ -21073,7 +21074,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.67815896817442",
+      "legacy_multifactor": "45.350217258952874",
       "coil_sequence": "29.102296450939452",
       "reasons": [],
       "triggers": [
@@ -21120,7 +21121,7 @@
         "demand": 11.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.67554521102963",
+      "legacy_multifactor": "45.00690622525171",
       "coil_sequence": "28.19608965878915",
       "reasons": [],
       "triggers": [
@@ -21168,7 +21169,7 @@
         "demand": 18.72
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.65469415591477",
+      "legacy_multifactor": "43.94607709615799",
       "coil_sequence": "10.469410295883694",
       "reasons": [],
       "triggers": [
@@ -21215,7 +21216,7 @@
         "demand": 4.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.65390682444376",
+      "legacy_multifactor": "45.83253672712012",
       "coil_sequence": "16.958445718950507",
       "reasons": [],
       "triggers": [
@@ -21257,7 +21258,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.59532237573202",
+      "legacy_multifactor": "41.46576346937799",
       "coil_sequence": "12.479258521667646",
       "reasons": [],
       "triggers": [],
@@ -21301,7 +21302,7 @@
         "demand": 13.18
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.58940933648081",
+      "legacy_multifactor": "59.37323060842523",
       "coil_sequence": "14.257554421409452",
       "reasons": [],
       "triggers": [
@@ -21348,7 +21349,7 @@
         "demand": 4.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.57569272998323",
+      "legacy_multifactor": "60.69717981565805",
       "coil_sequence": "10.170148987520207",
       "reasons": [],
       "triggers": [
@@ -21397,7 +21398,7 @@
         "demand": 11.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.549019923111025",
+      "legacy_multifactor": "53.84711580188208",
       "coil_sequence": "1.258049506479491",
       "reasons": [],
       "triggers": [
@@ -21444,7 +21445,7 @@
         "demand": 10.56
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.50643244349328",
+      "legacy_multifactor": "55.048336433854175",
       "coil_sequence": "8.135485465856476",
       "reasons": [],
       "triggers": [
@@ -21491,7 +21492,7 @@
         "demand": 13.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.49342371386059",
+      "legacy_multifactor": "47.77271814403255",
       "coil_sequence": "15.657173720067295",
       "reasons": [],
       "triggers": [
@@ -21538,7 +21539,7 @@
         "demand": 19.07
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.46339017379005",
+      "legacy_multifactor": "34.27063837832211",
       "coil_sequence": "27.95448091026611",
       "reasons": [],
       "triggers": [
@@ -21585,7 +21586,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.43268373326471",
+      "legacy_multifactor": "44.27533133745779",
       "coil_sequence": "20.79003522984095",
       "reasons": [],
       "triggers": [
@@ -21633,7 +21634,7 @@
         "demand": 19.42
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.42383192465206",
+      "legacy_multifactor": "54.53700115911821",
       "coil_sequence": "11.441038840761188",
       "reasons": [],
       "triggers": [
@@ -21680,7 +21681,7 @@
         "demand": 13.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.406048343827415",
+      "legacy_multifactor": "46.61276657093177",
       "coil_sequence": "20.50691727824051",
       "reasons": [],
       "triggers": [
@@ -21727,7 +21728,7 @@
         "demand": 10.84
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.39633286076115",
+      "legacy_multifactor": "43.86830174526489",
       "coil_sequence": "19.156279819323593",
       "reasons": [],
       "triggers": [
@@ -21774,7 +21775,7 @@
         "demand": 17.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.24832218291314",
+      "legacy_multifactor": "45.32377698452261",
       "coil_sequence": "30.37165037067305",
       "reasons": [],
       "triggers": [
@@ -21821,7 +21822,7 @@
         "demand": 16.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.16303523741436",
+      "legacy_multifactor": "49.61117230490776",
       "coil_sequence": "8.52562834566411",
       "reasons": [],
       "triggers": [
@@ -21869,7 +21870,7 @@
         "demand": 7.18
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.118946890912106",
+      "legacy_multifactor": "48.77121828822113",
       "coil_sequence": "14.511435356366961",
       "reasons": [],
       "triggers": [
@@ -21917,7 +21918,7 @@
         "demand": 7.27
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.11051205235419",
+      "legacy_multifactor": "46.03032253573199",
       "coil_sequence": "17.084173183347552",
       "reasons": [],
       "triggers": [
@@ -21963,7 +21964,7 @@
         "demand": 10.14
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.09124471037236",
+      "legacy_multifactor": "49.272230199723616",
       "coil_sequence": "8.84928388294232",
       "reasons": [],
       "triggers": [
@@ -22010,7 +22011,7 @@
         "demand": 6.98
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.08168057233044",
+      "legacy_multifactor": "51.21347543827308",
       "coil_sequence": "22.70144001967459",
       "reasons": [],
       "triggers": [
@@ -22057,7 +22058,7 @@
         "demand": 12.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "48.010919973608054",
+      "legacy_multifactor": "45.406993559591605",
       "coil_sequence": "15.312765745117886",
       "reasons": [],
       "triggers": [
@@ -22104,7 +22105,7 @@
         "demand": 16.58
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.98351210182169",
+      "legacy_multifactor": "50.443267866945405",
       "coil_sequence": "25.156258183953362",
       "reasons": [],
       "triggers": [
@@ -22151,7 +22152,7 @@
         "demand": 8.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.95956066713211",
+      "legacy_multifactor": "56.08770761760093",
       "coil_sequence": "18.99394950419738",
       "reasons": [],
       "triggers": [
@@ -22198,7 +22199,7 @@
         "demand": 5.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.92122637643772",
+      "legacy_multifactor": "42.80381275025172",
       "coil_sequence": "15.422232038563312",
       "reasons": [],
       "triggers": [
@@ -22246,7 +22247,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.90801783492801",
+      "legacy_multifactor": "53.86379490461124",
       "coil_sequence": "16.966286661132724",
       "reasons": [],
       "triggers": [
@@ -22294,7 +22295,7 @@
         "demand": 6.32
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.89479613919122",
+      "legacy_multifactor": "40.16347080932436",
       "coil_sequence": "24.816236198044948",
       "reasons": [],
       "triggers": [
@@ -22341,7 +22342,7 @@
         "demand": 0.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.88601483296308",
+      "legacy_multifactor": "49.20900942536911",
       "coil_sequence": "23.53778594660885",
       "reasons": [],
       "triggers": [
@@ -22390,7 +22391,7 @@
         "demand": 9.22
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.86058023866298",
+      "legacy_multifactor": "60.937757995866036",
       "coil_sequence": "14.702876583882492",
       "reasons": [],
       "triggers": [
@@ -22437,7 +22438,7 @@
         "demand": 7.38
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.809651854238425",
+      "legacy_multifactor": "56.94543250621529",
       "coil_sequence": "13.970274757720347",
       "reasons": [],
       "triggers": [
@@ -22485,7 +22486,7 @@
         "demand": 9.83
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.795551208057205",
+      "legacy_multifactor": "58.316239737956096",
       "coil_sequence": "26.2520421418023",
       "reasons": [],
       "triggers": [
@@ -22531,7 +22532,7 @@
         "demand": 13.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.752440024397444",
+      "legacy_multifactor": "56.197517298196665",
       "coil_sequence": "9.919493985320678",
       "reasons": [],
       "triggers": [
@@ -22578,7 +22579,7 @@
         "demand": 5.02
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.73281079357285",
+      "legacy_multifactor": "46.37201767126263",
       "coil_sequence": "10.666967246980509",
       "reasons": [],
       "triggers": [
@@ -22625,7 +22626,7 @@
         "demand": 3.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.694144081570236",
+      "legacy_multifactor": "52.49369552980095",
       "coil_sequence": "22.576779630101555",
       "reasons": [],
       "triggers": [
@@ -22673,7 +22674,7 @@
         "demand": 8.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.65000655253614",
+      "legacy_multifactor": "46.62552980169534",
       "coil_sequence": "23.92217483266859",
       "reasons": [],
       "triggers": [
@@ -22721,7 +22722,7 @@
         "demand": 6.94
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.57574983880765",
+      "legacy_multifactor": "58.582514503803715",
       "coil_sequence": "16.511845247179437",
       "reasons": [],
       "triggers": [
@@ -22769,7 +22770,7 @@
         "demand": 7.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.516233465213666",
+      "legacy_multifactor": "52.32922419544679",
       "coil_sequence": "30.135219726066715",
       "reasons": [],
       "triggers": [
@@ -22816,7 +22817,7 @@
         "demand": 22.93
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.48434293799269",
+      "legacy_multifactor": "51.33762723051258",
       "coil_sequence": "21.830983464856665",
       "reasons": [],
       "triggers": [
@@ -22863,7 +22864,7 @@
         "demand": 10.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.38579823198302",
+      "legacy_multifactor": "43.1841359233093",
       "coil_sequence": "21.863023929827467",
       "reasons": [],
       "triggers": [
@@ -22910,7 +22911,7 @@
         "demand": 3.26
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.34656948024785",
+      "legacy_multifactor": "51.12810116351937",
       "coil_sequence": "20.41913677858964",
       "reasons": [],
       "triggers": [
@@ -22957,7 +22958,7 @@
         "demand": 5.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.27237518021181",
+      "legacy_multifactor": "52.82134664026874",
       "coil_sequence": "21.60168389390753",
       "reasons": [],
       "triggers": [
@@ -23004,7 +23005,7 @@
         "demand": 13.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.19461269462439",
+      "legacy_multifactor": "46.015380794630524",
       "coil_sequence": "24.704831698155957",
       "reasons": [],
       "triggers": [
@@ -23052,7 +23053,7 @@
         "demand": 0.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.148083334664086",
+      "legacy_multifactor": "49.32030534697509",
       "coil_sequence": "16.710704310908977",
       "reasons": [],
       "triggers": [
@@ -23100,7 +23101,7 @@
         "demand": 12.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.02715524830485",
+      "legacy_multifactor": "40.54414086097765",
       "coil_sequence": "19.470416100508253",
       "reasons": [],
       "triggers": [
@@ -23147,7 +23148,7 @@
         "demand": 14.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.0069296338001",
+      "legacy_multifactor": "42.415870720278484",
       "coil_sequence": "18.117532642850055",
       "reasons": [],
       "triggers": [
@@ -23195,7 +23196,7 @@
         "demand": 12.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "47.00365259697252",
+      "legacy_multifactor": "47.81008840381612",
       "coil_sequence": "5.189206021302624",
       "reasons": [],
       "triggers": [
@@ -23242,7 +23243,7 @@
         "demand": 21.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.98820480518241",
+      "legacy_multifactor": "46.75310667170587",
       "coil_sequence": "21.277688082282662",
       "reasons": [],
       "triggers": [
@@ -23289,7 +23290,7 @@
         "demand": 6.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.968074993778714",
+      "legacy_multifactor": "55.34640467800841",
       "coil_sequence": "27.858835952314237",
       "reasons": [],
       "triggers": [
@@ -23337,7 +23338,7 @@
         "demand": 4.58
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.93586754383621",
+      "legacy_multifactor": "47.103094333403035",
       "coil_sequence": "10.987778258099583",
       "reasons": [],
       "triggers": [
@@ -23384,7 +23385,7 @@
         "demand": 15.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.91566354087588",
+      "legacy_multifactor": "48.76840854492754",
       "coil_sequence": "29.451626777744835",
       "reasons": [],
       "triggers": [
@@ -23432,7 +23433,7 @@
         "demand": 20.51
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.900950384843874",
+      "legacy_multifactor": "39.684352964106644",
       "coil_sequence": "20.75825181703359",
       "reasons": [],
       "triggers": [
@@ -23479,7 +23480,7 @@
         "demand": 9.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.86552663869221",
+      "legacy_multifactor": "50.24430821990528",
       "coil_sequence": "19.299694332232722",
       "reasons": [],
       "triggers": [
@@ -23528,7 +23529,7 @@
         "demand": 8.55
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.86240297641563",
+      "legacy_multifactor": "49.47981095817366",
       "coil_sequence": "19.206528904319963",
       "reasons": [],
       "triggers": [
@@ -23576,7 +23577,7 @@
         "demand": 9.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.73734194429237",
+      "legacy_multifactor": "53.73732546335849",
       "coil_sequence": "20.76009942921347",
       "reasons": [],
       "triggers": [
@@ -23624,7 +23625,7 @@
         "demand": 10.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.73423220742164",
+      "legacy_multifactor": "44.491441392866534",
       "coil_sequence": "20.020509167168015",
       "reasons": [],
       "triggers": [
@@ -23671,7 +23672,7 @@
         "demand": 14.88
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.724210344375",
+      "legacy_multifactor": "43.04486898515343",
       "coil_sequence": "18.34261830090193",
       "reasons": [],
       "triggers": [
@@ -23718,7 +23719,7 @@
         "demand": 3.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.67852516931239",
+      "legacy_multifactor": null,
       "coil_sequence": "13.869629475414273",
       "reasons": [],
       "triggers": [
@@ -23766,7 +23767,7 @@
         "demand": 22.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.661828791280534",
+      "legacy_multifactor": "43.75599524950778",
       "coil_sequence": "27.128215017256558",
       "reasons": [],
       "triggers": [
@@ -23813,7 +23814,7 @@
         "demand": 6.12
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.652275367146885",
+      "legacy_multifactor": "47.752404822820466",
       "coil_sequence": "2.533062968484792",
       "reasons": [],
       "triggers": [
@@ -23861,7 +23862,7 @@
         "demand": 24.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.59470237201552",
+      "legacy_multifactor": "46.25214789361681",
       "coil_sequence": "9.441391145760837",
       "reasons": [],
       "triggers": [
@@ -23908,7 +23909,7 @@
         "demand": 5.37
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.59120877442432",
+      "legacy_multifactor": "54.1283785832426",
       "coil_sequence": "29.78560501379776",
       "reasons": [],
       "triggers": [
@@ -23955,7 +23956,7 @@
         "demand": 3.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.50561739471105",
+      "legacy_multifactor": "41.988120689384445",
       "coil_sequence": "28.91680040380094",
       "reasons": [],
       "triggers": [
@@ -24002,7 +24003,7 @@
         "demand": 20.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.47194669567015",
+      "legacy_multifactor": "50.90028516196118",
       "coil_sequence": "20.352805169049198",
       "reasons": [],
       "triggers": [
@@ -24050,7 +24051,7 @@
         "demand": 7.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.430121414480034",
+      "legacy_multifactor": "46.87077260150244",
       "coil_sequence": "17.99933866751932",
       "reasons": [],
       "triggers": [
@@ -24098,7 +24099,7 @@
         "demand": 6.37
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.41539598893535",
+      "legacy_multifactor": "43.93951542153527",
       "coil_sequence": "16.23782490568522",
       "reasons": [],
       "triggers": [
@@ -24145,7 +24146,7 @@
         "demand": 6.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.3980033027287",
+      "legacy_multifactor": "54.00513136518801",
       "coil_sequence": "12.845707649334734",
       "reasons": [],
       "triggers": [
@@ -24191,7 +24192,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.306802826866395",
+      "legacy_multifactor": "40.07184328013096",
       "coil_sequence": "8.829151073274346",
       "reasons": [],
       "triggers": [
@@ -24240,7 +24241,7 @@
         "demand": 2.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.305089464696145",
+      "legacy_multifactor": "49.10893950637335",
       "coil_sequence": "12.699884542756617",
       "reasons": [],
       "triggers": [
@@ -24288,7 +24289,7 @@
         "demand": 11.62
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.26825024708136",
+      "legacy_multifactor": "49.03556285342391",
       "coil_sequence": "7.9311828042373875",
       "reasons": [],
       "triggers": [
@@ -24333,7 +24334,7 @@
         "demand": 17.43
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.14177784856424",
+      "legacy_multifactor": "52.53476182093926",
       "coil_sequence": "19.707529162454346",
       "reasons": [],
       "triggers": [
@@ -24381,7 +24382,7 @@
         "demand": 0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.07728017875277",
+      "legacy_multifactor": "40.835214725771905",
       "coil_sequence": "32.58989317909608",
       "reasons": [],
       "triggers": [
@@ -24430,7 +24431,7 @@
         "demand": 2.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.050208543189136",
+      "legacy_multifactor": "35.298812208608496",
       "coil_sequence": "20.667969193187957",
       "reasons": [],
       "triggers": [
@@ -24478,7 +24479,7 @@
         "demand": 14.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.038069288016096",
+      "legacy_multifactor": "46.1012809424197",
       "coil_sequence": "20.358228808633015",
       "reasons": [],
       "triggers": [
@@ -24525,7 +24526,7 @@
         "demand": 10.82
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.02878642369429",
+      "legacy_multifactor": "44.32944864413636",
       "coil_sequence": "19.93613490669379",
       "reasons": [],
       "triggers": [
@@ -24567,7 +24568,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.926459742897876",
+      "legacy_multifactor": "39.57969240546782",
       "coil_sequence": "20.505135453215075",
       "reasons": [],
       "triggers": [],
@@ -24611,7 +24612,7 @@
         "demand": 9.19
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.839326725356074",
+      "legacy_multifactor": "42.213586318663346",
       "coil_sequence": "10.34570237892131",
       "reasons": [],
       "triggers": [
@@ -24658,7 +24659,7 @@
         "demand": 22.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.779811390147096",
+      "legacy_multifactor": "56.37955055933831",
       "coil_sequence": "10.635992537635865",
       "reasons": [],
       "triggers": [
@@ -24705,7 +24706,7 @@
         "demand": 13.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.76680667720126",
+      "legacy_multifactor": "45.24228392593864",
       "coil_sequence": "9.639729344239907",
       "reasons": [],
       "triggers": [
@@ -24753,7 +24754,7 @@
         "demand": 12.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.76459244401271",
+      "legacy_multifactor": "51.301146150296894",
       "coil_sequence": "9.857142068746604",
       "reasons": [],
       "triggers": [
@@ -24800,7 +24801,7 @@
         "demand": 13.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.63900148990337",
+      "legacy_multifactor": "53.49838753644137",
       "coil_sequence": "19.672995397829382",
       "reasons": [],
       "triggers": [
@@ -24847,7 +24848,7 @@
         "demand": 15.27
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.53677916071754",
+      "legacy_multifactor": "48.4634278492863",
       "coil_sequence": "4.138449502205882",
       "reasons": [],
       "triggers": [
@@ -24894,7 +24895,7 @@
         "demand": 11.02
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.47162842439075",
+      "legacy_multifactor": "40.684521969159036",
       "coil_sequence": "15.819746991643136",
       "reasons": [],
       "triggers": [
@@ -24941,7 +24942,7 @@
         "demand": 3.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.462224668779484",
+      "legacy_multifactor": "34.48285496201418",
       "coil_sequence": "19.557611818128294",
       "reasons": [],
       "triggers": [
@@ -24989,7 +24990,7 @@
         "demand": 10.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.287655178926876",
+      "legacy_multifactor": "54.06520736952274",
       "coil_sequence": "31.06606548727541",
       "reasons": [],
       "triggers": [
@@ -25036,7 +25037,7 @@
         "demand": 9.54
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "45.25187142062757",
+      "legacy_multifactor": "43.717204811311326",
       "coil_sequence": "17.782130388579027",
       "reasons": [],
       "triggers": [
@@ -25083,7 +25084,7 @@
         "demand": 8.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.88942333069922",
+      "legacy_multifactor": "46.0313138856374",
       "coil_sequence": "9.719114366528881",
       "reasons": [],
       "triggers": [
@@ -25131,7 +25132,7 @@
         "demand": 15.89
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.888220179696866",
+      "legacy_multifactor": "39.25411982631701",
       "coil_sequence": "14.174510844117139",
       "reasons": [],
       "triggers": [
@@ -25178,7 +25179,7 @@
         "demand": 13.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.77252059504317",
+      "legacy_multifactor": "54.76895371144678",
       "coil_sequence": "9.679247518601178",
       "reasons": [],
       "triggers": [
@@ -25220,7 +25221,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.506473568056826",
+      "legacy_multifactor": "44.013134043745765",
       "coil_sequence": "28.70548380199257",
       "reasons": [],
       "triggers": [],
@@ -25264,7 +25265,7 @@
         "demand": 5.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.41716264336332",
+      "legacy_multifactor": "61.32530608647685",
       "coil_sequence": "7.91036611422366",
       "reasons": [],
       "triggers": [
@@ -25313,7 +25314,7 @@
         "demand": 3.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.354671391210246",
+      "legacy_multifactor": "44.711390107591434",
       "coil_sequence": "16.842624975388894",
       "reasons": [],
       "triggers": [
@@ -25362,7 +25363,7 @@
         "demand": 9.12
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.32446309930971",
+      "legacy_multifactor": null,
       "coil_sequence": "27.70637707262847",
       "reasons": [],
       "triggers": [
@@ -25409,7 +25410,7 @@
         "demand": 20.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.3033278750636",
+      "legacy_multifactor": "54.554138487986634",
       "coil_sequence": "7.989742957152769",
       "reasons": [],
       "triggers": [
@@ -25456,7 +25457,7 @@
         "demand": 14.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.296991603852156",
+      "legacy_multifactor": "44.03583844041718",
       "coil_sequence": "12.40623651294965",
       "reasons": [],
       "triggers": [
@@ -25503,7 +25504,7 @@
         "demand": 8.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.292717337149966",
+      "legacy_multifactor": "38.049523874807164",
       "coil_sequence": "29.527219434482713",
       "reasons": [],
       "triggers": [
@@ -25550,7 +25551,7 @@
         "demand": 5.94
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.24565830425719",
+      "legacy_multifactor": "42.790866813791055",
       "coil_sequence": "18.650264734551037",
       "reasons": [],
       "triggers": [
@@ -25597,7 +25598,7 @@
         "demand": 20.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "44.11552306520887",
+      "legacy_multifactor": "49.61949099889996",
       "coil_sequence": "12.185007974481657",
       "reasons": [],
       "triggers": [
@@ -25645,7 +25646,7 @@
         "demand": 15.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.83726508811214",
+      "legacy_multifactor": "39.920378850670694",
       "coil_sequence": "12.133627119456328",
       "reasons": [],
       "triggers": [
@@ -25692,7 +25693,7 @@
         "demand": 0.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.80710993084436",
+      "legacy_multifactor": "51.691755825829944",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -25739,7 +25740,7 @@
         "demand": 13.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.71534439463816",
+      "legacy_multifactor": "42.66692724624599",
       "coil_sequence": "11.819772716923488",
       "reasons": [],
       "triggers": [
@@ -25781,7 +25782,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.58483571153872",
+      "legacy_multifactor": "52.184353686322495",
       "coil_sequence": "36.28423822098996",
       "reasons": [],
       "triggers": [],
@@ -25825,7 +25826,7 @@
         "demand": 15.93
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.58251956257208",
+      "legacy_multifactor": "55.84122497617051",
       "coil_sequence": "14.09765433807403",
       "reasons": [],
       "triggers": [
@@ -25872,7 +25873,7 @@
         "demand": 1.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.52842328322526",
+      "legacy_multifactor": "53.785801944394684",
       "coil_sequence": "20.33158547351525",
       "reasons": [],
       "triggers": [
@@ -25919,7 +25920,7 @@
         "demand": 0.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.38896450256789",
+      "legacy_multifactor": "45.109833549973345",
       "coil_sequence": "28.005513584934683",
       "reasons": [],
       "triggers": [
@@ -25968,7 +25969,7 @@
         "demand": 2.96
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.30687148999789",
+      "legacy_multifactor": "43.95825086694746",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -26011,7 +26012,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.229028579260124",
+      "legacy_multifactor": "60.394084148666906",
       "coil_sequence": "6.618458591995267",
       "reasons": [],
       "triggers": [],
@@ -26053,7 +26054,7 @@
         "demand": 18.93
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "43.058468649324965",
+      "legacy_multifactor": "57.042573552889465",
       "coil_sequence": "6.972667793693339",
       "reasons": [],
       "triggers": [
@@ -26101,7 +26102,7 @@
         "demand": 10.79
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.73051535239018",
+      "legacy_multifactor": "54.11785909427335",
       "coil_sequence": "15.97298296998595",
       "reasons": [],
       "triggers": [
@@ -26148,7 +26149,7 @@
         "demand": 23.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.68848022007143",
+      "legacy_multifactor": "45.40950407717001",
       "coil_sequence": "25.98988401269997",
       "reasons": [],
       "triggers": [
@@ -26195,7 +26196,7 @@
         "demand": 8.83
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.68452039336931",
+      "legacy_multifactor": "51.645600691518986",
       "coil_sequence": "20.610739427918254",
       "reasons": [],
       "triggers": [
@@ -26242,7 +26243,7 @@
         "demand": 17.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.464743946046426",
+      "legacy_multifactor": "47.03082690246431",
       "coil_sequence": "28.621820330984768",
       "reasons": [],
       "triggers": [
@@ -26290,7 +26291,7 @@
         "demand": 17.96
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.39070496624543",
+      "legacy_multifactor": "52.256787176595424",
       "coil_sequence": "14.143288228547208",
       "reasons": [],
       "triggers": [
@@ -26337,7 +26338,7 @@
         "demand": 13.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.12132698759374",
+      "legacy_multifactor": "21.833403143469816",
       "coil_sequence": "18.661897011645635",
       "reasons": [],
       "triggers": [
@@ -26384,7 +26385,7 @@
         "demand": 0.15
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "42.098746145963396",
+      "legacy_multifactor": "50.51817038481777",
       "coil_sequence": "2.4367745196043806",
       "reasons": [],
       "triggers": [
@@ -26433,7 +26434,7 @@
         "demand": 12.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.80822469235472",
+      "legacy_multifactor": "37.566335474178445",
       "coil_sequence": "29.360584521143593",
       "reasons": [],
       "triggers": [
@@ -26480,7 +26481,7 @@
         "demand": 0.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.742579605120326",
+      "legacy_multifactor": "31.255832282684437",
       "coil_sequence": "10.990369469933421",
       "reasons": [],
       "triggers": [
@@ -26528,7 +26529,7 @@
         "demand": 8.77
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.720533729238994",
+      "legacy_multifactor": "41.96216529780645",
       "coil_sequence": "16.32627929259008",
       "reasons": [],
       "triggers": [
@@ -26575,7 +26576,7 @@
         "demand": 5.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.669479974629205",
+      "legacy_multifactor": "45.702771305251275",
       "coil_sequence": "25.066809803470683",
       "reasons": [],
       "triggers": [
@@ -26622,7 +26623,7 @@
         "demand": 14.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.59458990923957",
+      "legacy_multifactor": "45.993303336234625",
       "coil_sequence": "32.88061480732205",
       "reasons": [],
       "triggers": [
@@ -26670,7 +26671,7 @@
         "demand": 4.35
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.471975067270996",
+      "legacy_multifactor": "37.21898442020367",
       "coil_sequence": "5.4415659979624404",
       "reasons": [],
       "triggers": [
@@ -26718,7 +26719,7 @@
         "demand": 13.0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.375492322847194",
+      "legacy_multifactor": "49.578047448188066",
       "coil_sequence": "18.17009712581156",
       "reasons": [],
       "triggers": [
@@ -26766,7 +26767,7 @@
         "demand": 8.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.343131241626594",
+      "legacy_multifactor": "43.87570235267005",
       "coil_sequence": "28.27149601395199",
       "reasons": [],
       "triggers": [
@@ -26813,7 +26814,7 @@
         "demand": 6.37
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.28172303344605",
+      "legacy_multifactor": "48.99012007246944",
       "coil_sequence": "9.32009684986877",
       "reasons": [],
       "triggers": [
@@ -26860,7 +26861,7 @@
         "demand": 9.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "41.118987818874594",
+      "legacy_multifactor": "43.31813017680549",
       "coil_sequence": "11.59025373598832",
       "reasons": [],
       "triggers": [
@@ -26906,7 +26907,7 @@
         "demand": 13.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.88007878191683",
+      "legacy_multifactor": "27.394337525106614",
       "coil_sequence": "24.160535306166395",
       "reasons": [],
       "triggers": [
@@ -26953,7 +26954,7 @@
         "demand": 11.08
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.7414390519309",
+      "legacy_multifactor": "49.400627032691155",
       "coil_sequence": "10.290633573241855",
       "reasons": [],
       "triggers": [
@@ -27000,7 +27001,7 @@
         "demand": 1.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.58533231167198",
+      "legacy_multifactor": "43.816696504919335",
       "coil_sequence": "16.757866020636687",
       "reasons": [],
       "triggers": [
@@ -27048,7 +27049,7 @@
         "demand": 6.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.55151241698781",
+      "legacy_multifactor": "37.05100605170099",
       "coil_sequence": "28.887553525899904",
       "reasons": [],
       "triggers": [
@@ -27097,7 +27098,7 @@
         "demand": 1.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.31644386145861",
+      "legacy_multifactor": "36.77307179470357",
       "coil_sequence": "25.7631698378542",
       "reasons": [],
       "triggers": [
@@ -27145,7 +27146,7 @@
         "demand": 13.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.212447401185955",
+      "legacy_multifactor": "33.92996255808356",
       "coil_sequence": "21.023231392352812",
       "reasons": [],
       "triggers": [
@@ -27192,7 +27193,7 @@
         "demand": 8.78
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "40.065261702806254",
+      "legacy_multifactor": "38.80939212346422",
       "coil_sequence": "19.439824198769998",
       "reasons": [],
       "triggers": [
@@ -27238,7 +27239,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "39.97504250469664",
+      "legacy_multifactor": null,
       "coil_sequence": "24.442697161770305",
       "reasons": [],
       "triggers": [
@@ -27287,7 +27288,7 @@
         "demand": 0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "39.91626290705585",
+      "legacy_multifactor": "33.07542851715555",
       "coil_sequence": "10.547982551799345",
       "reasons": [],
       "triggers": [
@@ -27336,7 +27337,7 @@
         "demand": 2.91
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "39.83457100659435",
+      "legacy_multifactor": "38.22481690187973",
       "coil_sequence": "21.138300771679056",
       "reasons": [],
       "triggers": [
@@ -27383,7 +27384,7 @@
         "demand": 11.68
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "39.36942659324385",
+      "legacy_multifactor": "37.01511918177356",
       "coil_sequence": "2.8667893829917173",
       "reasons": [],
       "triggers": [
@@ -27430,7 +27431,7 @@
         "demand": 10.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "39.08132541740514",
+      "legacy_multifactor": "36.424964682401736",
       "coil_sequence": "16.250415116759175",
       "reasons": [],
       "triggers": [
@@ -27477,7 +27478,7 @@
         "demand": 13.95
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "38.312544132990006",
+      "legacy_multifactor": "33.28386033380662",
       "coil_sequence": "3.9907889933454213",
       "reasons": [],
       "triggers": [
@@ -27524,7 +27525,7 @@
         "demand": 12.39
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "38.14596270015881",
+      "legacy_multifactor": "34.117563061538945",
       "coil_sequence": "34.607722713683",
       "reasons": [],
       "triggers": [
@@ -27571,7 +27572,7 @@
         "demand": 11.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "37.927916753800496",
+      "legacy_multifactor": "33.714496828866004",
       "coil_sequence": "16.943431400482172",
       "reasons": [],
       "triggers": [
@@ -27618,7 +27619,7 @@
         "demand": 12.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "37.8174296804457",
+      "legacy_multifactor": "22.451732288261034",
       "coil_sequence": "3.645435545200698",
       "reasons": [],
       "triggers": [
@@ -27665,7 +27666,7 @@
         "demand": 7.72
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "37.698591324152964",
+      "legacy_multifactor": "38.906965816269974",
       "coil_sequence": "4.804364314733768",
       "reasons": [],
       "triggers": [
@@ -27712,7 +27713,7 @@
         "demand": 0.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "37.64213616651875",
+      "legacy_multifactor": "34.12485516644813",
       "coil_sequence": "37.576837423975135",
       "reasons": [],
       "triggers": [
@@ -27761,7 +27762,7 @@
         "demand": 8.86
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "37.63204734811025",
+      "legacy_multifactor": null,
       "coil_sequence": "30.484593156072826",
       "reasons": [],
       "triggers": [
@@ -27808,7 +27809,7 @@
         "demand": 11.48
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "37.53285726237776",
+      "legacy_multifactor": "24.49636909549241",
       "coil_sequence": "29.37355515634504",
       "reasons": [],
       "triggers": [
@@ -27855,7 +27856,7 @@
         "demand": 12.19
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "36.61753399377478",
+      "legacy_multifactor": "38.10162776792282",
       "coil_sequence": "0.3385979364561642",
       "reasons": [],
       "triggers": [
@@ -27903,7 +27904,7 @@
         "demand": 15.1
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "36.48330956656076",
+      "legacy_multifactor": "40.37655578422859",
       "coil_sequence": "8.930477551798832",
       "reasons": [],
       "triggers": [
@@ -27950,7 +27951,7 @@
         "demand": 11.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "36.28580138714555",
+      "legacy_multifactor": "32.55105681846439",
       "coil_sequence": "11.426714222250382",
       "reasons": [],
       "triggers": [
@@ -27997,7 +27998,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "36.25577867211311",
+      "legacy_multifactor": "26.141808085080676",
       "coil_sequence": "34.18799742360101",
       "reasons": [],
       "triggers": [
@@ -28044,7 +28045,7 @@
         "demand": 10.83
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "36.02804205792646",
+      "legacy_multifactor": "23.060070883676374",
       "coil_sequence": "17.342743772165598",
       "reasons": [],
       "triggers": [
@@ -28092,7 +28093,7 @@
         "demand": 12.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "35.84247041698098",
+      "legacy_multifactor": "56.37387121273624",
       "coil_sequence": "19.847674166254798",
       "reasons": [],
       "triggers": [
@@ -28139,7 +28140,7 @@
         "demand": 3.98
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "35.59382434951463",
+      "legacy_multifactor": "41.33286286717848",
       "coil_sequence": "17.988700054107774",
       "reasons": [],
       "triggers": [
@@ -28186,7 +28187,7 @@
         "demand": 4.18
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "35.535346950923156",
+      "legacy_multifactor": "41.269797468120714",
       "coil_sequence": "13.349800194776911",
       "reasons": [],
       "triggers": [
@@ -28233,7 +28234,7 @@
         "demand": 10.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "35.21726196110892",
+      "legacy_multifactor": null,
       "coil_sequence": "14.700273766121386",
       "reasons": [],
       "triggers": [
@@ -28281,7 +28282,7 @@
         "demand": 12.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "35.00485449865883",
+      "legacy_multifactor": "35.74026814705712",
       "coil_sequence": "9.69311883613399",
       "reasons": [],
       "triggers": [
@@ -28329,7 +28330,7 @@
         "demand": 6.13
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "34.6311981196908",
+      "legacy_multifactor": "41.90872310385731",
       "coil_sequence": "11.932071100785755",
       "reasons": [],
       "triggers": [
@@ -28376,7 +28377,7 @@
         "demand": 1.5
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "34.58973817011675",
+      "legacy_multifactor": null,
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -28426,7 +28427,7 @@
         "demand": 9.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "34.56618465054697",
+      "legacy_multifactor": "40.65357920015785",
       "coil_sequence": "9.880024515193199",
       "reasons": [],
       "triggers": [
@@ -28473,7 +28474,7 @@
         "demand": 7.98
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "34.428007473017686",
+      "legacy_multifactor": "30.534806292739177",
       "coil_sequence": "23.836231207948813",
       "reasons": [],
       "triggers": [
@@ -28520,7 +28521,7 @@
         "demand": 11.37
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "34.101985171195146",
+      "legacy_multifactor": "43.35141128071992",
       "coil_sequence": "19.45518197551852",
       "reasons": [],
       "triggers": [
@@ -28567,7 +28568,7 @@
         "demand": 1.8
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "33.93310217270391",
+      "legacy_multifactor": "29.770648056266992",
       "coil_sequence": "15.992921758536475",
       "reasons": [],
       "triggers": [
@@ -28616,7 +28617,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "33.513402393350724",
+      "legacy_multifactor": "32.58317931478062",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -28663,7 +28664,7 @@
         "demand": 25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "32.99599193819055",
+      "legacy_multifactor": "53.59859974270395",
       "coil_sequence": "9.712480783340201",
       "reasons": [],
       "triggers": [
@@ -28711,7 +28712,7 @@
         "demand": 12.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "32.89098448030605",
+      "legacy_multifactor": "29.618399934550027",
       "coil_sequence": "22.736880479996195",
       "reasons": [],
       "triggers": [
@@ -28759,7 +28760,7 @@
         "demand": 0.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "31.06080936232278",
+      "legacy_multifactor": "34.39556118767156",
       "coil_sequence": "38.082553324139504",
       "reasons": [],
       "triggers": [
@@ -28807,7 +28808,7 @@
         "demand": 5.99
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "30.025714036249717",
+      "legacy_multifactor": "26.491248846060685",
       "coil_sequence": "30.183453903870372",
       "reasons": [],
       "triggers": [
@@ -28855,7 +28856,7 @@
         "demand": 6.63
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "29.956171356815922",
+      "legacy_multifactor": "30.27493068280331",
       "coil_sequence": "22.965657064746594",
       "reasons": [],
       "triggers": [
@@ -28903,7 +28904,7 @@
         "demand": 14.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "29.876859053406697",
+      "legacy_multifactor": "56.006909170825594",
       "coil_sequence": "17.01695814219206",
       "reasons": [],
       "triggers": [
@@ -28950,7 +28951,7 @@
         "demand": 11.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "29.365518639380802",
+      "legacy_multifactor": "33.77175234948377",
       "coil_sequence": "27.309063924543935",
       "reasons": [],
       "triggers": [
@@ -28998,7 +28999,7 @@
         "demand": 8.18
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "29.31488910874325",
+      "legacy_multifactor": "51.26511251210795",
       "coil_sequence": "18.5707773977227",
       "reasons": [],
       "triggers": [
@@ -29045,7 +29046,7 @@
         "demand": 2.93
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "28.706397173657166",
+      "legacy_multifactor": null,
       "coil_sequence": "24.380832062831928",
       "reasons": [],
       "triggers": [
@@ -29093,7 +29094,7 @@
         "demand": 13.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "27.217775255669164",
+      "legacy_multifactor": "40.26067290121716",
       "coil_sequence": "30.33367080147439",
       "reasons": [],
       "triggers": [
@@ -29140,7 +29141,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "27.15218116909267",
+      "legacy_multifactor": null,
       "coil_sequence": "19.86116886985135",
       "reasons": [],
       "triggers": [
@@ -29189,7 +29190,7 @@
         "demand": 14.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "27.06345934860463",
+      "legacy_multifactor": "42.65039999965424",
       "coil_sequence": "2.019628432504291",
       "reasons": [],
       "triggers": [
@@ -29235,7 +29236,7 @@
         "demand": 0
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "25.37785811401332",
+      "legacy_multifactor": "22.863393743450942",
       "coil_sequence": "19.704616036137775",
       "reasons": [],
       "triggers": [
@@ -29283,7 +29284,7 @@
         "demand": 5.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "25.230562185424766",
+      "legacy_multifactor": "32.539814384029256",
       "coil_sequence": "8.920657657942058",
       "reasons": [],
       "triggers": [
@@ -29326,7 +29327,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "25.04440000101034",
+      "legacy_multifactor": "38.755138638139506",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [],
@@ -29370,7 +29371,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "24.962068029173683",
+      "legacy_multifactor": null,
       "coil_sequence": "5.196102479844367",
       "reasons": [],
       "triggers": [
@@ -29419,7 +29420,7 @@
         "demand": 1.5
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "24.709066955541857",
+      "legacy_multifactor": null,
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -29468,7 +29469,7 @@
         "demand": 2.25
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "24.575048399214573",
+      "legacy_multifactor": "24.944026102303887",
       "coil_sequence": "24.89669730392372",
       "reasons": [],
       "triggers": [
@@ -29517,7 +29518,7 @@
         "demand": 1.35
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "24.420239925567486",
+      "legacy_multifactor": "26.417977578874044",
       "coil_sequence": "36.40966797071604",
       "reasons": [],
       "triggers": [
@@ -29566,7 +29567,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "24.012167112711353",
+      "legacy_multifactor": "22.962706028842845",
       "coil_sequence": "4.2268034804546915",
       "reasons": [],
       "triggers": [
@@ -29610,7 +29611,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "23.654911285778",
+      "legacy_multifactor": "20.966671211948263",
       "coil_sequence": "10.492140324977159",
       "reasons": [],
       "triggers": [],
@@ -29654,7 +29655,7 @@
         "demand": 0.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "23.62677492488296",
+      "legacy_multifactor": null,
       "coil_sequence": "7.242052702626811",
       "reasons": [],
       "triggers": [
@@ -29703,7 +29704,7 @@
         "demand": 14.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "23.20399072941681",
+      "legacy_multifactor": null,
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -29751,7 +29752,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "23.109075724252946",
+      "legacy_multifactor": null,
       "coil_sequence": "26.621445458432916",
       "reasons": [],
       "triggers": [
@@ -29801,7 +29802,7 @@
         "demand": 3.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "23.07440839331087",
+      "legacy_multifactor": "20.081993737038516",
       "coil_sequence": "6.800783263770491",
       "reasons": [],
       "triggers": [
@@ -29850,7 +29851,7 @@
         "demand": 15.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "22.87831327324325",
+      "legacy_multifactor": "20.246675737522423",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [
@@ -29898,7 +29899,7 @@
         "demand": 5.85
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "22.054622392745962",
+      "legacy_multifactor": "24.73749416695523",
       "coil_sequence": "9.660849545347453",
       "reasons": [],
       "triggers": [
@@ -29945,7 +29946,7 @@
         "demand": 14.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "21.592190058084157",
+      "legacy_multifactor": "19.774577171672895",
       "coil_sequence": "6.9184050658137295",
       "reasons": [],
       "triggers": [
@@ -29993,7 +29994,7 @@
         "demand": 6.79
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "20.188684059019373",
+      "legacy_multifactor": "27.812605177280403",
       "coil_sequence": "38.248337578038225",
       "reasons": [],
       "triggers": [
@@ -30041,7 +30042,7 @@
         "demand": 5.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "20.042525673023547",
+      "legacy_multifactor": "18.879035386162876",
       "coil_sequence": "8.944136288986979",
       "reasons": [],
       "triggers": [
@@ -30089,7 +30090,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "19.263162355812696",
+      "legacy_multifactor": null,
       "coil_sequence": "10.122687915171575",
       "reasons": [],
       "triggers": [
@@ -30139,7 +30140,7 @@
         "demand": 4.95
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "18.379574098400823",
+      "legacy_multifactor": "26.91572002178374",
       "coil_sequence": "15.422445958481033",
       "reasons": [],
       "triggers": [
@@ -30189,7 +30190,7 @@
         "demand": 11.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "17.674252847674026",
+      "legacy_multifactor": "42.51140371178907",
       "coil_sequence": "13.381061221602977",
       "reasons": [],
       "triggers": [
@@ -30236,7 +30237,7 @@
         "demand": 12.7
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "17.373762278896486",
+      "legacy_multifactor": "33.15567888721749",
       "coil_sequence": "17.57980470045988",
       "reasons": [],
       "triggers": [
@@ -30283,7 +30284,7 @@
         "demand": 2.1
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": "14.768246750808544",
+      "legacy_multifactor": null,
       "coil_sequence": "4.136427382954361",
       "reasons": [],
       "triggers": [
@@ -30333,7 +30334,7 @@
         "demand": 11.8
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "13.920508491445428",
+      "legacy_multifactor": "18.992939150170635",
       "coil_sequence": "8.93349736847584",
       "reasons": [],
       "triggers": [
@@ -30381,7 +30382,7 @@
         "demand": 0.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "13.822397553720165",
+      "legacy_multifactor": null,
       "coil_sequence": "19.398112718253433",
       "reasons": [],
       "triggers": [
@@ -30430,7 +30431,7 @@
         "demand": 0.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": "11.284562111055426",
+      "legacy_multifactor": null,
       "coil_sequence": "5.993866803843691",
       "reasons": [],
       "triggers": [
@@ -30474,7 +30475,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "2.0892758376085894",
+      "legacy_multifactor": "9.718120719096795",
       "coil_sequence": "0.0",
       "reasons": [],
       "triggers": [],
@@ -30652,7 +30653,7 @@
         "demand": 6.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "63.762103784231385",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -31121,7 +31122,7 @@
         "demand": 10.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "45.08290903010978",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -31552,7 +31553,7 @@
         "demand": 0.6
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "37.89021535150156",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -31733,7 +31734,7 @@
         "demand": 0.9
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "38.88711720677255",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -31831,7 +31832,7 @@
         "demand": 11.05
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "51.91157419907791",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -32417,7 +32418,7 @@
         "demand": 0.15
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "47.61271698164137",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -32514,7 +32515,7 @@
         "demand": 0.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "25.93191430115585",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -32660,7 +32661,7 @@
         "demand": 5.3
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "4.109443316823331",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -32756,7 +32757,7 @@
         "demand": 4.31
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "42.19179351301012",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -32803,7 +32804,7 @@
         "demand": 10.45
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "20.1119471436103",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -33094,7 +33095,7 @@
         "demand": 0.75
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "24.875591398077653",
       "coil_sequence": "25.758229987172587",
       "reasons": [],
       "triggers": [
@@ -33239,7 +33240,7 @@
         "demand": 15.4
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "33.935894238498875",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -33709,7 +33710,7 @@
         "demand": 3.32
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "36.98483962704976",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -33794,7 +33795,7 @@
         "demand": 0
       },
       "entry_observed_max": 90,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "22.982081860680175",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -33843,7 +33844,7 @@
         "demand": 5.11
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "42.127067828846315",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -34921,7 +34922,7 @@
         "demand": 1.65
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "30.004713410603607",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -34969,7 +34970,7 @@
         "demand": 11.2
       },
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "37.742147336326646",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [
@@ -37752,7 +37753,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "59.24967527607418",
+      "legacy_multifactor": "52.8800979702202",
       "coil_sequence": "30.87721954706315",
       "reasons": [],
       "triggers": [],
@@ -37791,7 +37792,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "53.32132027441175",
+      "legacy_multifactor": "44.61924763178365",
       "coil_sequence": "4.628716514571682",
       "reasons": [],
       "triggers": [],
@@ -37830,7 +37831,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "46.681216061727085",
+      "legacy_multifactor": "46.55320246737117",
       "coil_sequence": "10.762117521769472",
       "reasons": [],
       "triggers": [],
@@ -37869,7 +37870,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "42.41398555656105",
+      "legacy_multifactor": "37.44263325507012",
       "coil_sequence": "31.82539032407316",
       "reasons": [],
       "triggers": [],
@@ -37908,7 +37909,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "39.15796403346412",
+      "legacy_multifactor": "48.763595229858325",
       "coil_sequence": "8.294057258399402",
       "reasons": [],
       "triggers": [],
@@ -37947,7 +37948,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "38.568245512811686",
+      "legacy_multifactor": "43.94299439793452",
       "coil_sequence": "18.846052921495733",
       "reasons": [],
       "triggers": [],
@@ -37986,7 +37987,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "35.553735553297685",
+      "legacy_multifactor": "19.041128557561798",
       "coil_sequence": "16.62681022800875",
       "reasons": [],
       "triggers": [],
@@ -38025,7 +38026,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "34.56176861336319",
+      "legacy_multifactor": "30.967375802539344",
       "coil_sequence": "34.810643365231776",
       "reasons": [],
       "triggers": [],
@@ -38064,7 +38065,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": "28.395309878602973",
+      "legacy_multifactor": "55.68335608501263",
       "coil_sequence": "12.363097070200403",
       "reasons": [],
       "triggers": [],
@@ -38181,7 +38182,7 @@
       "potential_components": {},
       "entry_components": {},
       "entry_observed_max": 100,
-      "legacy_multifactor": null,
+      "legacy_multifactor": "19.16300574559462",
       "coil_sequence": null,
       "reasons": [],
       "triggers": [],
