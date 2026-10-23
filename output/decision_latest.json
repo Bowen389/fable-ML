@@ -2,17 +2,17 @@
   "pipeline": {
     "ready": true,
     "reasons": [],
-    "checked_at": "2026-10-23T12:42:45.870552+08:00",
+    "checked_at": "2026-10-23T12:56:19.866567+08:00",
     "expected_quote_after": "2026-10-23T09:17:00+08:00",
     "quote_generated_at": "2026-10-23T11:47:01.843686+08:00",
     "expected_daily_asof": "2026-10-22",
     "coil_asof": "2026-10-22",
     "upstream_sha": "30278082f290a247644a1388e42de53c71646d2e",
-    "fable_sha": "d17e59c3c40c155b0dea8f51587df19409272556",
+    "fable_sha": "82be5c427de112f3e534b17d94d90766bf5b5803",
     "quote_run_id": "39895727214"
   },
   "version": "decision-v1",
-  "generated_at": "2026-10-23T12:42:53.948952+08:00",
+  "generated_at": "2026-10-23T12:56:28.409602+08:00",
   "asof": "2026-10-22",
   "status": "research_only",
   "data_status": "available",
@@ -71,7 +71,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "64.78560403202383",
-      "coil_sequence": "58.855452994771696",
+      "coil_sequence": "58.85545299477171",
       "reasons": [
         "前期参与代理 24.8分",
         "量价台阶 14.1分",
@@ -245,7 +245,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "72.70862139231018",
-      "coil_sequence": "50.604295661482844",
+      "coil_sequence": "50.60429566148284",
       "reasons": [
         "前期参与代理 20.6分",
         "量价台阶 10.5分",
@@ -478,7 +478,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "72.70862139231018",
-      "coil_sequence": "50.604295661482844",
+      "coil_sequence": "50.60429566148284",
       "reasons": [
         "前期参与代理 20.6分",
         "量价台阶 10.5分",
@@ -1158,7 +1158,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "65.77363354646575",
-      "coil_sequence": "35.40501689804059",
+      "coil_sequence": "35.405016898040586",
       "reasons": [
         "前期参与代理 29.2分",
         "风险质量 9.3分",
@@ -1480,7 +1480,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "64.92258710713837",
-      "coil_sequence": "31.855141588594453",
+      "coil_sequence": "31.855141588594456",
       "reasons": [
         "前期参与代理 10.6分",
         "风险质量 10.0分",
@@ -1596,7 +1596,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "64.78560403202383",
-      "coil_sequence": "58.855452994771696",
+      "coil_sequence": "58.85545299477171",
       "reasons": [
         "前期参与代理 24.8分",
         "量价台阶 14.1分",
@@ -1770,7 +1770,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "64.44270100717156",
-      "coil_sequence": "39.68503314879163",
+      "coil_sequence": "39.685033148791625",
       "reasons": [
         "前期参与代理 15.1分",
         "持续放量 10.5分",
@@ -1990,7 +1990,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "63.762103784231385",
-      "coil_sequence": "19.896026547345357",
+      "coil_sequence": "19.89602654734535",
       "reasons": [
         "相对强度 9.9分",
         "风险质量 9.8分",
@@ -2642,7 +2642,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "62.82676551695591",
-      "coil_sequence": "24.255794472717",
+      "coil_sequence": "24.255794472717007",
       "reasons": [
         "风险质量 9.4分",
         "相对强度 6.5分",
@@ -4275,7 +4275,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "60.5909351880219",
-      "coil_sequence": "33.609746901365185",
+      "coil_sequence": "33.60974690136519",
       "reasons": [
         "前期参与代理 10.5分",
         "风险质量 10.0分",
@@ -4389,7 +4389,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "60.51761905187662",
-      "coil_sequence": "29.61917709121557",
+      "coil_sequence": "29.619177091215565",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 8.7分",
@@ -4658,7 +4658,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "60.354663373263826",
-      "coil_sequence": "16.949072299770243",
+      "coil_sequence": "16.949072299770247",
       "reasons": [
         "相对强度 7.9分",
         "风险质量 6.7分",
@@ -5123,7 +5123,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "60.01889720893539",
-      "coil_sequence": "22.95994981482474",
+      "coil_sequence": "22.959949814824736",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 7.7分",
@@ -5443,7 +5443,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "59.756759342289264",
-      "coil_sequence": "26.045878090772142",
+      "coil_sequence": "26.04587809077215",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 8.4分",
@@ -5942,7 +5942,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "59.3366569106126",
-      "coil_sequence": "25.123428679984862",
+      "coil_sequence": "25.12342867998486",
       "reasons": [
         "风险质量 10.0分",
         "相对强度 9.7分",
@@ -5999,7 +5999,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "59.286798001742426",
-      "coil_sequence": "16.146348830451338",
+      "coil_sequence": "16.146348830451345",
       "reasons": [
         "相对强度 8.7分",
         "风险质量 6.7分",
@@ -7594,7 +7594,7 @@
       "entry_components": {},
       "entry_observed_max": 100,
       "legacy_multifactor": "58.10356313282236",
-      "coil_sequence": "24.50120112915715",
+      "coil_sequence": "24.501201129157153",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 9.7分",
@@ -7648,7 +7648,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "58.09360438501267",
-      "coil_sequence": "30.255567427790538",
+      "coil_sequence": "30.25556742779054",
       "reasons": [
         "前期参与代理 11.1分",
         "风险质量 10.0分",
@@ -9335,7 +9335,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "56.99507301886177",
-      "coil_sequence": "23.49549406065719",
+      "coil_sequence": "23.495494060657187",
       "reasons": [
         "前期参与代理 15.1分",
         "风险质量 10.0分",
@@ -9941,7 +9941,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "56.292497681498844",
-      "coil_sequence": "14.073869175888674",
+      "coil_sequence": "14.073869175888671",
       "reasons": [
         "相对强度 10.0分",
         "风险质量 8.8分",
@@ -10094,7 +10094,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "56.197517298196665",
-      "coil_sequence": "19.663099779906968",
+      "coil_sequence": "19.663099779906965",
       "reasons": [
         "前期参与代理 10.4分",
         "风险质量 8.0分",
@@ -10208,7 +10208,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "56.147632267101145",
-      "coil_sequence": "19.141422236817217",
+      "coil_sequence": "19.14142223681722",
       "reasons": [
         "风险质量 8.8分",
         "前期参与代理 6.9分",
@@ -10609,7 +10609,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "56.01427017877876",
-      "coil_sequence": "28.41704941221083",
+      "coil_sequence": "28.417049412210826",
       "reasons": [
         "风险质量 9.8分",
         "前期参与代理 7.9分",
@@ -11968,7 +11968,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "55.300578156251724",
-      "coil_sequence": "18.037952193763637",
+      "coil_sequence": "18.037952193763633",
       "reasons": [
         "前期参与代理 12.9分",
         "相对强度 8.5分",
@@ -12788,7 +12788,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "54.965291135517255",
-      "coil_sequence": "22.916587770045986",
+      "coil_sequence": "22.91658777004598",
       "reasons": [
         "前期参与代理 11.7分",
         "风险质量 6.7分",
@@ -12846,7 +12846,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "54.90200491962231",
-      "coil_sequence": "25.10189041983148",
+      "coil_sequence": "25.101890419831477",
       "reasons": [
         "前期参与代理 12.0分",
         "相对强度 9.3分",
@@ -13395,7 +13395,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "54.554138487986634",
-      "coil_sequence": "12.827774474295161",
+      "coil_sequence": "12.827774474295163",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 8.8分",
@@ -13509,7 +13509,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "54.5320295254337",
-      "coil_sequence": "12.585593914798881",
+      "coil_sequence": "12.585593914798878",
       "reasons": [
         "前期参与代理 8.7分",
         "风险质量 6.8分",
@@ -13794,7 +13794,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "54.35878843299472",
-      "coil_sequence": "14.017522765904086",
+      "coil_sequence": "14.01752276590409",
       "reasons": [
         "相对强度 8.6分",
         "风险质量 6.7分",
@@ -13889,7 +13889,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "54.324291573495714",
-      "coil_sequence": "13.215794114795127",
+      "coil_sequence": "13.215794114795123",
       "reasons": [],
       "triggers": [
         "挂牌价在67.0至80.34区间并止跌确认",
@@ -14434,7 +14434,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "53.92806044443768",
-      "coil_sequence": "10.16985866463223",
+      "coil_sequence": "10.169858664632233",
       "reasons": [],
       "triggers": [
         "挂牌价在63.89至67.89区间并止跌确认",
@@ -15386,7 +15386,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "53.62789661824288",
-      "coil_sequence": "21.3928450355861",
+      "coil_sequence": "21.392845035586102",
       "reasons": [
         "前期参与代理 12.0分",
         "风险质量 7.2分",
@@ -15442,7 +15442,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "53.611930834229746",
-      "coil_sequence": "21.86180764134856",
+      "coil_sequence": "21.861807641348562",
       "reasons": [
         "前期参与代理 9.9分",
         "洗盘代理 8.7分",
@@ -16354,7 +16354,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "53.17003698361663",
-      "coil_sequence": "9.884182328702327",
+      "coil_sequence": "9.884182328702323",
       "reasons": [
         "前期参与代理 7.0分",
         "风险质量 6.7分",
@@ -17175,7 +17175,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "52.55939164832512",
-      "coil_sequence": "38.99713890360692",
+      "coil_sequence": "38.997138903606924",
       "reasons": [
         "前期参与代理 29.8分",
         "量价台阶 11.0分",
@@ -17232,7 +17232,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "52.55174446877048",
-      "coil_sequence": "29.778690455570842",
+      "coil_sequence": "29.778690455570846",
       "reasons": [
         "前期参与代理 13.8分",
         "风险质量 10.0分",
@@ -17609,7 +17609,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "52.41716765905164",
-      "coil_sequence": "29.807738342159873",
+      "coil_sequence": "29.80773834215987",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 9.4分",
@@ -17883,7 +17883,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "52.256787176595424",
-      "coil_sequence": "15.32771783794212",
+      "coil_sequence": "15.327717837942124",
       "reasons": [
         "相对强度 10.0分",
         "前期参与代理 9.5分",
@@ -18263,7 +18263,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "51.91157419907791",
-      "coil_sequence": "23.41778649276146",
+      "coil_sequence": "23.417786492761458",
       "reasons": [
         "前期参与代理 14.1分",
         "风险质量 10.0分",
@@ -18653,7 +18653,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "51.645600691518986",
-      "coil_sequence": "26.350786339607865",
+      "coil_sequence": "26.350786339607858",
       "reasons": [
         "前期参与代理 14.5分",
         "洗盘代理 9.1分",
@@ -19398,7 +19398,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "51.06226711354491",
-      "coil_sequence": "20.421345949409844",
+      "coil_sequence": "20.42134594940984",
       "reasons": [
         "前期参与代理 8.2分",
         "洗盘代理 7.1分",
@@ -19455,7 +19455,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "50.99384578076328",
-      "coil_sequence": "7.342306970570529",
+      "coil_sequence": "7.34230697057053",
       "reasons": [
         "风险质量 7.9分",
         "相对强度 4.2分",
@@ -20237,7 +20237,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "50.520451211832906",
-      "coil_sequence": "14.606172342299484",
+      "coil_sequence": "14.606172342299487",
       "reasons": [
         "洗盘代理 6.8分",
         "风险质量 6.7分",
@@ -20801,7 +20801,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "50.29242710618328",
-      "coil_sequence": "13.556630917962867",
+      "coil_sequence": "13.556630917962863",
       "reasons": [
         "前期参与代理 21.3分",
         "相对强度 6.8分",
@@ -21535,7 +21535,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "49.70537526624029",
-      "coil_sequence": "13.043170665745325",
+      "coil_sequence": "13.043170665745329",
       "reasons": [
         "持续放量 6.9分",
         "风险质量 6.7分",
@@ -22560,7 +22560,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "49.10905588265722",
-      "coil_sequence": "20.651296882517066",
+      "coil_sequence": "20.65129688251706",
       "reasons": [
         "前期参与代理 24.3分",
         "风险质量 6.7分",
@@ -22676,7 +22676,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "49.09711526152188",
-      "coil_sequence": "28.03233754468157",
+      "coil_sequence": "28.032337544681575",
       "reasons": [
         "持续放量 14.1分",
         "相对强度 10.0分",
@@ -23364,7 +23364,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "48.646199832847245",
-      "coil_sequence": "13.20243674536858",
+      "coil_sequence": "13.202436745368576",
       "reasons": [
         "前期参与代理 13.1分",
         "风险质量 6.7分",
@@ -23415,7 +23415,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "48.57000425738168",
-      "coil_sequence": "15.83273608200071",
+      "coil_sequence": "15.832736082000707",
       "reasons": [],
       "triggers": [
         "挂牌价在50.89至55.35区间并止跌确认",
@@ -24277,7 +24277,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "47.77271814403255",
-      "coil_sequence": "15.343608675718638",
+      "coil_sequence": "15.343608675718635",
       "reasons": [
         "前期参与代理 9.3分",
         "风险质量 6.7分",
@@ -24392,7 +24392,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "47.61271698164137",
-      "coil_sequence": "24.351561135092844",
+      "coil_sequence": "24.35156113509285",
       "reasons": [
         "前期参与代理 10.0分",
         "洗盘代理 9.8分",
@@ -24567,7 +24567,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "47.536961258607086",
-      "coil_sequence": "12.473647252253858",
+      "coil_sequence": "12.473647252253855",
       "reasons": [
         "洗盘代理 7.0分",
         "风险质量 6.7分",
@@ -25725,7 +25725,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "46.646753125799115",
-      "coil_sequence": "16.93065029866747",
+      "coil_sequence": "16.930650298667466",
       "reasons": [
         "洗盘代理 9.5分",
         "风险质量 6.7分",
@@ -26059,7 +26059,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "46.37201767126263",
-      "coil_sequence": "10.545419393401097",
+      "coil_sequence": "10.545419393401101",
       "reasons": [
         "前期参与代理 12.2分",
         "风险质量 5.5分",
@@ -27284,7 +27284,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "45.32377698452261",
-      "coil_sequence": "31.26408091699439",
+      "coil_sequence": "31.2640809169944",
       "reasons": [
         "前期参与代理 15.6分",
         "风险质量 9.3分",
@@ -27515,7 +27515,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "45.109833549973345",
-      "coil_sequence": "7.103812988255733",
+      "coil_sequence": "7.103812988255729",
       "reasons": [
         "持续放量 8.5分",
         "风险质量 6.7分",
@@ -28316,7 +28316,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "44.20376714033627",
-      "coil_sequence": "29.504711446454156",
+      "coil_sequence": "29.504711446454152",
       "reasons": [
         "前期参与代理 12.9分",
         "风险质量 9.2分",
@@ -28477,7 +28477,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "44.03583844041718",
-      "coil_sequence": "16.619850853849247",
+      "coil_sequence": "16.61985085384925",
       "reasons": [
         "前期参与代理 10.3分",
         "洗盘代理 7.9分",
@@ -28929,7 +28929,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "43.90208215567841",
-      "coil_sequence": "6.988167866027073",
+      "coil_sequence": "6.988167866027069",
       "reasons": [
         "风险质量 6.7分",
         "前期参与代理 4.5分",
@@ -29832,7 +29832,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "42.65039999965424",
-      "coil_sequence": "14.730836135469419",
+      "coil_sequence": "14.730836135469417",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 6.9分",
@@ -30173,7 +30173,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "42.127067828846315",
-      "coil_sequence": "5.005642815879724",
+      "coil_sequence": "5.005642815879725",
       "reasons": [
         "风险质量 9.0分",
         "前期参与代理 4.3分",
@@ -31243,7 +31243,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "40.118647924368744",
-      "coil_sequence": "19.65455301353768",
+      "coil_sequence": "19.654553013537683",
       "reasons": [
         "相对强度 10.0分",
         "风险质量 8.6分",
@@ -31854,7 +31854,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "38.88711720677255",
-      "coil_sequence": "20.355506971023367",
+      "coil_sequence": "20.35550697102336",
       "reasons": [
         "前期参与代理 24.0分",
         "相对强度 9.8分",
@@ -32018,7 +32018,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "38.22481690187973",
-      "coil_sequence": "18.52344533205772",
+      "coil_sequence": "18.523445332057722",
       "reasons": [
         "前期参与代理 8.7分",
         "风险质量 6.7分",
@@ -32688,7 +32688,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "37.01511918177356",
-      "coil_sequence": "4.2237271206475775",
+      "coil_sequence": "4.223727120647579",
       "reasons": [
         "风险质量 6.7分",
         "相对强度 4.1分",
@@ -33598,7 +33598,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "33.92996255808356",
-      "coil_sequence": "18.919687536265513",
+      "coil_sequence": "18.919687536265506",
       "reasons": [
         "前期参与代理 25.9分",
         "相对强度 9.5分",
@@ -35410,7 +35410,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": "22.863393743450942",
-      "coil_sequence": "28.49745037737774",
+      "coil_sequence": "28.49745037737773",
       "reasons": [],
       "triggers": [
         "挂牌价在59.75至64.93区间并止跌确认",
@@ -38122,7 +38122,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "13.680632727086213",
+      "coil_sequence": "13.68063272708621",
       "reasons": [],
       "triggers": [
         "挂牌价在46.49至53.04区间并止跌确认",
@@ -41157,7 +41157,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "28.47080471014728",
+      "coil_sequence": "28.470804710147277",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 6.9分",
@@ -41562,7 +41562,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "26.592862917377175",
+      "coil_sequence": "26.59286291737718",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 8.5分",
@@ -41735,7 +41735,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "22.4753437004966",
+      "coil_sequence": "22.475343700496598",
       "reasons": [
         "风险质量 10.0分",
         "相对强度 5.9分",
@@ -42249,7 +42249,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "28.16417879343806",
+      "coil_sequence": "28.164178793438058",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 8.8分",
@@ -42595,7 +42595,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "14.450288792561839",
+      "coil_sequence": "14.450288792561835",
       "reasons": [
         "风险质量 6.7分",
         "洗盘代理 6.6分",
@@ -42709,7 +42709,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "22.083267011553044",
+      "coil_sequence": "22.08326701155304",
       "reasons": [
         "风险质量 10.0分",
         "前期参与代理 7.4分",
@@ -42939,7 +42939,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "15.384468258142991",
+      "coil_sequence": "15.38446825814299",
       "reasons": [
         "风险质量 10.0分",
         "相对强度 4.9分",
@@ -43226,7 +43226,7 @@
       },
       "entry_observed_max": 100,
       "legacy_multifactor": null,
-      "coil_sequence": "10.018829466628212",
+      "coil_sequence": "10.018829466628208",
       "reasons": [
         "风险质量 6.7分",
         "前期参与代理 5.0分",
