@@ -1,6 +1,6 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-10-23T10:47:26.165054+08:00",
+  "generated_at": "2026-10-23T12:47:15.734962+08:00",
   "asof": "2026-10-22",
   "items_requested": 773,
   "items_loaded": 716,
@@ -235,15 +235,18 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "Tec-9 | Sultan (Factory New)",
+      "name": "M4A1-S | Electrum (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "M4A1-S | Electrum (Factory New)",
+      "name": "Tec-9 | Sultan (Factory New)",
       "error": "Less than 300 valid history rows"
     }
   ],
   "source": "Firepulse YOUPIN prices; global all-platform volume proxy",
+  "daily_mode": true,
+  "validation_asof": "2026-10-22",
+  "parameter_search_runs": 0,
   "calibration_start": "2026-01-25",
   "validation_start": "2026-07-24",
   "profiles": {
@@ -339,7 +342,7 @@
   },
   "rolling_signal_start": "2026-06-23",
   "rolling_signal_end": "2026-09-21",
-  "total_search_combinations_including_rolling": 1944,
+  "total_search_combinations_including_rolling": 0,
   "results": [
     {
       "id": "O_S1",
@@ -546,7 +549,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 199,
         "items": 172,
@@ -618,7 +621,8 @@
           "p10": null
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "O_M3",
@@ -769,7 +773,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 60,
         "items": 57,
@@ -841,7 +845,8 @@
           "p10": null
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "O_M4",
@@ -1048,7 +1053,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 202,
         "items": 115,
@@ -1120,7 +1125,8 @@
           "p10": null
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "O_L1",
@@ -1343,7 +1349,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 233,
         "items": 178,
@@ -1415,7 +1421,8 @@
           "p10": null
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "I0",
@@ -1638,7 +1645,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 5690,
         "items": 594,
@@ -1710,7 +1717,8 @@
           "p10": -0.15919028985355443
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "I1",
@@ -1933,7 +1941,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 78,
         "items": 67,
@@ -2005,7 +2013,8 @@
           "p10": null
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "I2",
@@ -2228,7 +2237,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 5716,
         "items": 561,
@@ -2300,7 +2309,8 @@
           "p10": -0.15868518537913778
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "I3",
@@ -2523,7 +2533,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 2852,
         "items": 503,
@@ -2595,7 +2605,8 @@
           "p10": -0.15919028985355443
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     },
     {
       "id": "I4",
@@ -2818,7 +2829,7 @@
         }
       ],
       "qualified": false,
-      "status": "未通过买入验证",
+      "status": "冻结参数日常证据；本轮未重做历史资格检验",
       "development": {
         "n": 1787,
         "items": 411,
@@ -2890,7 +2901,8 @@
           "p10": -0.03952919199949245
         }
       ],
-      "score_monotonicity_observed": false
+      "score_monotonicity_observed": false,
+      "historical_qualified": false
     }
   ],
   "qualified_systems": [],

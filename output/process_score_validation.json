@@ -1,7 +1,10 @@
 {
   "version": "leader-process-score-v1",
   "asof": "2026-10-22",
-  "generated_at": "2026-10-23T10:44:34.925601+08:00",
+  "generated_at": "2026-10-23T12:44:25.569530+08:00",
+  "training_runs": 0,
+  "validation_asof": "2026-10-22",
+  "daily_mode": true,
   "source": "Firepulse public interface",
   "price_basis": "youpin daily OHLC",
   "volume_basis": "all-platform proxy",
@@ -17,11 +20,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -266,7 +269,7 @@
     "support_recovery"
   ],
   "metrics": {
-    "status": "未验证为买入系统",
+    "status": "固定公式日常证据分；历史验证冻结于2026-10-22",
     "predictive_rank_validated": true,
     "buy_validated": false,
     "train_n": 27787,
@@ -467,55 +470,11 @@
           "fixed30_mean_net": -0.25706142252869274
         }
       }
-    ]
+    ],
+    "training_runs": 0,
+    "validation_asof": "2026-10-22"
   },
-  "evidence_score_bands": [
-    {
-      "band": "0–20",
-      "n": 16427,
-      "days": 59,
-      "items": 667,
-      "hit_rate": 0.05740549096000487,
-      "barrier_mean_net": -0.10103627493804217,
-      "fixed30_mean_net": -0.17727169256847247
-    },
-    {
-      "band": "20–40",
-      "n": 16532,
-      "days": 59,
-      "items": 689,
-      "hit_rate": 0.030546818291797725,
-      "barrier_mean_net": -0.10166204169883775,
-      "fixed30_mean_net": -0.14808380406919616
-    },
-    {
-      "band": "40–60",
-      "n": 5203,
-      "days": 59,
-      "items": 474,
-      "hit_rate": 0.008841053238516241,
-      "barrier_mean_net": -0.10049683862675117,
-      "fixed30_mean_net": -0.13795190630172846
-    },
-    {
-      "band": "60–80",
-      "n": 152,
-      "days": 45,
-      "items": 54,
-      "hit_rate": 0.013157894736842105,
-      "barrier_mean_net": -0.07868084489959525,
-      "fixed30_mean_net": -0.1190312637044398
-    },
-    {
-      "band": "80–100",
-      "n": 0,
-      "days": 0,
-      "items": 0,
-      "hit_rate": null,
-      "barrier_mean_net": null,
-      "fixed30_mean_net": null
-    }
-  ],
+  "evidence_score_bands": [],
   "daily_rows": 654,
   "historical_rows": 923848,
   "earliest_price_date": "2023-01-18",
