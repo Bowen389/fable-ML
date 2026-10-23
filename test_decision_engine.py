@@ -45,3 +45,12 @@ class MissingScores(unittest.TestCase):
         self.assertEqual(result['status'],'data_unavailable')
         self.assertEqual(result['data_status'],'unavailable')
         self.assertIn('不是零买点',render(result))
+
+
+class PipelineGate(unittest.TestCase):
+    def test_recent_quote_cannot_override_unfinished_upstream_slot(self):
+        s,p,c=fixture();s['pipeline']={'ready':False,'reasons':['等待本时段报价发布']}
+        x=build(s,p,c,[],NOW)
+        self.assertEqual(x['research_ready'],0)
+        self.assertEqual(x['market']['permission'],'数据等待，关闭新入场')
+        self.assertTrue(all('上游时序未就绪' in '；'.join(r['blockers']) for r in x['rows']))

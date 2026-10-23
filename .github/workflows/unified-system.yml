@@ -9,6 +9,8 @@ on:
   push:
     branches: [main]
     paths:
+      - pipeline_readiness.py
+      - test_pipeline_readiness.py
       - decision_engine.py
       - test_decision_engine.py
       - unified_system.py
@@ -18,11 +20,12 @@ on:
       - integrations/**
       - .github/workflows/unified-system.yml
   workflow_run:
-    workflows: [Daily accumulation watch candidates, daily-scan]
+    workflows: [Daily accumulation watch candidates]
     types: [completed]
     branches: [main]
   schedule:
-    - cron: '45 3,7,13 * * *'
+    - cron: '47 2 * * *' # 10:47, after morning quotes and daily scores
+    - cron: '7 8,14 * * *' # 16:07 and 22:07; upstream completion is checked
     - cron: '7 12 * * *'
 permissions:
   contents: write
@@ -33,7 +36,7 @@ jobs:
   report:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
         with:
@@ -43,7 +46,15 @@ jobs:
           python-version: '3.11'
       - run: pip install requests
       - name: Verify integration boundaries
-        run: python -m unittest test_unified_system test_decision_engine -v
+        run: python -m unittest test_unified_system test_decision_engine test_pipeline_readiness -v
+      - name: Wait for current quote slot and completed daily scores
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -u pipeline_readiness.py
+      - name: Refresh published daily inputs after waiting
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
       - name: Build full report
         env:
           CSQAQ_TOKEN: ${{ secrets.CSQAQ_TOKEN }}

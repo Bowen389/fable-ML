@@ -157,6 +157,10 @@ def main():
             import shutil
             shutil.copyfile(raw/'intraday_scores_latest.csv',raw/'quotes.csv');shutil.copyfile(raw/'intraday_latest.json',raw/'quote_meta.json')
         raise SystemExit(code)
+    revision=os.environ.get('UPSTREAM_REVISION')
+    if revision:
+        for key in ('quotes','quote_meta','demand'):SOURCES[key]=SOURCES[key].replace('/main/','/'+revision+'/')
+    pipeline=readjson(raw/'pipeline_readiness.json',{'ready':False,'reasons':['未执行上游时序检查']})
     modules={};sources={};paths={k:raw/({'buy':'traditional.csv','quotes':'quotes.csv','quote_meta':'quote_meta.json','demand':'yyyp.db'}[k]) for k in SOURCES}
     for key,url in SOURCES.items():
         try:
@@ -192,12 +196,12 @@ def main():
     match=re.search(r'CS2 买点扫描 · (\d{4}-\d{2}-\d{2})',latest);modules['original']={'status':'available' if latest else 'missing','asof':match[1] if match else None}
     coils=readrows(out/'daily_coil_scores.csv') if (out/'daily_coil_scores.csv').exists() else []
     monitor=join_monitor(monitor,coils,hits)
-    result={'version':'unified-system-v1','generated_at':now().isoformat(),'status':'partial' if any(m.get('status') not in ('ok','success','available') for m in modules.values()) else 'ok','modules':modules,'sources':sources,'traditional_hits':hits,'demand_rank':ranks,'monitor':monitor,'coil':coil,'original_hits':originals,'purchase_list_requests':0}
+    result={'pipeline':pipeline,'version':'unified-system-v1','generated_at':now().isoformat(),'status':'partial' if any(m.get('status') not in ('ok','success','available') for m in modules.values()) else 'ok','modules':modules,'sources':sources,'traditional_hits':hits,'demand_rank':ranks,'monitor':monitor,'coil':coil,'original_hits':originals,'purchase_list_requests':0}
     multi=readrows(out/'daily_multifactor_scores.csv') if (out/'daily_multifactor_scores.csv').exists() else []
     decision=build_decisions(result,pool,coils,multi,now());result['decision']={k:v for k,v in decision.items() if k!='rows'}
     dump(out/'decision_latest.json',decision);writecsv(out/'decision_latest.csv',decision['rows']);(out/'decision_latest.md').write_text(render_decisions(decision))
-    history=out/'history'/('decision_'+now().date().isoformat()+'_'+decision['version']+'.json')
-    if not history.exists():dump(history,decision)
+    history=out/'history'/('decision_ready_'+now().date().isoformat()+'_'+decision['version']+'.json')
+    if pipeline.get('ready') and decision['scored_rows'] and not history.exists():dump(history,decision)
     dump(out/'system_latest.json',result);(out/'system_latest.md').write_text(render_decisions(decision)+'\n---\n\n'+render(result));dump(out/'demand_whales.json',{'meta':modules['demand'],'rank':ranks});writecsv(out/'demand_whales.csv',ranks);writecsv(out/'traditional_pool.csv',pool);writecsv(out/'traditional_hits.csv',hits);writecsv(out/'unified_monitor.csv',monitor)
     if os.environ.get('GITHUB_STEP_SUMMARY'):Path(os.environ['GITHUB_STEP_SUMMARY']).write_text(render_decisions(decision))
     print('UNIFIED_SYSTEM_COMPLETE',json.dumps({'status':result['status'],'modules':{k:v.get('status') for k,v in modules.items()},'monitored':len(monitor),'traditional_hits':len(hits)},ensure_ascii=False),flush=True)

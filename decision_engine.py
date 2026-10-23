@@ -26,6 +26,9 @@ def regime(rows,asof):
     return dict(state=s,permission=a,coverage=len(z),asof=asof,median_r3=m,prior_median_r3=p,breadth3=b,median_r7=statistics.median(r['r7'] for r in z),basis='排刀且满足传统扫描历史/价格条件的样本；非全市场指数；不要求7日中位数为正')
 def build(system,pool,coils,multifactor,current):
     asof=(current.date()-timedelta(days=1)).isoformat();market=regime(pool,asof);pc=exact(pool);cc=exact(coils);mc=exact(multifactor);groups={};rows=[]
+    pipeline=system.get('pipeline',{'ready':True})
+    if not pipeline.get('ready'):
+        market['technical_permission']=market['permission'];market['permission']='数据等待，关闭新入场'
     for p in pool:
         if p.get('eligible') and p['asof']==asof and p.get('r3') is not None:groups.setdefault(p['name'].split(' | ')[0],[]).append(p)
     for q in system['monitor']:
@@ -36,6 +39,7 @@ def build(system,pool,coils,multifactor,current):
                 weights=dict(build=30,tier=15,wash=20,activation=15,relative=10)
                 parts={k:round(weights[k]*clip(v),3) for k,v in factors.items()};parts['risk']=round(10*clip(1-pen/30),3);potential=round(sum(parts.values()),2);labels=dict(build='前期参与代理',tier='量价台阶',wash='洗盘代理',activation='持续放量',relative='相对强度',risk='风险质量');reasons=[f'{labels[k]} {v:.1f}分' for k,v in sorted(parts.items(),key=lambda kv:-kv[1])[:3]]
         if potential is None:block.append('潜力因子缺失或非昨日完整日K')
+        if not pipeline.get('ready'):block.append('上游时序未就绪：'+'；'.join(pipeline.get('reasons',[])))
         price=num(q.get('实时挂牌价'));fresh=False
         try:
             t=datetime.fromisoformat(q['价格采集时间']);t=t.replace(tzinfo=TZ) if t.tzinfo is None else t;fresh=0<=(current-t).total_seconds()<=21600
@@ -78,12 +82,13 @@ def build(system,pool,coils,multifactor,current):
     ranked=sorted([r for r in rows if r['potential'] is not None],key=lambda r:(-r['potential'],-(r['entry'] if r['entry'] is not None else -1),r['name']))
     for i,r in enumerate(ranked,1):r['potential_rank']=i
     ready=sorted([r for r in ranked if r['state']=='研究条件满足，仅模拟试探'],key=lambda r:(-r['entry'],-r['potential'],r['name']))
-    return dict(version=VERSION,generated_at=current.isoformat(),asof=asof,status='research_only' if ranked else 'data_unavailable',data_status='available' if ranked else 'unavailable',validated=False,live_buy_allowed=False,market=market,monitor_rows=len(rows),scored_rows=len(ranked),research_ready=len(ready),top5=ranked[:5],entry_top5=ready[:5],rows=rows)
+    return dict(pipeline=pipeline,version=VERSION,generated_at=current.isoformat(),asof=asof,status='research_only' if ranked else 'data_unavailable',data_status='available' if ranked else 'unavailable',validated=False,live_buy_allowed=False,market=market,monitor_rows=len(rows),scored_rows=len(ranked),research_ready=len(ready),top5=ranked[:5],entry_top5=ready[:5],rows=rows)
 def render(x):
     esc=lambda s:str(s).replace('|','／').replace('\n',' ')
     m=x['market'];L=['# CS2 综合决策主报告','',f'生成：{x["generated_at"]}；完整日K：{x["asof"]}；版本 {VERSION}。','','**研究观察版，尚未通过买入验证，不自动交易。**','',f'市场：**{m["state"]}**；权限：**{m["permission"]}**；同日环境样本 {m["coverage"]}。',f'监控 {x["monitor_rows"]} 件；潜力可评分 {x["scored_rows"]} 件；研究入场条件满足 {x["research_ready"]} 件。','','## 潜力Top5及入场决策','','| 商品 | 潜力分 | 入场分 | 状态 | 未满足条件 |','|---|---:|---:|---|---|']
     for r in x['top5']:L.append('| '+' | '.join(esc(v) for v in [r['cn'],r['potential'],r['entry'] if r['entry'] is not None else '缺失',r['state'],'；'.join(r['blockers']) or '无硬阻断，仍需评分门槛'])+' |')
     if not x['scored_rows']:L+=['','**评分数据未就绪：没有可用的同日日K潜力评分，本轮不能判断有无入场候选；不是零买点。**']
+    if not x.get('pipeline',{'ready':True}).get('ready'):L+=['','**本轮等待上游：'+esc('；'.join(x['pipeline'].get('reasons',[])))+'。入场关闭，以下旧报价仅供带日期参考。**']
     L+=['','## 触发与失效']
     for r in x['top5']:L+=['',f'**{esc(r["cn"])}**','- 理由：'+esc('；'.join(r['reasons'])),'- 触发：'+esc('；'.join(r['triggers']) or '补齐日K及报价'),f'- 参考支撑 {r["support"]}；入场观察上限 {r["entry_ceiling"]}；失效参考 {r["invalidation_price"]}（支撑减0.5ATR，非成交保证）。','- 数据缺口：'+esc('；'.join(r['data_notes']) or '仍为日K与每日求购代理')]
     L+=['','## 研究入场Top5','\n'.join('- '+esc(r['cn'])+'：'+str(r['entry']) for r in x['entry_top5']) or ('本轮评分数据未就绪，无法判断入场候选；请查看蓄势模块日期与任务日志。' if not x['scored_rows'] else '本轮无商品满足全部研究入场条件，潜力Top5不是买入名单。'),'','## 公式与限制','潜力=建仓代理30+台阶15+洗盘20+持续放量15+相对强度10+风险质量10；各因子截断0～1，风险质量=截断(1−原风险扣分/30)。原ML列作对照，不重复加分。','入场=位置35+波动20+传统形态20+求购25；求购容量15分按挂单件数/100截断，可比变化10分按0.5+变化百分比/40截断。变化不可比时10分留空，不重新归一化。','位置按距离10日支撑的ATR倍数、波动按ATR/价格计算；传统家族最多计2类。市场以同日3日变化、前3日变化及上涨广度分类，不要求7日中位数为正；板块是同武器/手套家族代理。','潜力60、入场65、后排提前蓄势60、样本数与所有权重均是待验证设计假设，不声称最优。缺失数据不放行；Whale仅辅助。','悠悠挂单不是成交，会员与成本仅代理；没有逐笔盘口确认。新研究卖出费1%、无滑点；本模块本轮未生成回测收益。','','[全部815件决策](decision_latest.csv) · [决策JSON](decision_latest.json) · 下附原模块证据。','']
