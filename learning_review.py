@@ -49,6 +49,7 @@ def run(root,today=None):
         # Exclude retrospectively generated snapshots from forward evidence.
         generated=datetime.fromisoformat(rows[0]['生成时间'])
         if generated.date()>signal+timedelta(days=1):continue
+        signal=generated.date() # Never use an open preceding publication.
         rows.sort(key=lambda r:(-float(r['每日参考分']),r['name']))
         for k in (3,5):
             for h in (7,14):
@@ -84,7 +85,7 @@ def run(root,today=None):
     (out/'learning_review.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
     fmt=lambda x:'待成熟' if x is None else f'{x:.2%}'
     lines=['# 每周 Top3／Top5 前瞻检查','',f'截至 {today}；卖出费1%，不考虑滑点。',
-        '过程评分：完整日K信号次日开盘作为入场代理；综合决策潜力榜：按时发布快照中的挂牌价作为代理。7／14自然日后收盘退出，均非实际成交。',
+        '过程评分：评分发布次日开盘作为入场代理；综合决策潜力榜：按时发布快照中的挂牌价作为代理。7／14自然日后收盘退出，均非实际成交。',
         '仅检查按时留存的固定版本快照；缺日不插值，不将缺失算亏损或零收益。',
         '重复持有同一商品的观察会重叠，以下不是组合收益；全池日等权均值仅作描述对照。','',
         '|版本|前几名|持有天数|有效/应有|覆盖率|信号天数|平均净收益|中位数|胜率|全池日均对照|',
