@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-10-22",
-    "generated_at": "2026-10-23T12:48:25.938809+08:00",
-    "expected_completed_date": "2026-10-22",
+    "asof": "2026-10-23",
+    "generated_at": "2026-10-24T10:47:34.104938+08:00",
+    "expected_completed_date": "2026-10-23",
     "status": "ok",
     "loaded": 764,
     "requested": 775,
@@ -134,8 +134,8 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 710,
-    "market_ok": true,
+    "daily_rows": 707,
+    "market_ok": false,
     "buy_validated": false,
     "production_scoring_modified": false,
     "new_requests": 0,
@@ -145,126 +145,126 @@
     "lists": {
       "sequence": [
         {
-          "name": "PP-Bizon | Bamboo Print (Factory New)",
-          "cn": "PP-野牛 | 墨竹 (崭新出厂)",
-          "close": 65.0,
-          "sequence": 65.49923409522725,
-          "bear_start": 74.36387153058803,
-          "early_coil": 66.65571314083292,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理17.5分；持续放量15.0分；缩量洗盘代理14.7分"
-        },
-        {
           "name": "FAMAS | Styx (Factory New)",
           "cn": "法玛斯 | 冥界之憎 (崭新出厂)",
-          "close": 909.5,
-          "sequence": 58.85545299477171,
-          "bear_start": 62.33047118607878,
-          "early_coil": 56.87530335948661,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 10.0,
-          "reasons": "前期参与代理16.5分；持续放量16.2分；量价台阶14.1分"
-        },
-        {
-          "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-          "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-          "close": 655.92,
-          "sequence": 50.60429566148284,
-          "bear_start": 48.14709746244685,
-          "early_coil": 59.04278864875518,
+          "close": 974.0,
+          "sequence": 57.51923982200003,
+          "bear_start": 61.61326779687073,
+          "early_coil": 60.72527278865618,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理13.7分；量价台阶10.5分；缩量洗盘代理9.9分"
+          "reasons": "前期参与代理17.2分；量价台阶13.6分；相对同类领先10.0分"
         },
         {
           "name": "MAC-10 | Tatter (Factory New)",
           "cn": "MAC-10 | 烧尽 (崭新出厂)",
-          "close": 54.99,
-          "sequence": 48.32419685693934,
-          "bear_start": 40.01743889072099,
-          "early_coil": 57.67344875281964,
+          "close": 54.79,
+          "sequence": 51.7768482667488,
+          "bear_start": 46.422453125853565,
+          "early_coil": 61.10764856797424,
           "shape_state": "局部形态，链条未完整",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理18.7分；支撑与空间12.5分；量价台阶12.4分"
+          "reasons": "前期参与代理18.7分；量价台阶13.8分；支撑与空间12.7分"
         },
         {
-          "name": "AUG | Torque (Factory New)",
-          "cn": "AUG | 力矩 (崭新出厂)",
-          "close": 58.0,
-          "sequence": 47.56887560963728,
-          "bear_start": 47.801332527854214,
-          "early_coil": 56.12923357704873,
+          "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+          "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
+          "close": 629.0,
+          "sequence": 51.335166803893436,
+          "bear_start": 43.34434058068709,
+          "early_coil": 61.18980746839326,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
+          "penalty": 0.23931445292089445,
+          "reasons": "前期参与代理14.7分；量价台阶11.4分；缩量洗盘代理10.0分"
+        },
+        {
+          "name": "M4A1-S | Atomic Alloy (Factory New)",
+          "cn": "M4A1消音版 | 原子合金 (崭新出厂)",
+          "close": 1276.5,
+          "sequence": 51.0622313402975,
+          "bear_start": 51.9227833489826,
+          "early_coil": 60.376805654871816,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "量价台阶13.7分；前期参与代理13.0分；相对同类领先10.0分"
+          "reasons": "前期参与代理18.6分；量价台阶14.5分；相对同类领先9.9分"
+        },
+        {
+          "name": "P250 | Black & Tan (Factory New)",
+          "cn": "P250 | 潜藏者 (崭新出厂)",
+          "close": 70.0,
+          "sequence": 48.2124813183047,
+          "bear_start": 59.32150349730658,
+          "early_coil": 40.631132111955495,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "持续放量13.3分；量价台阶9.7分；缩量洗盘代理9.7分"
         }
       ],
       "early_coil": [
         {
-          "name": "PP-Bizon | Bamboo Print (Factory New)",
-          "cn": "PP-野牛 | 墨竹 (崭新出厂)",
-          "close": 65.0,
-          "sequence": 65.49923409522725,
-          "bear_start": 74.36387153058803,
-          "early_coil": 66.65571314083292,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理17.5分；持续放量15.0分；缩量洗盘代理14.7分"
-        },
-        {
           "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
           "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-          "close": 655.92,
-          "sequence": 50.60429566148284,
-          "bear_start": 48.14709746244685,
-          "early_coil": 59.04278864875518,
+          "close": 629.0,
+          "sequence": 51.335166803893436,
+          "bear_start": 43.34434058068709,
+          "early_coil": 61.18980746839326,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理13.7分；量价台阶10.5分；缩量洗盘代理9.9分"
+          "penalty": 0.23931445292089445,
+          "reasons": "前期参与代理14.7分；量价台阶11.4分；缩量洗盘代理10.0分"
         },
         {
           "name": "MAC-10 | Tatter (Factory New)",
           "cn": "MAC-10 | 烧尽 (崭新出厂)",
-          "close": 54.99,
-          "sequence": 48.32419685693934,
-          "bear_start": 40.01743889072099,
-          "early_coil": 57.67344875281964,
+          "close": 54.79,
+          "sequence": 51.7768482667488,
+          "bear_start": 46.422453125853565,
+          "early_coil": 61.10764856797424,
           "shape_state": "局部形态，链条未完整",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理18.7分；支撑与空间12.5分；量价台阶12.4分"
+          "reasons": "前期参与代理18.7分；量价台阶13.8分；支撑与空间12.7分"
         },
         {
           "name": "FAMAS | Styx (Factory New)",
           "cn": "法玛斯 | 冥界之憎 (崭新出厂)",
-          "close": 909.5,
-          "sequence": 58.85545299477171,
-          "bear_start": 62.33047118607878,
-          "early_coil": 56.87530335948661,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 10.0,
-          "reasons": "前期参与代理16.5分；持续放量16.2分；量价台阶14.1分"
-        },
-        {
-          "name": "AUG | Torque (Factory New)",
-          "cn": "AUG | 力矩 (崭新出厂)",
-          "close": 58.0,
-          "sequence": 47.56887560963728,
-          "bear_start": 47.801332527854214,
-          "early_coil": 56.12923357704873,
+          "close": 974.0,
+          "sequence": 57.51923982200003,
+          "bear_start": 61.61326779687073,
+          "early_coil": 60.72527278865618,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "量价台阶13.7分；前期参与代理13.0分；相对同类领先10.0分"
+          "reasons": "前期参与代理17.2分；量价台阶13.6分；相对同类领先10.0分"
+        },
+        {
+          "name": "M4A1-S | Atomic Alloy (Factory New)",
+          "cn": "M4A1消音版 | 原子合金 (崭新出厂)",
+          "close": 1276.5,
+          "sequence": 51.0622313402975,
+          "bear_start": 51.9227833489826,
+          "early_coil": 60.376805654871816,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理18.6分；量价台阶14.5分；相对同类领先9.9分"
+        },
+        {
+          "name": "AUG | Wings (Factory New)",
+          "cn": "AUG | 鹰翼 (崭新出厂)",
+          "close": 71.0,
+          "sequence": 46.26750207899522,
+          "bear_start": 40.84871726761777,
+          "early_coil": 57.18878390013124,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.8分；支撑与空间13.1分；缩量洗盘代理6.4分"
         }
       ]
     }
