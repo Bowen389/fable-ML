@@ -53,6 +53,11 @@ def scan_rules(feat, rules, date, ml_scores=None):
         full = masks.all(axis=0)
         if full.any():
             o = _fmt_row(day[full]); o.insert(0, '规则', f"{r['id']} {r['name']}"); o.insert(1, '状态', r['status']); o.insert(2, '建议持有', r['hold']); o['择时'] = mk_txt
+            if 'leader_score' in day:
+                o['同类强度分'] = (day.loc[full, 'leader_score'] * 100).round(1)
+                o['同类7日超额%'] = (day.loc[full, 'peer_rs7'] * 100).round(1)
+                o['品类上涨占比%'] = (day.loc[full, 'peer_breadth1'] * 100).round(1)
+                o['龙头候选'] = np.where(day.loc[full, 'leader_flag'] > 0, '是', '否')
             if ml is not None and len(ml.columns): o = o.join(ml.loc[day[full].index])
             o['_H'] = r['H']; o['_rid'] = r['id']; o['_mk'] = mk_ok
             hits.append(o)
@@ -97,6 +102,8 @@ def log_signals(hits, last):
                         'entry_date': last + pd.Timedelta(days=1), 'entry_price': np.nan,
                         'exit_date': last + pd.to_timedelta(hits['_H'].astype(int) + 1, unit='D'), 'exit_price': np.nan, 'net_ret': np.nan,
                         'pipeline_version': C.PIPELINE_VERSION, 'status': 'pending', 'logged_at': str(C.now_cst())[:19]})
+    if '同类强度分' in hits:
+        new['_leader_score'] = hits['同类强度分'].to_numpy()
     key = lambda d: d['signal_date'].astype(str) + '|' + d['rule_id'].astype(str) + '|' + d['name'].astype(str)
     if len(sig): new = new[~key(new).isin(set(key(sig)))]
     # One outstanding simulated position per item, across all rules.
@@ -114,6 +121,8 @@ def sort_hits(hits, signal_rows=False):
     if hits.empty: return hits.copy()
     out = hits.copy()
     if signal_rows:
-        return out.sort_values('ml_pct', ascending=False, na_position='last', kind='stable')
+        cols = (['_leader_score'] if '_leader_score' in out else []) + ['ml_pct']
+        return out.sort_values(cols, ascending=False, na_position='last', kind='stable')
     out['_score'] = [row.get(f'ML分位{int(row["_H"])}', np.nan) for _, row in out.iterrows()]
-    return out.sort_values(['规则', '_score', '距60日高%', '饰品'], ascending=[True, False, True, True], na_position='last', kind='stable').drop(columns='_score')
+    cols = ['规则'] + (['同类强度分'] if '同类强度分' in out else []) + ['_score', '距60日高%', '饰品']
+    return out.sort_values(cols, ascending=[True] + [False] * (len(cols)-3) + [True, True], na_position='last', kind='stable').drop(columns='_score')
