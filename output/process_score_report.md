@@ -1,3 +1,35 @@
+<!-- unified-system:start -->
+## 综合决策（主结论）
+
+市场：反弹衰竭；权限：关闭；研究入场满足 0 件。尚未通过买入验证。
+
+| 商品 | 潜力 | 入场 | 状态 |
+|---|---:|---:|---|
+| 法玛斯  /  冥界之憎 (崭新出厂) | 71.65 | 48.94 | 等待条件 |
+| AUG  /  力矩 (崭新出厂) | 62.79 | 19.46 | 等待条件 |
+| 双持贝瑞塔  /  毒蛇袭击 (崭新出厂) | 62.4 | 40.18 | 等待条件 |
+| M4A1消音版  /  原子合金 (崭新出厂) | 62.3 | 37.46 | 等待条件 |
+| Tec-9  /  碎蛋白石 (崭新出厂) | 59.51 | 40.3 | 潜力不足，继续观察 |
+
+[综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
+
+### 底层证据与覆盖
+
+汇总时间：2026-10-24T11:11:33.957269+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+
+| 模块 | 状态 | 数据日期／说明 |
+|---|---|---|
+| 四类传统买点全扫 | ok | 2026-10-23 |
+| 全池报价与在售 | partial | 2026-10-24T10:01:32.498258+08:00 |
+| 求购与大户求购排行 | ok | 2026-10-23 |
+| CSQAQ Whale辅助 | partial | 2026-10-23T12:40:35+00:00 |
+| 蓄势评分 | ok | 2026-10-23 |
+| 原版规则与ML | available | 2026-10-23 |
+
+[查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
+Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
+<!-- unified-system:end -->
+
 # 龙头过程评分 · 每日参考与验证报告
 
 截至2026-10-23；数据716/773件；每日评分653件。
