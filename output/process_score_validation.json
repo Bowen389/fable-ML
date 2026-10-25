@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-10-23",
-  "generated_at": "2026-10-24T10:43:10.165837+08:00",
+  "asof": "2026-10-24",
+  "generated_at": "2026-10-25T10:43:05.030181+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -44,11 +44,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+      "name": "★ Driver Gloves | Garden (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -475,10 +475,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 653,
-  "historical_rows": 924564,
+  "daily_rows": 651,
+  "historical_rows": 925280,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-10-23",
+  "expected_completed_date": "2026-10-24",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
