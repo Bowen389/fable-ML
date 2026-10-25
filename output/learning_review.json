@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-23",
+  "asof": "2026-10-25",
   "status": "observational_only",
   "fee": "sell 1%; buy 0; no slippage",
   "entry": "process: next day open; decision potential: published quote",
