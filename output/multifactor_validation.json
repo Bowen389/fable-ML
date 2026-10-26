@@ -1,18 +1,18 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-10-25T10:44:44.139567+08:00",
-  "asof": "2026-10-24",
+  "generated_at": "2026-10-26T10:48:29.258062+08:00",
+  "asof": "2026-10-25",
   "items_requested": 773,
   "items_loaded": 716,
-  "rows": 925280,
-  "daily_rows": 649,
+  "rows": 925996,
+  "daily_rows": 647,
   "scoring_pool_status_counts": {
-    "可评分": 649,
+    "可评分": 647,
+    "量能条件不足": 45,
     "历史不足": 57,
-    "量能条件不足": 43,
     "研究品类排除": 43,
-    "平价或数据条件不满足": 2,
-    "低于价格门槛": 22
+    "低于价格门槛": 23,
+    "平价或数据条件不满足": 1
   },
   "failures": [
     {
@@ -88,11 +88,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+      "name": "AWP | Queen's Gambit (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "AWP | Queen's Gambit (Factory New)",
+      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -148,11 +148,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -248,8 +248,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-01-27",
-  "validation_start": "2026-07-26",
+  "calibration_start": "2026-01-28",
+  "validation_start": "2026-07-27",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -341,8 +341,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-06-25",
-  "rolling_signal_end": "2026-09-23",
+  "rolling_signal_start": "2026-06-26",
+  "rolling_signal_end": "2026-09-24",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {
