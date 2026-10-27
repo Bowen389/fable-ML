@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T15:19:30+00:00",
-  "batch_id": "2a25dcb25d184f80a209f1f746ee77e4",
-  "since_report_at": "2026-10-25T12:37:33+00:00",
+  "generated_at": "2026-10-27T18:27:16+00:00",
+  "batch_id": "3068650acc9a499690daa2c9c0ce9521",
+  "since_report_at": "2026-10-26T15:19:30+00:00",
   "comparison": "每只鲸鱼上一次成功扫描的持久快照（首扫默认只建基线）",
   "date_floor_not_cursor": "2026-09-20",
   "new_event_rows": 0,
@@ -13,7 +13,7 @@
     "failed": [],
     "recovered_unpublished": 0,
     "coverage_risk": [],
-    "api_requests": 51
+    "api_requests": 45
   },
   "frequency": {
     "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",

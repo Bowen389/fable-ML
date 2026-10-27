@@ -1,56 +1,25 @@
 # CS2 综合决策主报告
 
-生成：2026-10-27T22:23:51.032002+08:00；完整日K：2026-10-26；版本 decision-v1。
+生成：2026-10-28T02:27:16.683217+08:00；完整日K：2026-10-27；版本 decision-v1。
 
 **研究观察版，尚未通过买入验证，不自动交易。**
 
-市场：**弱势震荡**；权限：**仅观察**；同日环境样本 1037。
-监控 815 件；潜力可评分 623 件；研究入场条件满足 0 件。
+市场：**止跌蓄势**；权限：**数据等待，关闭新入场**；同日环境样本 1035。
+监控 815 件；潜力可评分 0 件；研究入场条件满足 0 件。
 
 ## 潜力Top5及入场决策
 
 | 商品 | 潜力分 | 入场分 | 状态 | 未满足条件 |
 |---|---:|---:|---|---|
-| 摩托手套（★） ／ 第三特种兵连 (略有磨损) | 66.78 | 55.17 | 等待条件 | 价格超过入场观察上限，等待回踩；市场环境未放行；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| 法玛斯 ／ 机械工业 (崭新出厂) | 60.54 | 52.71 | 等待条件 | 无传统日K买点；可比求购厚度下降超过20%；市场环境未放行；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| USP消音版 ／ 次时代 (崭新出厂) | 58.46 | 53.15 | 潜力不足，继续观察 | 无传统日K买点；市场环境未放行；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| AUG ／ 力矩 (崭新出厂) | 57.7 | 29.02 | 潜力不足，继续观察 | 无传统日K买点；可比求购厚度下降超过20%；市场环境未放行 |
-| AUG ／ 鹰翼 (崭新出厂) | 57.51 | 24.99 | 潜力不足，继续观察 | 价格超过入场观察上限，等待回踩；无传统日K买点；市场环境未放行；同板块暂无其他提前蓄势分≥60的接力观察品 |
+
+**评分数据未就绪：没有可用的同日日K潜力评分，本轮不能判断有无入场候选；不是零买点。**
+
+**本轮等待上游：等待昨日完整日K蓄势评分发布。入场关闭，以下旧报价仅供带日期参考。**
 
 ## 触发与失效
 
-**摩托手套（★） ／ 第三特种兵连 (略有磨损)**
-- 理由：前期参与代理 21.9分；量价台阶 15.0分；风险质量 10.0分
-- 触发：挂牌价在555.0至659.74区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 555.0；入场观察上限 659.74；失效参考 532.18（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**法玛斯 ／ 机械工业 (崭新出厂)**
-- 理由：前期参与代理 25.8分；量价台阶 11.0分；风险质量 10.0分
-- 触发：挂牌价在718.89至790.49区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 718.89；入场观察上限 790.49；失效参考 697.48（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**USP消音版 ／ 次时代 (崭新出厂)**
-- 理由：前期参与代理 26.6分；量价台阶 15.0分；风险质量 10.0分
-- 触发：挂牌价在195.0至245.02区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 195.0；入场观察上限 245.02；失效参考 184.56（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**AUG ／ 力矩 (崭新出厂)**
-- 理由：前期参与代理 25.8分；量价台阶 14.6分；洗盘代理 9.6分
-- 触发：挂牌价在44.99至57.35区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 44.99；入场观察上限 57.35；失效参考 43.84（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**AUG ／ 鹰翼 (崭新出厂)**
-- 理由：前期参与代理 28.1分；风险质量 10.0分；相对强度 8.9分
-- 触发：挂牌价在68.0至72.02区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 68.0；入场观察上限 72.02；失效参考 67.43（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
 ## 研究入场Top5
-本轮无商品满足全部研究入场条件，潜力Top5不是买入名单。
+本轮评分数据未就绪，无法判断入场候选；请查看蓄势模块日期与任务日志。
 
 ## 学习与验证周期
 每日固定评分留档；每周检查Top3／Top5的7／14日表现；月度重训仅生成候选，不自动替换现行参数。
@@ -69,53 +38,53 @@
 
 # CS2 一体化总报告
 
-生成时间：2026-10-27T22:23:51.025863+08:00
+生成时间：2026-10-28T02:27:16.676726+08:00
 
 **原版规则、四类传统买点、蓄势分、求购与Whale分列展示；不自动下单。**
 
 | 模块 | 状态 | 数据日期／覆盖 |
 |---|---|---|
-| traditional | ok | 2026-10-26 |
+| traditional | ok | 2026-10-27 |
 | quotes | partial | 2026-10-27T21:30:09.931988+08:00 |
 | demand | ok | 2026-10-27 |
-| whale | partial | 2026-10-26T15:19:30+00:00 |
+| whale | partial | 2026-10-27T18:27:16+00:00 |
 | coil | ok | 2026-10-26 |
 | original | available | 2026-10-26 |
 
 ## 四类传统买点（全量扫描）
-数据日 2026-10-26；研究池 2140 件；实际扫描 1037 件；命中 163 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
+数据日 2026-10-27；研究池 2140 件；实际扫描 1035 件；命中 149 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
 | 商品 | 日K价 | 家族数 | 形态 |
 |---|---|---|---|
-| AK-47  /  Phantom Disruptor (Factory New) | 154.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋上影吞没 |
-| Dual Berettas  /  Hemoglobin (Factory New) | 78.65 | 2 | 双金叉 5/12/4＋上影吞没 |
-| SG 553  /  Bulldozer (Factory New) | 1790.0 | 2 | 双金叉 12/26/9＋双金叉 5/12/4＋均线合一 MA5/12/21 |
-| Souvenir Glock-18  /  Candy Apple (Factory New) | 98.9 | 2 | 双金叉 5/12/4＋上影吞没 |
-| Souvenir P250  /  Apep's Curse (Factory New) | 1500.0 | 2 | 双金叉 5/12/4＋均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| ★ Specialist Gloves  /  Emerald Web (Minimal Wear) | 8850.0 | 2 | 双金叉 5/12/4＋上影吞没 |
-| ★ Specialist Gloves  /  Forest DDPAT (Minimal Wear) | 1732.5 | 2 | 双金叉 5/12/4＋上影吞没 |
+| Trapper Aggressor  /  Guerrilla Warfare | 144.5 | 2 | 双金叉 5/12/4＋单针承接 |
+| ★ Driver Gloves  /  Overtake (Field-Tested) | 262.4 | 2 | 双金叉 5/12/4＋均线合一 MA7/14/21 |
+| ★ Hydra Gloves  /  Rattler (Minimal Wear) | 218.89 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
 | 'Blueberries' Buckshot  /  NSWC SEAL | 67.68 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Baroque Purple (Factory New) | 298.5 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Safari Mesh (Factory New) | 31.81 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Safety Net (Factory New) | 61.9 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Steel Delta (Factory New) | 42.9 | 1 | 均线合一 MA5/12/21 |
-| AUG  /  Carved Jade (Factory New) | 240.5 | 1 | 均线合一 MA5/12/21 |
-| AUG  /  Lil' Pig (Factory New) | 387.0 | 1 | 均线合一 MA5/12/21 |
-| AWP  /  BOOM (Factory New) | 2100.0 | 1 | 均线合一 MA7/14/21 |
-| AWP  /  CMYK (Factory New) | 3099.5 | 1 | 均线合一 MA7/14/21 |
-| AWP  /  Capillary (Factory New) | 33.8 | 1 | 均线合一 MA5/12/21 |
-| AWP  /  Fever Dream (Factory New) | 97.8 | 1 | 均线合一 MA5/12/21 |
-| AWP  /  Green Energy (Factory New) | 173.2 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| AWP  /  Mortis (Factory New) | 60.1 | 1 | 均线合一 MA5/12/21 |
-| AWP  /  Phobos (Factory New) | 34.0 | 1 | 均线合一 MA5/12/21 |
-| Aspirant  /  Gendarmerie Nationale | 48.8 | 1 | 均线合一 MA5/12/21 |
-| Bloody Darryl The Strapped  /  The Professionals | 172.0 | 1 | 均线合一 MA5/12/21 |
-| CZ75-Auto  /  Slalom (Factory New) | 72.0 | 1 | 均线合一 MA5/12/21 |
-| CZ75-Auto  /  Tread Plate (Factory New) | 45.7 | 1 | 双金叉 5/12/4 |
-| Desert Eagle  /  Conspiracy (Factory New) | 142.0 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| Desert Eagle  /  Heat Treated (Factory New) | 170.0 | 1 | 均线合一 MA5/12/21 |
-| Desert Eagle  /  Mudder (Factory New) | 34.89 | 1 | 均线合一 MA5/12/21 |
+| 'Medium Rare' Crasswater  /  Guerrilla Warfare | 128.0 | 1 | 均线合一 MA5/12/21 |
+| AK-47  /  Baroque Purple (Factory New) | 297.5 | 1 | 均线合一 MA7/14/21 |
+| AK-47  /  Panthera onca (Factory New) | 1793.56 | 1 | 双金叉 5/12/4 |
+| AK-47  /  Phantom Disruptor (Factory New) | 157.8 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AK-47  /  Rat Rod (Factory New) | 407.0 | 1 | 均线合一 MA7/14/21 |
+| AK-47  /  Safari Mesh (Factory New) | 31.81 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AK-47  /  Slate (Factory New) | 85.4 | 1 | 均线合一 MA5/12/21 |
+| AUG  /  Carved Jade (Factory New) | 240.0 | 1 | 均线合一 MA5/12/21 |
+| AWP  /  Capillary (Factory New) | 33.8 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AWP  /  Fever Dream (Factory New) | 97.4 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AWP  /  Green Energy (Factory New) | 173.35 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AWP  /  Mortis (Factory New) | 60.2 | 1 | 均线合一 MA5/12/21 |
+| AWP  /  Safari Mesh (Factory New) | 33.9 | 1 | 均线合一 MA5/12/21 |
+| Bloody Darryl The Strapped  /  The Professionals | 172.49 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| CZ75-Auto  /  Green Plaid (Factory New) | 99.96 | 1 | 双金叉 12/26/9 |
+| CZ75-Auto  /  Poison Dart (Factory New) | 95.0 | 1 | 双金叉 5/12/4 |
+| CZ75-Auto  /  Slalom (Factory New) | 74.8 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| Desert Eagle  /  Conspiracy (Factory New) | 140.0 | 1 | 均线合一 MA7/14/21 |
+| Desert Eagle  /  Heat Treated (Factory New) | 170.0 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| Desert Eagle  /  Mudder (Factory New) | 34.88 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| Desert Eagle  /  Night Heist (Factory New) | 406.97 | 1 | 均线合一 MA7/14/21 |
+| Desert Eagle  /  Starcade (Factory New) | 920.0 | 1 | 均线合一 MA7/14/21 |
 | Desert Eagle  /  Urban DDPAT (Factory New) | 146.5 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| FAMAS  /  Cyanospatter (Factory New) | 36.88 | 1 | 均线合一 MA5/12/21 |
+| Dual Berettas  /  Dezastre (Factory New) | 111.44 | 1 | 双金叉 12/26/9 |
+| Dual Berettas  /  Sweet Little Angels (Factory New) | 39.0 | 1 | 均线合一 MA5/12/21 |
+| FAMAS  /  Cyanospatter (Factory New) | 36.88 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
 完整扫描与命中：output/traditional_pool.csv、output/traditional_hits.csv；全量结果未合并到单一Glock样本。
 
 ## 悠悠求购、在售与报价
@@ -188,7 +157,7 @@
 
 ## CSQAQ Whale（辅助）
 状态：partial；仅相对上次成功扫描新增CD_RECOVER；首扫默认建基线，非真实买入认定。
-报告时间 2026-10-26T15:19:30+00:00；新增 0 条。
+报告时间 2026-10-27T18:27:16+00:00；新增 0 条。
 | 鲸鱼 | 事件时间 | 商品 | 数量 |
 |---|---|---|---|
 
