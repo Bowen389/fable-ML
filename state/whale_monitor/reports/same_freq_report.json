@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-10-28T18:50:12+00:00",
+  "generated_at": "2026-10-29T18:55:51+00:00",
   "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",
   "event_start_date_floor": "2026-09-20",
-  "covered_goods_new": 0,
+  "covered_goods_new": 38,
   "bucket": "day",
   "min_whales": 2,
-  "resonance": [],
-  "same_window": []
+  "resonance": [
+    {
+      "good_id": "21694",
+      "name": "M4A4 | 炼狱之火 (崭新出厂)",
+      "events": 4,
+      "items": 35.0,
+      "whale_count": 2,
+      "whale_ids": [
+        "76561199650613304",
+        "76561199834804999"
+      ]
+    },
+    {
+      "good_id": "6543",
+      "name": "USP消音版 | 次时代 (崭新出厂)",
+      "events": 2,
+      "items": 25.0,
+      "whale_count": 2,
+      "whale_ids": [
+        "76561198431894983",
+        "76561199119785988"
+      ]
+    }
+  ],
+  "same_window": [
+    {
+      "bucket": "2026-10-29",
+      "good_id": "21694",
+      "name": "M4A4 | 炼狱之火 (崭新出厂)",
+      "events": 2,
+      "items": 16.0,
+      "whale_count": 2,
+      "whale_ids": [
+        "76561199650613304",
+        "76561199834804999"
+      ]
+    },
+    {
+      "bucket": "2026-10-24",
+      "good_id": "6543",
+      "name": "USP消音版 | 次时代 (崭新出厂)",
+      "events": 2,
+      "items": 25.0,
+      "whale_count": 2,
+      "whale_ids": [
+        "76561198431894983",
+        "76561199119785988"
+      ]
+    }
+  ]
 }
