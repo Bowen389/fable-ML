@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-10-27",
-  "generated_at": "2026-10-28T16:32:06.690735+08:00",
+  "asof": "2026-10-28",
+  "generated_at": "2026-10-29T16:31:58.431447+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -84,11 +84,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+      "name": "AWP | Queen's Gambit (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "AWP | Queen's Gambit (Factory New)",
+      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -144,11 +144,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -232,11 +232,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "Tec-9 | Sultan (Factory New)",
+      "name": "M4A1-S | Electrum (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "M4A1-S | Electrum (Factory New)",
+      "name": "Tec-9 | Sultan (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     }
   ],
@@ -475,10 +475,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 645,
-  "historical_rows": 927428,
+  "daily_rows": 639,
+  "historical_rows": 928144,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-10-27",
+  "expected_completed_date": "2026-10-28",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [

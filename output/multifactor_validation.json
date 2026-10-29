@@ -1,17 +1,18 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-10-28T16:33:41.496568+08:00",
-  "asof": "2026-10-27",
+  "generated_at": "2026-10-29T16:34:41.165972+08:00",
+  "asof": "2026-10-28",
   "items_requested": 773,
   "items_loaded": 716,
-  "rows": 927428,
-  "daily_rows": 645,
+  "rows": 928144,
+  "daily_rows": 638,
   "scoring_pool_status_counts": {
-    "可评分": 645,
+    "可评分": 638,
+    "量能条件不足": 49,
     "历史不足": 57,
-    "量能条件不足": 46,
     "研究品类排除": 43,
-    "低于价格门槛": 25
+    "平价或数据条件不满足": 1,
+    "低于价格门槛": 28
   },
   "failures": [
     {
@@ -247,8 +248,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-01-30",
-  "validation_start": "2026-07-29",
+  "calibration_start": "2026-01-31",
+  "validation_start": "2026-07-30",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -340,8 +341,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-06-28",
-  "rolling_signal_end": "2026-09-26",
+  "rolling_signal_start": "2026-06-29",
+  "rolling_signal_end": "2026-09-27",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {
