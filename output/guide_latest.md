@@ -1,25 +1,30 @@
 <!-- unified-system:start -->
 ## 综合决策（主结论）
 
-市场：弱势震荡；权限：数据等待，关闭新入场；研究入场满足 0 件。尚未通过买入验证。
+市场：弱势震荡；权限：仅观察；研究入场满足 0 件。尚未通过买入验证。
 
 | 商品 | 潜力 | 入场 | 状态 |
 |---|---:|---:|---|
+| 摩托手套（★）  /  第三特种兵连 (略有磨损) | 71.71 | 52.15 | 等待条件 |
+| P2000  /  手炮 (崭新出厂) | 69.82 | 46.26 | 等待条件 |
+| MAC-10  /  烧尽 (崭新出厂) | 64.91 | 17.9 | 等待条件 |
+| AUG  /  力矩 (崭新出厂) | 60.96 | 42.21 | 等待条件 |
+| AUG  /  鹰翼 (崭新出厂) | 59.75 | 31.49 | 潜力不足，继续观察 |
 
 [综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
 
 ### 底层证据与覆盖
 
-汇总时间：2026-10-29T02:50:12.476417+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+汇总时间：2026-10-29T16:55:47.342846+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
 
 | 模块 | 状态 | 数据日期／说明 |
 |---|---|---|
 | 四类传统买点全扫 | ok | 2026-10-28 |
-| 全池报价与在售 | partial | 2026-10-28T22:20:52.128914+08:00 |
+| 全池报价与在售 | partial | 2026-10-29T15:21:41.406202+08:00 |
 | 求购与大户求购排行 | ok | 2026-10-28 |
 | CSQAQ Whale辅助 | partial | 2026-10-28T18:50:12+00:00 |
-| 蓄势评分 | ok | 2026-10-27 |
-| 原版规则与ML | available | 2026-10-27 |
+| 蓄势评分 | ok | 2026-10-28 |
+| 原版规则与ML | available | 2026-10-28 |
 
 [查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
 Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
