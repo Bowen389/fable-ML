@@ -1,18 +1,21 @@
 {
   "pipeline": {
-    "ready": true,
-    "reasons": [],
-    "checked_at": "2026-10-30T17:01:25.287218+08:00",
-    "expected_quote_after": "2026-10-30T15:17:00+08:00",
+    "ready": false,
+    "reasons": [
+      "等待本时段报价发布",
+      "报价超时或时间异常"
+    ],
+    "checked_at": "2026-10-30T23:30:30.042955+08:00",
+    "expected_quote_after": "2026-10-30T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-10-29",
     "coil_asof": "2026-10-29",
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "fd84afe68e885b13fbe355a1ee7842285b216efd",
+    "fable_sha": "d652539798cdf4f0071495ed99a65d98d02e7363",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-10-30T17:01:33.952943+08:00",
+  "generated_at": "2026-10-30T23:30:43.361982+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -110,7 +113,7 @@
       ],
       "status": "partial",
       "rows": 815,
-      "age_hours": 1.5333304427777776
+      "age_hours": 8.019275754722221
     },
     "demand": {
       "status": "ok",
@@ -124,7 +127,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-10-29T18:55:51+00:00",
-      "age_hours": 14.095261485,
+      "age_hours": 20.581206734444446,
       "scan": {
         "processed": 30,
         "selected": 30,
@@ -1292,25 +1295,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "154557c5380990bd50cb43975ae1ce8443e5b867828043e890f1d58681c10b4c",
       "bytes": 66208975,
-      "fetched_at": "2026-10-30T17:01:27.155173+08:00"
+      "fetched_at": "2026-10-30T23:30:33.896566+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-10-30T17:01:27.266475+08:00"
+      "fetched_at": "2026-10-30T23:30:34.328681+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-10-30T17:01:27.294986+08:00"
+      "fetched_at": "2026-10-30T23:30:34.375336+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-10-30T17:01:27.867600+08:00"
+      "fetched_at": "2026-10-30T23:30:37.305533+08:00"
     }
   },
   "traditional_hits": [
@@ -46151,19 +46154,22 @@
   "purchase_list_requests": 0,
   "decision": {
     "pipeline": {
-      "ready": true,
-      "reasons": [],
-      "checked_at": "2026-10-30T17:01:25.287218+08:00",
-      "expected_quote_after": "2026-10-30T15:17:00+08:00",
+      "ready": false,
+      "reasons": [
+        "等待本时段报价发布",
+        "报价超时或时间异常"
+      ],
+      "checked_at": "2026-10-30T23:30:30.042955+08:00",
+      "expected_quote_after": "2026-10-30T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
       "expected_daily_asof": "2026-10-29",
       "coil_asof": "2026-10-29",
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "fd84afe68e885b13fbe355a1ee7842285b216efd",
+      "fable_sha": "d652539798cdf4f0071495ed99a65d98d02e7363",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-10-30T17:01:33.958988+08:00",
+    "generated_at": "2026-10-30T23:30:43.368146+08:00",
     "asof": "2026-10-29",
     "status": "research_only",
     "data_status": "available",
@@ -46171,14 +46177,15 @@
     "live_buy_allowed": false,
     "market": {
       "state": "止跌蓄势",
-      "permission": "仅研究试探",
+      "permission": "数据等待，关闭新入场",
       "coverage": 1030,
       "asof": "2026-10-29",
       "median_r3": -0.0008644226565686641,
       "prior_median_r3": -0.018100128915872815,
       "breadth3": 0.32815533980582523,
       "median_r7": -0.03380646348849459,
-      "basis": "排刀且满足传统扫描历史/价格条件的样本；非全市场指数；不要求7日中位数为正"
+      "basis": "排刀且满足传统扫描历史/价格条件的样本；非全市场指数；不要求7日中位数为正",
+      "technical_permission": "仅研究试探"
     },
     "monitor_rows": 815,
     "scored_rows": 632,
@@ -46190,7 +46197,7 @@
         "potential": 69.01,
         "entry": 55.43,
         "state": "等待条件",
-        "market_permission": "仅研究试探",
+        "market_permission": "数据等待，关闭新入场",
         "sector": {
           "name": "MP9",
           "samples": 21,
@@ -46233,8 +46240,9 @@
           "传统日K至少1类买点；有效求购未明显恶化"
         ],
         "blockers": [
+          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
+          "报价缺失或超过6小时",
           "可比求购厚度下降超过20%",
-          "左侧试探缺少板块修复",
           "同板块暂无其他提前蓄势分≥60的接力观察品"
         ],
         "data_notes": [],
@@ -46248,7 +46256,7 @@
         "potential": 64.26,
         "entry": 65.07,
         "state": "等待条件",
-        "market_permission": "仅研究试探",
+        "market_permission": "数据等待，关闭新入场",
         "sector": {
           "name": "FAMAS",
           "samples": 22,
@@ -46291,8 +46299,9 @@
           "传统日K至少1类买点；有效求购未明显恶化"
         ],
         "blockers": [
+          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
+          "报价缺失或超过6小时",
           "可比求购厚度下降超过20%",
-          "左侧试探缺少板块修复",
           "同板块暂无其他提前蓄势分≥60的接力观察品"
         ],
         "data_notes": [],
@@ -46306,7 +46315,7 @@
         "potential": 64.1,
         "entry": 17.81,
         "state": "等待条件",
-        "market_permission": "仅研究试探",
+        "market_permission": "数据等待，关闭新入场",
         "sector": {
           "name": "MAC-10",
           "samples": 26,
@@ -46349,8 +46358,9 @@
           "传统日K至少1类买点；有效求购未明显恶化"
         ],
         "blockers": [
+          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
+          "报价缺失或超过6小时",
           "无传统日K买点",
-          "左侧试探缺少板块修复",
           "同板块暂无其他提前蓄势分≥60的接力观察品"
         ],
         "data_notes": [
@@ -46366,7 +46376,7 @@
         "potential": 63.78,
         "entry": 36.76,
         "state": "等待条件",
-        "market_permission": "仅研究试探",
+        "market_permission": "数据等待，关闭新入场",
         "sector": {
           "name": "Tec-9",
           "samples": 25,
@@ -46409,6 +46419,8 @@
           "传统日K至少1类买点；有效求购未明显恶化"
         ],
         "blockers": [
+          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
+          "报价缺失或超过6小时",
           "价格超过入场观察上限，等待回踩",
           "无传统日K买点",
           "同板块暂无其他提前蓄势分≥60的接力观察品"
@@ -46424,7 +46436,7 @@
         "potential": 63.54,
         "entry": 48.26,
         "state": "等待条件",
-        "market_permission": "仅研究试探",
+        "market_permission": "数据等待，关闭新入场",
         "sector": {
           "name": "MP7",
           "samples": 22,
@@ -46467,9 +46479,10 @@
           "传统日K至少1类买点；有效求购未明显恶化"
         ],
         "blockers": [
+          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
+          "报价缺失或超过6小时",
           "价格超过入场观察上限，等待回踩",
           "可比求购厚度下降超过20%",
-          "左侧试探缺少板块修复",
           "同板块暂无其他提前蓄势分≥60的接力观察品"
         ],
         "data_notes": [],
