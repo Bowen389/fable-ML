@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-10-28",
-  "generated_at": "2026-10-29T16:36:31.749444+08:00",
-  "expected_completed_date": "2026-10-28",
+  "asof": "2026-10-29",
+  "generated_at": "2026-10-30T16:44:10.166083+08:00",
+  "expected_completed_date": "2026-10-29",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,8 +16,8 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 702,
-  "market_ok": false,
+  "daily_rows": 711,
+  "market_ok": true,
   "buy_validated": false,
   "production_scoring_modified": false,
   "new_requests": 0,
@@ -27,64 +27,64 @@
   "lists": {
     "sequence": [
       {
-        "name": "P2000 | Handgun (Factory New)",
-        "cn": "P2000 | 手炮 (崭新出厂)",
-        "close": 97.8,
-        "sequence": 68.48543669334182,
-        "bear_start": 80.48950573327048,
-        "early_coil": 65.88817207853779,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "MP9 | Sand Scale (Factory New)",
+        "cn": "MP9 | 砂垢 (崭新出厂)",
+        "close": 37.0,
+        "sequence": 62.17057290702334,
+        "bear_start": 68.25157033210559,
+        "early_coil": 57.49520536543108,
+        "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量19.0分；前期参与代理18.7分；支撑与空间13.3分"
+        "reasons": "持续放量17.1分；前期参与代理13.9分；量价台阶13.0分"
       },
       {
-        "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-        "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-        "close": 699.9,
-        "sequence": 66.30455602006779,
-        "bear_start": 72.18686659899825,
-        "early_coil": 65.84315190907398,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "AUG | Random Access (Factory New)",
+        "cn": "AUG | 随机存取 (崭新出厂)",
+        "close": 64.88,
+        "sequence": 59.15722580871946,
+        "bear_start": 49.24486111442026,
+        "early_coil": 63.95034271206863,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理14.3分；持续放量13.1分；量价台阶12.2分"
+        "reasons": "前期参与代理17.7分；支撑与空间12.5分；量价台阶10.7分"
+      },
+      {
+        "name": "FAMAS | Mecha Industries (Factory New)",
+        "cn": "法玛斯 | 机械工业 (崭新出厂)",
+        "close": 784.0,
+        "sequence": 55.91453026388878,
+        "bear_start": 54.6172974530225,
+        "early_coil": 60.186591848581756,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 2.4547283702213214,
+        "reasons": "前期参与代理17.7分；量价台阶12.9分；支撑与空间10.3分"
       },
       {
         "name": "AUG | Torque (Factory New)",
         "cn": "AUG | 力矩 (崭新出厂)",
         "close": 50.99,
-        "sequence": 59.80719292966262,
-        "bear_start": 49.91203402403214,
-        "early_coil": 69.37387494065672,
+        "sequence": 55.07318449593377,
+        "bear_start": 37.483284405468595,
+        "early_coil": 64.38875164630966,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "支撑与空间15.0分；缩量洗盘代理13.7分；量价台阶13.0分"
+        "reasons": "支撑与空间15.0分；缩量洗盘代理13.5分；量价台阶12.9分"
       },
       {
-        "name": "Dual Berettas | Balance (Factory New)",
-        "cn": "双持贝瑞塔 | 左右开花 (崭新出厂)",
-        "close": 42.79,
-        "sequence": 54.590366931174515,
-        "bear_start": 75.07244097312429,
-        "early_coil": 48.08932598042731,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "MAC-10 | Tatter (Factory New)",
+        "cn": "MAC-10 | 烧尽 (崭新出厂)",
+        "close": 56.68,
+        "sequence": 52.33377751977088,
+        "bear_start": 47.32226539065367,
+        "early_coil": 64.24743949367382,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "持续放量16.7分；支撑与空间12.2分；相对同类领先10.0分"
-      },
-      {
-        "name": "M4A1-S | Hot Rod (Factory New)",
-        "cn": "M4A1消音版 | 赤红新星 (崭新出厂)",
-        "close": 7399.5,
-        "sequence": 54.126090924083464,
-        "bear_start": 66.71789005077582,
-        "early_coil": 48.564261358607084,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "持续放量16.7分；支撑与空间11.4分；缩量洗盘代理10.6分"
+        "penalty": 10.0,
+        "reasons": "前期参与代理16.6分；缩量洗盘代理14.5分；支撑与空间13.2分"
       }
     ],
     "early_coil": [
@@ -92,61 +92,61 @@
         "name": "AUG | Torque (Factory New)",
         "cn": "AUG | 力矩 (崭新出厂)",
         "close": 50.99,
-        "sequence": 59.80719292966262,
-        "bear_start": 49.91203402403214,
-        "early_coil": 69.37387494065672,
+        "sequence": 55.07318449593377,
+        "bear_start": 37.483284405468595,
+        "early_coil": 64.38875164630966,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "支撑与空间15.0分；缩量洗盘代理13.7分；量价台阶13.0分"
-      },
-      {
-        "name": "P2000 | Handgun (Factory New)",
-        "cn": "P2000 | 手炮 (崭新出厂)",
-        "close": 97.8,
-        "sequence": 68.48543669334182,
-        "bear_start": 80.48950573327048,
-        "early_coil": 65.88817207853779,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "持续放量19.0分；前期参与代理18.7分；支撑与空间13.3分"
-      },
-      {
-        "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-        "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-        "close": 699.9,
-        "sequence": 66.30455602006779,
-        "bear_start": 72.18686659899825,
-        "early_coil": 65.84315190907398,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理14.3分；持续放量13.1分；量价台阶12.2分"
-      },
-      {
-        "name": "MAC-10 | Amber Fade (Factory New)",
-        "cn": "MAC-10 | 渐变琥珀 (崭新出厂)",
-        "close": 133.98,
-        "sequence": 51.100897189413956,
-        "bear_start": 47.544180683802196,
-        "early_coil": 63.61438691270679,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理17.8分；缩量洗盘代理14.5分；支撑与空间12.6分"
+        "reasons": "支撑与空间15.0分；缩量洗盘代理13.5分；量价台阶12.9分"
       },
       {
         "name": "MAC-10 | Tatter (Factory New)",
         "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "close": 57.2,
-        "sequence": 49.770650040243055,
-        "bear_start": 48.13456238814952,
-        "early_coil": 61.79137808987533,
+        "close": 56.68,
+        "sequence": 52.33377751977088,
+        "bear_start": 47.32226539065367,
+        "early_coil": 64.24743949367382,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 10.0,
+        "reasons": "前期参与代理16.6分；缩量洗盘代理14.5分；支撑与空间13.2分"
+      },
+      {
+        "name": "AUG | Random Access (Factory New)",
+        "cn": "AUG | 随机存取 (崭新出厂)",
+        "close": 64.88,
+        "sequence": 59.15722580871946,
+        "bear_start": 49.24486111442026,
+        "early_coil": 63.95034271206863,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理17.7分；支撑与空间12.5分；量价台阶10.7分"
+      },
+      {
+        "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
+        "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
+        "close": 176.04,
+        "sequence": 47.69185366382988,
+        "bear_start": 38.581051398194326,
+        "early_coil": 62.13540092614007,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 11.904761904761905,
-        "reasons": "前期参与代理17.6分；缩量洗盘代理12.9分；支撑与空间11.6分"
+        "reasons": "前期参与代理19.4分；缩量洗盘代理19.0分；支撑与空间13.6分"
+      },
+      {
+        "name": "CZ75-Auto | Tread Plate (Factory New)",
+        "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
+        "close": 45.68,
+        "sequence": 48.79619601448033,
+        "bear_start": 45.09930672569062,
+        "early_coil": 61.812074586568386,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.4分；缩量洗盘代理13.3分；支撑与空间9.8分"
       }
     ]
   }
