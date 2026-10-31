@@ -5,21 +5,26 @@
 
 | 商品 | 潜力 | 入场 | 状态 |
 |---|---:|---:|---|
+| 法玛斯  /  ZX81 彩色 (崭新出厂) | 69.77 | 64.68 | 等待条件 |
+| MAC-10  /  烧尽 (崭新出厂) | 67.95 | 22.25 | 等待条件 |
+| CZ75自动型  /  花纹钢板 (崭新出厂) | 66.58 | 缺失 | 等待条件 |
+| CZ75自动型  /  梅红时刻 (崭新出厂) | 64.44 | 缺失 | 等待条件 |
+| P2000  /  坚毅大理石纹 (崭新出厂) | 61.47 | 7.16 | 等待条件 |
 
 [综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
 
 ### 底层证据与覆盖
 
-汇总时间：2026-10-31T02:29:22.010105+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+汇总时间：2026-10-31T17:24:22.924391+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
 
 | 模块 | 状态 | 数据日期／说明 |
 |---|---|---|
 | 四类传统买点全扫 | ok | 2026-10-30 |
-| 全池报价与在售 | partial | 2026-10-30T15:29:33.904667+08:00 |
+| 全池报价与在售 | stale | 2026-10-30T15:29:33.904667+08:00 |
 | 求购与大户求购排行 | ok | 2026-10-30 |
 | CSQAQ Whale辅助 | partial | 2026-10-30T18:29:21+00:00 |
-| 蓄势评分 | ok | 2026-10-29 |
-| 原版规则与ML | available | 2026-10-29 |
+| 蓄势评分 | ok | 2026-10-30 |
+| 原版规则与ML | available | 2026-10-30 |
 
 [查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
 Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
