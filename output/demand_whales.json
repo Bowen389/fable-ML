@@ -1,6 +1,6 @@
 {
   "meta": {
-    "status": "ok",
+    "status": "stale",
     "batch": "2026-10-30",
     "previous_batch": "2026-10-28",
     "monitored_items_with_snapshot": 815,
