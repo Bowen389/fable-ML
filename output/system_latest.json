@@ -5,17 +5,17 @@
       "等待本时段报价发布",
       "报价超时或时间异常"
     ],
-    "checked_at": "2026-10-31T17:24:14.250420+08:00",
-    "expected_quote_after": "2026-10-31T15:17:00+08:00",
+    "checked_at": "2026-10-31T22:59:48.744887+08:00",
+    "expected_quote_after": "2026-10-31T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-10-30",
     "coil_asof": "2026-10-30",
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "63e23d85be9a8c5eca008f26d22e48d1159d9244",
+    "fable_sha": "fac05415d9753067096dc64f7a416e1950ffbebd",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-10-31T17:24:22.924391+08:00",
+  "generated_at": "2026-10-31T22:59:56.894824+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -114,7 +114,7 @@
       ],
       "status": "stale",
       "rows": 815,
-      "age_hours": 25.91359770861111
+      "age_hours": 31.506372825555555
     },
     "demand": {
       "status": "ok",
@@ -128,7 +128,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-10-30T18:29:21+00:00",
-      "age_hours": 14.917195082777779,
+      "age_hours": 20.50996745666667,
       "scan": {
         "processed": 30,
         "selected": 30,
@@ -1435,25 +1435,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "bf99c2d2399665694ca4efe46a23b73085fad4aa5cc60d03257ee51d03b9baed",
       "bytes": 66397576,
-      "fetched_at": "2026-10-31T17:24:16.088347+08:00"
+      "fetched_at": "2026-10-31T22:59:50.912329+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-10-31T17:24:16.218647+08:00"
+      "fetched_at": "2026-10-31T22:59:51.120088+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-10-31T17:24:16.246271+08:00"
+      "fetched_at": "2026-10-31T22:59:51.162287+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-10-31T17:24:16.792914+08:00"
+      "fetched_at": "2026-10-31T22:59:52.155634+08:00"
     }
   },
   "traditional_hits": [
@@ -44673,17 +44673,17 @@
         "等待本时段报价发布",
         "报价超时或时间异常"
       ],
-      "checked_at": "2026-10-31T17:24:14.250420+08:00",
-      "expected_quote_after": "2026-10-31T15:17:00+08:00",
+      "checked_at": "2026-10-31T22:59:48.744887+08:00",
+      "expected_quote_after": "2026-10-31T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
       "expected_daily_asof": "2026-10-30",
       "coil_asof": "2026-10-30",
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "63e23d85be9a8c5eca008f26d22e48d1159d9244",
+      "fable_sha": "fac05415d9753067096dc64f7a416e1950ffbebd",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-10-31T17:24:22.930366+08:00",
+    "generated_at": "2026-10-31T22:59:56.899568+08:00",
     "asof": "2026-10-30",
     "status": "research_only",
     "data_status": "available",
