@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-10-29",
-    "generated_at": "2026-10-30T16:44:10.166083+08:00",
-    "expected_completed_date": "2026-10-29",
+    "asof": "2026-10-30",
+    "generated_at": "2026-10-31T16:33:27.459303+08:00",
+    "expected_completed_date": "2026-10-30",
     "status": "ok",
     "loaded": 773,
     "requested": 775,
@@ -98,7 +98,7 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 711,
+    "daily_rows": 712,
     "market_ok": true,
     "buy_validated": false,
     "production_scoring_modified": false,
@@ -109,126 +109,126 @@
     "lists": {
       "sequence": [
         {
-          "name": "MP9 | Sand Scale (Factory New)",
-          "cn": "MP9 | 砂垢 (崭新出厂)",
-          "close": 37.0,
-          "sequence": 62.17057290702334,
-          "bear_start": 68.25157033210559,
-          "early_coil": 57.49520536543108,
-          "shape_state": "局部形态，链条未完整",
+          "name": "FAMAS | ZX Spectron (Factory New)",
+          "cn": "法玛斯 | ZX81 彩色 (崭新出厂)",
+          "close": 142.5,
+          "sequence": 67.02365196794293,
+          "bear_start": 78.57198968726726,
+          "early_coil": 61.62357023569811,
+          "shape_state": "蓄势后量能激活代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "持续放量17.1分；前期参与代理13.9分；量价台阶13.0分"
+          "reasons": "持续放量17.7分；前期参与代理11.1分；量价台阶10.7分"
         },
         {
-          "name": "AUG | Random Access (Factory New)",
-          "cn": "AUG | 随机存取 (崭新出厂)",
-          "close": 64.88,
-          "sequence": 59.15722580871946,
-          "bear_start": 49.24486111442026,
-          "early_coil": 63.95034271206863,
-          "shape_state": "蓄势观察代理",
+          "name": "MAC-10 | Amber Fade (Factory New)",
+          "cn": "MAC-10 | 渐变琥珀 (崭新出厂)",
+          "close": 133.47,
+          "sequence": 58.9031911666993,
+          "bear_start": 65.08882576861389,
+          "early_coil": 55.996270738171376,
+          "shape_state": "蓄势后量能激活代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理17.7分；支撑与空间12.5分；量价台阶10.7分"
-        },
-        {
-          "name": "FAMAS | Mecha Industries (Factory New)",
-          "cn": "法玛斯 | 机械工业 (崭新出厂)",
-          "close": 784.0,
-          "sequence": 55.91453026388878,
-          "bear_start": 54.6172974530225,
-          "early_coil": 60.186591848581756,
-          "shape_state": "局部形态，链条未完整",
-          "coverage": 1.0,
-          "penalty": 2.4547283702213214,
-          "reasons": "前期参与代理17.7分；量价台阶12.9分；支撑与空间10.3分"
-        },
-        {
-          "name": "AUG | Torque (Factory New)",
-          "cn": "AUG | 力矩 (崭新出厂)",
-          "close": 50.99,
-          "sequence": 55.07318449593377,
-          "bear_start": 37.483284405468595,
-          "early_coil": 64.38875164630966,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "支撑与空间15.0分；缩量洗盘代理13.5分；量价台阶12.9分"
-        },
-        {
-          "name": "MAC-10 | Tatter (Factory New)",
-          "cn": "MAC-10 | 烧尽 (崭新出厂)",
-          "close": 56.68,
-          "sequence": 52.33377751977088,
-          "bear_start": 47.32226539065367,
-          "early_coil": 64.24743949367382,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 10.0,
-          "reasons": "前期参与代理16.6分；缩量洗盘代理14.5分；支撑与空间13.2分"
-        }
-      ],
-      "early_coil": [
-        {
-          "name": "AUG | Torque (Factory New)",
-          "cn": "AUG | 力矩 (崭新出厂)",
-          "close": 50.99,
-          "sequence": 55.07318449593377,
-          "bear_start": 37.483284405468595,
-          "early_coil": 64.38875164630966,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "支撑与空间15.0分；缩量洗盘代理13.5分；量价台阶12.9分"
-        },
-        {
-          "name": "MAC-10 | Tatter (Factory New)",
-          "cn": "MAC-10 | 烧尽 (崭新出厂)",
-          "close": 56.68,
-          "sequence": 52.33377751977088,
-          "bear_start": 47.32226539065367,
-          "early_coil": 64.24743949367382,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 10.0,
-          "reasons": "前期参与代理16.6分；缩量洗盘代理14.5分；支撑与空间13.2分"
-        },
-        {
-          "name": "AUG | Random Access (Factory New)",
-          "cn": "AUG | 随机存取 (崭新出厂)",
-          "close": 64.88,
-          "sequence": 59.15722580871946,
-          "bear_start": 49.24486111442026,
-          "early_coil": 63.95034271206863,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理17.7分；支撑与空间12.5分；量价台阶10.7分"
+          "reasons": "持续放量16.0分；缩量洗盘代理13.7分；支撑与空间12.5分"
         },
         {
           "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
           "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
           "close": 176.04,
-          "sequence": 47.69185366382988,
-          "bear_start": 38.581051398194326,
-          "early_coil": 62.13540092614007,
+          "sequence": 58.28014641512355,
+          "bear_start": 50.20259447959438,
+          "early_coil": 72.21960014001381,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
-          "penalty": 11.904761904761905,
-          "reasons": "前期参与代理19.4分；缩量洗盘代理19.0分；支撑与空间13.6分"
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.4分；缩量洗盘代理16.9分；支撑与空间13.6分"
         },
         {
           "name": "CZ75-Auto | Tread Plate (Factory New)",
           "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
-          "close": 45.68,
-          "sequence": 48.79619601448033,
-          "bear_start": 45.09930672569062,
-          "early_coil": 61.812074586568386,
+          "close": 44.99,
+          "sequence": 58.01518768748412,
+          "bear_start": 58.71237876962836,
+          "early_coil": 62.40295484923406,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 2.285714285714288,
+          "reasons": "前期参与代理19.4分；缩量洗盘代理13.8分；持续放量11.7分"
+        },
+        {
+          "name": "AUG | Torque (Factory New)",
+          "cn": "AUG | 力矩 (崭新出厂)",
+          "close": 50.99,
+          "sequence": 57.19547884095016,
+          "bear_start": 39.98154380516938,
+          "early_coil": 66.41635464146957,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.4分；缩量洗盘代理13.3分；支撑与空间9.8分"
+          "reasons": "支撑与空间15.0分；量价台阶14.2分；缩量洗盘代理14.1分"
+        }
+      ],
+      "early_coil": [
+        {
+          "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
+          "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
+          "close": 176.04,
+          "sequence": 58.28014641512355,
+          "bear_start": 50.20259447959438,
+          "early_coil": 72.21960014001381,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.4分；缩量洗盘代理16.9分；支撑与空间13.6分"
+        },
+        {
+          "name": "AUG | Torque (Factory New)",
+          "cn": "AUG | 力矩 (崭新出厂)",
+          "close": 50.99,
+          "sequence": 57.19547884095016,
+          "bear_start": 39.98154380516938,
+          "early_coil": 66.41635464146957,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "支撑与空间15.0分；量价台阶14.2分；缩量洗盘代理14.1分"
+        },
+        {
+          "name": "MAC-10 | Tatter (Factory New)",
+          "cn": "MAC-10 | 烧尽 (崭新出厂)",
+          "close": 54.17,
+          "sequence": 53.2029989333463,
+          "bear_start": 42.194360786195695,
+          "early_coil": 64.06620602583439,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 12.857142857142856,
+          "reasons": "前期参与代理19.9分；量价台阶14.2分；支撑与空间13.2分"
+        },
+        {
+          "name": "CZ75-Auto | Tread Plate (Factory New)",
+          "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
+          "close": 44.99,
+          "sequence": 58.01518768748412,
+          "bear_start": 58.71237876962836,
+          "early_coil": 62.40295484923406,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 2.285714285714288,
+          "reasons": "前期参与代理19.4分；缩量洗盘代理13.8分；持续放量11.7分"
+        },
+        {
+          "name": "FAMAS | ZX Spectron (Factory New)",
+          "cn": "法玛斯 | ZX81 彩色 (崭新出厂)",
+          "close": 142.5,
+          "sequence": 67.02365196794293,
+          "bear_start": 78.57198968726726,
+          "early_coil": 61.62357023569811,
+          "shape_state": "蓄势后量能激活代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "持续放量17.7分；前期参与代理11.1分；量价台阶10.7分"
         }
       ]
     }
