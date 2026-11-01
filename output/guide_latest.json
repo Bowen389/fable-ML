@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-10-30",
-    "generated_at": "2026-10-31T16:33:27.459303+08:00",
-    "expected_completed_date": "2026-10-30",
+    "asof": "2026-10-31",
+    "generated_at": "2026-11-01T17:20:09.458385+08:00",
+    "expected_completed_date": "2026-10-31",
     "status": "ok",
     "loaded": 773,
     "requested": 775,
@@ -98,8 +98,8 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 712,
-    "market_ok": true,
+    "daily_rows": 696,
+    "market_ok": false,
     "buy_validated": false,
     "production_scoring_modified": false,
     "new_requests": 0,
@@ -109,126 +109,126 @@
     "lists": {
       "sequence": [
         {
-          "name": "FAMAS | ZX Spectron (Factory New)",
-          "cn": "法玛斯 | ZX81 彩色 (崭新出厂)",
-          "close": 142.5,
-          "sequence": 67.02365196794293,
-          "bear_start": 78.57198968726726,
-          "early_coil": 61.62357023569811,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "持续放量17.7分；前期参与代理11.1分；量价台阶10.7分"
-        },
-        {
           "name": "MAC-10 | Amber Fade (Factory New)",
           "cn": "MAC-10 | 渐变琥珀 (崭新出厂)",
           "close": 133.47,
-          "sequence": 58.9031911666993,
-          "bear_start": 65.08882576861389,
-          "early_coil": 55.996270738171376,
+          "sequence": 63.64908587881807,
+          "bear_start": 75.45725674084215,
+          "early_coil": 57.658164883644616,
           "shape_state": "蓄势后量能激活代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "持续放量16.0分；缩量洗盘代理13.7分；支撑与空间12.5分"
+          "reasons": "持续放量20.0分；支撑与空间12.5分；缩量洗盘代理12.3分"
         },
         {
-          "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
-          "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
-          "close": 176.04,
-          "sequence": 58.28014641512355,
-          "bear_start": 50.20259447959438,
-          "early_coil": 72.21960014001381,
+          "name": "FAMAS | ZX Spectron (Factory New)",
+          "cn": "法玛斯 | ZX81 彩色 (崭新出厂)",
+          "close": 157.5,
+          "sequence": 59.47850563801936,
+          "bear_start": 68.82257371140291,
+          "early_coil": 56.07135078288648,
+          "shape_state": "蓄势后量能激活代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "持续放量14.6分；量价台阶12.8分；前期参与代理11.5分"
+        },
+        {
+          "name": "Five-SeveN | Anodized Gunmetal (Factory New)",
+          "cn": "FN57 | 电镀青铜 (崭新出厂)",
+          "close": 77.88,
+          "sequence": 53.912463150434,
+          "bear_start": 59.316920646194504,
+          "early_coil": 55.268577112371034,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "支撑与空间14.3分；前期参与代理11.5分；量价台阶8.8分"
+        },
+        {
+          "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+          "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
+          "close": 684.0,
+          "sequence": 53.243253248625926,
+          "bear_start": 54.26613688926044,
+          "early_coil": 63.35794090952914,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.7分；量价台阶12.9分；相对同类领先10.0分"
+        },
+        {
+          "name": "P250 | Lotus Imprint (Factory New)",
+          "cn": "P250 | 莲花印 (崭新出厂)",
+          "close": 75.8,
+          "sequence": 53.114083459966494,
+          "bear_start": 55.0316138460597,
+          "early_coil": 61.82851582668946,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.4分；缩量洗盘代理16.9分；支撑与空间13.6分"
-        },
-        {
-          "name": "CZ75-Auto | Tread Plate (Factory New)",
-          "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
-          "close": 44.99,
-          "sequence": 58.01518768748412,
-          "bear_start": 58.71237876962836,
-          "early_coil": 62.40295484923406,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 2.285714285714288,
-          "reasons": "前期参与代理19.4分；缩量洗盘代理13.8分；持续放量11.7分"
-        },
-        {
-          "name": "AUG | Torque (Factory New)",
-          "cn": "AUG | 力矩 (崭新出厂)",
-          "close": 50.99,
-          "sequence": 57.19547884095016,
-          "bear_start": 39.98154380516938,
-          "early_coil": 66.41635464146957,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "支撑与空间15.0分；量价台阶14.2分；缩量洗盘代理14.1分"
+          "reasons": "前期参与代理19.3分；支撑与空间11.4分；缩量洗盘代理10.4分"
         }
       ],
       "early_coil": [
         {
-          "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
-          "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
-          "close": 176.04,
-          "sequence": 58.28014641512355,
-          "bear_start": 50.20259447959438,
-          "early_coil": 72.21960014001381,
+          "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+          "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
+          "close": 684.0,
+          "sequence": 53.243253248625926,
+          "bear_start": 54.26613688926044,
+          "early_coil": 63.35794090952914,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.7分；量价台阶12.9分；相对同类领先10.0分"
+        },
+        {
+          "name": "MP7 | Smoking Kills (Factory New)",
+          "cn": "MP7 | 吸烟有害健康 (崭新出厂)",
+          "close": 157.8,
+          "sequence": 52.81803287831498,
+          "bear_start": 55.52713956212588,
+          "early_coil": 62.734383801147175,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.4分；缩量洗盘代理16.9分；支撑与空间13.6分"
+          "reasons": "前期参与代理19.2分；支撑与空间15.0分；缩量洗盘代理8.5分"
         },
         {
-          "name": "AUG | Torque (Factory New)",
-          "cn": "AUG | 力矩 (崭新出厂)",
-          "close": 50.99,
-          "sequence": 57.19547884095016,
-          "bear_start": 39.98154380516938,
-          "early_coil": 66.41635464146957,
+          "name": "P250 | Lotus Imprint (Factory New)",
+          "cn": "P250 | 莲花印 (崭新出厂)",
+          "close": 75.8,
+          "sequence": 53.114083459966494,
+          "bear_start": 55.0316138460597,
+          "early_coil": 61.82851582668946,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "支撑与空间15.0分；量价台阶14.2分；缩量洗盘代理14.1分"
+          "reasons": "前期参与代理19.3分；支撑与空间11.4分；缩量洗盘代理10.4分"
         },
         {
-          "name": "MAC-10 | Tatter (Factory New)",
-          "cn": "MAC-10 | 烧尽 (崭新出厂)",
-          "close": 54.17,
-          "sequence": 53.2029989333463,
-          "bear_start": 42.194360786195695,
-          "early_coil": 64.06620602583439,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 12.857142857142856,
-          "reasons": "前期参与代理19.9分；量价台阶14.2分；支撑与空间13.2分"
-        },
-        {
-          "name": "CZ75-Auto | Tread Plate (Factory New)",
-          "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
-          "close": 44.99,
-          "sequence": 58.01518768748412,
-          "bear_start": 58.71237876962836,
-          "early_coil": 62.40295484923406,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 2.285714285714288,
-          "reasons": "前期参与代理19.4分；缩量洗盘代理13.8分；持续放量11.7分"
-        },
-        {
-          "name": "FAMAS | ZX Spectron (Factory New)",
-          "cn": "法玛斯 | ZX81 彩色 (崭新出厂)",
-          "close": 142.5,
-          "sequence": 67.02365196794293,
-          "bear_start": 78.57198968726726,
-          "early_coil": 61.62357023569811,
-          "shape_state": "蓄势后量能激活代理",
+          "name": "FAMAS | Mecha Industries (Factory New)",
+          "cn": "法玛斯 | 机械工业 (崭新出厂)",
+          "close": 747.0,
+          "sequence": 52.50409727225501,
+          "bear_start": 45.88749603001944,
+          "early_coil": 61.47400563997866,
+          "shape_state": "局部形态，链条未完整",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "持续放量17.7分；前期参与代理11.1分；量价台阶10.7分"
+          "reasons": "前期参与代理16.9分；量价台阶14.6分；支撑与空间12.6分"
+        },
+        {
+          "name": "CZ75-Auto | Slalom (Factory New)",
+          "cn": "CZ75自动型 | 回转 (崭新出厂)",
+          "close": 72.0,
+          "sequence": 48.176759207450644,
+          "bear_start": 39.222001084442134,
+          "early_coil": 58.366178009459794,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 1.9047619047619044,
+          "reasons": "前期参与代理18.4分；支撑与空间12.2分；缩量洗盘代理11.8分"
         }
       ]
     }
