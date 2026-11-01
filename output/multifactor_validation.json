@@ -1,17 +1,17 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-10-31T16:31:45.601174+08:00",
-  "asof": "2026-10-30",
+  "generated_at": "2026-11-01T17:18:27.736287+08:00",
+  "asof": "2026-10-31",
   "items_requested": 773,
   "items_loaded": 716,
-  "rows": 929576,
-  "daily_rows": 648,
+  "rows": 930292,
+  "daily_rows": 637,
   "scoring_pool_status_counts": {
-    "可评分": 648,
+    "可评分": 637,
+    "量能条件不足": 46,
     "历史不足": 57,
-    "量能条件不足": 38,
     "研究品类排除": 43,
-    "低于价格门槛": 30
+    "低于价格门槛": 33
   },
   "failures": [
     {
@@ -23,11 +23,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -187,11 +187,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "P250 | Kintsugi (Factory New)",
+      "name": "P90 | Deathgaze (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "P90 | Deathgaze (Factory New)",
+      "name": "P250 | Kintsugi (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -247,8 +247,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-02-02",
-  "validation_start": "2026-08-01",
+  "calibration_start": "2026-02-03",
+  "validation_start": "2026-08-02",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -340,8 +340,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-07-01",
-  "rolling_signal_end": "2026-09-29",
+  "rolling_signal_start": "2026-07-02",
+  "rolling_signal_end": "2026-09-30",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {
