@@ -1,22 +1,22 @@
 {
-  "asof": "2026-10-25",
+  "asof": "2026-11-01",
   "status": "observational_only",
   "fee": "sell 1%; buy 0; no slippage",
   "entry": "process: next day open; decision potential: published quote",
   "exit": "entry date + 7/14 calendar days close",
   "results": [
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
+      "n": 6,
+      "mean": -0.08605164784736553,
+      "median": -0.08953058018026944,
+      "win_rate": 0.0,
       "version": "decision-potential-decision-v1",
       "top": 3,
       "horizon": 7,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "expected": 6,
+      "coverage": 1.0,
+      "signal_days": 2,
+      "pool_day_equal_mean": -0.0753457056205217
     },
     {
       "n": 0,
@@ -32,17 +32,17 @@
       "pool_day_equal_mean": null
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
+      "n": 10,
+      "mean": -0.06629482885166782,
+      "median": -0.08953058018026944,
+      "win_rate": 0.2,
       "version": "decision-potential-decision-v1",
       "top": 5,
       "horizon": 7,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "expected": 10,
+      "coverage": 1.0,
+      "signal_days": 2,
+      "pool_day_equal_mean": -0.0753457056205217
     },
     {
       "n": 0,
@@ -58,17 +58,17 @@
       "pool_day_equal_mean": null
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
+      "n": 12,
+      "mean": -0.11188759335917099,
+      "median": -0.12623698435277386,
+      "win_rate": 0.08333333333333333,
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "expected": 12,
+      "coverage": 1.0,
+      "signal_days": 4,
+      "pool_day_equal_mean": -0.07504157323179138
     },
     {
       "n": 0,
@@ -84,17 +84,17 @@
       "pool_day_equal_mean": null
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
+      "n": 20,
+      "mean": -0.10667250965003477,
+      "median": -0.11260781657113084,
+      "win_rate": 0.05,
       "version": "leader-process-score-v1",
       "top": 5,
       "horizon": 7,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "expected": 20,
+      "coverage": 1.0,
+      "signal_days": 4,
+      "pool_day_equal_mean": -0.07504157323179138
     },
     {
       "n": 0,
@@ -110,6 +110,391 @@
       "pool_day_equal_mean": null
     }
   ],
-  "details": [],
+  "details": [
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": -0.09001584786053884
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "PP-Bizon | Bamboo Print (Factory New)",
+      "net": -0.08904531250000003
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.12784899792674498
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": -0.09001584786053884
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "PP-Bizon | Bamboo Print (Factory New)",
+      "net": -0.08904531250000003
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.12784899792674498
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.06154106433677531
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Light Rail (Factory New)",
+      "net": -0.10119211324570276
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": -0.0779308510638298
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.12046315789473683
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Dual Berettas | Cobra Strike (Factory New)",
+      "net": -0.011005719838342753
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": -0.0779308510638298
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.12046315789473683
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Dual Berettas | Cobra Strike (Factory New)",
+      "net": -0.011005719838342753
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "M4A1-S | Atomic Alloy (Factory New)",
+      "net": -0.15817259842519682
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Tec-9 | Cracked Opal (Factory New)",
+      "net": 0.05118524590163931
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Glock-18 | Bunsen Burner (Factory New)",
+      "net": -0.19445083381253603
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.16963414634146334
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
+      "net": -0.04478674033149177
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Glock-18 | Bunsen Burner (Factory New)",
+      "net": -0.19445083381253603
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.16963414634146334
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
+      "net": -0.04478674033149177
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Queen Jaguar (Field-Tested)",
+      "net": -0.07355966386554624
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Glock-18 | Ironwork (Factory New)",
+      "net": -0.10475247524752485
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.1320108108108109
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.07234249999999998
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Desert Eagle | Mecha Industries (Factory New)",
+      "net": -0.1808928571428572
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.1320108108108109
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.07234249999999998
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Mecha Industries (Factory New)",
+      "net": -0.1808928571428572
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "net": -0.15282162162162172
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Queen Jaguar (Field-Tested)",
+      "net": -0.07697384006226948
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.17499999999999993
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "P250 | Black & Tan (Factory New)",
+      "net": -0.08071428571428574
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.0187829308452252
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.17499999999999993
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "P250 | Black & Tan (Factory New)",
+      "net": -0.08071428571428574
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.0187829308452252
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Mecha Industries (Factory New)",
+      "net": -0.12949242090697533
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.1374524025385312
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.16059154929577457
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.12046315789473683
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Chameleon (Factory New)",
+      "net": -0.030547169811320773
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.16059154929577457
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.12046315789473683
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Chameleon (Factory New)",
+      "net": -0.030547169811320773
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
+      "net": -0.06936366972477048
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.046382978723404356
+    }
+  ],
   "promotion_allowed": false
 }
