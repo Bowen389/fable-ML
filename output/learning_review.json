@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-01",
+  "asof": "2026-11-02",
   "status": "observational_only",
   "fee": "sell 1%; buy 0; no slippage",
   "entry": "process: next day open; decision potential: published quote",
@@ -13,9 +13,9 @@
       "version": "decision-potential-decision-v1",
       "top": 3,
       "horizon": 7,
-      "expected": 6,
-      "coverage": 1.0,
-      "signal_days": 2,
+      "expected": 9,
+      "coverage": 0.6666666666666666,
+      "signal_days": 3,
       "pool_day_equal_mean": -0.0753457056205217
     },
     {
@@ -39,9 +39,9 @@
       "version": "decision-potential-decision-v1",
       "top": 5,
       "horizon": 7,
-      "expected": 10,
-      "coverage": 1.0,
-      "signal_days": 2,
+      "expected": 15,
+      "coverage": 0.6666666666666666,
+      "signal_days": 3,
       "pool_day_equal_mean": -0.0753457056205217
     },
     {
@@ -65,9 +65,9 @@
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
-      "expected": 12,
-      "coverage": 1.0,
-      "signal_days": 4,
+      "expected": 15,
+      "coverage": 0.8,
+      "signal_days": 5,
       "pool_day_equal_mean": -0.07504157323179138
     },
     {
@@ -91,9 +91,9 @@
       "version": "leader-process-score-v1",
       "top": 5,
       "horizon": 7,
-      "expected": 20,
-      "coverage": 1.0,
-      "signal_days": 4,
+      "expected": 25,
+      "coverage": 0.8,
+      "signal_days": 5,
       "pool_day_equal_mean": -0.07504157323179138
     },
     {
@@ -238,6 +238,70 @@
       "horizon": 7,
       "name": "Tec-9 | Cracked Opal (Factory New)",
       "net": 0.05118524590163931
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "USP-S | Cyrex (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": null
     },
     {
       "signal": "2026-10-20",
@@ -494,6 +558,70 @@
       "horizon": 7,
       "name": "FAMAS | Mecha Industries (Factory New)",
       "net": -0.046382978723404356
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Galil AR | Stone Cold (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Syd Mead (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Galil AR | Stone Cold (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Syd Mead (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "M4A4 | Hellish (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Jade (Field-Tested)",
+      "net": null
     }
   ],
   "promotion_allowed": false
