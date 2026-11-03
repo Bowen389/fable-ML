@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-01",
-  "generated_at": "2026-11-02T17:35:27.603164+08:00",
-  "expected_completed_date": "2026-11-01",
+  "asof": "2026-11-02",
+  "generated_at": "2026-11-03T17:39:26.499594+08:00",
+  "expected_completed_date": "2026-11-02",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,7 +16,7 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 697,
+  "daily_rows": 694,
   "market_ok": false,
   "buy_validated": false,
   "production_scoring_modified": false,
@@ -27,126 +27,126 @@
   "lists": {
     "sequence": [
       {
-        "name": "Galil AR | Urban Rubble (Factory New)",
-        "cn": "加利尔AR | 都市瓦砾 (崭新出厂)",
-        "close": 68.99,
-        "sequence": 73.52125445790898,
-        "bear_start": 72.86432772566114,
-        "early_coil": 71.94946513611966,
-        "shape_state": "局部形态，链条未完整",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理18.5分；持续放量16.0分；支撑与空间15.0分"
-      },
-      {
         "name": "MAC-10 | Tatter (Factory New)",
         "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "close": 50.42,
-        "sequence": 64.44774782240228,
-        "bear_start": 46.08631832283372,
-        "early_coil": 67.87265945818133,
+        "close": 48.92,
+        "sequence": 58.66601579022,
+        "bear_start": 41.454664495627675,
+        "early_coil": 61.01313006459105,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 10.0,
-        "reasons": "前期参与代理18.0分；量价台阶15.0分；支撑与空间15.0分"
+        "reasons": "前期参与代理18.0分；支撑与空间15.0分；量价台阶14.3分"
       },
       {
-        "name": "PP-Bizon | Antique (Factory New)",
-        "cn": "PP-野牛 | 古董枪 (崭新出厂)",
-        "close": 57.99,
-        "sequence": 56.79826455235715,
-        "bear_start": 37.19733918296705,
-        "early_coil": 63.78735079675829,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
-        "penalty": 0.0,
-        "reasons": "前期参与代理16.5分；量价台阶13.6分；支撑与空间12.5分"
-      },
-      {
-        "name": "MP9 | Arctic Tri-Tone (Factory New)",
-        "cn": "MP9 | 极寒三色 (崭新出厂)",
-        "close": 30.5,
-        "sequence": 54.10756830977196,
-        "bear_start": 53.37010871035037,
-        "early_coil": 61.49233660070165,
+        "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
+        "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
+        "close": 176.04,
+        "sequence": 54.57999501573448,
+        "bear_start": 49.22306097753301,
+        "early_coil": 67.65684475623405,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "量价台阶15.0分；支撑与空间11.2分；前期参与代理10.9分"
+        "reasons": "前期参与代理19.5分；支撑与空间13.6分；缩量洗盘代理13.3分"
       },
       {
-        "name": "G3SG1 | Stinger (Factory New)",
-        "cn": "G3SG1 | 毒刺 (崭新出厂)",
-        "close": 50.5,
-        "sequence": 53.38723191165693,
-        "bear_start": 30.36418828570679,
-        "early_coil": 64.21095468156982,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
+        "name": "Glock-18 | Water Elemental (Factory New)",
+        "cn": "格洛克18型 | 水灵 (崭新出厂)",
+        "close": 287.0,
+        "sequence": 53.96608687401904,
+        "bear_start": 45.07845087710074,
+        "early_coil": 63.02866349151212,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.2分；量价台阶15.0分；支撑与空间12.3分"
+        "reasons": "前期参与代理15.9分；量价台阶15.0分；支撑与空间13.0分"
+      },
+      {
+        "name": "M4A4 | Red DDPAT (Factory New)",
+        "cn": "M4A4 | 红色 DDPAT (崭新出厂)",
+        "close": 908.0,
+        "sequence": 52.97466795268126,
+        "bear_start": 54.77102325723405,
+        "early_coil": 57.74341497065692,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "量价台阶15.0分；前期参与代理11.9分；相对同类领先9.2分"
+      },
+      {
+        "name": "Desert Eagle | Conspiracy (Factory New)",
+        "cn": "沙漠之鹰 | 阴谋者 (崭新出厂)",
+        "close": 139.0,
+        "sequence": 52.80452340450982,
+        "bear_start": 45.47786398237127,
+        "early_coil": 61.358929257624986,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "量价台阶15.0分；前期参与代理14.7分；支撑与空间12.0分"
       }
     ],
     "early_coil": [
       {
-        "name": "Galil AR | Urban Rubble (Factory New)",
-        "cn": "加利尔AR | 都市瓦砾 (崭新出厂)",
-        "close": 68.99,
-        "sequence": 73.52125445790898,
-        "bear_start": 72.86432772566114,
-        "early_coil": 71.94946513611966,
+        "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
+        "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
+        "close": 176.04,
+        "sequence": 54.57999501573448,
+        "bear_start": 49.22306097753301,
+        "early_coil": 67.65684475623405,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.5分；支撑与空间13.6分；缩量洗盘代理13.3分"
+      },
+      {
+        "name": "AUG | Wings (Factory New)",
+        "cn": "AUG | 鹰翼 (崭新出厂)",
+        "close": 73.3,
+        "sequence": 51.66647750749129,
+        "bear_start": 52.686348731097894,
+        "early_coil": 63.360603544289745,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.3分；支撑与空间13.5分；相对同类领先8.2分"
+      },
+      {
+        "name": "USP-S | Para Green (Factory New)",
+        "cn": "USP消音版 | 绿色伞兵 (崭新出厂)",
+        "close": 198.0,
+        "sequence": 51.50968259243513,
+        "bear_start": 30.22363346888856,
+        "early_coil": 63.33977767144412,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.6分；量价台阶14.3分；支撑与空间8.4分"
+      },
+      {
+        "name": "Glock-18 | Water Elemental (Factory New)",
+        "cn": "格洛克18型 | 水灵 (崭新出厂)",
+        "close": 287.0,
+        "sequence": 53.96608687401904,
+        "bear_start": 45.07845087710074,
+        "early_coil": 63.02866349151212,
         "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.5分；持续放量16.0分；支撑与空间15.0分"
+        "reasons": "前期参与代理15.9分；量价台阶15.0分；支撑与空间13.0分"
       },
       {
-        "name": "MAC-10 | Tatter (Factory New)",
-        "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "close": 50.42,
-        "sequence": 64.44774782240228,
-        "bear_start": 46.08631832283372,
-        "early_coil": 67.87265945818133,
+        "name": "P90 | Death by Kitty (Minimal Wear)",
+        "cn": "P90 | 喵之萌杀 (略有磨损)",
+        "close": 499.0,
+        "sequence": 50.13391721053583,
+        "bear_start": 43.57168091760823,
+        "early_coil": 62.74435621687715,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
-        "penalty": 10.0,
-        "reasons": "前期参与代理18.0分；量价台阶15.0分；支撑与空间15.0分"
-      },
-      {
-        "name": "G3SG1 | Stinger (Factory New)",
-        "cn": "G3SG1 | 毒刺 (崭新出厂)",
-        "close": 50.5,
-        "sequence": 53.38723191165693,
-        "bear_start": 30.36418828570679,
-        "early_coil": 64.21095468156982,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.2分；量价台阶15.0分；支撑与空间12.3分"
-      },
-      {
-        "name": "PP-Bizon | Antique (Factory New)",
-        "cn": "PP-野牛 | 古董枪 (崭新出厂)",
-        "close": 57.99,
-        "sequence": 56.79826455235715,
-        "bear_start": 37.19733918296705,
-        "early_coil": 63.78735079675829,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
-        "penalty": 0.0,
-        "reasons": "前期参与代理16.5分；量价台阶13.6分；支撑与空间12.5分"
-      },
-      {
-        "name": "AK-47 | Green Laminate (Factory New)",
-        "cn": "AK-47 | 绿色层压板 (崭新出厂)",
-        "close": 220.8,
-        "sequence": 52.7664619272349,
-        "bear_start": 45.439694866955456,
-        "early_coil": 61.59354127086441,
-        "shape_state": "局部形态，链条未完整",
-        "coverage": 1.0,
-        "penalty": 0.4761904761903635,
-        "reasons": "前期参与代理15.7分；量价台阶15.0分；支撑与空间12.4分"
+        "reasons": "前期参与代理19.3分；支撑与空间14.5分；缩量洗盘代理11.9分"
       }
     ]
   }
