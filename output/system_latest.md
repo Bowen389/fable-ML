@@ -1,58 +1,25 @@
 # CS2 综合决策主报告
 
-生成：2026-11-03T18:36:14.557093+08:00；完整日K：2026-11-02；版本 decision-v1。
+生成：2026-11-04T00:39:58.396609+08:00；完整日K：2026-11-03；版本 decision-v1。
 
 **研究观察版，尚未通过买入验证，不自动交易。**
 
 市场：**弱势震荡**；权限：**数据等待，关闭新入场**；同日环境样本 1023。
-监控 815 件；潜力可评分 601 件；研究入场条件满足 0 件。
+监控 815 件；潜力可评分 0 件；研究入场条件满足 0 件。
 
 ## 潜力Top5及入场决策
 
 | 商品 | 潜力分 | 入场分 | 状态 | 未满足条件 |
 |---|---:|---:|---|---|
-| MAC-10 ／ 烧尽 (崭新出厂) | 66.33 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；价格超过入场观察上限，等待回踩；无传统日K买点；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| AWP ／ 灵缇 (崭新出厂) | 63.18 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；无传统日K买点；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| USP消音版 ／ 绿色伞兵 (崭新出厂) | 62.93 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；价格超过入场观察上限，等待回踩；无传统日K买点；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| 沙漠之鹰 ／ 轻轨 (崭新出厂) | 62.35 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；价格超过入场观察上限，等待回踩；无传统日K买点 |
-| CZ75自动型 ／ 梅红时刻 (崭新出厂) | 60.79 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；同商品日K位置或波动数据不足；同板块暂无其他提前蓄势分≥60的接力观察品 |
 
-**本轮等待上游：等待本时段报价发布；报价超时或时间异常。入场关闭，以下旧报价仅供带日期参考。**
+**评分数据未就绪：没有可用的同日日K潜力评分，本轮不能判断有无入场候选；不是零买点。**
+
+**本轮等待上游：等待本时段报价发布；报价超时或时间异常；等待昨日完整日K蓄势评分发布。入场关闭，以下旧报价仅供带日期参考。**
 
 ## 触发与失效
 
-**MAC-10 ／ 烧尽 (崭新出厂)**
-- 理由：前期参与代理 27.0分；量价台阶 14.3分；洗盘代理 9.4分
-- 触发：挂牌价在49.02至53.17区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 49.02；入场观察上限 53.17；失效参考 48.4（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**AWP ／ 灵缇 (崭新出厂)**
-- 理由：前期参与代理 28.3分；量价台阶 15.0分；风险质量 10.0分
-- 触发：挂牌价在2288.0至2589.16区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 2288.0；入场观察上限 2589.16；失效参考 2174.14（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**USP消音版 ／ 绿色伞兵 (崭新出厂)**
-- 理由：前期参与代理 29.3分；量价台阶 14.3分；风险质量 10.0分
-- 触发：挂牌价在196.2至215.05区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 196.2；入场观察上限 215.05；失效参考 189.79（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**沙漠之鹰 ／ 轻轨 (崭新出厂)**
-- 理由：前期参与代理 28.5分；量价台阶 15.0分；洗盘代理 10.1分
-- 触发：挂牌价在79.5至89.18区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 79.5；入场观察上限 89.18；失效参考 76.46（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**CZ75自动型 ／ 梅红时刻 (崭新出厂)**
-- 理由：前期参与代理 29.3分；洗盘代理 13.3分；风险质量 10.0分
-- 触发：补齐日K及报价
-- 参考支撑 None；入场观察上限 None；失效参考 None（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
 ## 研究入场Top5
-本轮无商品满足全部研究入场条件，潜力Top5不是买入名单。
+本轮评分数据未就绪，无法判断入场候选；请查看蓄势模块日期与任务日志。
 
 ## 学习与验证周期
 每日固定评分留档；每周检查Top3／Top5的7／14日表现；月度重训仅生成候选，不自动替换现行参数。
@@ -71,13 +38,13 @@
 
 # CS2 一体化总报告
 
-生成时间：2026-11-03T18:36:14.550775+08:00
+生成时间：2026-11-04T00:39:58.393052+08:00
 
 **原版规则、四类传统买点、蓄势分、求购与Whale分列展示；不自动下单。**
 
 | 模块 | 状态 | 数据日期／覆盖 |
 |---|---|---|
-| traditional | ok | 2026-11-02 |
+| traditional | ok | 2026-11-03 |
 | quotes | stale | 2026-10-30T15:29:33.904667+08:00 |
 | demand | stale | 2026-10-30 |
 | whale | partial | 2026-11-02T22:11:34+00:00 |
@@ -85,39 +52,39 @@
 | original | available | 2026-11-02 |
 
 ## 四类传统买点（全量扫描）
-数据日 2026-11-02；研究池 2141 件；实际扫描 1023 件；命中 110 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
+数据日 2026-11-03；研究池 2141 件；实际扫描 1023 件；命中 103 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
 | 商品 | 日K价 | 家族数 | 形态 |
 |---|---|---|---|
-| Desert Eagle  /  Mudder (Factory New) | 43.89 | 2 | 均线合一 MA5/12/21＋单针承接 |
-| FAMAS  /  Styx (Factory New) | 900.0 | 2 | 双金叉 5/12/4＋均线合一 MA5/12/21 |
-| Five-SeveN  /  Scumbria (Factory New) | 46.69 | 2 | 上影吞没＋单针承接 |
-| Souvenir AK-47  /  Safari Mesh (Factory New) | 168.0 | 2 | 均线合一 MA7/14/21＋单针承接 |
-| Souvenir AUG  /  Colony (Factory New) | 89.9 | 2 | 双金叉 12/26/9＋双金叉 5/12/4＋均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| Souvenir USP-S  /  Check Engine (Factory New) | 77.9 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
-| 'Two Times' McCoy  /  TACP Cavalry | 38.9 | 1 | 单针承接 |
-| 3rd Commando Company  /  KSK | 60.5 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| AK-47  /  Fire Serpent (Factory New) | 12958.05 | 1 | 双金叉 12/26/9 |
-| AK-47  /  Ice Coaled (Factory New) | 77.2 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Phantom Disruptor (Factory New) | 205.0 | 1 | 双金叉 5/12/4 |
-| AK-47  /  Safari Mesh (Factory New) | 31.22 | 1 | 双金叉 5/12/4 |
-| AUG  /  Daedalus (Factory New) | 34.2 | 1 | 双金叉 12/26/9 |
-| CZ75-Auto  /  Chalice (Factory New) | 2999.0 | 1 | 均线合一 MA7/14/21 |
-| CZ75-Auto  /  Green Plaid (Factory New) | 87.19 | 1 | 均线合一 MA5/12/21 |
-| D Squadron Officer  /  NZSAS | 375.5 | 1 | 均线合一 MA5/12/21 |
-| Desert Eagle  /  Hand Cannon (Factory New) | 2887.99 | 1 | 双金叉 5/12/4 |
-| Desert Eagle  /  Heat Treated (Factory New) | 192.0 | 1 | 均线合一 MA5/12/21 |
-| Desert Eagle  /  Mecha Industries (Factory New) | 138.0 | 1 | 双金叉 5/12/4 |
-| Desert Eagle  /  Night (Factory New) | 483.7 | 1 | 双金叉 5/12/4 |
-| Dragomir  /  Sabre Footsoldier | 36.9 | 1 | 双金叉 5/12/4 |
+| Desert Eagle  /  Mudder (Factory New) | 43.87 | 2 | 均线合一 MA5/12/21＋单针承接 |
+| M4A4  /  Polysoup (Factory New) | 108.3 | 2 | 双金叉 5/12/4＋上影吞没 |
+| Souvenir Desert Eagle  /  Tilted (Factory New) | 32.9 | 2 | 均线合一 MA7/14/21＋单针承接 |
+| Souvenir M4A1-S  /  Mud-Spec (Factory New) | 32.4 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| Souvenir USP-S  /  Check Engine (Factory New) | 80.0 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| ★ Driver Gloves  /  Racing Green (Minimal Wear) | 222.9 | 2 | 双金叉 12/26/9＋双金叉 5/12/4＋上影吞没 |
+| 3rd Commando Company  /  KSK | 60.5 | 1 | 均线合一 MA7/14/21 |
+| AK-47  /  Blue Laminate (Factory New) | 131.44 | 1 | 双金叉 5/12/4 |
+| AK-47  /  Ice Coaled (Factory New) | 77.4 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AK-47  /  Jaguar (Factory New) | 1929.9 | 1 | 双金叉 5/12/4 |
+| AUG  /  Momentum (Factory New) | 158.0 | 1 | 双金叉 5/12/4 |
+| AWP  /  Acheron (Factory New) | 42.74 | 1 | 双金叉 5/12/4 |
+| AWP  /  Desert Hydra (Factory New) | 7670.0 | 1 | 双金叉 5/12/4 |
+| AWP  /  Hyper Beast (Factory New) | 680.0 | 1 | 双金叉 5/12/4 |
+| AWP  /  Neo-Noir (Factory New) | 293.98 | 1 | 双金叉 12/26/9 |
+| AWP  /  Printstream (Factory New) | 887.0 | 1 | 双金叉 5/12/4 |
+| Buckshot  /  NSWC SEAL | 32.6 | 1 | 单针承接 |
+| CZ75-Auto  /  Green Plaid (Factory New) | 86.79 | 1 | 均线合一 MA5/12/21 |
+| Chef d'Escadron Rouchard  /  Gendarmerie Nationale | 97.59 | 1 | 双金叉 5/12/4 |
+| Chem-Haz Capitaine  /  Gendarmerie Nationale | 102.99 | 1 | 均线合一 MA5/12/21 |
+| Desert Eagle  /  Conspiracy (Factory New) | 141.0 | 1 | 双金叉 5/12/4 |
+| Desert Eagle  /  Heat Treated (Factory New) | 197.3 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| Dual Berettas  /  Dezastre (Factory New) | 108.7 | 1 | 双金叉 12/26/9 |
 | Dual Berettas  /  Pyre (Factory New) | 366.92 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| FAMAS  /  ZX Spectron (Factory New) | 173.9 | 1 | 单针承接 |
-| Five-SeveN  /  Nightshade (Factory New) | 59.88 | 1 | 双金叉 5/12/4 |
-| Galil AR  /  Black Sand (Factory New) | 77.2 | 1 | 双金叉 12/26/9＋双金叉 5/12/4 |
-| Galil AR  /  Rainbow Spoon (Factory New) | 145.0 | 1 | 双金叉 12/26/9 |
-| Glock-18  /  Groundwater (Factory New) | 540.0 | 1 | 单针承接 |
-| Glock-18  /  Red Tire (Factory New) | 56.0 | 1 | 均线合一 MA5/12/21 |
-| Glock-18  /  Snack Attack (Factory New) | 540.88 | 1 | 双金叉 5/12/4 |
-| Glock-18  /  Vogue (Factory New) | 55.69 | 1 | 双金叉 12/26/9 |
+| FAMAS  /  Mecha Industries (Factory New) | 725.0 | 1 | 双金叉 5/12/4 |
+| FAMAS  /  Styx (Factory New) | 912.5 | 1 | 均线合一 MA5/12/21 |
+| Five-SeveN  /  Nightshade (Factory New) | 59.75 | 1 | 双金叉 12/26/9 |
+| G3SG1  /  Stinger (Factory New) | 52.5 | 1 | 双金叉 12/26/9 |
+| Galil AR  /  Rainbow Spoon (Factory New) | 146.0 | 1 | 双金叉 5/12/4 |
+| Galil AR  /  Shattered (Factory New) | 550.0 | 1 | 均线合一 MA5/12/21 |
 完整扫描与命中：output/traditional_pool.csv、output/traditional_hits.csv；全量结果未合并到单一Glock样本。
 
 ## 悠悠求购、在售与报价
