@@ -1,18 +1,17 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-11-02T17:33:50.876118+08:00",
-  "asof": "2026-11-01",
+  "generated_at": "2026-11-03T17:38:05.469896+08:00",
+  "asof": "2026-11-02",
   "items_requested": 773,
   "items_loaded": 716,
-  "rows": 931008,
-  "daily_rows": 634,
+  "rows": 931724,
+  "daily_rows": 635,
   "scoring_pool_status_counts": {
-    "可评分": 634,
-    "量能条件不足": 48,
+    "可评分": 635,
     "历史不足": 57,
+    "量能条件不足": 45,
     "研究品类排除": 43,
-    "平价或数据条件不满足": 1,
-    "低于价格门槛": 33
+    "低于价格门槛": 36
   },
   "failures": [
     {
@@ -108,11 +107,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+      "name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
+      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -248,8 +247,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-02-04",
-  "validation_start": "2026-08-03",
+  "calibration_start": "2026-02-05",
+  "validation_start": "2026-08-04",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -341,8 +340,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-07-03",
-  "rolling_signal_end": "2026-10-01",
+  "rolling_signal_start": "2026-07-04",
+  "rolling_signal_end": "2026-10-02",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {

@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-01",
-  "generated_at": "2026-11-02T17:31:41.104178+08:00",
+  "asof": "2026-11-02",
+  "generated_at": "2026-11-03T17:35:54.089949+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -44,11 +44,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+      "name": "★ Driver Gloves | Garden (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -76,11 +76,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+      "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
+      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -92,11 +92,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Big Swell (Field-Tested)",
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "name": "★ Specialist Gloves | Big Swell (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -144,11 +144,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -476,9 +476,9 @@
   },
   "evidence_score_bands": [],
   "daily_rows": 635,
-  "historical_rows": 931008,
+  "historical_rows": 931724,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-01",
+  "expected_completed_date": "2026-11-02",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
