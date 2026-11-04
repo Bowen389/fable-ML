@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T19:58:14+00:00",
-  "batch_id": "37ad0f74c3a341569ed2f9e7621c90c4",
-  "since_report_at": "2026-11-02T22:11:34+00:00",
+  "generated_at": "2026-11-04T20:12:56+00:00",
+  "batch_id": "31b5a1474b9a4b26997d56d75e76b9f4",
+  "since_report_at": "2026-11-03T19:58:14+00:00",
   "comparison": "每只鲸鱼上一次成功扫描的持久快照（首扫默认只建基线）",
   "date_floor_not_cursor": "2026-09-20",
-  "new_event_rows": 31,
-  "new_occurrences": 31,
+  "new_event_rows": 44,
+  "new_occurrences": 44,
   "scan": {
     "processed": 30,
     "selected": 30,
@@ -13,39 +13,16 @@
     "failed": [],
     "recovered_unpublished": 0,
     "coverage_risk": [],
-    "api_requests": 49
+    "api_requests": 44
   },
   "frequency": {
     "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",
     "event_start_date_floor": "2026-09-20",
-    "covered_goods_new": 25,
+    "covered_goods_new": 35,
     "bucket": "day",
     "min_whales": 2,
-    "resonance": [
-      {
-        "good_id": "1296",
-        "name": "M4A4 | 喧嚣杀戮 (久经沙场)",
-        "events": 4,
-        "items": 8.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198994382242",
-          "76561199510021975"
-        ]
-      },
-      {
-        "good_id": "21692",
-        "name": "AWP | 灵缇 (略有磨损)",
-        "events": 2,
-        "items": 5.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198312718681",
-          "76561198817404530"
-        ]
-      }
-    ],
+    "resonance": [],
     "same_window": []
   },
-  "archived_now": 31
+  "archived_now": 44
 }

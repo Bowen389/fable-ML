@@ -1,33 +1,10 @@
 {
-  "generated_at": "2026-11-03T19:58:14+00:00",
+  "generated_at": "2026-11-04T20:12:56+00:00",
   "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",
   "event_start_date_floor": "2026-09-20",
-  "covered_goods_new": 25,
+  "covered_goods_new": 35,
   "bucket": "day",
   "min_whales": 2,
-  "resonance": [
-    {
-      "good_id": "1296",
-      "name": "M4A4 | 喧嚣杀戮 (久经沙场)",
-      "events": 4,
-      "items": 8.0,
-      "whale_count": 2,
-      "whale_ids": [
-        "76561198994382242",
-        "76561199510021975"
-      ]
-    },
-    {
-      "good_id": "21692",
-      "name": "AWP | 灵缇 (略有磨损)",
-      "events": 2,
-      "items": 5.0,
-      "whale_count": 2,
-      "whale_ids": [
-        "76561198312718681",
-        "76561198817404530"
-      ]
-    }
-  ],
+  "resonance": [],
   "same_window": []
 }
