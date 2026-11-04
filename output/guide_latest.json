@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-11-02",
-    "generated_at": "2026-11-03T17:39:26.499594+08:00",
-    "expected_completed_date": "2026-11-02",
+    "asof": "2026-11-03",
+    "generated_at": "2026-11-04T17:15:06.802168+08:00",
+    "expected_completed_date": "2026-11-03",
     "status": "ok",
     "loaded": 773,
     "requested": 775,
@@ -98,7 +98,7 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 694,
+    "daily_rows": 695,
     "market_ok": false,
     "buy_validated": false,
     "production_scoring_modified": false,
@@ -109,126 +109,126 @@
     "lists": {
       "sequence": [
         {
-          "name": "MAC-10 | Tatter (Factory New)",
-          "cn": "MAC-10 | 烧尽 (崭新出厂)",
-          "close": 48.92,
-          "sequence": 58.66601579022,
-          "bear_start": 41.454664495627675,
-          "early_coil": 61.01313006459105,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 10.0,
-          "reasons": "前期参与代理18.0分；支撑与空间15.0分；量价台阶14.3分"
-        },
-        {
-          "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
-          "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
-          "close": 176.04,
-          "sequence": 54.57999501573448,
-          "bear_start": 49.22306097753301,
-          "early_coil": 67.65684475623405,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理19.5分；支撑与空间13.6分；缩量洗盘代理13.3分"
-        },
-        {
-          "name": "Glock-18 | Water Elemental (Factory New)",
-          "cn": "格洛克18型 | 水灵 (崭新出厂)",
-          "close": 287.0,
-          "sequence": 53.96608687401904,
-          "bear_start": 45.07845087710074,
-          "early_coil": 63.02866349151212,
-          "shape_state": "局部形态，链条未完整",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理15.9分；量价台阶15.0分；支撑与空间13.0分"
-        },
-        {
           "name": "M4A4 | Red DDPAT (Factory New)",
           "cn": "M4A4 | 红色 DDPAT (崭新出厂)",
-          "close": 908.0,
-          "sequence": 52.97466795268126,
-          "bear_start": 54.77102325723405,
-          "early_coil": 57.74341497065692,
+          "close": 848.5,
+          "sequence": 60.840917673364714,
+          "bear_start": 71.55950298780847,
+          "early_coil": 53.86682938843188,
           "shape_state": "局部形态，链条未完整",
           "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "量价台阶15.0分；前期参与代理11.9分；相对同类领先9.2分"
+          "penalty": 10.0,
+          "reasons": "持续放量19.1分；量价台阶13.8分；前期参与代理12.3分"
         },
         {
-          "name": "Desert Eagle | Conspiracy (Factory New)",
-          "cn": "沙漠之鹰 | 阴谋者 (崭新出厂)",
-          "close": 139.0,
-          "sequence": 52.80452340450982,
-          "bear_start": 45.47786398237127,
-          "early_coil": 61.358929257624986,
+          "name": "MAC-10 | Tatter (Factory New)",
+          "cn": "MAC-10 | 烧尽 (崭新出厂)",
+          "close": 48.21,
+          "sequence": 58.73790523754535,
+          "bear_start": 41.92722585893718,
+          "early_coil": 60.900529576088616,
+          "shape_state": "蓄势后量能激活代理",
+          "coverage": 1.0,
+          "penalty": 10.0,
+          "reasons": "前期参与代理18.0分；支撑与空间14.1分；量价台阶13.1分"
+        },
+        {
+          "name": "M4A4 | Dark Operative (Factory New)",
+          "cn": "M4A4 | 暗影特工 (崭新出厂)",
+          "close": 41.9,
+          "sequence": 57.72335153008045,
+          "bear_start": 53.13809047485957,
+          "early_coil": 69.01222438762817,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理18.5分；量价台阶12.1分；支撑与空间10.6分"
+        },
+        {
+          "name": "AUG | Carved Jade (Factory New)",
+          "cn": "AUG | 璞玉 (崭新出厂)",
+          "close": 237.46,
+          "sequence": 56.81876088109315,
+          "bear_start": 47.852469655024706,
+          "early_coil": 65.35728863812628,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "量价台阶14.6分；支撑与空间14.1分；前期参与代理11.9分"
+        },
+        {
+          "name": "Tec-9 | Jambiya (Factory New)",
+          "cn": "Tec-9 | 贾姆比亚 (崭新出厂)",
+          "close": 33.89,
+          "sequence": 56.405912982464756,
+          "bear_start": 63.62470379291476,
+          "early_coil": 53.66007598974683,
           "shape_state": "局部形态，链条未完整",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "量价台阶15.0分；前期参与代理14.7分；支撑与空间12.0分"
+          "reasons": "前期参与代理14.2分；持续放量13.8分；量价台阶12.2分"
         }
       ],
       "early_coil": [
         {
+          "name": "M4A4 | Dark Operative (Factory New)",
+          "cn": "M4A4 | 暗影特工 (崭新出厂)",
+          "close": 41.9,
+          "sequence": 57.72335153008045,
+          "bear_start": 53.13809047485957,
+          "early_coil": 69.01222438762817,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理18.5分；量价台阶12.1分；支撑与空间10.6分"
+        },
+        {
+          "name": "AUG | Carved Jade (Factory New)",
+          "cn": "AUG | 璞玉 (崭新出厂)",
+          "close": 237.46,
+          "sequence": 56.81876088109315,
+          "bear_start": 47.852469655024706,
+          "early_coil": 65.35728863812628,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "量价台阶14.6分；支撑与空间14.1分；前期参与代理11.9分"
+        },
+        {
           "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
           "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
           "close": 176.04,
-          "sequence": 54.57999501573448,
-          "bear_start": 49.22306097753301,
-          "early_coil": 67.65684475623405,
+          "sequence": 51.70810530473874,
+          "bear_start": 47.00435085512673,
+          "early_coil": 64.26462045091606,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.5分；支撑与空间13.6分；缩量洗盘代理13.3分"
+          "reasons": "前期参与代理17.6分；缩量洗盘代理15.0分；支撑与空间13.3分"
         },
         {
-          "name": "AUG | Wings (Factory New)",
-          "cn": "AUG | 鹰翼 (崭新出厂)",
-          "close": 73.3,
-          "sequence": 51.66647750749129,
-          "bear_start": 52.686348731097894,
-          "early_coil": 63.360603544289745,
+          "name": "Desert Eagle | Conspiracy (Factory New)",
+          "cn": "沙漠之鹰 | 阴谋者 (崭新出厂)",
+          "close": 138.0,
+          "sequence": 55.00961237822747,
+          "bear_start": 51.36633497557828,
+          "early_coil": 64.24547580313674,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.3分；支撑与空间13.5分；相对同类领先8.2分"
+          "reasons": "前期参与代理15.9分；量价台阶14.1分；支撑与空间11.6分"
         },
         {
-          "name": "USP-S | Para Green (Factory New)",
-          "cn": "USP消音版 | 绿色伞兵 (崭新出厂)",
-          "close": 198.0,
-          "sequence": 51.50968259243513,
-          "bear_start": 30.22363346888856,
-          "early_coil": 63.33977767144412,
+          "name": "MP9 | Stained Glass (Factory New)",
+          "cn": "MP9 | 彩绘玻璃 (崭新出厂)",
+          "close": 759.0,
+          "sequence": 48.62931601658819,
+          "bear_start": 39.43766426827544,
+          "early_coil": 61.82017918820415,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.6分；量价台阶14.3分；支撑与空间8.4分"
-        },
-        {
-          "name": "Glock-18 | Water Elemental (Factory New)",
-          "cn": "格洛克18型 | 水灵 (崭新出厂)",
-          "close": 287.0,
-          "sequence": 53.96608687401904,
-          "bear_start": 45.07845087710074,
-          "early_coil": 63.02866349151212,
-          "shape_state": "局部形态，链条未完整",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理15.9分；量价台阶15.0分；支撑与空间13.0分"
-        },
-        {
-          "name": "P90 | Death by Kitty (Minimal Wear)",
-          "cn": "P90 | 喵之萌杀 (略有磨损)",
-          "close": 499.0,
-          "sequence": 50.13391721053583,
-          "bear_start": 43.57168091760823,
-          "early_coil": 62.74435621687715,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理19.3分；支撑与空间14.5分；缩量洗盘代理11.9分"
+          "reasons": "前期参与代理19.6分；缩量洗盘代理13.5分；支撑与空间10.3分"
         }
       ]
     }
