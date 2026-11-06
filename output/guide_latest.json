@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-11-04",
-    "generated_at": "2026-11-05T17:40:28.262882+08:00",
-    "expected_completed_date": "2026-11-04",
+    "asof": "2026-11-05",
+    "generated_at": "2026-11-06T17:30:59.253838+08:00",
+    "expected_completed_date": "2026-11-05",
     "status": "ok",
     "loaded": 773,
     "requested": 775,
@@ -98,7 +98,7 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 695,
+    "daily_rows": 689,
     "market_ok": true,
     "buy_validated": false,
     "production_scoring_modified": false,
@@ -109,126 +109,126 @@
     "lists": {
       "sequence": [
         {
-          "name": "Glock-18 | Water Elemental (Factory New)",
-          "cn": "格洛克18型 | 水灵 (崭新出厂)",
-          "close": 297.5,
-          "sequence": 76.73379687406563,
-          "bear_start": 71.53241319573141,
-          "early_coil": 75.728116230029,
+          "name": "AK-47 | Green Laminate (Factory New)",
+          "cn": "AK-47 | 绿色层压板 (崭新出厂)",
+          "close": 229.0,
+          "sequence": 68.93465091553044,
+          "bear_start": 66.13637874593098,
+          "early_coil": 64.86268567920649,
           "shape_state": "蓄势后量能激活代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理18.5分；持续放量16.6分；量价台阶14.9分"
+          "reasons": "持续放量16.9分；量价台阶15.0分；前期参与代理13.8分"
         },
         {
-          "name": "Glock-18 | Off World (Factory New)",
-          "cn": "格洛克18型 | 异星世界 (崭新出厂)",
-          "close": 44.42,
-          "sequence": 66.94595738211115,
-          "bear_start": 73.80935860490362,
-          "early_coil": 63.11155260334232,
-          "shape_state": "局部形态，链条未完整",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理18.4分；持续放量18.1分；量价台阶14.0分"
-        },
-        {
-          "name": "M4A4 | Red DDPAT (Factory New)",
-          "cn": "M4A4 | 红色 DDPAT (崭新出厂)",
-          "close": 883.99,
-          "sequence": 63.08686454157876,
-          "bear_start": 70.51969140101494,
-          "early_coil": 60.65364031279563,
-          "shape_state": "局部形态，链条未完整",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "量价台阶13.6分；前期参与代理13.5分；持续放量13.5分"
-        },
-        {
-          "name": "AK-47 | Safari Mesh (Factory New)",
-          "cn": "AK-47 | 狩猎网格 (崭新出厂)",
-          "close": 36.0,
-          "sequence": 61.9956923564107,
-          "bear_start": 70.57175346847639,
-          "early_coil": 60.64882161164436,
-          "shape_state": "局部形态，链条未完整",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理17.6分；持续放量14.4分；量价台阶12.8分"
-        },
-        {
-          "name": "M4A4 | Dark Operative (Factory New)",
-          "cn": "M4A4 | 暗影特工 (崭新出厂)",
-          "close": 41.39,
-          "sequence": 61.21789474523633,
-          "bear_start": 56.16914744920964,
-          "early_coil": 72.623711578657,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理18.3分；支撑与空间13.5分；量价台阶12.1分"
-        }
-      ],
-      "early_coil": [
-        {
-          "name": "Glock-18 | Water Elemental (Factory New)",
-          "cn": "格洛克18型 | 水灵 (崭新出厂)",
-          "close": 297.5,
-          "sequence": 76.73379687406563,
-          "bear_start": 71.53241319573141,
-          "early_coil": 75.728116230029,
+          "name": "MP7 | Cirrus (Factory New)",
+          "cn": "MP7 | 卷云 (崭新出厂)",
+          "close": 69.94,
+          "sequence": 68.15903197083718,
+          "bear_start": 76.10295658466238,
+          "early_coil": 64.09012973810856,
           "shape_state": "蓄势后量能激活代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理18.5分；持续放量16.6分；量价台阶14.9分"
+          "reasons": "持续放量16.0分；量价台阶15.0分；前期参与代理11.7分"
         },
         {
-          "name": "M4A4 | Dark Operative (Factory New)",
-          "cn": "M4A4 | 暗影特工 (崭新出厂)",
-          "close": 41.39,
-          "sequence": 61.21789474523633,
-          "bear_start": 56.16914744920964,
-          "early_coil": 72.623711578657,
+          "name": "MP7 | Ocean Foam (Factory New)",
+          "cn": "MP7 | 海之泡沫 (崭新出厂)",
+          "close": 70.0,
+          "sequence": 66.2482987943805,
+          "bear_start": 66.67628076096848,
+          "early_coil": 71.15300270829677,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理18.3分；支撑与空间13.5分；量价台阶12.1分"
+          "reasons": "前期参与代理15.0分；量价台阶14.9分；缩量洗盘代理11.7分"
         },
         {
           "name": "P250 | Iron Clad (Factory New)",
           "cn": "P250 | 铠甲 (崭新出厂)",
           "close": 39.85,
-          "sequence": 59.46029061880653,
-          "bear_start": 52.8073055622044,
-          "early_coil": 69.60096513291893,
+          "sequence": 66.11140883073318,
+          "bear_start": 57.95806328001922,
+          "early_coil": 74.23173018858252,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "缩量洗盘代理18.3分；支撑与空间14.8分；前期参与代理11.1分"
+          "reasons": "缩量洗盘代理17.4分；前期参与代理15.1分；支撑与空间14.8分"
+        },
+        {
+          "name": "M4A4 | Dark Blossom (Factory New)",
+          "cn": "M4A4 | 暗之绽放 (崭新出厂)",
+          "close": 264.5,
+          "sequence": 66.03858025842794,
+          "bear_start": 68.90544209777589,
+          "early_coil": 61.78248740678182,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "持续放量16.2分；量价台阶14.9分；前期参与代理13.5分"
+        }
+      ],
+      "early_coil": [
+        {
+          "name": "Five-SeveN | Hot Shot (Factory New)",
+          "cn": "FN57 | 热火朝天 (崭新出厂)",
+          "close": 203.93,
+          "sequence": 62.59227312518107,
+          "bear_start": 50.010273759546145,
+          "early_coil": 75.0783810218479,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.1分；支撑与空间14.7分；量价台阶11.8分"
+        },
+        {
+          "name": "P250 | Iron Clad (Factory New)",
+          "cn": "P250 | 铠甲 (崭新出厂)",
+          "close": 39.85,
+          "sequence": 66.11140883073318,
+          "bear_start": 57.95806328001922,
+          "early_coil": 74.23173018858252,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "缩量洗盘代理17.4分；前期参与代理15.1分；支撑与空间14.8分"
+        },
+        {
+          "name": "MP7 | Ocean Foam (Factory New)",
+          "cn": "MP7 | 海之泡沫 (崭新出厂)",
+          "close": 70.0,
+          "sequence": 66.2482987943805,
+          "bear_start": 66.67628076096848,
+          "early_coil": 71.15300270829677,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理15.0分；量价台阶14.9分；缩量洗盘代理11.7分"
+        },
+        {
+          "name": "M4A4 | Dark Operative (Factory New)",
+          "cn": "M4A4 | 暗影特工 (崭新出厂)",
+          "close": 41.2,
+          "sequence": 58.24885129254184,
+          "bear_start": 41.417572362804485,
+          "early_coil": 69.79133998616543,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理17.7分；支撑与空间14.8分；量价台阶12.2分"
         },
         {
           "name": "MP9 | Food Chain (Factory New)",
           "cn": "MP9 | 爆裂食物链 (崭新出厂)",
-          "close": 85.28,
-          "sequence": 57.121199564399376,
-          "bear_start": 51.877915216782625,
-          "early_coil": 68.89946032693932,
+          "close": 85.0,
+          "sequence": 55.4693176998926,
+          "bear_start": 48.45387220381156,
+          "early_coil": 65.416048798657,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理19.2分；支撑与空间13.8分；缩量洗盘代理8.7分"
-        },
-        {
-          "name": "AUG | Carved Jade (Factory New)",
-          "cn": "AUG | 璞玉 (崭新出厂)",
-          "close": 253.5,
-          "sequence": 58.96351724790409,
-          "bear_start": 53.649589847637216,
-          "early_coil": 68.15453524036243,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "量价台阶15.0分；前期参与代理13.1分；支撑与空间12.1分"
+          "penalty": 5.016611295680871,
+          "reasons": "前期参与代理19.2分；支撑与空间14.2分；缩量洗盘代理9.8分"
         }
       ]
     }
