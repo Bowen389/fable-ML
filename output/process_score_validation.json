@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-04",
-  "generated_at": "2026-11-05T17:36:53.312330+08:00",
+  "asof": "2026-11-05",
+  "generated_at": "2026-11-06T17:26:39.253282+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -96,11 +96,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "name": "★ Driver Gloves | Garden (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Garden (Field-Tested)",
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -144,19 +144,19 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
-      "error": "ValueError: Less than 300 valid history rows"
-    },
-    {
       "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
       "name": "★ Sport Gloves | Creme Pinstripe (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -475,10 +475,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 632,
-  "historical_rows": 933156,
+  "daily_rows": 628,
+  "historical_rows": 933872,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-04",
+  "expected_completed_date": "2026-11-05",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
