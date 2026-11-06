@@ -1,3 +1,35 @@
+<!-- unified-system:start -->
+## 综合决策（主结论）
+
+市场：止跌蓄势；权限：数据等待，关闭新入场；研究入场满足 0 件。尚未通过买入验证。
+
+| 商品 | 潜力 | 入场 | 状态 |
+|---|---:|---:|---|
+| AK-47  /  狩猎网格 (崭新出厂) | 75.61 | 缺失 | 等待条件 |
+| MP7  /  海之泡沫 (崭新出厂) | 74.54 | 缺失 | 等待条件 |
+| MP7  /  卷云 (崭新出厂) | 73.03 | 缺失 | 等待条件 |
+| 法玛斯  /  电子脉冲 (崭新出厂) | 70.69 | 缺失 | 等待条件 |
+| AK-47  /  绿色层压板 (崭新出厂) | 69.91 | 缺失 | 等待条件 |
+
+[综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
+
+### 底层证据与覆盖
+
+汇总时间：2026-11-06T18:24:59.856948+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+
+| 模块 | 状态 | 数据日期／说明 |
+|---|---|---|
+| 四类传统买点全扫 | ok | 2026-11-05 |
+| 全池报价与在售 | stale | 2026-10-30T15:29:33.904667+08:00 |
+| 求购与大户求购排行 | stale | 2026-10-30 |
+| CSQAQ Whale辅助 | partial | 2026-11-05T20:23:55+00:00 |
+| 蓄势评分 | ok | 2026-11-05 |
+| 原版规则与ML | available | 2026-11-05 |
+
+[查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
+Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
+<!-- unified-system:end -->
+
 # 龙头过程评分 · 每日参考与验证报告
 
 截至2026-11-05；数据716/773件；每日评分628件。
