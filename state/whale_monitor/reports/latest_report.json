@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T20:23:55+00:00",
-  "batch_id": "16706d8b033a44a6a762bf91319ee3fe",
-  "since_report_at": "2026-11-04T20:12:56+00:00",
+  "generated_at": "2026-11-06T19:47:57+00:00",
+  "batch_id": "78ec3b742dbc4cb8a994e9352ae669ae",
+  "since_report_at": "2026-11-05T20:23:55+00:00",
   "comparison": "每只鲸鱼上一次成功扫描的持久快照（首扫默认只建基线）",
   "date_floor_not_cursor": "2026-09-20",
-  "new_event_rows": 36,
-  "new_occurrences": 36,
+  "new_event_rows": 114,
+  "new_occurrences": 114,
   "scan": {
     "processed": 30,
     "selected": 30,
@@ -13,16 +13,209 @@
     "failed": [],
     "recovered_unpublished": 0,
     "coverage_risk": [],
-    "api_requests": 51
+    "api_requests": 52
   },
   "frequency": {
     "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",
     "event_start_date_floor": "2026-09-20",
-    "covered_goods_new": 31,
+    "covered_goods_new": 66,
     "bucket": "day",
     "min_whales": 2,
-    "resonance": [],
-    "same_window": []
+    "resonance": [
+      {
+        "good_id": "20838",
+        "name": "印花 | G2 Esports（全息）| 2024年上海锦标赛",
+        "events": 15,
+        "items": 194.0,
+        "whale_count": 6,
+        "whale_ids": [
+          "76561198301064286",
+          "76561198734141426",
+          "76561198786236945",
+          "76561199403616259",
+          "76561199481275276",
+          "76561199544460466"
+        ]
+      },
+      {
+        "good_id": "13786",
+        "name": "陆军中尉普里米罗 | 巴西第一营",
+        "events": 8,
+        "items": 16.0,
+        "whale_count": 3,
+        "whale_ids": [
+          "76561198285463282",
+          "76561199403616259",
+          "76561199851694051"
+        ]
+      },
+      {
+        "good_id": "6543",
+        "name": "USP消音版 | 次时代 (崭新出厂)",
+        "events": 5,
+        "items": 253.0,
+        "whale_count": 3,
+        "whale_ids": [
+          "76561198285463282",
+          "76561198323293400",
+          "76561199119785988"
+        ]
+      },
+      {
+        "good_id": "769",
+        "name": "法玛斯 | 机械工业 (崭新出厂)",
+        "events": 3,
+        "items": 49.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198323293400",
+          "76561198996179690"
+        ]
+      },
+      {
+        "good_id": "21694",
+        "name": "M4A4 | 炼狱之火 (崭新出厂)",
+        "events": 2,
+        "items": 9.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561199650613304",
+          "76561199834804999"
+        ]
+      },
+      {
+        "good_id": "22063",
+        "name": "M4A4 | 炼狱之火 (略有磨损)",
+        "events": 2,
+        "items": 7.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198431894983",
+          "76561199650613304"
+        ]
+      },
+      {
+        "good_id": "19521",
+        "name": "千瓦武器箱",
+        "events": 2,
+        "items": 2.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561199403616259",
+          "76561199834804999"
+        ]
+      },
+      {
+        "good_id": "6868",
+        "name": "驾驶手套（★） | 深红织物 (久经沙场)",
+        "events": 2,
+        "items": 2.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198996179690",
+          "76561199768710310"
+        ]
+      }
+    ],
+    "same_window": [
+      {
+        "bucket": "2026-11-03",
+        "good_id": "20838",
+        "name": "印花 | G2 Esports（全息）| 2024年上海锦标赛",
+        "events": 3,
+        "items": 33.0,
+        "whale_count": 3,
+        "whale_ids": [
+          "76561198301064286",
+          "76561198734141426",
+          "76561199481275276"
+        ]
+      },
+      {
+        "bucket": "2026-11-06",
+        "good_id": "13786",
+        "name": "陆军中尉普里米罗 | 巴西第一营",
+        "events": 3,
+        "items": 7.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561199403616259",
+          "76561199851694051"
+        ]
+      },
+      {
+        "bucket": "2026-11-06",
+        "good_id": "20838",
+        "name": "印花 | G2 Esports（全息）| 2024年上海锦标赛",
+        "events": 2,
+        "items": 11.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198734141426",
+          "76561198786236945"
+        ]
+      },
+      {
+        "bucket": "2026-11-05",
+        "good_id": "20838",
+        "name": "印花 | G2 Esports（全息）| 2024年上海锦标赛",
+        "events": 2,
+        "items": 9.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198734141426",
+          "76561199544460466"
+        ]
+      },
+      {
+        "bucket": "2026-11-04",
+        "good_id": "20838",
+        "name": "印花 | G2 Esports（全息）| 2024年上海锦标赛",
+        "events": 2,
+        "items": 22.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198734141426",
+          "76561199544460466"
+        ]
+      },
+      {
+        "bucket": "2026-11-04",
+        "good_id": "769",
+        "name": "法玛斯 | 机械工业 (崭新出厂)",
+        "events": 2,
+        "items": 9.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198323293400",
+          "76561198996179690"
+        ]
+      },
+      {
+        "bucket": "2026-11-03",
+        "good_id": "13786",
+        "name": "陆军中尉普里米罗 | 巴西第一营",
+        "events": 2,
+        "items": 2.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198285463282",
+          "76561199403616259"
+        ]
+      },
+      {
+        "bucket": "2026-11-05",
+        "good_id": "6868",
+        "name": "驾驶手套（★） | 深红织物 (久经沙场)",
+        "events": 2,
+        "items": 2.0,
+        "whale_count": 2,
+        "whale_ids": [
+          "76561198996179690",
+          "76561199768710310"
+        ]
+      }
+    ]
   },
-  "archived_now": 36
+  "archived_now": 114
 }
