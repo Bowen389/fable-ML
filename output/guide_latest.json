@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-11-05",
-    "generated_at": "2026-11-06T17:30:59.253838+08:00",
-    "expected_completed_date": "2026-11-05",
+    "asof": "2026-11-06",
+    "generated_at": "2026-11-07T16:55:31.738330+08:00",
+    "expected_completed_date": "2026-11-06",
     "status": "ok",
     "loaded": 773,
     "requested": 775,
@@ -98,7 +98,7 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 689,
+    "daily_rows": 700,
     "market_ok": true,
     "buy_validated": false,
     "production_scoring_modified": false,
@@ -109,126 +109,126 @@
     "lists": {
       "sequence": [
         {
+          "name": "P250 | Lotus Imprint (Factory New)",
+          "cn": "P250 | 莲花印 (崭新出厂)",
+          "close": 80.9,
+          "sequence": 72.57611383107245,
+          "bear_start": 81.15231352256995,
+          "early_coil": 70.88962951941407,
+          "shape_state": "蓄势后量能激活代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理19.8分；持续放量17.8分；相对同类领先9.8分"
+        },
+        {
+          "name": "Glock-18 | Ifrit Lattice (Factory New)",
+          "cn": "格洛克18型 | 火灵纹阵 (崭新出厂)",
+          "close": 80.69,
+          "sequence": 68.30247546182285,
+          "bear_start": 69.49570121012296,
+          "early_coil": 73.17081066979144,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 2.92517006802721,
+          "reasons": "前期参与代理18.6分；量价台阶13.0分；缩量洗盘代理11.4分"
+        },
+        {
+          "name": "M4A4 | Falak (Factory New)",
+          "cn": "M4A4 | 吞天巨蛇 (崭新出厂)",
+          "close": 979.5,
+          "sequence": 66.0230140788297,
+          "bear_start": 75.9837716063611,
+          "early_coil": 63.92454018242964,
+          "shape_state": "蓄势后量能激活代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "持续放量16.4分；前期参与代理15.1分；缩量洗盘代理10.6分"
+        },
+        {
           "name": "AK-47 | Green Laminate (Factory New)",
           "cn": "AK-47 | 绿色层压板 (崭新出厂)",
-          "close": 229.0,
-          "sequence": 68.93465091553044,
-          "bear_start": 66.13637874593098,
-          "early_coil": 64.86268567920649,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "持续放量16.9分；量价台阶15.0分；前期参与代理13.8分"
-        },
-        {
-          "name": "MP7 | Cirrus (Factory New)",
-          "cn": "MP7 | 卷云 (崭新出厂)",
-          "close": 69.94,
-          "sequence": 68.15903197083718,
-          "bear_start": 76.10295658466238,
-          "early_coil": 64.09012973810856,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "持续放量16.0分；量价台阶15.0分；前期参与代理11.7分"
-        },
-        {
-          "name": "MP7 | Ocean Foam (Factory New)",
-          "cn": "MP7 | 海之泡沫 (崭新出厂)",
-          "close": 70.0,
-          "sequence": 66.2482987943805,
-          "bear_start": 66.67628076096848,
-          "early_coil": 71.15300270829677,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理15.0分；量价台阶14.9分；缩量洗盘代理11.7分"
-        },
-        {
-          "name": "P250 | Iron Clad (Factory New)",
-          "cn": "P250 | 铠甲 (崭新出厂)",
-          "close": 39.85,
-          "sequence": 66.11140883073318,
-          "bear_start": 57.95806328001922,
-          "early_coil": 74.23173018858252,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "缩量洗盘代理17.4分；前期参与代理15.1分；支撑与空间14.8分"
-        },
-        {
-          "name": "M4A4 | Dark Blossom (Factory New)",
-          "cn": "M4A4 | 暗之绽放 (崭新出厂)",
-          "close": 264.5,
-          "sequence": 66.03858025842794,
-          "bear_start": 68.90544209777589,
-          "early_coil": 61.78248740678182,
+          "close": 232.0,
+          "sequence": 65.14664005758085,
+          "bear_start": 75.6679557883209,
+          "early_coil": 58.75629048385096,
           "shape_state": "局部形态，链条未完整",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "持续放量16.2分；量价台阶14.9分；前期参与代理13.5分"
+          "reasons": "持续放量18.8分；前期参与代理13.7分；量价台阶13.2分"
+        },
+        {
+          "name": "Desert Eagle | Heat Treated (Factory New)",
+          "cn": "沙漠之鹰 | 热处理 (崭新出厂)",
+          "close": 205.99,
+          "sequence": 63.59519609936294,
+          "bear_start": 76.52647310049355,
+          "early_coil": 56.62001011878526,
+          "shape_state": "局部形态，链条未完整",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "持续放量17.6分；量价台阶12.3分；相对同类领先10.0分"
         }
       ],
       "early_coil": [
         {
-          "name": "Five-SeveN | Hot Shot (Factory New)",
-          "cn": "FN57 | 热火朝天 (崭新出厂)",
-          "close": 203.93,
-          "sequence": 62.59227312518107,
-          "bear_start": 50.010273759546145,
-          "early_coil": 75.0783810218479,
+          "name": "Glock-18 | Ifrit Lattice (Factory New)",
+          "cn": "格洛克18型 | 火灵纹阵 (崭新出厂)",
+          "close": 80.69,
+          "sequence": 68.30247546182285,
+          "bear_start": 69.49570121012296,
+          "early_coil": 73.17081066979144,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理19.1分；支撑与空间14.7分；量价台阶11.8分"
+          "penalty": 2.92517006802721,
+          "reasons": "前期参与代理18.6分；量价台阶13.0分；缩量洗盘代理11.4分"
         },
         {
-          "name": "P250 | Iron Clad (Factory New)",
-          "cn": "P250 | 铠甲 (崭新出厂)",
-          "close": 39.85,
-          "sequence": 66.11140883073318,
-          "bear_start": 57.95806328001922,
-          "early_coil": 74.23173018858252,
+          "name": "MP7 | Smoking Kills (Factory New)",
+          "cn": "MP7 | 吸烟有害健康 (崭新出厂)",
+          "close": 147.47,
+          "sequence": 63.36137534431961,
+          "bear_start": 48.748890196936756,
+          "early_coil": 72.21075360891791,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "缩量洗盘代理17.4分；前期参与代理15.1分；支撑与空间14.8分"
+          "reasons": "前期参与代理19.4分；量价台阶15.0分；支撑与空间13.9分"
         },
         {
-          "name": "MP7 | Ocean Foam (Factory New)",
-          "cn": "MP7 | 海之泡沫 (崭新出厂)",
-          "close": 70.0,
-          "sequence": 66.2482987943805,
-          "bear_start": 66.67628076096848,
-          "early_coil": 71.15300270829677,
-          "shape_state": "蓄势观察代理",
+          "name": "P250 | Lotus Imprint (Factory New)",
+          "cn": "P250 | 莲花印 (崭新出厂)",
+          "close": 80.9,
+          "sequence": 72.57611383107245,
+          "bear_start": 81.15231352256995,
+          "early_coil": 70.88962951941407,
+          "shape_state": "蓄势后量能激活代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理15.0分；量价台阶14.9分；缩量洗盘代理11.7分"
-        },
-        {
-          "name": "M4A4 | Dark Operative (Factory New)",
-          "cn": "M4A4 | 暗影特工 (崭新出厂)",
-          "close": 41.2,
-          "sequence": 58.24885129254184,
-          "bear_start": 41.417572362804485,
-          "early_coil": 69.79133998616543,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理17.7分；支撑与空间14.8分；量价台阶12.2分"
+          "reasons": "前期参与代理19.8分；持续放量17.8分；相对同类领先9.8分"
         },
         {
           "name": "MP9 | Food Chain (Factory New)",
           "cn": "MP9 | 爆裂食物链 (崭新出厂)",
-          "close": 85.0,
-          "sequence": 55.4693176998926,
-          "bear_start": 48.45387220381156,
-          "early_coil": 65.416048798657,
+          "close": 87.0,
+          "sequence": 56.531472010088336,
+          "bear_start": 50.23359261013229,
+          "early_coil": 68.46773125164115,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
-          "penalty": 5.016611295680871,
-          "reasons": "前期参与代理19.2分；支撑与空间14.2分；缩量洗盘代理9.8分"
+          "penalty": 0.0,
+          "reasons": "前期参与代理20.0分；支撑与空间13.5分；量价台阶8.6分"
+        },
+        {
+          "name": "Five-SeveN | Hot Shot (Factory New)",
+          "cn": "FN57 | 热火朝天 (崭新出厂)",
+          "close": 201.73,
+          "sequence": 54.180748309308285,
+          "bear_start": 38.40024331029432,
+          "early_coil": 67.53831339069313,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 10.0,
+          "reasons": "前期参与代理19.9分；支撑与空间14.5分；缩量洗盘代理13.6分"
         }
       ]
     }
