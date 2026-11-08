@@ -23,6 +23,9 @@ NICE = {
 }
 RAW_UNITS = {'pos_7', 'pos_14', 'pos_30', 'pos_60', 'pos_90', 'bb_pctb', 'r_30_rank', 'r_7_rank', 'dd_60_rank', 'vol_30_rank',
              'streak', 'dsh_30', 'dsl_30', 'down_days_7', 'down_days_14', 'rsi_7', 'rsi_14', 'cat_code', 'dow', 'logp'}
+NICE.update(peer_n='同类有效报价数', peer_breadth1='同类当日上涨占比', peer_med_1='同类当日涨幅中位',
+            peer_code='品类编码', leader_score='同类强度分', peer_rs7='同类7日超额')
+RAW_UNITS.update({'peer_n', 'peer_code'})
 
 def fmt_cond(f, op, t):
     op = op.replace('<=', '≤').replace('>=', '≥')
@@ -85,6 +88,8 @@ def load_rules():
         for r in DEFAULT_RULES:
             r = dict(r); r['created'] = str(C.TODAY.date()); r['data_end_at_creation'] = '2026-09-22'; r['history'] = []
             rules.append(r)
+        from .leaders import reversal_rules
+        rules.extend(reversal_rules(str(C.TODAY.date())))
         save_rules(rules)
         print('已初始化规则库 state/rules.json')
     with open(RULES_PATH, encoding='utf-8') as f:

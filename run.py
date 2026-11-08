@@ -69,6 +69,9 @@ def cmd_scan(args):
     except Exception as e:
         log('ML 模型加载失败（忽略）:', e); scorer = None
     hits, near = S.scan_rules(feat, rules, last, ml_scores=scorer)
+    from cs2.leaders import leader_watch
+    leaders = leader_watch(feat, rules, last)
+    leaders.to_csv(C.P('output', 'leader_watch_latest.csv'), index=False, encoding='utf-8-sig')
     n_items = int(((feat.date == last) & feat.eligible).sum())
     show = S.sort_hits(hits).drop(columns=['_H', '_rid', '_mk'], errors='ignore')
     if show.empty: show = pd.DataFrame(columns=['规则', '状态', '饰品', '价格'])
@@ -96,6 +99,8 @@ def cmd_scan(args):
     ctx = dict(last=last, snap=snap, notes=notes, hits=hits, near=near, sig=sig, health=health, new_status=new_status if C.AUTO_UPDATE_STATUS else {},
                fetch_info=info, n_items=n_items, broad_line=broad_line, ml_note=ml_note)
     md = report.build_markdown(ctx)
+    if not leaders.empty:
+        md += '\n\n## 品类反弹龙头观察（未放行不代表买点）\n\n' + leaders.to_markdown(index=False) + '\n'
     with open(C.P('output', 'latest.md'), 'w', encoding='utf-8') as f: f.write(md)
     with open(C.P('output', 'history', f'report_{last.date()}_{C.PIPELINE_VERSION}.md'), 'w', encoding='utf-8') as f: f.write(md)
     short = report.build_short(ctx)

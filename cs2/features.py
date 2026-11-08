@@ -153,9 +153,10 @@ def build_features(df):
     for H in LAG_H:
         out[f'ex_{H}'] = (out[f'fwd_{H}'] - out['date'].map(mi.shift(-H) / mi - 1)).astype('float32')
         out[f'exL_{H}'] = (out[f'fwdL_{H}'] - out['date'].map(mi.shift(-(H + 1)) / mi.shift(-1) - 1)).astype('float32')
-    return out, mk
+    from .leaders import add_peer_features
+    return add_peer_features(out), mk
 
 
 def feature_cols(feat):
-    return [c for c in feat.columns if c not in ('name', 'cat', 'date', 'close', 'mkt_idx', 'raw_close', 'observed', 'eligible')
+    return [c for c in feat.columns if c not in ('name', 'cat', 'date', 'close', 'mkt_idx', 'raw_close', 'observed', 'eligible', 'peer_group')
             and not c.startswith(('fwd', 'ex_', 'exL_', 'mkt_fwd'))]
