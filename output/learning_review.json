@@ -1,113 +1,113 @@
 {
-  "asof": "2026-11-02",
+  "asof": "2026-11-09",
   "status": "observational_only",
   "fee": "sell 1%; buy 0; no slippage",
   "entry": "process: next day open; decision potential: published quote",
   "exit": "entry date + 7/14 calendar days close",
   "results": [
     {
-      "n": 6,
-      "mean": -0.08605164784736553,
-      "median": -0.08953058018026944,
-      "win_rate": 0.0,
+      "n": 23,
+      "mean": -0.06244228027064348,
+      "median": -0.05948656409377284,
+      "win_rate": 0.17391304347826086,
       "version": "decision-potential-decision-v1",
       "top": 3,
       "horizon": 7,
+      "expected": 24,
+      "coverage": 0.9583333333333334,
+      "signal_days": 8,
+      "pool_day_equal_mean": -0.051419698912350716
+    },
+    {
+      "n": 6,
+      "mean": -0.0386506570303376,
+      "median": -0.0716432659566098,
+      "win_rate": 0.3333333333333333,
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
       "expected": 9,
       "coverage": 0.6666666666666666,
       "signal_days": 3,
-      "pool_day_equal_mean": -0.0753457056205217
+      "pool_day_equal_mean": -0.06316920724379295
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
+      "n": 39,
+      "mean": -0.05102038867379012,
+      "median": -0.04979899497487428,
+      "win_rate": 0.23076923076923078,
       "version": "decision-potential-decision-v1",
-      "top": 3,
-      "horizon": 14,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "top": 5,
+      "horizon": 7,
+      "expected": 40,
+      "coverage": 0.975,
+      "signal_days": 8,
+      "pool_day_equal_mean": -0.051419698912350716
     },
     {
       "n": 10,
-      "mean": -0.06629482885166782,
-      "median": -0.08953058018026944,
-      "win_rate": 0.2,
+      "mean": -0.024374451194547474,
+      "median": -0.0716432659566098,
+      "win_rate": 0.4,
       "version": "decision-potential-decision-v1",
       "top": 5,
-      "horizon": 7,
+      "horizon": 14,
       "expected": 15,
       "coverage": 0.6666666666666666,
       "signal_days": 3,
-      "pool_day_equal_mean": -0.0753457056205217
+      "pool_day_equal_mean": -0.06316920724379295
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
-      "version": "decision-potential-decision-v1",
-      "top": 5,
-      "horizon": 14,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "n": 33,
+      "mean": -0.059135144467460724,
+      "median": -0.06005617977528088,
+      "win_rate": 0.18181818181818182,
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "expected": 36,
+      "coverage": 0.9166666666666666,
+      "signal_days": 12,
+      "pool_day_equal_mean": -0.05124349311375348
     },
     {
       "n": 12,
-      "mean": -0.11188759335917099,
-      "median": -0.12623698435277386,
+      "mean": -0.13343074050783754,
+      "median": -0.14062500000000006,
       "win_rate": 0.08333333333333333,
       "version": "leader-process-score-v1",
       "top": 3,
-      "horizon": 7,
+      "horizon": 14,
       "expected": 15,
       "coverage": 0.8,
       "signal_days": 5,
-      "pool_day_equal_mean": -0.07504157323179138
+      "pool_day_equal_mean": -0.08205055736328772
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
-      "version": "leader-process-score-v1",
-      "top": 3,
-      "horizon": 14,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
-    },
-    {
-      "n": 20,
-      "mean": -0.10667250965003477,
-      "median": -0.11260781657113084,
-      "win_rate": 0.05,
+      "n": 55,
+      "mean": -0.05705214792460889,
+      "median": -0.05000909388527164,
+      "win_rate": 0.14545454545454545,
       "version": "leader-process-score-v1",
       "top": 5,
       "horizon": 7,
-      "expected": 25,
-      "coverage": 0.8,
-      "signal_days": 5,
-      "pool_day_equal_mean": -0.07504157323179138
+      "expected": 60,
+      "coverage": 0.9166666666666666,
+      "signal_days": 12,
+      "pool_day_equal_mean": -0.05124349311375348
     },
     {
-      "n": 0,
-      "mean": null,
-      "median": null,
-      "win_rate": null,
+      "n": 20,
+      "mean": -0.12246741084559615,
+      "median": -0.11534857142857147,
+      "win_rate": 0.05,
       "version": "leader-process-score-v1",
       "top": 5,
       "horizon": 14,
-      "expected": 0,
-      "coverage": null,
-      "signal_days": 0,
-      "pool_day_equal_mean": null
+      "expected": 25,
+      "coverage": 0.8,
+      "signal_days": 5,
+      "pool_day_equal_mean": -0.08205055736328772
     }
   ],
   "details": [
@@ -134,6 +134,30 @@
       "horizon": 7,
       "name": "AUG | Torque (Factory New)",
       "net": -0.12784899792674498
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": 0.07733755942947718
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "PP-Bizon | Bamboo Print (Factory New)",
+      "net": -0.11070156249999996
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.16086040082930209
     },
     {
       "signal": "2026-10-23",
@@ -176,6 +200,46 @@
       "net": -0.10119211324570276
     },
     {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": 0.07733755942947718
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "PP-Bizon | Bamboo Print (Factory New)",
+      "net": -0.11070156249999996
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.16086040082930209
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.12760921366163624
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Light Rail (Factory New)",
+      "net": -0.17516683518705767
+    },
+    {
       "signal": "2026-10-24",
       "version": "decision-potential-decision-v1",
       "top": 3,
@@ -198,6 +262,30 @@
       "horizon": 7,
       "name": "Dual Berettas | Cobra Strike (Factory New)",
       "net": -0.011005719838342753
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": 0.16851595744680847
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.17361052631578955
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Dual Berettas | Cobra Strike (Factory New)",
+      "net": -0.032584969413219644
     },
     {
       "signal": "2026-10-24",
@@ -240,12 +328,52 @@
       "net": 0.05118524590163931
     },
     {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "FAMAS | Styx (Factory New)",
+      "net": 0.16851595744680847
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.17361052631578955
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Dual Berettas | Cobra Strike (Factory New)",
+      "net": -0.032584969413219644
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "M4A1-S | Atomic Alloy (Factory New)",
+      "net": -0.18149606299212606
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Tec-9 | Cracked Opal (Factory New)",
+      "net": 0.21721311475409832
+    },
+    {
       "signal": "2026-10-25",
       "version": "decision-potential-decision-v1",
       "top": 3,
       "horizon": 7,
       "name": "AUG | Torque (Factory New)",
-      "net": null
+      "net": -0.1265421052631579
     },
     {
       "signal": "2026-10-25",
@@ -253,13 +381,37 @@
       "top": 3,
       "horizon": 7,
       "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-      "net": null
+      "net": 0.09234384401476614
     },
     {
       "signal": "2026-10-25",
       "version": "decision-potential-decision-v1",
       "top": 3,
       "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.13789637305699487
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 14,
       "name": "MAC-10 | Tatter (Factory New)",
       "net": null
     },
@@ -269,7 +421,7 @@
       "top": 5,
       "horizon": 7,
       "name": "AUG | Torque (Factory New)",
-      "net": null
+      "net": -0.1265421052631579
     },
     {
       "signal": "2026-10-25",
@@ -277,7 +429,7 @@
       "top": 5,
       "horizon": 7,
       "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-      "net": null
+      "net": 0.09234384401476614
     },
     {
       "signal": "2026-10-25",
@@ -285,7 +437,7 @@
       "top": 5,
       "horizon": 7,
       "name": "MAC-10 | Tatter (Factory New)",
-      "net": null
+      "net": -0.13789637305699487
     },
     {
       "signal": "2026-10-25",
@@ -293,7 +445,7 @@
       "top": 5,
       "horizon": 7,
       "name": "USP-S | Cyrex (Factory New)",
-      "net": null
+      "net": -0.17253731343283585
     },
     {
       "signal": "2026-10-25",
@@ -301,7 +453,367 @@
       "top": 5,
       "horizon": 7,
       "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.09802835051546399
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
       "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "USP-S | Cyrex (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.16209688581314874
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.0905072011048269
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "CZ75-Auto | Emerald (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.16209688581314874
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.0905072011048269
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "CZ75-Auto | Emerald (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.13713684210526322
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.024047297297297376
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": -0.02565309734513277
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.0701023192360164
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "USP-S | Cyrex (Factory New)",
+      "net": -0.04979899497487428
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": -0.02565309734513277
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.0701023192360164
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "USP-S | Cyrex (Factory New)",
+      "net": -0.04979899497487428
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.0420356932731909
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.014380530973451267
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": -0.05948656409377284
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "P2000 | Handgun (Factory New)",
+      "net": -0.04943820224719109
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.16559615384615378
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": -0.05948656409377284
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "P2000 | Handgun (Factory New)",
+      "net": -0.04943820224719109
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.16559615384615378
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.05757142857142861
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "M4A4 | Urban DDPAT (Factory New)",
+      "net": 0.18446428571428575
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.004347826086956497
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "P2000 | Handgun (Factory New)",
+      "net": -0.026398773006134912
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.16032049036777585
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.004347826086956497
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "P2000 | Handgun (Factory New)",
+      "net": -0.026398773006134912
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": -0.16032049036777585
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.04650127475975685
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.06271428571428572
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MP9 | Sand Scale (Factory New)",
+      "net": -0.03353846153846152
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.04846331894860734
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": 0.008270309390265851
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MP9 | Sand Scale (Factory New)",
+      "net": -0.03353846153846152
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.04846331894860734
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MAC-10 | Tatter (Factory New)",
+      "net": 0.008270309390265851
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Tec-9 | Cracked Opal (Factory New)",
+      "net": 0.016756756756756586
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "decision-potential-decision-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MP7 | Cirrus (Factory New)",
+      "net": 0.0467476635514017
     },
     {
       "signal": "2026-10-20",
@@ -326,6 +838,30 @@
       "horizon": 7,
       "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
       "net": -0.04478674033149177
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Glock-18 | Bunsen Burner (Factory New)",
+      "net": -0.29123059229442216
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.20987804878048788
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
+      "net": -0.08001104972375683
     },
     {
       "signal": "2026-10-20",
@@ -368,6 +904,46 @@
       "net": -0.10475247524752485
     },
     {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Glock-18 | Bunsen Burner (Factory New)",
+      "net": -0.29123059229442216
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.20987804878048788
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
+      "net": -0.08001104972375683
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Driver Gloves | Queen Jaguar (Field-Tested)",
+      "net": -0.07655462184873951
+    },
+    {
+      "signal": "2026-10-20",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Glock-18 | Ironwork (Factory New)",
+      "net": -0.20277227722772284
+    },
+    {
       "signal": "2026-10-21",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -390,6 +966,30 @@
       "horizon": 7,
       "name": "Desert Eagle | Mecha Industries (Factory New)",
       "net": -0.1808928571428572
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.17856756756756764
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.1200000000000001
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Desert Eagle | Mecha Industries (Factory New)",
+      "net": -0.19267857142857148
     },
     {
       "signal": "2026-10-21",
@@ -432,6 +1032,46 @@
       "net": -0.07697384006226948
     },
     {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.17856756756756764
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.1200000000000001
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Mecha Industries (Factory New)",
+      "net": -0.19267857142857148
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "net": -0.09354054054054062
+    },
+    {
+      "signal": "2026-10-21",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Driver Gloves | Queen Jaguar (Field-Tested)",
+      "net": -0.07533216014078314
+    },
+    {
       "signal": "2026-10-22",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -454,6 +1094,30 @@
       "horizon": 7,
       "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
       "net": 0.0187829308452252
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.16125
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "P250 | Black & Tan (Factory New)",
+      "net": -0.11069714285714283
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.08218990120746428
     },
     {
       "signal": "2026-10-22",
@@ -496,6 +1160,46 @@
       "net": -0.1374524025385312
     },
     {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.16125
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "P250 | Black & Tan (Factory New)",
+      "net": -0.11069714285714283
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": 0.08218990120746428
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Mecha Industries (Factory New)",
+      "net": -0.12202025284609097
+    },
+    {
+      "signal": "2026-10-22",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.16078875793291025
+    },
+    {
       "signal": "2026-10-23",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -518,6 +1222,30 @@
       "horizon": 7,
       "name": "AUG | Chameleon (Factory New)",
       "net": -0.030547169811320773
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.0993788732394365
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.17361052631578955
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Chameleon (Factory New)",
+      "net": -0.06605641509433968
     },
     {
       "signal": "2026-10-23",
@@ -560,12 +1288,52 @@
       "net": -0.046382978723404356
     },
     {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.0993788732394365
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Torque (Factory New)",
+      "net": -0.17361052631578955
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Chameleon (Factory New)",
+      "net": -0.06605641509433968
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
+      "net": -0.0873834862385321
+    },
+    {
+      "signal": "2026-10-23",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.029787234042553234
+    },
+    {
       "signal": "2026-10-24",
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
       "name": "Galil AR | Stone Cold (Factory New)",
-      "net": null
+      "net": -0.19265682656826577
     },
     {
       "signal": "2026-10-24",
@@ -573,13 +1341,37 @@
       "top": 3,
       "horizon": 7,
       "name": "AUG | Random Access (Factory New)",
-      "net": null
+      "net": -0.1481915795422436
     },
     {
       "signal": "2026-10-24",
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
+      "name": "AUG | Syd Mead (Factory New)",
+      "net": -0.14071556886227554
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Galil AR | Stone Cold (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
       "name": "AUG | Syd Mead (Factory New)",
       "net": null
     },
@@ -589,7 +1381,7 @@
       "top": 5,
       "horizon": 7,
       "name": "Galil AR | Stone Cold (Factory New)",
-      "net": null
+      "net": -0.19265682656826577
     },
     {
       "signal": "2026-10-24",
@@ -597,7 +1389,7 @@
       "top": 5,
       "horizon": 7,
       "name": "AUG | Random Access (Factory New)",
-      "net": null
+      "net": -0.1481915795422436
     },
     {
       "signal": "2026-10-24",
@@ -605,7 +1397,7 @@
       "top": 5,
       "horizon": 7,
       "name": "AUG | Syd Mead (Factory New)",
-      "net": null
+      "net": -0.14071556886227554
     },
     {
       "signal": "2026-10-24",
@@ -613,7 +1405,7 @@
       "top": 5,
       "horizon": 7,
       "name": "M4A4 | Hellish (Factory New)",
-      "net": null
+      "net": -0.008110687022900742
     },
     {
       "signal": "2026-10-24",
@@ -621,6 +1413,494 @@
       "top": 5,
       "horizon": 7,
       "name": "★ Broken Fang Gloves | Jade (Field-Tested)",
+      "net": -0.03869565217391302
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Galil AR | Stone Cold (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Random Access (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Syd Mead (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "M4A4 | Hellish (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-24",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Broken Fang Gloves | Jade (Field-Tested)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.1206303724928367
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.04343708609271524
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Jade (Field-Tested)",
+      "net": -0.03755719467956464
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.1206303724928367
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.04343708609271524
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Jade (Field-Tested)",
+      "net": -0.03755719467956464
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Emerald (Minimal Wear)",
+      "net": -0.06775000000000009
+    },
+    {
+      "signal": "2026-10-25",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Broken Fang Gloves | Yellow-banded (Field-Tested)",
+      "net": -0.05000909388527164
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.037247706422018356
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Transport (Field-Tested)",
+      "net": 0.01595789473684217
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Trapper | Guerrilla Warfare",
+      "net": -0.06005617977528088
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.037247706422018356
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Transport (Field-Tested)",
+      "net": 0.01595789473684217
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Trapper | Guerrilla Warfare",
+      "net": -0.06005617977528088
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": -0.1323121047212824
+    },
+    {
+      "signal": "2026-10-26",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Bad Trip (Factory New)",
+      "net": -0.03401898734177211
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": 0.0034153761061945787
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Racing Green (Field-Tested)",
+      "net": -0.024420975965040226
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Trapper | Guerrilla Warfare",
+      "net": -0.0708413877870272
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": 0.0034153761061945787
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Racing Green (Field-Tested)",
+      "net": -0.024420975965040226
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Trapper | Guerrilla Warfare",
+      "net": -0.0708413877870272
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.02131428571428573
+    },
+    {
+      "signal": "2026-10-27",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Glock-18 | Water Elemental (Factory New)",
+      "net": 0.044414893617021445
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Transport (Field-Tested)",
+      "net": -0.0062050790608527695
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.06271428571428572
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.005049999999999888
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Transport (Field-Tested)",
+      "net": -0.0062050790608527695
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.06271428571428572
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.005049999999999888
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Racing Green (Field-Tested)",
+      "net": -0.02185762711864403
+    },
+    {
+      "signal": "2026-10-28",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
+      "net": -0.009858551221603062
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.08380462724935733
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Glock-18 | Water Elemental (Factory New)",
+      "net": -0.024365329052969398
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.01925233644859814
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Wings (Factory New)",
+      "net": -0.08380462724935733
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Glock-18 | Water Elemental (Factory New)",
+      "net": -0.024365329052969398
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.01925233644859814
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Mecha Industries (Factory New)",
+      "net": -0.0718876275510204
+    },
+    {
+      "signal": "2026-10-29",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Glock-18 | Wraiths (Factory New)",
+      "net": -0.03529395604395602
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MP9 | Sand Scale (Factory New)",
+      "net": 0.038362068965517304
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | ZX Spectron (Factory New)",
+      "net": 0.2887368421052632
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MP7 | Cirrus (Factory New)",
+      "net": 0.12186570668336216
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MP9 | Sand Scale (Factory New)",
+      "net": 0.038362068965517304
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | ZX Spectron (Factory New)",
+      "net": 0.2887368421052632
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MP7 | Cirrus (Factory New)",
+      "net": 0.12186570668336216
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.014650616559013563
+    },
+    {
+      "signal": "2026-10-30",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Random Access (Factory New)",
+      "net": 0.0657350000000001
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MP7 | Cirrus (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MP7 | Cirrus (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-10-31",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
       "net": null
     }
   ],
