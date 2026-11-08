@@ -5,12 +5,17 @@
 
 | 商品 | 潜力 | 入场 | 状态 |
 |---|---:|---:|---|
+| P250  /  莲花印 (崭新出厂) | 78.07 | 缺失 | 等待条件 |
+| MP9  /  爆裂食物链 (崭新出厂) | 71.26 | 缺失 | 等待条件 |
+| FN57  /  热火朝天 (崭新出厂) | 70.94 | 缺失 | 等待条件 |
+| USP消音版  /  绿色伞兵 (崭新出厂) | 70.43 | 缺失 | 等待条件 |
+| M4A4  /  吞天巨蛇 (崭新出厂) | 69.95 | 缺失 | 等待条件 |
 
 [综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
 
 ### 底层证据与覆盖
 
-汇总时间：2026-11-08T02:14:30.814386+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+汇总时间：2026-11-08T18:00:04.991986+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
 
 | 模块 | 状态 | 数据日期／说明 |
 |---|---|---|
@@ -18,8 +23,8 @@
 | 全池报价与在售 | stale | 2026-10-30T15:29:33.904667+08:00 |
 | 求购与大户求购排行 | stale | 2026-10-30 |
 | CSQAQ Whale辅助 | partial | 2026-11-07T18:14:30+00:00 |
-| 蓄势评分 | ok | 2026-11-06 |
-| 原版规则与ML | available | 2026-11-06 |
+| 蓄势评分 | ok | 2026-11-07 |
+| 原版规则与ML | available | 2026-11-07 |
 
 [查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
 Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
