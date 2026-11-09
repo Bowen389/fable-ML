@@ -1,58 +1,25 @@
 # CS2 综合决策主报告
 
-生成：2026-11-09T18:52:47.668744+08:00；完整日K：2026-11-08；版本 decision-v1。
+生成：2026-11-10T03:12:45.562760+08:00；完整日K：2026-11-09；版本 decision-v1。
 
 **研究观察版，尚未通过买入验证，不自动交易。**
 
-市场：**止跌蓄势**；权限：**数据等待，关闭新入场**；同日环境样本 1038。
-监控 815 件；潜力可评分 608 件；研究入场条件满足 0 件。
+市场：**止跌蓄势**；权限：**数据等待，关闭新入场**；同日环境样本 1036。
+监控 815 件；潜力可评分 0 件；研究入场条件满足 0 件。
 
 ## 潜力Top5及入场决策
 
 | 商品 | 潜力分 | 入场分 | 状态 | 未满足条件 |
 |---|---:|---:|---|---|
-| M4A4 ／ 暗影特工 (崭新出厂) | 75.8 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；价格超过入场观察上限，等待回踩；无传统日K买点；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| MP9 ／ 爆裂食物链 (崭新出厂) | 67.73 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| FN57 ／ 热火朝天 (崭新出厂) | 66.65 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；价格超过入场观察上限，等待回踩；无传统日K买点；可比求购厚度下降超过20%；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| 法玛斯 ／ 黑水 (略有磨损) | 66.39 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；同商品日K位置或波动数据不足；同板块暂无其他提前蓄势分≥60的接力观察品 |
-| SSG 08 ／ 幽灵战士 (崭新出厂) | 66.35 | 缺失 | 等待条件 | 上游时序未就绪：等待本时段报价发布；报价超时或时间异常；报价缺失或超过6小时；求购缺失或批次超过1天；价格超过入场观察上限，等待回踩；无传统日K买点；可比求购厚度下降超过20%；同板块暂无其他提前蓄势分≥60的接力观察品 |
 
-**本轮等待上游：等待本时段报价发布；报价超时或时间异常。入场关闭，以下旧报价仅供带日期参考。**
+**评分数据未就绪：没有可用的同日日K潜力评分，本轮不能判断有无入场候选；不是零买点。**
+
+**本轮等待上游：等待本时段报价发布；报价超时或时间异常；等待昨日完整日K蓄势评分发布。入场关闭，以下旧报价仅供带日期参考。**
 
 ## 触发与失效
 
-**M4A4 ／ 暗影特工 (崭新出厂)**
-- 理由：前期参与代理 25.9分；持续放量 12.5分；量价台阶 11.6分
-- 触发：挂牌价在38.0至42.79区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 38.0；入场观察上限 42.79；失效参考 37.09（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**MP9 ／ 爆裂食物链 (崭新出厂)**
-- 理由：前期参与代理 29.9分；相对强度 10.0分；风险质量 10.0分
-- 触发：挂牌价在84.0至90.05区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 84.0；入场观察上限 90.05；失效参考 82.98（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**FN57 ／ 热火朝天 (崭新出厂)**
-- 理由：前期参与代理 25.9分；持续放量 15.0分；风险质量 10.0分
-- 触发：挂牌价在201.73至206.76区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 201.73；入场观察上限 206.76；失效参考 198.31（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**法玛斯 ／ 黑水 (略有磨损)**
-- 理由：前期参与代理 29.2分；量价台阶 15.0分；相对强度 10.0分
-- 触发：补齐日K及报价
-- 参考支撑 None；入场观察上限 None；失效参考 None（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
-**SSG 08 ／ 幽灵战士 (崭新出厂)**
-- 理由：前期参与代理 28.7分；量价台阶 11.2分；风险质量 10.0分
-- 触发：挂牌价在40.77至43.35区间并止跌确认；传统日K至少1类买点；有效求购未明显恶化
-- 参考支撑 40.77；入场观察上限 43.35；失效参考 39.93（支撑减0.5ATR，非成交保证）。
-- 数据缺口：仍为日K与每日求购代理
-
 ## 研究入场Top5
-本轮无商品满足全部研究入场条件，潜力Top5不是买入名单。
+本轮评分数据未就绪，无法判断入场候选；请查看蓄势模块日期与任务日志。
 
 ## 学习与验证周期
 每日固定评分留档；每周检查Top3／Top5的7／14日表现；月度重训仅生成候选，不自动替换现行参数。
@@ -71,13 +38,13 @@
 
 # CS2 一体化总报告
 
-生成时间：2026-11-09T18:52:47.662673+08:00
+生成时间：2026-11-10T03:12:45.557282+08:00
 
 **原版规则、四类传统买点、蓄势分、求购与Whale分列展示；不自动下单。**
 
 | 模块 | 状态 | 数据日期／覆盖 |
 |---|---|---|
-| traditional | ok | 2026-11-08 |
+| traditional | ok | 2026-11-09 |
 | quotes | stale | 2026-10-30T15:29:33.904667+08:00 |
 | demand | stale | 2026-10-30 |
 | whale | partial | 2026-11-08T18:24:26+00:00 |
@@ -85,39 +52,39 @@
 | original | available | 2026-11-08 |
 
 ## 四类传统买点（全量扫描）
-数据日 2026-11-08；研究池 2141 件；实际扫描 1038 件；命中 160 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
+数据日 2026-11-09；研究池 2141 件；实际扫描 1036 件；命中 128 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。
 | 商品 | 日K价 | 家族数 | 形态 |
 |---|---|---|---|
-| FAMAS  /  Styx (Factory New) | 1069.0 | 2 | 均线合一 MA5/12/21＋单针承接 |
-| FAMAS  /  Sundown (Factory New) | 734.0 | 2 | 均线合一 MA5/12/21＋单针承接 |
-| Safecracker Voltzmann  /  The Professionals | 87.9 | 2 | 双金叉 5/12/4＋单针承接 |
-| ★ Hand Wraps  /  Constrictor (Field-Tested) | 238.2 | 2 | 双金叉 5/12/4＋上影吞没 |
-| 'Medium Rare' Crasswater  /  Guerrilla Warfare | 123.49 | 1 | 双金叉 5/12/4 |
-| 1st Lieutenant Farlow  /  SWAT | 41.75 | 1 | 双金叉 12/26/9＋双金叉 5/12/4 |
-| AK-47  /  Fire Serpent (Factory New) | 12821.99 | 1 | 双金叉 5/12/4 |
+| PP-Bizon  /  Lumen (Factory New) | 32.0 | 3 | 双金叉 12/26/9＋上影吞没＋单针承接 |
+| AK-47  /  Elite Build (Factory New) | 45.89 | 2 | 均线合一 MA5/12/21＋均线合一 MA7/14/21＋单针承接 |
+| AWP  /  Elite Build (Factory New) | 369.0 | 2 | 均线合一 MA5/12/21＋单针承接 |
+| FAMAS  /  Styx (Factory New) | 1060.0 | 2 | 均线合一 MA5/12/21＋单针承接 |
+| SSG 08  /  Threat Detected (Factory New) | 123.98 | 2 | 双金叉 5/12/4＋单针承接 |
+| Souvenir AWP  /  Crakow! (Factory New) | 1450.0 | 2 | 双金叉 5/12/4＋单针承接 |
+| Zeus x27  /  Charged Up (Factory New) | 61.59 | 2 | 双金叉 5/12/4＋单针承接 |
 | AK-47  /  Frontside Misty (Factory New) | 720.0 | 1 | 单针承接 |
-| AK-47  /  Gold Arabesque (Factory New) | 10199.5 | 1 | 双金叉 5/12/4 |
-| AK-47  /  Green Laminate (Factory New) | 242.63 | 1 | 单针承接 |
-| AK-47  /  Head Shot (Factory New) | 475.0 | 1 | 单针承接 |
-| AK-47  /  Red Laminate (Factory New) | 2946.0 | 1 | 均线合一 MA7/14/21 |
-| AK-47  /  Safari Mesh (Factory New) | 35.18 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Searing Rage (Factory New) | 114.0 | 1 | 均线合一 MA5/12/21 |
-| AK-47  /  Vulcan (Factory New) | 2889.5 | 1 | 双金叉 5/12/4 |
-| AUG  /  Chameleon (Factory New) | 508.0 | 1 | 双金叉 5/12/4 |
-| AUG  /  Eye of Zapems (Factory New) | 34.6 | 1 | 双金叉 12/26/9 |
-| AUG  /  Torque (Factory New) | 51.62 | 1 | 双金叉 5/12/4 |
-| AWP  /  CMYK (Factory New) | 2980.0 | 1 | 双金叉 12/26/9 |
-| AWP  /  Capillary (Factory New) | 42.0 | 1 | 均线合一 MA5/12/21 |
-| AWP  /  Electric Hive (Factory New) | 375.0 | 1 | 单针承接 |
-| AWP  /  Elite Build (Factory New) | 375.0 | 1 | 单针承接 |
-| AWP  /  LongDog (Factory New) | 2429.0 | 1 | 双金叉 12/26/9 |
-| AWP  /  Sun in Leo (Factory New) | 306.5 | 1 | 单针承接 |
-| Aspirant  /  Gendarmerie Nationale | 49.0 | 1 | 双金叉 12/26/9 |
-| CZ75-Auto  /  Eco (Factory New) | 84.5 | 1 | 均线合一 MA5/12/21 |
-| CZ75-Auto  /  Tread Plate (Factory New) | 44.99 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
-| Chef d'Escadron Rouchard  /  Gendarmerie Nationale | 92.36 | 1 | 双金叉 5/12/4 |
-| Chem-Haz Capitaine  /  Gendarmerie Nationale | 102.0 | 1 | 双金叉 5/12/4 |
-| Cmdr. Mae 'Dead Cold' Jamison  /  SWAT | 73.55 | 1 | 单针承接 |
+| AK-47  /  Head Shot (Factory New) | 474.5 | 1 | 单针承接 |
+| AK-47  /  Searing Rage (Factory New) | 113.5 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| AK-47  /  Steel Delta (Factory New) | 52.4 | 1 | 均线合一 MA5/12/21 |
+| AUG  /  Death by Puppy (Factory New) | 41.49 | 1 | 单针承接 |
+| AWP  /  BOOM (Factory New) | 2298.0 | 1 | 均线合一 MA5/12/21 |
+| AWP  /  Capillary (Factory New) | 42.38 | 1 | 均线合一 MA5/12/21 |
+| AWP  /  Lightning Strike (Factory New) | 2683.5 | 1 | 双金叉 5/12/4 |
+| CZ75-Auto  /  Eco (Factory New) | 84.5 | 1 | 均线合一 MA5/12/21＋均线合一 MA7/14/21 |
+| CZ75-Auto  /  Polymer (Factory New) | 31.0 | 1 | 单针承接 |
+| CZ75-Auto  /  Syndicate (Factory New) | 74.3 | 1 | 单针承接 |
+| CZ75-Auto  /  Tread Plate (Factory New) | 44.99 | 1 | 均线合一 MA7/14/21 |
+| Col. Mangos Dabisi  /  Guerrilla Warfare | 127.0 | 1 | 双金叉 5/12/4 |
+| Desert Eagle  /  Code Red (Factory New) | 984.5 | 1 | 双金叉 12/26/9 |
+| Desert Eagle  /  Heat Treated (Factory New) | 207.5 | 1 | 单针承接 |
+| Desert Eagle  /  Heirloom (Factory New) | 520.0 | 1 | 单针承接 |
+| Desert Eagle  /  Kumicho Dragon (Factory New) | 351.0 | 1 | 单针承接 |
+| Desert Eagle  /  Mulberry (Factory New) | 68.6 | 1 | 双金叉 5/12/4 |
+| Desert Eagle  /  Naga (Factory New) | 142.0 | 1 | 单针承接 |
+| Dual Berettas  /  Melondrama (Factory New) | 74.9 | 1 | 双金叉 12/26/9 |
+| Dual Berettas  /  Royal Consorts (Factory New) | 141.85 | 1 | 单针承接 |
+| Elite Trapper Solman  /  Guerrilla Warfare | 141.99 | 1 | 双金叉 12/26/9 |
+| FAMAS  /  Eye of Athena (Factory New) | 220.0 | 1 | 均线合一 MA7/14/21 |
 完整扫描与命中：output/traditional_pool.csv、output/traditional_hits.csv；全量结果未合并到单一Glock样本。
 
 ## 悠悠求购、在售与报价
