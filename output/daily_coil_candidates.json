@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-08",
-  "generated_at": "2026-11-09T17:52:12.054135+08:00",
-  "expected_completed_date": "2026-11-08",
+  "asof": "2026-11-09",
+  "generated_at": "2026-11-10T17:53:22.953168+08:00",
+  "expected_completed_date": "2026-11-09",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,7 +16,7 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 697,
+  "daily_rows": 704,
   "market_ok": true,
   "buy_validated": false,
   "production_scoring_modified": false,
@@ -27,126 +27,126 @@
   "lists": {
     "sequence": [
       {
-        "name": "M4A4 | Dark Operative (Factory New)",
-        "cn": "M4A4 | 暗影特工 (崭新出厂)",
-        "close": 44.9,
-        "sequence": 69.81909340971106,
-        "bear_start": 65.56294711310201,
-        "early_coil": 68.78276901253761,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理17.3分；持续放量16.6分；量价台阶11.6分"
-      },
-      {
         "name": "Five-SeveN | Hot Shot (Factory New)",
         "cn": "FN57 | 热火朝天 (崭新出厂)",
-        "close": 206.0,
-        "sequence": 66.65346442797359,
-        "bear_start": 65.98994012152723,
-        "early_coil": 62.33363662329346,
+        "close": 215.87,
+        "sequence": 59.82572902533104,
+        "bear_start": 50.8837810124588,
+        "early_coil": 71.1971458444432,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理18.9分；量价台阶14.3分；支撑与空间12.0分"
+      },
+      {
+        "name": "M4A4 | Dark Operative (Factory New)",
+        "cn": "M4A4 | 暗影特工 (崭新出厂)",
+        "close": 44.67,
+        "sequence": 59.498058426014765,
+        "bear_start": 62.33022326140009,
+        "early_coil": 58.198062357897456,
         "shape_state": "蓄势后量能激活代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量20.0分；前期参与代理17.3分；支撑与空间13.7分"
+        "reasons": "持续放量12.8分；前期参与代理11.9分；量价台阶9.9分"
       },
       {
-        "name": "MP9 | Stained Glass (Factory New)",
-        "cn": "MP9 | 彩绘玻璃 (崭新出厂)",
-        "close": 728.0,
-        "sequence": 58.3596579853139,
-        "bear_start": 54.16306996697742,
-        "early_coil": 55.5607055122652,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "持续放量20.0分；前期参与代理19.4分；缩量洗盘代理10.1分"
-      },
-      {
-        "name": "SSG 08 | Ghost Crusader (Factory New)",
-        "cn": "SSG 08 | 幽灵战士 (崭新出厂)",
-        "close": 46.99,
-        "sequence": 57.76907283620738,
-        "bear_start": 63.504406466806714,
-        "early_coil": 59.76498459904478,
+        "name": "Glock-18 | Water Elemental (Factory New)",
+        "cn": "格洛克18型 | 水灵 (崭新出厂)",
+        "close": 362.5,
+        "sequence": 59.072534101760056,
+        "bear_start": 69.26398254167691,
+        "early_coil": 54.07163919995412,
         "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理19.1分；量价台阶11.2分；持续放量10.1分"
+        "reasons": "持续放量16.1分；量价台阶15.0分；前期参与代理12.6分"
+      },
+      {
+        "name": "P2000 | Ivory (Factory New)",
+        "cn": "P2000 | 乳白象牙 (崭新出厂)",
+        "close": 49.45,
+        "sequence": 56.90545767063104,
+        "bear_start": 47.80987657037909,
+        "early_coil": 65.4955292187075,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.4395604395604412,
+        "reasons": "缩量洗盘代理16.0分；量价台阶13.4分；支撑与空间12.6分"
       },
       {
         "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
         "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-        "close": 744.0,
-        "sequence": 57.53787546452338,
-        "bear_start": 58.982523312079,
-        "early_coil": 62.30138916683285,
+        "close": 751.0,
+        "sequence": 54.92723325531713,
+        "bear_start": 57.15307396098409,
+        "early_coil": 60.54610571513284,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "量价台阶14.5分；前期参与代理12.1分；相对同类领先9.4分"
+        "reasons": "量价台阶15.0分；前期参与代理12.4分；相对同类领先10.0分"
       }
     ],
     "early_coil": [
       {
-        "name": "M4A4 | Dark Operative (Factory New)",
-        "cn": "M4A4 | 暗影特工 (崭新出厂)",
-        "close": 44.9,
-        "sequence": 69.81909340971106,
-        "bear_start": 65.56294711310201,
-        "early_coil": 68.78276901253761,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理17.3分；持续放量16.6分；量价台阶11.6分"
-      },
-      {
-        "name": "MP9 | Food Chain (Factory New)",
-        "cn": "MP9 | 爆裂食物链 (崭新出厂)",
-        "close": 97.9,
-        "sequence": 56.35180284410069,
-        "bear_start": 58.487884570143784,
-        "early_coil": 66.07850930179069,
+        "name": "Five-SeveN | Hot Shot (Factory New)",
+        "cn": "FN57 | 热火朝天 (崭新出厂)",
+        "close": 215.87,
+        "sequence": 59.82572902533104,
+        "bear_start": 50.8837810124588,
+        "early_coil": 71.1971458444432,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理19.9分；相对同类领先10.0分；量价台阶8.4分"
+        "reasons": "前期参与代理18.9分；量价台阶14.3分；支撑与空间12.0分"
       },
       {
-        "name": "Five-SeveN | Hot Shot (Factory New)",
-        "cn": "FN57 | 热火朝天 (崭新出厂)",
-        "close": 206.0,
-        "sequence": 66.65346442797359,
-        "bear_start": 65.98994012152723,
-        "early_coil": 62.33363662329346,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "P2000 | Ivory (Factory New)",
+        "cn": "P2000 | 乳白象牙 (崭新出厂)",
+        "close": 49.45,
+        "sequence": 56.90545767063104,
+        "bear_start": 47.80987657037909,
+        "early_coil": 65.4955292187075,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.4395604395604412,
+        "reasons": "缩量洗盘代理16.0分；量价台阶13.4分；支撑与空间12.6分"
+      },
+      {
+        "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
+        "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
+        "close": 171.99,
+        "sequence": 50.38479851303395,
+        "bear_start": 40.875721146754955,
+        "early_coil": 63.493593409149476,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量20.0分；前期参与代理17.3分；支撑与空间13.7分"
+        "reasons": "前期参与代理19.0分；缩量洗盘代理14.3分；支撑与空间11.9分"
+      },
+      {
+        "name": "CZ75-Auto | Tread Plate (Factory New)",
+        "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
+        "close": 44.99,
+        "sequence": 50.55763516094139,
+        "bear_start": 53.437563810403724,
+        "early_coil": 62.23054073465332,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理18.2分；支撑与空间11.4分；缩量洗盘代理10.4分"
       },
       {
         "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
         "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-        "close": 744.0,
-        "sequence": 57.53787546452338,
-        "bear_start": 58.982523312079,
-        "early_coil": 62.30138916683285,
+        "close": 751.0,
+        "sequence": 54.92723325531713,
+        "bear_start": 57.15307396098409,
+        "early_coil": 60.54610571513284,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "量价台阶14.5分；前期参与代理12.1分；相对同类领先9.4分"
-      },
-      {
-        "name": "AUG | Torque (Factory New)",
-        "cn": "AUG | 力矩 (崭新出厂)",
-        "close": 51.75,
-        "sequence": 55.27606835004431,
-        "bear_start": 49.706288747201754,
-        "early_coil": 61.4174986664214,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 1.9047619047619044,
-        "reasons": "量价台阶13.7分；支撑与空间12.7分；前期参与代理12.3分"
+        "reasons": "量价台阶15.0分；前期参与代理12.4分；相对同类领先10.0分"
       }
     ]
   }
