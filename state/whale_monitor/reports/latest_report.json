@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T20:02:19+00:00",
-  "batch_id": "d7a0b9ece57e4172b34e946802a2e1a5",
-  "since_report_at": "2026-11-10T20:09:54+00:00",
+  "generated_at": "2026-11-12T20:21:06+00:00",
+  "batch_id": "87edbee6f25b4e3fb32b811f768fbe46",
+  "since_report_at": "2026-11-11T20:02:19+00:00",
   "comparison": "每只鲸鱼上一次成功扫描的持久快照（首扫默认只建基线）",
   "date_floor_not_cursor": "2026-09-20",
-  "new_event_rows": 65,
-  "new_occurrences": 65,
+  "new_event_rows": 53,
+  "new_occurrences": 53,
   "scan": {
     "processed": 30,
     "selected": 30,
@@ -13,72 +13,50 @@
     "failed": [],
     "recovered_unpublished": 0,
     "coverage_risk": [],
-    "api_requests": 48
+    "api_requests": 49
   },
   "frequency": {
     "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",
     "event_start_date_floor": "2026-09-20",
-    "covered_goods_new": 43,
+    "covered_goods_new": 39,
     "bucket": "day",
     "min_whales": 2,
     "resonance": [
       {
-        "good_id": "1296",
-        "name": "M4A4 | 喧嚣杀戮 (久经沙场)",
-        "events": 5,
-        "items": 7.0,
+        "good_id": "13493",
+        "name": "AK-47 | 抽象派 1337 (崭新出厂)",
+        "events": 2,
+        "items": 3.0,
         "whale_count": 2,
         "whale_ids": [
-          "76561198994382242",
-          "76561199510021975"
+          "76561198350621486",
+          "76561199819183239"
         ]
       },
       {
-        "good_id": "16536",
-        "name": "M4A4 | 荷鲁斯之眼 (崭新出厂)",
+        "good_id": "7377",
+        "name": "摩托手套（★） | 薄荷 (久经沙场)",
         "events": 2,
         "items": 2.0,
         "whale_count": 2,
         "whale_ids": [
-          "76561198171550670",
-          "76561198994382242"
+          "76561198808616834",
+          "76561199323579499"
         ]
       },
       {
-        "good_id": "7461",
-        "name": "专业手套（★） | 元勋 (久经沙场)",
+        "good_id": "10360",
+        "name": "沙漠之鹰 | 轻轨 (崭新出厂)",
         "events": 2,
-        "items": 2.0,
+        "items": 116.0,
         "whale_count": 2,
         "whale_ids": [
-          "76561198171550670",
-          "76561199510021975"
-        ]
-      },
-      {
-        "good_id": "7462",
-        "name": "专业手套（★） | 元勋 (略有磨损)",
-        "events": 2,
-        "items": 2.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198171550670",
-          "76561198994382242"
-        ]
-      },
-      {
-        "good_id": "9725",
-        "name": "沙漠之鹰 | 机械工业 (崭新出厂)",
-        "events": 2,
-        "items": 30.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198171550670",
-          "76561199141541273"
+          "76561198424961010",
+          "76561199401240246"
         ]
       }
     ],
     "same_window": []
   },
-  "archived_now": 65
+  "archived_now": 53
 }
