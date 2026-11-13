@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-11",
-  "generated_at": "2026-11-12T17:55:28.253188+08:00",
-  "expected_completed_date": "2026-11-11",
+  "asof": "2026-11-12",
+  "generated_at": "2026-11-13T17:38:49.580935+08:00",
+  "expected_completed_date": "2026-11-12",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,8 +16,8 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 719,
-  "market_ok": false,
+  "daily_rows": 717,
+  "market_ok": true,
   "buy_validated": false,
   "production_scoring_modified": false,
   "new_requests": 0,
@@ -27,64 +27,64 @@
   "lists": {
     "sequence": [
       {
+        "name": "★ Bloodhound Gloves | Charred (Minimal Wear)",
+        "cn": "血猎手套（★） | 焦炭 (略有磨损)",
+        "close": 1399.0,
+        "sequence": 70.24487058499477,
+        "bear_start": 55.85521460384764,
+        "early_coil": 68.1599732692392,
+        "shape_state": "蓄势后量能激活代理",
+        "coverage": 0.8333333333333334,
+        "penalty": 0.0,
+        "reasons": "持续放量16.5分；前期参与代理15.9分；量价台阶15.0分"
+      },
+      {
         "name": "MAC-10 | Tatter (Factory New)",
         "cn": "MAC-10 | 烧尽 (崭新出厂)",
         "close": 56.4,
-        "sequence": 65.78601996977483,
-        "bear_start": 61.94752658618769,
-        "early_coil": 75.97765786423494,
+        "sequence": 64.40642992467986,
+        "bear_start": 65.45178026691022,
+        "early_coil": 72.79996901342716,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.3分；量价台阶14.9分；缩量洗盘代理12.3分"
+        "reasons": "前期参与代理17.7分；缩量洗盘代理15.3分；相对同类领先10.0分"
       },
       {
-        "name": "USP-S | Dark Water (Minimal Wear)",
-        "cn": "USP消音版 | 黑水 (略有磨损)",
-        "close": 380.0,
-        "sequence": 64.90307598101535,
-        "bear_start": 62.4483478396977,
-        "early_coil": 62.88448784400616,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "M4A4 | Hellish (Factory New)",
+        "cn": "M4A4 | 炼狱之火 (崭新出厂)",
+        "close": 867.0,
+        "sequence": 63.341746207944226,
+        "bear_start": 66.96508915133595,
+        "early_coil": 63.919936012245046,
+        "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理19.7分；持续放量19.0分；支撑与空间13.0分"
+        "reasons": "前期参与代理17.5分；量价台阶13.0分；持续放量12.5分"
       },
       {
-        "name": "Tec-9 | Cracked Opal (Factory New)",
-        "cn": "Tec-9 | 碎蛋白石 (崭新出厂)",
-        "close": 72.5,
-        "sequence": 63.15459467711179,
-        "bear_start": 53.51707316619315,
-        "early_coil": 61.812943596446225,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "USP-S | Para Green (Factory New)",
+        "cn": "USP消音版 | 绿色伞兵 (崭新出厂)",
+        "close": 251.0,
+        "sequence": 59.84889441948796,
+        "bear_start": 65.68674288649999,
+        "early_coil": 59.428750790551774,
+        "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "量价台阶13.5分；持续放量13.4分；前期参与代理12.2分"
+        "reasons": "前期参与代理17.7分；量价台阶15.0分；持续放量13.0分"
       },
       {
-        "name": "P250 | Black & Tan (Factory New)",
-        "cn": "P250 | 潜藏者 (崭新出厂)",
-        "close": 62.02,
-        "sequence": 63.027177407753044,
-        "bear_start": 55.450476833328594,
-        "early_coil": 57.87379630060556,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "Desert Eagle | Light Rail (Factory New)",
+        "cn": "沙漠之鹰 | 轻轨 (崭新出厂)",
+        "close": 110.0,
+        "sequence": 59.69531179802741,
+        "bear_start": 70.45755804588367,
+        "early_coil": 54.89043404857029,
+        "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
-        "penalty": 10.0,
-        "reasons": "持续放量20.0分；缩量洗盘代理18.6分；支撑与空间11.6分"
-      },
-      {
-        "name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
-        "cn": "血猎手套（★） | 染铜 (略有磨损)",
-        "close": 1255.0,
-        "sequence": 58.77213586000629,
-        "bear_start": 40.000977214267266,
-        "early_coil": 64.58241609843833,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
-        "penalty": 0.0,
-        "reasons": "前期参与代理17.4分；量价台阶15.0分；支撑与空间14.5分"
+        "penalty": 4.775511865510645,
+        "reasons": "持续放量20.0分；前期参与代理18.3分；量价台阶12.0分"
       }
     ],
     "early_coil": [
@@ -92,61 +92,61 @@
         "name": "MAC-10 | Tatter (Factory New)",
         "cn": "MAC-10 | 烧尽 (崭新出厂)",
         "close": 56.4,
-        "sequence": 65.78601996977483,
-        "bear_start": 61.94752658618769,
-        "early_coil": 75.97765786423494,
+        "sequence": 64.40642992467986,
+        "bear_start": 65.45178026691022,
+        "early_coil": 72.79996901342716,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.3分；量价台阶14.9分；缩量洗盘代理12.3分"
+        "reasons": "前期参与代理17.7分；缩量洗盘代理15.3分；相对同类领先10.0分"
       },
       {
         "name": "★ Bloodhound Gloves | Charred (Minimal Wear)",
         "cn": "血猎手套（★） | 焦炭 (略有磨损)",
-        "close": 1344.99,
-        "sequence": 57.35368766022875,
-        "bear_start": 36.02707424486092,
-        "early_coil": 66.33711814485605,
-        "shape_state": "蓄势观察代理",
+        "close": 1399.0,
+        "sequence": 70.24487058499477,
+        "bear_start": 55.85521460384764,
+        "early_coil": 68.1599732692392,
+        "shape_state": "蓄势后量能激活代理",
         "coverage": 0.8333333333333334,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.0分；量价台阶15.0分；支撑与空间15.0分"
-      },
-      {
-        "name": "CZ75-Auto | Tread Plate (Factory New)",
-        "cn": "CZ75自动型 | 花纹钢板 (崭新出厂)",
-        "close": 44.99,
-        "sequence": 52.34831662273321,
-        "bear_start": 51.24528901125117,
-        "early_coil": 65.33686366971403,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理18.8分；缩量洗盘代理14.5分；支撑与空间11.4分"
-      },
-      {
-        "name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
-        "cn": "血猎手套（★） | 染铜 (略有磨损)",
-        "close": 1255.0,
-        "sequence": 58.77213586000629,
-        "bear_start": 40.000977214267266,
-        "early_coil": 64.58241609843833,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
-        "penalty": 0.0,
-        "reasons": "前期参与代理17.4分；量价台阶15.0分；支撑与空间14.5分"
+        "reasons": "持续放量16.5分；前期参与代理15.9分；量价台阶15.0分"
       },
       {
         "name": "FAMAS | Mecha Industries (Factory New)",
         "cn": "法玛斯 | 机械工业 (崭新出厂)",
-        "close": 746.89,
-        "sequence": 56.63618470649416,
-        "bear_start": 45.49962600488986,
-        "early_coil": 63.1761804029279,
+        "close": 769.33,
+        "sequence": 59.595313520920044,
+        "bear_start": 55.613198706139926,
+        "early_coil": 66.40094445300603,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
-        "penalty": 4.065934065934062,
-        "reasons": "前期参与代理19.5分；量价台阶15.0分；支撑与空间10.7分"
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.2分；量价台阶13.2分；支撑与空间9.3分"
+      },
+      {
+        "name": "M4A4 | Hellish (Factory New)",
+        "cn": "M4A4 | 炼狱之火 (崭新出厂)",
+        "close": 867.0,
+        "sequence": 63.341746207944226,
+        "bear_start": 66.96508915133595,
+        "early_coil": 63.919936012245046,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理17.5分；量价台阶13.0分；持续放量12.5分"
+      },
+      {
+        "name": "USP-S | Ancient Visions (Factory New)",
+        "cn": "USP消音版 | 远古幻想 (崭新出厂)",
+        "close": 215.3,
+        "sequence": 50.97368313512017,
+        "bear_start": 34.89187261023493,
+        "early_coil": 62.70769176002936,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理18.6分；支撑与空间12.9分；缩量洗盘代理9.8分"
       }
     ]
   }
