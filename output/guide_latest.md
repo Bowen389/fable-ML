@@ -5,12 +5,17 @@
 
 | 商品 | 潜力 | 入场 | 状态 |
 |---|---:|---:|---|
+| Tec-9  /  碎蛋白石 (崭新出厂) | 77.09 | 缺失 | 等待条件 |
+| 加利尔AR  /  都市瓦砾 (崭新出厂) | 75.14 | 缺失 | 等待条件 |
+| 法玛斯  /  黑水 (略有磨损) | 69.76 | 缺失 | 等待条件 |
+| M4A4  /  炼狱之火 (崭新出厂) | 68.37 | 缺失 | 等待条件 |
+| 格洛克18型  /  异星世界 (崭新出厂) | 66.78 | 缺失 | 等待条件 |
 
 [综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
 
 ### 底层证据与覆盖
 
-汇总时间：2026-11-15T02:27:09.546160+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+汇总时间：2026-11-15T18:26:16.546734+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
 
 | 模块 | 状态 | 数据日期／说明 |
 |---|---|---|
@@ -18,8 +23,8 @@
 | 全池报价与在售 | stale | 2026-10-30T15:29:33.904667+08:00 |
 | 求购与大户求购排行 | stale | 2026-10-30 |
 | CSQAQ Whale辅助 | partial | 2026-11-14T18:27:09+00:00 |
-| 蓄势评分 | ok | 2026-11-13 |
-| 原版规则与ML | available | 2026-11-13 |
+| 蓄势评分 | ok | 2026-11-14 |
+| 原版规则与ML | available | 2026-11-14 |
 
 [查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
 Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
