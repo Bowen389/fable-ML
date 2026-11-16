@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-14",
-  "generated_at": "2026-11-15T17:29:42.132089+08:00",
-  "expected_completed_date": "2026-11-14",
+  "asof": "2026-11-15",
+  "generated_at": "2026-11-16T17:43:47.274076+08:00",
+  "expected_completed_date": "2026-11-15",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,7 +16,7 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 722,
+  "daily_rows": 715,
   "market_ok": false,
   "buy_validated": false,
   "production_scoring_modified": false,
@@ -27,64 +27,64 @@
   "lists": {
     "sequence": [
       {
-        "name": "Tec-9 | Cracked Opal (Factory New)",
-        "cn": "Tec-9 | 碎蛋白石 (崭新出厂)",
-        "close": 86.56,
-        "sequence": 65.3318214722792,
-        "bear_start": 71.59880799366982,
-        "early_coil": 63.381105246882356,
-        "shape_state": "蓄势后量能激活代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "持续放量15.5分；前期参与代理14.5分；量价台阶14.2分"
-      },
-      {
         "name": "Galil AR | Urban Rubble (Factory New)",
         "cn": "加利尔AR | 都市瓦砾 (崭新出厂)",
         "close": 67.88,
-        "sequence": 64.42583166050625,
-        "bear_start": 52.47165325919263,
-        "early_coil": 71.24109311862485,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 10.0,
-        "reasons": "前期参与代理19.9分；量价台阶14.7分；支撑与空间13.8分"
-      },
-      {
-        "name": "FAMAS | Dark Water (Minimal Wear)",
-        "cn": "法玛斯 | 黑水 (略有磨损)",
-        "close": 79.5,
-        "sequence": 60.35584842754814,
-        "bear_start": 64.14254422779548,
-        "early_coil": 61.87230213226917,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 2.442002442002475,
-        "reasons": "量价台阶15.0分；前期参与代理12.8分；相对同类领先10.0分"
-      },
-      {
-        "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
-        "cn": "九头蛇手套（★） | 响尾蛇 (略有磨损)",
-        "close": 209.0,
-        "sequence": 59.672912653731466,
-        "bear_start": 60.72662884454013,
-        "early_coil": 58.94942654128601,
+        "sequence": 90.75641068674389,
+        "bear_start": 83.1798737523127,
+        "early_coil": 89.79515260018675,
         "shape_state": "蓄势后量能激活代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理14.2分；持续放量13.0分；支撑与空间12.8分"
+        "reasons": "持续放量20.0分；前期参与代理19.3分；缩量洗盘代理17.6分"
       },
       {
-        "name": "MAC-10 | Case Hardened (Factory New)",
-        "cn": "MAC-10 | 表面淬火 (崭新出厂)",
-        "close": 269.0,
-        "sequence": 57.146539116267604,
-        "bear_start": 61.843140052286145,
-        "early_coil": 49.36535554096638,
-        "shape_state": "蓄势后量能激活代理",
+        "name": "PP-Bizon | Cobalt Halftone (Factory New)",
+        "cn": "PP-野牛 | 钴蓝半调 (崭新出厂)",
+        "close": 35.24,
+        "sequence": 67.99364088223918,
+        "bear_start": 45.8730713037835,
+        "early_coil": 74.68171160957905,
+        "shape_state": "蓄势观察代理",
+        "coverage": 0.8333333333333334,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.0分；缩量洗盘代理15.4分；量价台阶14.1分"
+      },
+      {
+        "name": "P2000 | Ocean Foam (Factory New)",
+        "cn": "P2000 | 海之泡沫 (崭新出厂)",
+        "close": 549.0,
+        "sequence": 61.784830605922856,
+        "bear_start": 52.89224805415208,
+        "early_coil": 68.77622705738354,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.714285714285715,
+        "reasons": "前期参与代理18.2分；支撑与空间15.0分；缩量洗盘代理14.0分"
+      },
+      {
+        "name": "Tec-9 | Orange Murano (Factory New)",
+        "cn": "Tec-9 | 穆拉诺之橙 (崭新出厂)",
+        "close": 128.88,
+        "sequence": 59.72299864435939,
+        "bear_start": 63.29241124693228,
+        "early_coil": 62.75807958136271,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.549263183534286,
+        "reasons": "前期参与代理12.7分；量价台阶12.2分；缩量洗盘代理9.9分"
+      },
+      {
+        "name": "FAMAS | Mecha Industries (Factory New)",
+        "cn": "法玛斯 | 机械工业 (崭新出厂)",
+        "close": 780.0,
+        "sequence": 59.00739674976434,
+        "bear_start": 66.3473490916554,
+        "early_coil": 62.00053955541394,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量20.0分；缩量洗盘代理12.4分；支撑与空间11.4分"
+        "reasons": "前期参与代理18.7分；持续放量10.2分；支撑与空间10.0分"
       }
     ],
     "early_coil": [
@@ -92,61 +92,61 @@
         "name": "Galil AR | Urban Rubble (Factory New)",
         "cn": "加利尔AR | 都市瓦砾 (崭新出厂)",
         "close": 67.88,
-        "sequence": 64.42583166050625,
-        "bear_start": 52.47165325919263,
-        "early_coil": 71.24109311862485,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 10.0,
-        "reasons": "前期参与代理19.9分；量价台阶14.7分；支撑与空间13.8分"
-      },
-      {
-        "name": "CZ75-Auto | The Fuschia Is Now (Factory New)",
-        "cn": "CZ75自动型 | 梅红时刻 (崭新出厂)",
-        "close": 171.48,
-        "sequence": 52.02677783386959,
-        "bear_start": 44.924716521719716,
-        "early_coil": 65.48428618206135,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理19.0分；缩量洗盘代理15.8分；支撑与空间11.9分"
-      },
-      {
-        "name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
-        "cn": "血猎手套（★） | 染铜 (略有磨损)",
-        "close": 1230.0,
-        "sequence": 52.66437175317169,
-        "bear_start": 29.19501689540633,
-        "early_coil": 63.91988251538771,
-        "shape_state": "蓄势观察代理",
-        "coverage": 0.8333333333333334,
-        "penalty": 0.0,
-        "reasons": "前期参与代理18.1分；量价台阶15.0分；支撑与空间10.7分"
-      },
-      {
-        "name": "Tec-9 | Cracked Opal (Factory New)",
-        "cn": "Tec-9 | 碎蛋白石 (崭新出厂)",
-        "close": 86.56,
-        "sequence": 65.3318214722792,
-        "bear_start": 71.59880799366982,
-        "early_coil": 63.381105246882356,
+        "sequence": 90.75641068674389,
+        "bear_start": 83.1798737523127,
+        "early_coil": 89.79515260018675,
         "shape_state": "蓄势后量能激活代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量15.5分；前期参与代理14.5分；量价台阶14.2分"
+        "reasons": "持续放量20.0分；前期参与代理19.3分；缩量洗盘代理17.6分"
       },
       {
-        "name": "FAMAS | Mecha Industries (Factory New)",
-        "cn": "法玛斯 | 机械工业 (崭新出厂)",
-        "close": 805.0,
-        "sequence": 55.740437744994026,
-        "bear_start": 57.597872665205216,
-        "early_coil": 62.072466750395044,
-        "shape_state": "局部形态，链条未完整",
+        "name": "PP-Bizon | Cobalt Halftone (Factory New)",
+        "cn": "PP-野牛 | 钴蓝半调 (崭新出厂)",
+        "close": 35.24,
+        "sequence": 67.99364088223918,
+        "bear_start": 45.8730713037835,
+        "early_coil": 74.68171160957905,
+        "shape_state": "蓄势观察代理",
+        "coverage": 0.8333333333333334,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.0分；缩量洗盘代理15.4分；量价台阶14.1分"
+      },
+      {
+        "name": "MAC-10 | Tatter (Factory New)",
+        "cn": "MAC-10 | 烧尽 (崭新出厂)",
+        "close": 55.9,
+        "sequence": 57.65841391271457,
+        "bear_start": 40.37111615231643,
+        "early_coil": 69.62831538320677,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.0分；量价台阶10.4分；相对同类领先8.8分"
+        "reasons": "前期参与代理17.4分；量价台阶15.0分；缩量洗盘代理13.1分"
+      },
+      {
+        "name": "P2000 | Ocean Foam (Factory New)",
+        "cn": "P2000 | 海之泡沫 (崭新出厂)",
+        "close": 549.0,
+        "sequence": 61.784830605922856,
+        "bear_start": 52.89224805415208,
+        "early_coil": 68.77622705738354,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.714285714285715,
+        "reasons": "前期参与代理18.2分；支撑与空间15.0分；缩量洗盘代理14.0分"
+      },
+      {
+        "name": "Tec-9 | Orange Murano (Factory New)",
+        "cn": "Tec-9 | 穆拉诺之橙 (崭新出厂)",
+        "close": 128.88,
+        "sequence": 59.72299864435939,
+        "bear_start": 63.29241124693228,
+        "early_coil": 62.75807958136271,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.549263183534286,
+        "reasons": "前期参与代理12.7分；量价台阶12.2分；缩量洗盘代理9.9分"
       }
     ]
   }
