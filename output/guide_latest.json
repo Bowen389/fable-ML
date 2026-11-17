@@ -82,9 +82,9 @@
   ],
   "coil_candidates": {
     "version": "daily-coil-v1",
-    "asof": "2026-11-15",
-    "generated_at": "2026-11-16T17:43:47.274076+08:00",
-    "expected_completed_date": "2026-11-15",
+    "asof": "2026-11-16",
+    "generated_at": "2026-11-17T18:49:48.340569+08:00",
+    "expected_completed_date": "2026-11-16",
     "status": "ok",
     "loaded": 773,
     "requested": 775,
@@ -98,7 +98,7 @@
         "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
       }
     ],
-    "daily_rows": 715,
+    "daily_rows": 714,
     "market_ok": false,
     "buy_validated": false,
     "production_scoring_modified": false,
@@ -109,126 +109,126 @@
     "lists": {
       "sequence": [
         {
-          "name": "Galil AR | Urban Rubble (Factory New)",
-          "cn": "加利尔AR | 都市瓦砾 (崭新出厂)",
-          "close": 67.88,
-          "sequence": 90.75641068674389,
-          "bear_start": 83.1798737523127,
-          "early_coil": 89.79515260018675,
-          "shape_state": "蓄势后量能激活代理",
-          "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "持续放量20.0分；前期参与代理19.3分；缩量洗盘代理17.6分"
-        },
-        {
-          "name": "PP-Bizon | Cobalt Halftone (Factory New)",
-          "cn": "PP-野牛 | 钴蓝半调 (崭新出厂)",
-          "close": 35.24,
-          "sequence": 67.99364088223918,
-          "bear_start": 45.8730713037835,
-          "early_coil": 74.68171160957905,
-          "shape_state": "蓄势观察代理",
-          "coverage": 0.8333333333333334,
-          "penalty": 0.0,
-          "reasons": "前期参与代理19.0分；缩量洗盘代理15.4分；量价台阶14.1分"
-        },
-        {
-          "name": "P2000 | Ocean Foam (Factory New)",
-          "cn": "P2000 | 海之泡沫 (崭新出厂)",
-          "close": 549.0,
-          "sequence": 61.784830605922856,
-          "bear_start": 52.89224805415208,
-          "early_coil": 68.77622705738354,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.714285714285715,
-          "reasons": "前期参与代理18.2分；支撑与空间15.0分；缩量洗盘代理14.0分"
-        },
-        {
-          "name": "Tec-9 | Orange Murano (Factory New)",
-          "cn": "Tec-9 | 穆拉诺之橙 (崭新出厂)",
-          "close": 128.88,
-          "sequence": 59.72299864435939,
-          "bear_start": 63.29241124693228,
-          "early_coil": 62.75807958136271,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.549263183534286,
-          "reasons": "前期参与代理12.7分；量价台阶12.2分；缩量洗盘代理9.9分"
-        },
-        {
-          "name": "FAMAS | Mecha Industries (Factory New)",
-          "cn": "法玛斯 | 机械工业 (崭新出厂)",
-          "close": 780.0,
-          "sequence": 59.00739674976434,
-          "bear_start": 66.3473490916554,
-          "early_coil": 62.00053955541394,
+          "name": "CZ75-Auto | Emerald (Factory New)",
+          "cn": "CZ75自动型 | 翡翠色调 (崭新出厂)",
+          "close": 147.0,
+          "sequence": 59.51839883860525,
+          "bear_start": 55.37399226430473,
+          "early_coil": 63.977818039783244,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理18.7分；持续放量10.2分；支撑与空间10.0分"
+          "reasons": "前期参与代理17.2分；支撑与空间12.5分；缩量洗盘代理11.6分"
+        },
+        {
+          "name": "Tec-9 | Jambiya (Factory New)",
+          "cn": "Tec-9 | 贾姆比亚 (崭新出厂)",
+          "close": 43.9,
+          "sequence": 58.49335932108722,
+          "bear_start": 54.404953989799296,
+          "early_coil": 68.89994937600368,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理14.2分；缩量洗盘代理13.3分；支撑与空间11.3分"
+        },
+        {
+          "name": "★ Hand Wraps | Badlands (Minimal Wear)",
+          "cn": "裹手（★） | 恶土 (略有磨损)",
+          "close": 3166.0,
+          "sequence": 57.76052327958053,
+          "bear_start": 53.89018936459699,
+          "early_coil": 67.23938790366819,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理17.0分；支撑与空间12.6分；量价台阶11.5分"
+        },
+        {
+          "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+          "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
+          "close": 4600.0,
+          "sequence": 57.23419617998539,
+          "bear_start": 45.58580498863154,
+          "early_coil": 68.25806300898702,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理18.5分；量价台阶13.9分；支撑与空间12.5分"
+        },
+        {
+          "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+          "cn": "裹手（★） | 云杉 DDPAT (略有磨损)",
+          "close": 2582.5,
+          "sequence": 56.566238667496506,
+          "bear_start": 48.00473436707712,
+          "early_coil": 66.64371043815731,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理16.8分；量价台阶14.2分；支撑与空间12.4分"
         }
       ],
       "early_coil": [
         {
-          "name": "Galil AR | Urban Rubble (Factory New)",
-          "cn": "加利尔AR | 都市瓦砾 (崭新出厂)",
-          "close": 67.88,
-          "sequence": 90.75641068674389,
-          "bear_start": 83.1798737523127,
-          "early_coil": 89.79515260018675,
-          "shape_state": "蓄势后量能激活代理",
+          "name": "Tec-9 | Jambiya (Factory New)",
+          "cn": "Tec-9 | 贾姆比亚 (崭新出厂)",
+          "close": 43.9,
+          "sequence": 58.49335932108722,
+          "bear_start": 54.404953989799296,
+          "early_coil": 68.89994937600368,
+          "shape_state": "蓄势观察代理",
           "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "持续放量20.0分；前期参与代理19.3分；缩量洗盘代理17.6分"
+          "reasons": "前期参与代理14.2分；缩量洗盘代理13.3分；支撑与空间11.3分"
         },
         {
-          "name": "PP-Bizon | Cobalt Halftone (Factory New)",
-          "cn": "PP-野牛 | 钴蓝半调 (崭新出厂)",
-          "close": 35.24,
-          "sequence": 67.99364088223918,
-          "bear_start": 45.8730713037835,
-          "early_coil": 74.68171160957905,
+          "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+          "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
+          "close": 4600.0,
+          "sequence": 57.23419617998539,
+          "bear_start": 45.58580498863154,
+          "early_coil": 68.25806300898702,
           "shape_state": "蓄势观察代理",
-          "coverage": 0.8333333333333334,
+          "coverage": 1.0,
           "penalty": 0.0,
-          "reasons": "前期参与代理19.0分；缩量洗盘代理15.4分；量价台阶14.1分"
+          "reasons": "前期参与代理18.5分；量价台阶13.9分；支撑与空间12.5分"
+        },
+        {
+          "name": "★ Hand Wraps | Badlands (Minimal Wear)",
+          "cn": "裹手（★） | 恶土 (略有磨损)",
+          "close": 3166.0,
+          "sequence": 57.76052327958053,
+          "bear_start": 53.89018936459699,
+          "early_coil": 67.23938790366819,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理17.0分；支撑与空间12.6分；量价台阶11.5分"
+        },
+        {
+          "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+          "cn": "裹手（★） | 云杉 DDPAT (略有磨损)",
+          "close": 2582.5,
+          "sequence": 56.566238667496506,
+          "bear_start": 48.00473436707712,
+          "early_coil": 66.64371043815731,
+          "shape_state": "蓄势观察代理",
+          "coverage": 1.0,
+          "penalty": 0.0,
+          "reasons": "前期参与代理16.8分；量价台阶14.2分；支撑与空间12.4分"
         },
         {
           "name": "MAC-10 | Tatter (Factory New)",
           "cn": "MAC-10 | 烧尽 (崭新出厂)",
           "close": 55.9,
-          "sequence": 57.65841391271457,
-          "bear_start": 40.37111615231643,
-          "early_coil": 69.62831538320677,
+          "sequence": 53.36602235884911,
+          "bear_start": 37.34173479726367,
+          "early_coil": 64.59772256319424,
           "shape_state": "蓄势观察代理",
           "coverage": 1.0,
-          "penalty": 0.0,
-          "reasons": "前期参与代理17.4分；量价台阶15.0分；缩量洗盘代理13.1分"
-        },
-        {
-          "name": "P2000 | Ocean Foam (Factory New)",
-          "cn": "P2000 | 海之泡沫 (崭新出厂)",
-          "close": 549.0,
-          "sequence": 61.784830605922856,
-          "bear_start": 52.89224805415208,
-          "early_coil": 68.77622705738354,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.714285714285715,
-          "reasons": "前期参与代理18.2分；支撑与空间15.0分；缩量洗盘代理14.0分"
-        },
-        {
-          "name": "Tec-9 | Orange Murano (Factory New)",
-          "cn": "Tec-9 | 穆拉诺之橙 (崭新出厂)",
-          "close": 128.88,
-          "sequence": 59.72299864435939,
-          "bear_start": 63.29241124693228,
-          "early_coil": 62.75807958136271,
-          "shape_state": "蓄势观察代理",
-          "coverage": 1.0,
-          "penalty": 0.549263183534286,
-          "reasons": "前期参与代理12.7分；量价台阶12.2分；缩量洗盘代理9.9分"
+          "penalty": 6.666666666666669,
+          "reasons": "前期参与代理17.9分；量价台阶15.0分；缩量洗盘代理13.1分"
         }
       ]
     }
