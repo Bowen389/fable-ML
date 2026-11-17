@@ -1,18 +1,18 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-11-16T17:41:55.377945+08:00",
-  "asof": "2026-11-15",
+  "generated_at": "2026-11-17T18:48:06.033098+08:00",
+  "asof": "2026-11-16",
   "items_requested": 773,
   "items_loaded": 716,
-  "rows": 941032,
-  "daily_rows": 652,
+  "rows": 941748,
+  "daily_rows": 653,
   "scoring_pool_status_counts": {
-    "可评分": 652,
-    "量能条件不足": 42,
+    "可评分": 653,
     "历史不足": 57,
+    "量能条件不足": 37,
     "研究品类排除": 43,
-    "低于价格门槛": 21,
-    "平价或数据条件不满足": 1
+    "平价或数据条件不满足": 2,
+    "低于价格门槛": 24
   },
   "failures": [
     {
@@ -24,11 +24,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -248,8 +248,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-02-18",
-  "validation_start": "2026-08-17",
+  "calibration_start": "2026-02-19",
+  "validation_start": "2026-08-18",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -341,8 +341,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-07-17",
-  "rolling_signal_end": "2026-10-15",
+  "rolling_signal_start": "2026-07-18",
+  "rolling_signal_end": "2026-10-16",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {
