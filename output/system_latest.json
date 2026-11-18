@@ -5,17 +5,17 @@
       "等待本时段报价发布",
       "报价超时或时间异常"
     ],
-    "checked_at": "2026-11-18T19:15:10.734210+08:00",
-    "expected_quote_after": "2026-11-18T15:17:00+08:00",
+    "checked_at": "2026-11-18T23:10:33.247230+08:00",
+    "expected_quote_after": "2026-11-18T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-11-17",
     "coil_asof": "2026-11-17",
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "f606017102816cdf4d106b40fc7259cae81b02c6",
+    "fable_sha": "83d3850bdcbb52370571dffa675534c10d39c7fc",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-11-18T19:15:19.199493+08:00",
+  "generated_at": "2026-11-18T23:10:41.675232+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -115,7 +115,7 @@
       ],
       "status": "stale",
       "rows": 815,
-      "age_hours": 459.7625686755556
+      "age_hours": 463.68545219361107
     },
     "demand": {
       "status": "stale",
@@ -129,7 +129,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-11-17T21:19:00+00:00",
-      "age_hours": 13.938663992499999,
+      "age_hours": 17.861548765555558,
       "scan": {
         "processed": 30,
         "selected": 30,
@@ -2983,6 +2983,179 @@
       ],
       "basis": "仅相对上次成功扫描新增CD_RECOVER；首扫默认建基线，非真实买入认定"
     },
+    "coverage": {
+      "generated_at": "2026-11-18T23:10:41.578859+08:00",
+      "status": "degraded",
+      "watch_list": {
+        "monitored_goods": 30,
+        "extra_goods": 66,
+        "total_goods": 96,
+        "top30_snapshot_age_days": 27.37,
+        "top30_snapshot_generated_at": "2026-10-22T06:23:36+00:00",
+        "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
+        "extra_goods_age_days": 0.97,
+        "has_whitelist": true
+      },
+      "pool": {
+        "size": 245,
+        "scanned_whales": 245,
+        "newest_scan": "2026-11-17T21:19:00+00:00",
+        "oldest_scan": "2026-11-09T22:46:25+00:00",
+        "median_scan_age_days": 4.8,
+        "max_whales_per_round": 80,
+        "estimated_rotation_days": 3.06
+      },
+      "items": [
+        {
+          "item": "手套武器箱",
+          "good_id": "1182",
+          "whales": 91,
+          "latest_event": "2026-11-12T17:18:05+08:00",
+          "age_days": 6.24
+        },
+        {
+          "item": "USP消音版 | 次时代 (崭新出厂)",
+          "good_id": "6543",
+          "whales": 81,
+          "latest_event": "2026-11-13T16:55:31+08:00",
+          "age_days": 5.26
+        },
+        {
+          "item": "AK-47 | 抽象派 1337 (久经沙场)",
+          "good_id": "13575",
+          "whales": 70,
+          "latest_event": "2026-11-14T04:00:26+08:00",
+          "age_days": 4.8
+        },
+        {
+          "item": "格洛克18型 | 核子花园 (崭新出厂)",
+          "good_id": "9618",
+          "whales": 66,
+          "latest_event": "2026-11-14T13:35:49+08:00",
+          "age_days": 4.4
+        },
+        {
+          "item": "法玛斯 | 机械工业 (崭新出厂)",
+          "good_id": "769",
+          "whales": 61,
+          "latest_event": "2026-11-16T18:12:50+08:00",
+          "age_days": 2.21
+        },
+        {
+          "item": "变革武器箱",
+          "good_id": "16283",
+          "whales": 58,
+          "latest_event": "2026-11-14T08:10:03+08:00",
+          "age_days": 4.63
+        },
+        {
+          "item": "驾驶手套（★） | 深红织物 (久经沙场)",
+          "good_id": "6868",
+          "whales": 57,
+          "latest_event": "2026-11-12T07:46:41+08:00",
+          "age_days": 6.64
+        },
+        {
+          "item": "AK-47 | 抽象派 1337 (略有磨损)",
+          "good_id": "13363",
+          "whales": 56,
+          "latest_event": "2026-11-14T18:13:12+08:00",
+          "age_days": 4.21
+        },
+        {
+          "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
+          "good_id": "1295",
+          "whales": 51,
+          "latest_event": "2026-11-15T13:24:24+08:00",
+          "age_days": 3.41
+        },
+        {
+          "item": "千瓦武器箱",
+          "good_id": "19521",
+          "whales": 51,
+          "latest_event": "2026-11-08T16:20:50+08:00",
+          "age_days": 10.28
+        },
+        {
+          "item": "M4A1消音版 | 闪回 (崭新出厂)",
+          "good_id": "1238",
+          "whales": 50,
+          "latest_event": "2026-11-16T11:41:13+08:00",
+          "age_days": 2.48
+        },
+        {
+          "item": "摩托手套（★） | 清凉薄荷 (久经沙场)",
+          "good_id": "7369",
+          "whales": 48,
+          "latest_event": "2026-11-13T07:12:21+08:00",
+          "age_days": 5.67
+        },
+        {
+          "item": "梦魇武器箱",
+          "good_id": "14675",
+          "whales": 48,
+          "latest_event": "2026-11-12T17:37:04+08:00",
+          "age_days": 6.23
+        },
+        {
+          "item": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
+          "good_id": "12884",
+          "whales": 47,
+          "latest_event": "2026-11-17T18:30:35+08:00",
+          "age_days": 1.19
+        },
+        {
+          "item": "M4A4 | 喧嚣杀戮 (久经沙场)",
+          "good_id": "1296",
+          "whales": 45,
+          "latest_event": "2026-11-10T16:32:44+08:00",
+          "age_days": 8.28
+        },
+        {
+          "item": "摩托手套（★） | 薄荷 (久经沙场)",
+          "good_id": "7377",
+          "whales": 44,
+          "latest_event": "2026-11-13T07:12:21+08:00",
+          "age_days": 5.67
+        },
+        {
+          "item": "运动手套（★） | 干旱 (久经沙场)",
+          "good_id": "7466",
+          "whales": 44,
+          "latest_event": "2026-11-16T18:55:43+08:00",
+          "age_days": 2.18
+        },
+        {
+          "item": "M4A4 | 地狱烈焰 (崭新出厂)",
+          "good_id": "1332",
+          "whales": 43,
+          "latest_event": "2026-11-08T16:09:18+08:00",
+          "age_days": 10.29
+        },
+        {
+          "item": "专业手套（★） | 翠绿之网 (久经沙场)",
+          "good_id": "7452",
+          "whales": 43,
+          "latest_event": "2026-11-14T13:18:04+08:00",
+          "age_days": 4.41
+        },
+        {
+          "item": "专业手套（★） | 元勋 (久经沙场)",
+          "good_id": "7461",
+          "whales": 42,
+          "latest_event": "2026-11-13T13:42:35+08:00",
+          "age_days": 5.39
+        }
+      ],
+      "item_count": 3022,
+      "alerts": [
+        "TOP30 快照已 27.37 天未刷新（git checkout 会重置文件 mtime，进程内 age 判定永远为 0，浏览器抓取不会触发）。",
+        "标的 千瓦武器箱 最近一次事件在 10.28 天前（51 只鲸鱼有记录）。",
+        "标的 M4A4 | 喧嚣杀戮 (久经沙场) 最近一次事件在 8.28 天前（45 只鲸鱼有记录）。",
+        "标的 M4A4 | 地狱烈焰 (崭新出厂) 最近一次事件在 10.29 天前（43 只鲸鱼有记录）。"
+      ],
+      "basis": "只读本地状态；CD_RECOVER 为回库事件，不是成交确认。"
+    },
     "coil": {
       "status": "ok",
       "asof": "2026-11-17",
@@ -2998,25 +3171,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "8045945b88a7c37de7ccb5bc296651f019ca3bcab4508027170e2cb14b0594cd",
       "bytes": 69788345,
-      "fetched_at": "2026-11-18T19:15:12.677075+08:00"
+      "fetched_at": "2026-11-18T23:10:34.838739+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-11-18T19:15:12.923410+08:00"
+      "fetched_at": "2026-11-18T23:10:35.156846+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-11-18T19:15:12.957919+08:00"
+      "fetched_at": "2026-11-18T23:10:35.201185+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-11-18T19:15:14.098050+08:00"
+      "fetched_at": "2026-11-18T23:10:35.928347+08:00"
     }
   },
   "traditional_hits": [
@@ -46689,17 +46862,17 @@
         "等待本时段报价发布",
         "报价超时或时间异常"
       ],
-      "checked_at": "2026-11-18T19:15:10.734210+08:00",
-      "expected_quote_after": "2026-11-18T15:17:00+08:00",
+      "checked_at": "2026-11-18T23:10:33.247230+08:00",
+      "expected_quote_after": "2026-11-18T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
       "expected_daily_asof": "2026-11-17",
       "coil_asof": "2026-11-17",
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "f606017102816cdf4d106b40fc7259cae81b02c6",
+      "fable_sha": "83d3850bdcbb52370571dffa675534c10d39c7fc",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-11-18T19:15:19.204538+08:00",
+    "generated_at": "2026-11-18T23:10:41.680935+08:00",
     "asof": "2026-11-17",
     "status": "research_only",
     "data_status": "available",
