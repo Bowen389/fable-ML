@@ -9,6 +9,7 @@ import urllib.request
 from integrations.traditional import signal_types,family_count
 from decision_engine import candle_features,build as build_decisions,render as render_decisions
 ROOT=Path(__file__).resolve().parent
+STATE_LIMITS=ROOT/'state/whale_monitor/data/scan_limits.json'
 TZ=timezone(timedelta(hours=8))
 START='<!-- unified-system:start -->';END='<!-- unified-system:end -->'
 SOURCES={'buy':'https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv',
@@ -100,7 +101,7 @@ def whale(root,collect=False):
     if collect:
         if not os.getenv('CSQAQ_TOKEN','').strip():return {'status':'not_configured','reason':'fable-ML 未配置 CSQAQ_TOKEN；Whale代码已纳入，未进行实采','events':None}
         os.environ['WHALE_ROOT']=str(state);os.environ['WHALE_SELF_TEST']='0';os.environ['WHALE_RUN_FOREVER']='0'
-        os.environ.setdefault('WHALE_MAX_WHALES_PER_ROUND','30');os.environ.setdefault('WHALE_MAX_RUN_SECONDS','600');os.environ.setdefault('WHALE_FIRST_SCAN_REPORT_HISTORY','0')
+        os.environ.setdefault('WHALE_MAX_WHALES_PER_ROUND','80');os.environ.setdefault('WHALE_MAX_RUN_SECONDS','1500');os.environ.setdefault('WHALE_FIRST_SCAN_REPORT_HISTORY','0')
         from integrations.whale import monitor_v7 as w
         cfg=w.Config.from_env();client=w.CSQAQClient(os.environ['CSQAQ_TOKEN'],cfg);client.bind_ip();w.run_once(cfg,client)
     result=readjson(report)
@@ -141,6 +142,12 @@ def render(x):
     w=m['whale'];lines+=['','## CSQAQ Whale（辅助）',f'状态：{w.get("status")}；{w.get("reason") or w.get("basis","")}。']
     if w.get('events') is not None:lines +=[f'报告时间 {w.get("generated_at")}；新增 {w.get("new_event_rows")} 条。',table(['鲸鱼','事件时间','商品','数量'],[[e.get('steam_name'),e.get('time'),e.get('item'),e.get('quantity')] for e in w['events'][:30]])]
     else:lines+=['尚未取得实采事件；不是“没有大户活动”，也不使用演示数据。']
+    c=m.get('coverage')
+    if c:
+        wl=c.get('watch_list',{});pl=c.get('pool',{})
+        lines+=['','## Whale 监控覆盖度',f"状态：{c.get('status')}；主动监控商品 {wl.get('total_goods','缺失')} 个（TOP30 快照 {wl.get('monitored_goods','缺失')} + 显式白名单 {wl.get('extra_goods','缺失')}）；鲸鱼池 {pl.get('size','缺失')} 只，每轮 {pl.get('max_whales_per_round','缺失')} 只，全池轮转约 {pl.get('estimated_rotation_days','缺失')} 天；单只鲸鱼末次扫描中位滞后 {pl.get('median_scan_age_days','缺失')} 天。"]
+        lines+=(['告警：']+[f'- {a}' for a in c['alerts'][:8]]) if c.get('alerts') else ['无覆盖度告警。']
+        lines+=['标的级新鲜度（前 10）：',table(['标的','鲸鱼数','最近事件','滞后天数'],[[r['item'],r['whales'],str(r['latest_event'])[:16],r['age_days']] for r in c.get('items',[])[:10]])]
     lines+=['','## 原版ML与规则扫描',f'原版规则候选 {len(x["original_hits"])} 条；数据日期 {m["original"].get("asof","缺失")}。',table(['规则','商品','价格'],[[r.get('规则'),r.get('饰品'),r.get('价格')] for r in x['original_hits'][:20]]),'原规则状态和资格保持独立，详见 output/latest.md、output/process_score_report.md、output/multifactor_report.md。',
             '','## 使用口径','- 悠悠user_id与Steam ID是不同身份，不能合并为同一人；挂单金额、真实成交、持仓与CD事件不可互换。','- 商品只做精确、唯一的名称/磨损匹配；未映射保留为空，不按相似名称强配。','- 数据失败、过期与零事件区分；Whale不参与加分或否决。','- 新研究费用卖出1%、无滑点；原版历史统计仍以其报告单独标注为准。']
     return '\n'.join(lines)+'\n'
@@ -148,6 +155,8 @@ def render(x):
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('command',choices=['report','collect-demand','collect-quotes','collect-traditional'],nargs='?',default='report');ap.add_argument('--offline',action='store_true');ap.add_argument('--collect-whale',action='store_true');args=ap.parse_args()
     raw=ROOT/'data/integrations';out=ROOT/'output';raw.mkdir(parents=True,exist_ok=True);out.mkdir(exist_ok=True)
+    # 每轮扫描上限与时限：池子扩大后必须同步抬高，否则轮转周期会被拉长到十几二十天。
+    os.environ.setdefault('WHALE_MAX_WHALES_PER_ROUND','80');os.environ.setdefault('WHALE_MAX_RUN_SECONDS','1500')
     if args.command.startswith('collect-'):
         name={'collect-demand':'monitor.py','collect-quotes':'intraday_guide.py','collect-traditional':'../buycs_scanner.py'}[args.command]
         env=dict(os.environ);env['YYYP_DATA']=str(raw);env['RAW_FILE']=str(raw/'traditional.csv');env['ITEMS_FILE']=str(ROOT/'integrations/upstream_selected_items.csv')
@@ -189,6 +198,13 @@ def main():
     except Exception as exc:modules['demand']={'status':'error','error':type(exc).__name__}
     try:modules['whale']=whale(ROOT,args.collect_whale)
     except Exception as exc:modules['whale']={'status':'error','reason':type(exc).__name__+'；请查看采集日志，未当作零事件','events':None}
+    try:
+        from whale_coverage_audit import audit
+        modules['coverage']=audit(ROOT)
+        dump(STATE_LIMITS,{'max_whales_per_round':int(os.environ.get('WHALE_MAX_WHALES_PER_ROUND',80)),
+                           'max_run_seconds':int(os.environ.get('WHALE_MAX_RUN_SECONDS',1500)),
+                           'updated_at':now().isoformat()})
+    except Exception as exc:modules['coverage']={'status':'error','reason':type(exc).__name__}
     coil=readjson(out/'daily_coil_candidates.json',{});modules['coil']={'status':coil.get('status','missing'),'asof':coil.get('asof'),'daily_rows':coil.get('daily_rows')}
     originals=readrows(out/'screen_latest.csv') if (out/'screen_latest.csv').exists() else []
     latest=(out/'latest.md').read_text() if (out/'latest.md').exists() else ''
@@ -196,7 +212,8 @@ def main():
     match=re.search(r'CS2 买点扫描 · (\d{4}-\d{2}-\d{2})',latest);modules['original']={'status':'available' if latest else 'missing','asof':match[1] if match else None}
     coils=readrows(out/'daily_coil_scores.csv') if (out/'daily_coil_scores.csv').exists() else []
     monitor=join_monitor(monitor,coils,hits)
-    result={'pipeline':pipeline,'version':'unified-system-v1','generated_at':now().isoformat(),'status':'partial' if any(m.get('status') not in ('ok','success','available') for m in modules.values()) else 'ok','modules':modules,'sources':sources,'traditional_hits':hits,'demand_rank':ranks,'monitor':monitor,'coil':coil,'original_hits':originals,'purchase_list_requests':0}
+    gate={k:v for k,v in modules.items() if k!='coverage'}
+    result={'pipeline':pipeline,'version':'unified-system-v1','generated_at':now().isoformat(),'status':'partial' if any(m.get('status') not in ('ok','success','available') for m in gate.values()) else 'ok','modules':modules,'sources':sources,'traditional_hits':hits,'demand_rank':ranks,'monitor':monitor,'coil':coil,'original_hits':originals,'purchase_list_requests':0}
     multi=readrows(out/'daily_multifactor_scores.csv') if (out/'daily_multifactor_scores.csv').exists() else []
     decision=build_decisions(result,pool,coils,multi,now());result['decision']={k:v for k,v in decision.items() if k!='rows'}
     dump(out/'decision_latest.json',decision);writecsv(out/'decision_latest.csv',decision['rows']);(out/'decision_latest.md').write_text(render_decisions(decision))

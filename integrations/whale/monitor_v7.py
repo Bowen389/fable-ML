@@ -481,12 +481,32 @@ def scrape_top30():
             browser.close()
 
 
+def snapshot_age_hours(path):
+    """快照年龄（小时）。优先用文件内的 generated_at；没有才退回文件 mtime。
+
+    不能只信 mtime：Actions 每次 checkout/reset 都会把 mtime 重置成“刚刚”，
+    用 mtime 判新鲜度会让浏览器抓取永远不触发，监控清单被永久冻结在旧快照上。
+    """
+    raw = read_json(path, None)
+    if isinstance(raw, dict) and raw.get("generated_at"):
+        try:
+            stamp = datetime.fromisoformat(str(raw["generated_at"]).replace("Z", "+00:00"))
+            if stamp.tzinfo is None:
+                stamp = stamp.replace(tzinfo=timezone.utc)
+            return (time.time() - stamp.timestamp()) / 3600
+        except ValueError:
+            pass
+    if path.exists():
+        return (time.time() - path.stat().st_mtime) / 3600
+    return float("inf")
+
+
 def top_goods(cfg):
     path = cfg.root / "data/top30_latest.json"
     if cfg.self_test:
         return [{"good_id": "144", "name": "AK-47 | 皇后", "rank": 1}]
     cached = clean_goods(read_json(path, []))
-    age_hours = (time.time() - path.stat().st_mtime) / 3600 if path.exists() else float("inf")
+    age_hours = snapshot_age_hours(path)
     if cfg.source == "snapshot" or (cfg.source == "auto" and cached and age_hours < cfg.refresh_hours):
         if not cached:
             raise RuntimeError(f"TOP30 快照不存在：{path}；改用 WHALE_TOP30_SOURCE=auto 获取")
@@ -495,7 +515,7 @@ def top_goods(cfg):
     stage("抓取 TOP30（仅快照过期或强制刷新时使用浏览器）")
     try:
         goods = scrape_top30()
-        atomic_json(path, goods)
+        atomic_json(path, {"generated_at": datetime.now(timezone.utc).isoformat(), "goods": goods})
         out(f"✅ 新鲜 TOP30 {len(goods)} 个")
         return goods
     except Exception as exc:
