@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-16",
-  "generated_at": "2026-11-17T18:49:48.340569+08:00",
-  "expected_completed_date": "2026-11-16",
+  "asof": "2026-11-17",
+  "generated_at": "2026-11-18T18:17:14.951500+08:00",
+  "expected_completed_date": "2026-11-17",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,7 +16,7 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 714,
+  "daily_rows": 712,
   "market_ok": false,
   "buy_validated": false,
   "production_scoring_modified": false,
@@ -27,126 +27,126 @@
   "lists": {
     "sequence": [
       {
-        "name": "CZ75-Auto | Emerald (Factory New)",
-        "cn": "CZ75自动型 | 翡翠色调 (崭新出厂)",
-        "close": 147.0,
-        "sequence": 59.51839883860525,
-        "bear_start": 55.37399226430473,
-        "early_coil": 63.977818039783244,
+        "name": "MAC-10 | Tatter (Factory New)",
+        "cn": "MAC-10 | 烧尽 (崭新出厂)",
+        "close": 55.9,
+        "sequence": 63.46546725054726,
+        "bear_start": 49.997326866523835,
+        "early_coil": 73.81894925311894,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.2分；支撑与空间12.5分；缩量洗盘代理11.6分"
-      },
-      {
-        "name": "Tec-9 | Jambiya (Factory New)",
-        "cn": "Tec-9 | 贾姆比亚 (崭新出厂)",
-        "close": 43.9,
-        "sequence": 58.49335932108722,
-        "bear_start": 54.404953989799296,
-        "early_coil": 68.89994937600368,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理14.2分；缩量洗盘代理13.3分；支撑与空间11.3分"
+        "reasons": "前期参与代理18.9分；量价台阶14.8分；缩量洗盘代理13.1分"
       },
       {
         "name": "★ Hand Wraps | Badlands (Minimal Wear)",
         "cn": "裹手（★） | 恶土 (略有磨损)",
-        "close": 3166.0,
-        "sequence": 57.76052327958053,
-        "bear_start": 53.89018936459699,
-        "early_coil": 67.23938790366819,
+        "close": 3090.0,
+        "sequence": 63.14626709864399,
+        "bear_start": 56.07037580383077,
+        "early_coil": 70.47857746624429,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.0分；支撑与空间12.6分；量价台阶11.5分"
+        "reasons": "前期参与代理16.8分；支撑与空间14.2分；量价台阶12.4分"
       },
       {
-        "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
-        "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
-        "close": 4600.0,
-        "sequence": 57.23419617998539,
-        "bear_start": 45.58580498863154,
-        "early_coil": 68.25806300898702,
-        "shape_state": "蓄势观察代理",
+        "name": "P90 | Cold Blooded (Factory New)",
+        "cn": "P90 | 冷血杀手 (崭新出厂)",
+        "close": 239.5,
+        "sequence": 56.48452151677636,
+        "bear_start": 66.4219614445426,
+        "early_coil": 48.08848174261351,
+        "shape_state": "蓄势后量能激活代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.5分；量价台阶13.9分；支撑与空间12.5分"
+        "reasons": "持续放量19.6分；支撑与空间10.2分；缩量洗盘代理8.8分"
       },
       {
         "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
         "cn": "裹手（★） | 云杉 DDPAT (略有磨损)",
-        "close": 2582.5,
-        "sequence": 56.566238667496506,
-        "bear_start": 48.00473436707712,
-        "early_coil": 66.64371043815731,
-        "shape_state": "蓄势观察代理",
+        "close": 2487.0,
+        "sequence": 55.99801419629973,
+        "bear_start": 49.21242059788906,
+        "early_coil": 62.638325939174514,
+        "shape_state": "局部形态，链条未完整",
         "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理16.8分；量价台阶14.2分；支撑与空间12.4分"
+        "penalty": 3.88934764657308,
+        "reasons": "前期参与代理16.1分；量价台阶15.0分；支撑与空间14.4分"
+      },
+      {
+        "name": "Tec-9 | Sultan (Factory New)",
+        "cn": "Tec-9 | 苏丹 (崭新出厂)",
+        "close": 37.8,
+        "sequence": 54.98280061614419,
+        "bear_start": 76.47652214852276,
+        "early_coil": 43.97946927088316,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.2597402597403804,
+        "reasons": "持续放量19.8分；支撑与空间10.2分；相对同类领先10.0分"
       }
     ],
     "early_coil": [
       {
-        "name": "Tec-9 | Jambiya (Factory New)",
-        "cn": "Tec-9 | 贾姆比亚 (崭新出厂)",
-        "close": 43.9,
-        "sequence": 58.49335932108722,
-        "bear_start": 54.404953989799296,
-        "early_coil": 68.89994937600368,
+        "name": "MAC-10 | Tatter (Factory New)",
+        "cn": "MAC-10 | 烧尽 (崭新出厂)",
+        "close": 55.9,
+        "sequence": 63.46546725054726,
+        "bear_start": 49.997326866523835,
+        "early_coil": 73.81894925311894,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理14.2分；缩量洗盘代理13.3分；支撑与空间11.3分"
-      },
-      {
-        "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
-        "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
-        "close": 4600.0,
-        "sequence": 57.23419617998539,
-        "bear_start": 45.58580498863154,
-        "early_coil": 68.25806300898702,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理18.5分；量价台阶13.9分；支撑与空间12.5分"
+        "reasons": "前期参与代理18.9分；量价台阶14.8分；缩量洗盘代理13.1分"
       },
       {
         "name": "★ Hand Wraps | Badlands (Minimal Wear)",
         "cn": "裹手（★） | 恶土 (略有磨损)",
-        "close": 3166.0,
-        "sequence": 57.76052327958053,
-        "bear_start": 53.89018936459699,
-        "early_coil": 67.23938790366819,
+        "close": 3090.0,
+        "sequence": 63.14626709864399,
+        "bear_start": 56.07037580383077,
+        "early_coil": 70.47857746624429,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.0分；支撑与空间12.6分；量价台阶11.5分"
+        "reasons": "前期参与代理16.8分；支撑与空间14.2分；量价台阶12.4分"
       },
       {
-        "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
-        "cn": "裹手（★） | 云杉 DDPAT (略有磨损)",
-        "close": 2582.5,
-        "sequence": 56.566238667496506,
-        "bear_start": 48.00473436707712,
-        "early_coil": 66.64371043815731,
+        "name": "★ Specialist Gloves | Forest DDPAT (Minimal Wear)",
+        "cn": "专业手套（★） | 森林 DDPAT (略有磨损)",
+        "close": 1838.9,
+        "sequence": 53.553560265157046,
+        "bear_start": 42.53862943502028,
+        "early_coil": 64.30301815143694,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.42016806722686867,
+        "reasons": "前期参与代理18.4分；量价台阶13.5分；支撑与空间10.8分"
+      },
+      {
+        "name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
+        "cn": "血猎手套（★） | 染铜 (略有磨损)",
+        "close": 1128.88,
+        "sequence": 51.09378886892729,
+        "bear_start": 26.416333243261587,
+        "early_coil": 63.34239155328964,
+        "shape_state": "蓄势观察代理",
+        "coverage": 0.8333333333333334,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.0分；量价台阶14.5分；缩量洗盘代理11.0分"
+      },
+      {
+        "name": "Tec-9 | Jambiya (Factory New)",
+        "cn": "Tec-9 | 贾姆比亚 (崭新出厂)",
+        "close": 43.87,
+        "sequence": 54.02473853074338,
+        "bear_start": 42.87939885690514,
+        "early_coil": 63.27079714689119,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理16.8分；量价台阶14.2分；支撑与空间12.4分"
-      },
-      {
-        "name": "MAC-10 | Tatter (Factory New)",
-        "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "close": 55.9,
-        "sequence": 53.36602235884911,
-        "bear_start": 37.34173479726367,
-        "early_coil": 64.59772256319424,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 6.666666666666669,
-        "reasons": "前期参与代理17.9分；量价台阶15.0分；缩量洗盘代理13.1分"
+        "reasons": "支撑与空间15.0分；缩量洗盘代理13.2分；前期参与代理11.9分"
       }
     ]
   }
