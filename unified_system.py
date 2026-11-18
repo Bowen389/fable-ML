@@ -201,6 +201,7 @@ def main():
     try:
         from whale_coverage_audit import audit
         modules['coverage']=audit(ROOT)
+        dump(out/'whale_coverage.json',modules['coverage'])
         dump(STATE_LIMITS,{'max_whales_per_round':int(os.environ.get('WHALE_MAX_WHALES_PER_ROUND',80)),
                            'max_run_seconds':int(os.environ.get('WHALE_MAX_RUN_SECONDS',1500)),
                            'updated_at':now().isoformat()})
