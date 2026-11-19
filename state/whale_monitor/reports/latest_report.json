@@ -1,62 +1,28 @@
 {
-  "generated_at": "2026-11-18T20:59:23+00:00",
-  "batch_id": "0276fc33d94948838bcaecad690074bb",
-  "since_report_at": "2026-11-18T15:57:56+00:00",
+  "generated_at": "2026-11-19T21:01:35+00:00",
+  "batch_id": "a916dc5e12084641970a9d7e1bff4077",
+  "since_report_at": "2026-11-18T20:59:23+00:00",
   "comparison": "每只鲸鱼上一次成功扫描的持久快照（首扫默认只建基线）",
   "date_floor_not_cursor": "2026-09-20",
-  "new_event_rows": 61,
-  "new_occurrences": 61,
+  "new_event_rows": 0,
+  "new_occurrences": 0,
   "scan": {
     "processed": 80,
     "selected": 80,
-    "pool_size": 813,
+    "pool_size": 830,
     "failed": [],
     "recovered_unpublished": 0,
     "coverage_risk": [],
-    "api_requests": 178
+    "api_requests": 158
   },
   "frequency": {
     "source": "仅本轮相对各鲸鱼上一次成功扫描新增的 CD_RECOVER（非 9/20 后所有动态）",
     "event_start_date_floor": "2026-09-20",
-    "covered_goods_new": 48,
+    "covered_goods_new": 0,
     "bucket": "day",
     "min_whales": 2,
-    "resonance": [
-      {
-        "good_id": "20461",
-        "name": "AWP | CMYK (久经沙场)",
-        "events": 2,
-        "items": 3.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198300017756",
-          "76561198428553372"
-        ]
-      },
-      {
-        "good_id": "0",
-        "name": "印花 | THUNDERdOWNUNDER (全息，排名) | 2026年科隆锦标赛",
-        "events": 2,
-        "items": 24.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198128658633",
-          "76561198375828952"
-        ]
-      },
-      {
-        "good_id": "20469",
-        "name": "沙漠之鹰 | 星尘拱廊 (崭新出厂)",
-        "events": 2,
-        "items": 2.0,
-        "whale_count": 2,
-        "whale_ids": [
-          "76561198300017756",
-          "76561199527597174"
-        ]
-      }
-    ],
+    "resonance": [],
     "same_window": []
   },
-  "archived_now": 61
+  "archived_now": 0
 }
