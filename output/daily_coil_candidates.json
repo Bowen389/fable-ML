@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-18",
-  "generated_at": "2026-11-19T18:26:00.428039+08:00",
-  "expected_completed_date": "2026-11-18",
+  "asof": "2026-11-19",
+  "generated_at": "2026-11-20T18:07:56.956333+08:00",
+  "expected_completed_date": "2026-11-19",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,8 +16,8 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 719,
-  "market_ok": false,
+  "daily_rows": 726,
+  "market_ok": true,
   "buy_validated": false,
   "production_scoring_modified": false,
   "new_requests": 0,
@@ -27,126 +27,126 @@
   "lists": {
     "sequence": [
       {
-        "name": "MAC-10 | Tatter (Factory New)",
-        "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "close": 55.9,
-        "sequence": 66.90517771768515,
-        "bear_start": 54.48452223291812,
-        "early_coil": 75.57131258310541,
+        "name": "CZ75-Auto | Hydraulics (Factory New)",
+        "cn": "CZ75自动型 | 液压 (崭新出厂)",
+        "close": 55.99,
+        "sequence": 58.58981339549367,
+        "bear_start": 45.714821849031146,
+        "early_coil": 70.55170577298848,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 4.2857142857142865,
+        "reasons": "前期参与代理16.7分；支撑与空间15.0分；缩量洗盘代理14.5分"
+      },
+      {
+        "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+        "cn": "摩托手套（★） | 清凉薄荷 (略有磨损)",
+        "close": 7688.0,
+        "sequence": 57.6163941673407,
+        "bear_start": 45.94278135480455,
+        "early_coil": 67.85149184208937,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理19.6分；量价台阶14.5分；缩量洗盘代理13.2分"
+        "reasons": "前期参与代理15.6分；量价台阶13.9分；支撑与空间13.3分"
+      },
+      {
+        "name": "MP7 | Smoking Kills (Factory New)",
+        "cn": "MP7 | 吸烟有害健康 (崭新出厂)",
+        "close": 134.49,
+        "sequence": 56.587747221621306,
+        "bear_start": 50.91052755146791,
+        "early_coil": 57.537137463916274,
+        "shape_state": "局部形态，链条未完整",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理19.1分；持续放量12.4分；量价台阶11.4分"
+      },
+      {
+        "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+        "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
+        "close": 4239.0,
+        "sequence": 55.667488652504225,
+        "bear_start": 36.45589438437619,
+        "early_coil": 67.240964288074,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 2.0408163265306114,
+        "reasons": "前期参与代理17.4分；量价台阶15.0分；缩量洗盘代理11.5分"
       },
       {
         "name": "AWP | Pink DDPAT (Factory New)",
         "cn": "AWP | 粉红 DDPAT (崭新出厂)",
-        "close": 614.0,
-        "sequence": 61.988831007602656,
-        "bear_start": 62.77336856403855,
-        "early_coil": 58.96173780785618,
+        "close": 613.5,
+        "sequence": 55.25417052870148,
+        "bear_start": 64.58046145666081,
+        "early_coil": 51.954813135410234,
         "shape_state": "蓄势后量能激活代理",
         "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "持续放量20.0分；前期参与代理18.2分；缩量洗盘代理11.5分"
-      },
-      {
-        "name": "★ Hand Wraps | Badlands (Minimal Wear)",
-        "cn": "裹手（★） | 恶土 (略有磨损)",
-        "close": 3149.0,
-        "sequence": 61.5868723479082,
-        "bear_start": 52.07656536469476,
-        "early_coil": 72.40898375723788,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理16.4分；量价台阶14.5分；支撑与空间13.3分"
-      },
-      {
-        "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
-        "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
-        "close": 4340.0,
-        "sequence": 61.56061603685109,
-        "bear_start": 45.95405900368386,
-        "early_coil": 73.11402275500876,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理18.0分；量价台阶14.7分；支撑与空间14.5分"
-      },
-      {
-        "name": "★ Hand Wraps | Leather (Minimal Wear)",
-        "cn": "裹手（★） | 皮革 (略有磨损)",
-        "close": 3570.0,
-        "sequence": 60.112277254305106,
-        "bear_start": 54.52633144453361,
-        "early_coil": 69.10641662891302,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理19.4分；支撑与空间11.1分；缩量洗盘代理10.8分"
+        "penalty": 10.0,
+        "reasons": "持续放量20.0分；前期参与代理17.5分；缩量洗盘代理11.9分"
       }
     ],
     "early_coil": [
       {
-        "name": "MAC-10 | Tatter (Factory New)",
-        "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "close": 55.9,
-        "sequence": 66.90517771768515,
-        "bear_start": 54.48452223291812,
-        "early_coil": 75.57131258310541,
+        "name": "CZ75-Auto | Hydraulics (Factory New)",
+        "cn": "CZ75自动型 | 液压 (崭新出厂)",
+        "close": 55.99,
+        "sequence": 58.58981339549367,
+        "bear_start": 45.714821849031146,
+        "early_coil": 70.55170577298848,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 4.2857142857142865,
+        "reasons": "前期参与代理16.7分；支撑与空间15.0分；缩量洗盘代理14.5分"
+      },
+      {
+        "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+        "cn": "摩托手套（★） | 清凉薄荷 (略有磨损)",
+        "close": 7688.0,
+        "sequence": 57.6163941673407,
+        "bear_start": 45.94278135480455,
+        "early_coil": 67.85149184208937,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理19.6分；量价台阶14.5分；缩量洗盘代理13.2分"
+        "reasons": "前期参与代理15.6分；量价台阶13.9分；支撑与空间13.3分"
       },
       {
         "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
         "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
-        "close": 4340.0,
-        "sequence": 61.56061603685109,
-        "bear_start": 45.95405900368386,
-        "early_coil": 73.11402275500876,
+        "close": 4239.0,
+        "sequence": 55.667488652504225,
+        "bear_start": 36.45589438437619,
+        "early_coil": 67.240964288074,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理18.0分；量价台阶14.7分；支撑与空间14.5分"
+        "penalty": 2.0408163265306114,
+        "reasons": "前期参与代理17.4分；量价台阶15.0分；缩量洗盘代理11.5分"
       },
       {
-        "name": "★ Hand Wraps | Badlands (Minimal Wear)",
-        "cn": "裹手（★） | 恶土 (略有磨损)",
-        "close": 3149.0,
-        "sequence": 61.5868723479082,
-        "bear_start": 52.07656536469476,
-        "early_coil": 72.40898375723788,
+        "name": "FAMAS | Meltdown (Factory New)",
+        "cn": "法玛斯 | 熔化 (崭新出厂)",
+        "close": 384.77,
+        "sequence": 55.18650608011268,
+        "bear_start": 40.777400494135115,
+        "early_coil": 65.73779751067121,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理16.4分；量价台阶14.5分；支撑与空间13.3分"
+        "reasons": "前期参与代理19.9分；支撑与空间12.8分；量价台阶12.1分"
       },
       {
-        "name": "★ Specialist Gloves | Forest DDPAT (Minimal Wear)",
-        "cn": "专业手套（★） | 森林 DDPAT (略有磨损)",
-        "close": 1846.5,
-        "sequence": 58.31432214929917,
-        "bear_start": 47.28482836467158,
-        "early_coil": 69.49969124558059,
+        "name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+        "cn": "摩托手套（★） | 日蚀 (略有磨损)",
+        "close": 3069.5,
+        "sequence": 54.20313138391555,
+        "bear_start": 41.3282584075222,
+        "early_coil": 65.69367408616583,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理18.4分；量价台阶15.0分；支撑与空间10.9分"
-      },
-      {
-        "name": "★ Hand Wraps | Leather (Minimal Wear)",
-        "cn": "裹手（★） | 皮革 (略有磨损)",
-        "close": 3570.0,
-        "sequence": 60.112277254305106,
-        "bear_start": 54.52633144453361,
-        "early_coil": 69.10641662891302,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 0.0,
-        "reasons": "前期参与代理19.4分；支撑与空间11.1分；缩量洗盘代理10.8分"
+        "reasons": "前期参与代理18.3分；支撑与空间12.1分；量价台阶10.5分"
       }
     ]
   }
