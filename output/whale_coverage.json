@@ -1,174 +1,173 @@
 {
-  "generated_at": "2026-11-23T00:43:41.554855+08:00",
+  "generated_at": "2026-11-23T04:02:34.803261+08:00",
   "status": "degraded",
   "watch_list": {
     "monitored_goods": 30,
     "extra_goods": 66,
     "total_goods": 96,
-    "top30_snapshot_age_days": 0.88,
-    "top30_snapshot_generated_at": "2026-11-21T19:36:06.486661+00:00",
+    "top30_snapshot_age_days": 0.0,
+    "top30_snapshot_generated_at": "2026-11-22T19:58:47.137807+00:00",
     "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
-    "extra_goods_age_days": 5.03,
+    "extra_goods_age_days": 5.17,
     "has_whitelist": true
   },
   "pool": {
-    "size": 838,
-    "scanned_whales": 505,
-    "newest_scan": "2026-11-21T19:39:47+00:00",
+    "size": 850,
+    "scanned_whales": 585,
+    "newest_scan": "2026-11-22T20:02:34+00:00",
     "oldest_scan": "2026-11-14T18:26:31+00:00",
-    "median_scan_age_days": 3.82,
+    "median_scan_age_days": 2.96,
     "max_whales_per_round": 80,
-    "estimated_rotation_days": 10.47
+    "estimated_rotation_days": 10.62
   },
   "items": [
     {
       "item": "手套武器箱",
       "good_id": "1182",
-      "whales": 148,
+      "whales": 167,
       "latest_event": "2026-11-19T17:00:01+08:00",
-      "age_days": 3.32
+      "age_days": 3.46
     },
     {
       "item": "USP消音版 | 次时代 (崭新出厂)",
       "good_id": "6543",
-      "whales": 131,
+      "whales": 152,
       "latest_event": "2026-11-20T18:46:53+08:00",
-      "age_days": 2.25
+      "age_days": 2.39
     },
     {
       "item": "变革武器箱",
       "good_id": "16283",
-      "whales": 129,
-      "latest_event": "2026-11-14T08:10:03+08:00",
-      "age_days": 8.69
+      "whales": 152,
+      "latest_event": "2026-11-19T13:13:22+08:00",
+      "age_days": 3.62
     },
     {
       "item": "千瓦武器箱",
       "good_id": "19521",
-      "whales": 122,
+      "whales": 141,
       "latest_event": "2026-11-15T19:07:07+08:00",
-      "age_days": 7.23
-    },
-    {
-      "item": "AK-47 | 抽象派 1337 (久经沙场)",
-      "good_id": "13575",
-      "whales": 117,
-      "latest_event": "2026-11-18T12:59:54+08:00",
-      "age_days": 4.49
+      "age_days": 7.37
     },
     {
       "item": "梦魇武器箱",
       "good_id": "14675",
-      "whales": 115,
+      "whales": 135,
       "latest_event": "2026-11-19T17:05:10+08:00",
-      "age_days": 3.32
+      "age_days": 3.46
+    },
+    {
+      "item": "AK-47 | 抽象派 1337 (久经沙场)",
+      "good_id": "13575",
+      "whales": 129,
+      "latest_event": "2026-11-21T14:07:43+08:00",
+      "age_days": 1.58
     },
     {
       "item": "格洛克18型 | 核子花园 (崭新出厂)",
       "good_id": "9618",
-      "whales": 102,
+      "whales": 113,
       "latest_event": "2026-11-16T15:21:24+08:00",
-      "age_days": 6.39
+      "age_days": 6.53
     },
     {
       "item": "封装的创世终端机",
       "good_id": "23870",
-      "whales": 96,
+      "whales": 111,
       "latest_event": "2026-11-19T15:57:07+08:00",
-      "age_days": 3.37
+      "age_days": 3.5
     },
     {
       "item": "法玛斯 | 机械工业 (崭新出厂)",
       "good_id": "769",
-      "whales": 96,
-      "latest_event": "2026-11-20T18:56:01+08:00",
-      "age_days": 2.24
+      "whales": 109,
+      "latest_event": "2026-11-20T23:02:50+08:00",
+      "age_days": 2.21
     },
     {
       "item": "AK-47 | 抽象派 1337 (略有磨损)",
       "good_id": "13363",
-      "whales": 88,
+      "whales": 96,
       "latest_event": "2026-11-21T13:14:12+08:00",
-      "age_days": 1.48
+      "age_days": 1.62
     },
     {
       "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
       "good_id": "1295",
-      "whales": 83,
-      "latest_event": "2026-11-20T18:46:53+08:00",
-      "age_days": 2.25
+      "whales": 96,
+      "latest_event": "2026-11-22T18:27:35+08:00",
+      "age_days": 0.4
     },
     {
       "item": "M4A1消音版 | 闪回 (崭新出厂)",
       "good_id": "1238",
-      "whales": 81,
-      "latest_event": "2026-11-20T22:35:14+08:00",
-      "age_days": 2.09
-    },
-    {
-      "item": "M4A4 | 合纵 (久经沙场)",
-      "good_id": "13366",
-      "whales": 80,
-      "latest_event": "2026-11-21T14:23:24+08:00",
-      "age_days": 1.43
-    },
-    {
-      "item": "M4A4 | 喧嚣杀戮 (久经沙场)",
-      "good_id": "1296",
-      "whales": 76,
-      "latest_event": "2026-11-12T14:10:45+08:00",
-      "age_days": 10.44
-    },
-    {
-      "item": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
-      "good_id": "12884",
-      "whales": 76,
-      "latest_event": "2026-11-21T19:24:45+08:00",
-      "age_days": 1.22
-    },
-    {
-      "item": "驾驶手套（★） | 深红织物 (久经沙场)",
-      "good_id": "6868",
-      "whales": 76,
-      "latest_event": "2026-11-17T14:03:19+08:00",
-      "age_days": 5.44
+      "whales": 91,
+      "latest_event": "2026-11-20T23:02:50+08:00",
+      "age_days": 2.21
     },
     {
       "item": "沙漠之鹰 | 午夜风暴 (崭新出厂)",
       "good_id": "582",
-      "whales": 75,
+      "whales": 89,
       "latest_event": "2026-11-16T13:19:43+08:00",
-      "age_days": 6.47
+      "age_days": 6.61
     },
     {
-      "item": "MP7 | 渐变之色 (崭新出厂)",
-      "good_id": "9583",
-      "whales": 73,
-      "latest_event": "2026-11-16T18:55:43+08:00",
-      "age_days": 6.24
+      "item": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
+      "good_id": "12884",
+      "whales": 88,
+      "latest_event": "2026-11-21T19:24:45+08:00",
+      "age_days": 1.36
+    },
+    {
+      "item": "M4A4 | 合纵 (久经沙场)",
+      "good_id": "13366",
+      "whales": 85,
+      "latest_event": "2026-11-21T14:23:24+08:00",
+      "age_days": 1.57
+    },
+    {
+      "item": "M4A4 | 喧嚣杀戮 (久经沙场)",
+      "good_id": "1296",
+      "whales": 85,
+      "latest_event": "2026-11-12T14:10:45+08:00",
+      "age_days": 10.58
     },
     {
       "item": "AWP | 冥界之河 (崭新出厂)",
       "good_id": "9563",
-      "whales": 72,
-      "latest_event": "2026-11-17T15:21:45+08:00",
-      "age_days": 5.39
+      "whales": 83,
+      "latest_event": "2026-11-22T04:50:28+08:00",
+      "age_days": 0.97
     },
     {
       "item": "M4A4 | 地狱烈焰 (崭新出厂)",
       "good_id": "1332",
-      "whales": 72,
-      "latest_event": "2026-11-20T16:06:32+08:00",
-      "age_days": 2.36
+      "whales": 81,
+      "latest_event": "2026-11-22T20:45:15+08:00",
+      "age_days": 0.3
+    },
+    {
+      "item": "MP7 | 渐变之色 (崭新出厂)",
+      "good_id": "9583",
+      "whales": 80,
+      "latest_event": "2026-11-16T18:55:43+08:00",
+      "age_days": 6.38
+    },
+    {
+      "item": "驾驶手套（★） | 深红织物 (久经沙场)",
+      "good_id": "6868",
+      "whales": 78,
+      "latest_event": "2026-11-17T14:03:19+08:00",
+      "age_days": 5.58
     }
   ],
-  "item_count": 6067,
+  "item_count": 6858,
   "alerts": [
-    "监控白名单已 5.03 天没更新。",
-    "鲸鱼池 838 只、每轮 80 只，轮转周期约 10.47 天；单只鲸鱼的“最近”可能已经过去这么久。",
-    "标的 变革武器箱 最近一次事件在 8.69 天前（129 只鲸鱼有记录）。",
-    "标的 千瓦武器箱 最近一次事件在 7.23 天前（122 只鲸鱼有记录）。",
-    "标的 M4A4 | 喧嚣杀戮 (久经沙场) 最近一次事件在 10.44 天前（76 只鲸鱼有记录）。"
+    "监控白名单已 5.17 天没更新。",
+    "鲸鱼池 850 只、每轮 80 只，轮转周期约 10.62 天；单只鲸鱼的“最近”可能已经过去这么久。",
+    "标的 千瓦武器箱 最近一次事件在 7.37 天前（141 只鲸鱼有记录）。",
+    "标的 M4A4 | 喧嚣杀戮 (久经沙场) 最近一次事件在 10.58 天前（85 只鲸鱼有记录）。"
   ],
   "basis": "只读本地状态；CD_RECOVER 为回库事件，不是成交确认。"
 }
