@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-20",
-  "generated_at": "2026-11-21T17:50:26.536845+08:00",
+  "asof": "2026-11-21",
+  "generated_at": "2026-11-22T17:50:30.709666+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -44,11 +44,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+      "name": "★ Driver Gloves | Garden (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -96,11 +96,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Garden (Field-Tested)",
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "name": "★ Driver Gloves | Garden (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -116,11 +116,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Sunburst (Field-Tested)",
+      "name": "★ Driver Gloves | Wave Chaser (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Wave Chaser (Field-Tested)",
+      "name": "★ Specialist Gloves | Sunburst (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -184,11 +184,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "P250 | Kintsugi (Factory New)",
+      "name": "P90 | Deathgaze (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "P90 | Deathgaze (Factory New)",
+      "name": "P250 | Kintsugi (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -228,11 +228,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "Glock-18 | Trace Lock (Factory New)",
+      "name": "M4A1-S | Electrum (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "M4A1-S | Electrum (Factory New)",
+      "name": "Glock-18 | Trace Lock (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -475,10 +475,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 646,
-  "historical_rows": 944612,
+  "daily_rows": 649,
+  "historical_rows": 945328,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-20",
+  "expected_completed_date": "2026-11-21",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
