@@ -1,8 +1,8 @@
 {
   "version": "daily-coil-v1",
-  "asof": "2026-11-20",
-  "generated_at": "2026-11-21T17:53:25.134488+08:00",
-  "expected_completed_date": "2026-11-20",
+  "asof": "2026-11-21",
+  "generated_at": "2026-11-22T17:53:59.348958+08:00",
+  "expected_completed_date": "2026-11-21",
   "status": "ok",
   "loaded": 773,
   "requested": 775,
@@ -16,7 +16,7 @@
       "error": "[Errno 2] No such file or directory: '/home/runner/work/fable-ML/fable-ML/research_cache/8244171592052627335.json.gz'"
     }
   ],
-  "daily_rows": 713,
+  "daily_rows": 718,
   "market_ok": false,
   "buy_validated": false,
   "production_scoring_modified": false,
@@ -27,64 +27,64 @@
   "lists": {
     "sequence": [
       {
+        "name": "Galil AR | Vandal (Factory New)",
+        "cn": "加利尔AR | 破坏者 (崭新出厂)",
+        "close": 65.4,
+        "sequence": 73.36280113405327,
+        "bear_start": 76.9643607566866,
+        "early_coil": 68.50723324158903,
+        "shape_state": "蓄势后量能激活代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "持续放量20.0分；前期参与代理17.2分；支撑与空间11.9分"
+      },
+      {
         "name": "AWP | BOOM (Factory New)",
         "cn": "AWP | *嘣* (崭新出厂)",
         "close": 2200.0,
-        "sequence": 61.37033384641606,
-        "bear_start": 49.21516325127833,
-        "early_coil": 75.79607411221228,
+        "sequence": 73.00128864904343,
+        "bear_start": 59.041925277272014,
+        "early_coil": 87.58029400000346,
         "shape_state": "局部形态，链条未完整",
         "coverage": 0.8333333333333334,
-        "penalty": 10.606653620352251,
-        "reasons": "缩量洗盘代理20.0分；前期参与代理18.9分；支撑与空间12.8分"
+        "penalty": 0.0,
+        "reasons": "缩量洗盘代理20.0分；前期参与代理19.2分；量价台阶13.7分"
       },
       {
-        "name": "UMP-45 | K.O. Factory (Factory New)",
-        "cn": "UMP-45 | K.O.工厂 (崭新出厂)",
-        "close": 70.74,
-        "sequence": 55.17779144592687,
-        "bear_start": 59.94352986174743,
-        "early_coil": 43.787669282930125,
-        "shape_state": "局部形态，链条未完整",
+        "name": "USP-S | Road Rash (Factory New)",
+        "cn": "USP消音版 | 公路杀手 (崭新出厂)",
+        "close": 765.0,
+        "sequence": 66.69098001687055,
+        "bear_start": 67.28805313586332,
+        "early_coil": 66.58981059527238,
+        "shape_state": "蓄势后量能激活代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量20.0分；量价台阶12.7分；支撑与空间11.1分"
+        "reasons": "前期参与代理15.7分；支撑与空间15.0分；持续放量13.7分"
       },
       {
-        "name": "Tec-9 | Phoenix Chalk (Factory New)",
-        "cn": "Tec-9 | 凤凰涂鸦 (崭新出厂)",
-        "close": 63.5,
-        "sequence": 55.163525437470625,
-        "bear_start": 67.62200450919974,
-        "early_coil": 45.063184637422026,
-        "shape_state": "局部形态，链条未完整",
+        "name": "MAC-10 | Tatter (Factory New)",
+        "cn": "MAC-10 | 烧尽 (崭新出厂)",
+        "close": 55.3,
+        "sequence": 61.60904355188224,
+        "bear_start": 50.650670614178125,
+        "early_coil": 72.84389148370448,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "持续放量17.1分；量价台阶15.0分；相对同类领先8.7分"
+        "reasons": "前期参与代理17.1分；量价台阶15.0分；支撑与空间12.3分"
       },
       {
-        "name": "M4A4 | Dark Operative (Factory New)",
-        "cn": "M4A4 | 暗影特工 (崭新出厂)",
-        "close": 53.2,
-        "sequence": 54.78373142202303,
-        "bear_start": 64.71653251933647,
-        "early_coil": 55.70641740046499,
-        "shape_state": "局部形态，链条未完整",
+        "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+        "cn": "摩托手套（★） | 清凉薄荷 (略有磨损)",
+        "close": 7545.0,
+        "sequence": 60.60480205487296,
+        "bear_start": 51.69422570440085,
+        "early_coil": 68.3633800965489,
+        "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理16.2分；持续放量10.4分；相对同类领先10.0分"
-      },
-      {
-        "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-        "cn": "摩托手套（★） | 第三特种兵连 (略有磨损)",
-        "close": 826.0,
-        "sequence": 54.77278403433945,
-        "bear_start": 60.34769535340358,
-        "early_coil": 54.524209344719054,
-        "shape_state": "局部形态，链条未完整",
-        "coverage": 1.0,
-        "penalty": 3.109784106568671,
-        "reasons": "量价台阶15.0分；前期参与代理9.7分；相对同类领先9.5分"
+        "reasons": "前期参与代理14.4分；支撑与空间13.9分；量价台阶13.8分"
       }
     ],
     "early_coil": [
@@ -92,61 +92,61 @@
         "name": "AWP | BOOM (Factory New)",
         "cn": "AWP | *嘣* (崭新出厂)",
         "close": 2200.0,
-        "sequence": 61.37033384641606,
-        "bear_start": 49.21516325127833,
-        "early_coil": 75.79607411221228,
+        "sequence": 73.00128864904343,
+        "bear_start": 59.041925277272014,
+        "early_coil": 87.58029400000346,
         "shape_state": "局部形态，链条未完整",
         "coverage": 0.8333333333333334,
-        "penalty": 10.606653620352251,
-        "reasons": "缩量洗盘代理20.0分；前期参与代理18.9分；支撑与空间12.8分"
+        "penalty": 0.0,
+        "reasons": "缩量洗盘代理20.0分；前期参与代理19.2分；量价台阶13.7分"
       },
       {
         "name": "MAC-10 | Tatter (Factory New)",
         "cn": "MAC-10 | 烧尽 (崭新出厂)",
         "close": 55.3,
-        "sequence": 54.29062174809334,
-        "bear_start": 42.3442949488866,
-        "early_coil": 66.58995922513338,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 10.0,
-        "reasons": "前期参与代理18.8分；量价台阶15.0分；支撑与空间12.3分"
-      },
-      {
-        "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
-        "cn": "驾驶手套（★） | 月色织物 (略有磨损)",
-        "close": 4046.0,
-        "sequence": 54.30914268384555,
-        "bear_start": 35.803844678331856,
-        "early_coil": 65.91356972461804,
+        "sequence": 61.60904355188224,
+        "bear_start": 50.650670614178125,
+        "early_coil": 72.84389148370448,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.6分；量价台阶15.0分；缩量洗盘代理11.1分"
+        "reasons": "前期参与代理17.1分；量价台阶15.0分；支撑与空间12.3分"
       },
       {
-        "name": "CZ75-Auto | Hydraulics (Factory New)",
-        "cn": "CZ75自动型 | 液压 (崭新出厂)",
-        "close": 55.9,
-        "sequence": 52.695411584322535,
-        "bear_start": 43.13261350379375,
-        "early_coil": 63.985053811317925,
-        "shape_state": "蓄势观察代理",
-        "coverage": 1.0,
-        "penalty": 10.0,
-        "reasons": "前期参与代理15.1分；缩量洗盘代理14.9分；支撑与空间14.2分"
-      },
-      {
-        "name": "MP9 | Food Chain (Factory New)",
-        "cn": "MP9 | 爆裂食物链 (崭新出厂)",
-        "close": 90.4,
-        "sequence": 52.746841805714325,
-        "bear_start": 47.82186855609568,
-        "early_coil": 63.150609388301326,
+        "name": "P2000 | Ocean Foam (Factory New)",
+        "cn": "P2000 | 海之泡沫 (崭新出厂)",
+        "close": 549.5,
+        "sequence": 58.61449273676304,
+        "bear_start": 55.09674886292275,
+        "early_coil": 71.06310992094784,
         "shape_state": "蓄势观察代理",
         "coverage": 1.0,
         "penalty": 0.0,
-        "reasons": "前期参与代理17.8分；支撑与空间14.3分；量价台阶8.1分"
+        "reasons": "前期参与代理19.7分；支撑与空间14.2分；缩量洗盘代理10.4分"
+      },
+      {
+        "name": "Galil AR | Vandal (Factory New)",
+        "cn": "加利尔AR | 破坏者 (崭新出厂)",
+        "close": 65.4,
+        "sequence": 73.36280113405327,
+        "bear_start": 76.9643607566866,
+        "early_coil": 68.50723324158903,
+        "shape_state": "蓄势后量能激活代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "持续放量20.0分；前期参与代理17.2分；支撑与空间11.9分"
+      },
+      {
+        "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+        "cn": "摩托手套（★） | 清凉薄荷 (略有磨损)",
+        "close": 7545.0,
+        "sequence": 60.60480205487296,
+        "bear_start": 51.69422570440085,
+        "early_coil": 68.3633800965489,
+        "shape_state": "蓄势观察代理",
+        "coverage": 1.0,
+        "penalty": 0.0,
+        "reasons": "前期参与代理14.4分；支撑与空间13.9分；量价台阶13.8分"
       }
     ]
   }
