@@ -3,31 +3,32 @@
     "ready": false,
     "reasons": [
       "等待本时段报价发布",
-      "报价超时或时间异常"
+      "报价超时或时间异常",
+      "等待昨日完整日K蓄势评分发布"
     ],
-    "checked_at": "2026-11-22T18:50:03.998533+08:00",
-    "expected_quote_after": "2026-11-22T15:17:00+08:00",
+    "checked_at": "2026-11-23T00:43:34.777280+08:00",
+    "expected_quote_after": "2026-11-22T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
-    "expected_daily_asof": "2026-11-21",
+    "expected_daily_asof": "2026-11-22",
     "coil_asof": "2026-11-21",
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "8b289b045b163c0469b19b079d4d59c2a2066c6e",
+    "fable_sha": "9dd68a397005f30de1881e5bc42e6d0327a846b3",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-11-22T18:50:15.071897+08:00",
+  "generated_at": "2026-11-23T00:43:41.689399+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
       "status": "ok",
-      "asof": "2026-11-21",
-      "expected_completed_date": "2026-11-21",
+      "asof": "2026-11-22",
+      "expected_completed_date": "2026-11-22",
       "pool": 2142,
-      "scanned": 1047,
-      "hits": 105,
+      "scanned": 1050,
+      "hits": 107,
       "invalid_rows": 4,
       "latest_date_counts": {
-        "2026-11-21": 2052,
+        "2026-11-22": 2043,
         "2026-11-17": 5,
         "2026-09-10": 2,
         "2026-09-18": 3,
@@ -46,6 +47,7 @@
         "2026-08-07": 1,
         "2026-11-16": 1,
         "2026-10-10": 1,
+        "2026-11-21": 9,
         "2026-10-13": 1,
         "2026-10-21": 2,
         "2026-10-16": 1,
@@ -117,7 +119,7 @@
       ],
       "status": "stale",
       "rows": 815,
-      "age_hours": 555.3446974277778
+      "age_hours": 561.2354484486111
     },
     "demand": {
       "status": "stale",
@@ -131,7 +133,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-11-21T19:39:48+00:00",
-      "age_hours": 15.17412864,
+      "age_hours": 21.064875614444443,
       "scan": {
         "processed": 80,
         "selected": 80,
@@ -155,16 +157,16 @@
       "basis": "仅相对上次成功扫描新增CD_RECOVER；首扫默认建基线，非真实买入认定"
     },
     "coverage": {
-      "generated_at": "2026-11-22T18:50:14.866724+08:00",
+      "generated_at": "2026-11-23T00:43:41.554855+08:00",
       "status": "degraded",
       "watch_list": {
         "monitored_goods": 30,
         "extra_goods": 66,
         "total_goods": 96,
-        "top30_snapshot_age_days": 0.63,
+        "top30_snapshot_age_days": 0.88,
         "top30_snapshot_generated_at": "2026-11-21T19:36:06.486661+00:00",
         "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
-        "extra_goods_age_days": 4.78,
+        "extra_goods_age_days": 5.03,
         "has_whitelist": true
       },
       "pool": {
@@ -172,7 +174,7 @@
         "scanned_whales": 505,
         "newest_scan": "2026-11-21T19:39:47+00:00",
         "oldest_scan": "2026-11-14T18:26:31+00:00",
-        "median_scan_age_days": 3.58,
+        "median_scan_age_days": 3.82,
         "max_whales_per_round": 80,
         "estimated_rotation_days": 10.47
       },
@@ -182,148 +184,149 @@
           "good_id": "1182",
           "whales": 148,
           "latest_event": "2026-11-19T17:00:01+08:00",
-          "age_days": 3.08
+          "age_days": 3.32
         },
         {
           "item": "USP消音版 | 次时代 (崭新出厂)",
           "good_id": "6543",
           "whales": 131,
           "latest_event": "2026-11-20T18:46:53+08:00",
-          "age_days": 2.0
+          "age_days": 2.25
         },
         {
           "item": "变革武器箱",
           "good_id": "16283",
           "whales": 129,
           "latest_event": "2026-11-14T08:10:03+08:00",
-          "age_days": 8.44
+          "age_days": 8.69
         },
         {
           "item": "千瓦武器箱",
           "good_id": "19521",
           "whales": 122,
           "latest_event": "2026-11-15T19:07:07+08:00",
-          "age_days": 6.99
+          "age_days": 7.23
         },
         {
           "item": "AK-47 | 抽象派 1337 (久经沙场)",
           "good_id": "13575",
           "whales": 117,
           "latest_event": "2026-11-18T12:59:54+08:00",
-          "age_days": 4.24
+          "age_days": 4.49
         },
         {
           "item": "梦魇武器箱",
           "good_id": "14675",
           "whales": 115,
           "latest_event": "2026-11-19T17:05:10+08:00",
-          "age_days": 3.07
+          "age_days": 3.32
         },
         {
           "item": "格洛克18型 | 核子花园 (崭新出厂)",
           "good_id": "9618",
           "whales": 102,
           "latest_event": "2026-11-16T15:21:24+08:00",
-          "age_days": 6.15
+          "age_days": 6.39
         },
         {
           "item": "封装的创世终端机",
           "good_id": "23870",
           "whales": 96,
           "latest_event": "2026-11-19T15:57:07+08:00",
-          "age_days": 3.12
+          "age_days": 3.37
         },
         {
           "item": "法玛斯 | 机械工业 (崭新出厂)",
           "good_id": "769",
           "whales": 96,
           "latest_event": "2026-11-20T18:56:01+08:00",
-          "age_days": 2.0
+          "age_days": 2.24
         },
         {
           "item": "AK-47 | 抽象派 1337 (略有磨损)",
           "good_id": "13363",
           "whales": 88,
           "latest_event": "2026-11-21T13:14:12+08:00",
-          "age_days": 1.23
+          "age_days": 1.48
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
           "good_id": "1295",
           "whales": 83,
           "latest_event": "2026-11-20T18:46:53+08:00",
-          "age_days": 2.0
+          "age_days": 2.25
         },
         {
           "item": "M4A1消音版 | 闪回 (崭新出厂)",
           "good_id": "1238",
           "whales": 81,
           "latest_event": "2026-11-20T22:35:14+08:00",
-          "age_days": 1.84
+          "age_days": 2.09
         },
         {
           "item": "M4A4 | 合纵 (久经沙场)",
           "good_id": "13366",
           "whales": 80,
           "latest_event": "2026-11-21T14:23:24+08:00",
-          "age_days": 1.19
+          "age_days": 1.43
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (久经沙场)",
           "good_id": "1296",
           "whales": 76,
           "latest_event": "2026-11-12T14:10:45+08:00",
-          "age_days": 10.19
+          "age_days": 10.44
         },
         {
           "item": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
           "good_id": "12884",
           "whales": 76,
           "latest_event": "2026-11-21T19:24:45+08:00",
-          "age_days": 0.98
+          "age_days": 1.22
         },
         {
           "item": "驾驶手套（★） | 深红织物 (久经沙场)",
           "good_id": "6868",
           "whales": 76,
           "latest_event": "2026-11-17T14:03:19+08:00",
-          "age_days": 5.2
+          "age_days": 5.44
         },
         {
           "item": "沙漠之鹰 | 午夜风暴 (崭新出厂)",
           "good_id": "582",
           "whales": 75,
           "latest_event": "2026-11-16T13:19:43+08:00",
-          "age_days": 6.23
+          "age_days": 6.47
         },
         {
           "item": "MP7 | 渐变之色 (崭新出厂)",
           "good_id": "9583",
           "whales": 73,
           "latest_event": "2026-11-16T18:55:43+08:00",
-          "age_days": 6.0
+          "age_days": 6.24
         },
         {
           "item": "AWP | 冥界之河 (崭新出厂)",
           "good_id": "9563",
           "whales": 72,
           "latest_event": "2026-11-17T15:21:45+08:00",
-          "age_days": 5.14
+          "age_days": 5.39
         },
         {
           "item": "M4A4 | 地狱烈焰 (崭新出厂)",
           "good_id": "1332",
           "whales": 72,
           "latest_event": "2026-11-20T16:06:32+08:00",
-          "age_days": 2.11
+          "age_days": 2.36
         }
       ],
       "item_count": 6067,
       "alerts": [
-        "监控白名单已 4.78 天没更新。",
+        "监控白名单已 5.03 天没更新。",
         "鲸鱼池 838 只、每轮 80 只，轮转周期约 10.47 天；单只鲸鱼的“最近”可能已经过去这么久。",
-        "标的 变革武器箱 最近一次事件在 8.44 天前（129 只鲸鱼有记录）。",
-        "标的 M4A4 | 喧嚣杀戮 (久经沙场) 最近一次事件在 10.19 天前（76 只鲸鱼有记录）。"
+        "标的 变革武器箱 最近一次事件在 8.69 天前（129 只鲸鱼有记录）。",
+        "标的 千瓦武器箱 最近一次事件在 7.23 天前（122 只鲸鱼有记录）。",
+        "标的 M4A4 | 喧嚣杀戮 (久经沙场) 最近一次事件在 10.44 天前（76 只鲸鱼有记录）。"
       ],
       "basis": "只读本地状态；CD_RECOVER 为回库事件，不是成交确认。"
     },
@@ -342,80 +345,80 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "00716aa7cf04d5a99cb05836e120dc4b6fbba269b15a4e3e4691060ff48f95a6",
       "bytes": 70539619,
-      "fetched_at": "2026-11-22T18:50:06.758552+08:00"
+      "fetched_at": "2026-11-23T00:43:36.523690+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-11-22T18:50:07.139329+08:00"
+      "fetched_at": "2026-11-23T00:43:36.641017+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-11-22T18:50:07.201081+08:00"
+      "fetched_at": "2026-11-23T00:43:36.665302+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-11-22T18:50:08.252977+08:00"
+      "fetched_at": "2026-11-23T00:43:37.288974+08:00"
     }
   },
   "traditional_hits": [
     {
-      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "name": "Desert Eagle | Heat Treated (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 189.5,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 243.0,
+      "bars": 423,
       "eligible": true,
       "families": 2,
       "types": [
         "双金叉 5/12/4",
-        "上影吞没"
+        "均线合一 MA5/12/21"
       ],
       "status": "scanned",
-      "r3": 0.024324324324324298,
-      "prior_r3": 0.07558139534883712,
-      "r7": 0.02156334231805923,
-      "ma5": 179.17600000000002,
-      "ma21": 168.09333333333333,
-      "atr14": 19.802857142857142,
-      "atr_pct": 0.10450056539766302,
-      "support10": 164.5,
-      "high20": 218.0
+      "r3": 0.03846153846153855,
+      "prior_r3": 0.024967148488830526,
+      "r7": 0.1020408163265305,
+      "ma5": 239.07600000000002,
+      "ma21": 224.4242857142857,
+      "atr14": 20.177142857142858,
+      "atr_pct": 0.08303350970017637,
+      "support10": 211.49,
+      "high20": 267.49
     },
     {
-      "name": "Desert Eagle | Naga (Factory New)",
+      "name": "FAMAS | Pulse (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 151.5,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 185.0,
+      "bars": 423,
       "eligible": true,
       "families": 2,
       "types": [
         "双金叉 5/12/4",
-        "上影吞没"
+        "均线合一 MA5/12/21"
       ],
       "status": "scanned",
-      "r3": -0.022580645161290325,
-      "prior_r3": 0.12522686025408358,
-      "r7": 0.04844290657439454,
-      "ma5": 148.77,
-      "ma21": 138.56571428571428,
-      "atr14": 14.334285714285716,
-      "atr_pct": 0.09461574728901463,
-      "support10": 129.5,
-      "high20": 178.0
+      "r3": 0.02777777777777768,
+      "prior_r3": 0.04118463674224904,
+      "r7": 0.05841295268608038,
+      "ma5": 183.548,
+      "ma21": 175.25000000000003,
+      "atr14": 13.80714285714286,
+      "atr_pct": 0.07463320463320465,
+      "support10": 164.5,
+      "high20": 216.0
     },
     {
       "name": "FAMAS | Sundown (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 760.5,
-      "bars": 422,
+      "bars": 423,
       "eligible": true,
       "families": 2,
       "types": [
@@ -425,24 +428,668 @@
       "status": "scanned",
       "r3": 0.0,
       "prior_r3": 0.0,
-      "r7": 0.27834462355650436,
+      "r7": 0.0,
       "ma5": 760.5,
-      "ma21": 722.2390476190476,
-      "atr14": 56.62071428571429,
-      "atr_pct": 0.07445195829811216,
+      "ma21": 726.3104761904763,
+      "atr14": 56.335,
+      "atr_pct": 0.07407626561472716,
       "support10": 588.88,
       "high20": 760.5
     },
     {
-      "name": "Galil AR | Shattered (Factory New)",
+      "name": "Sawed-Off | Zander (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 550.0,
-      "bars": 403,
+      "asof": "2026-11-22",
+      "price": 30.3,
+      "bars": 423,
       "eligible": true,
       "families": 2,
       "types": [
+        "双金叉 12/26/9",
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.2168674698795181,
+      "prior_r3": 0.004032258064516014,
+      "r7": 0.5150000000000001,
+      "ma5": 25.98,
+      "ma21": 23.123809523809523,
+      "atr14": 4.714285714285716,
+      "atr_pct": 0.15558698727015566,
+      "support10": 20.0,
+      "high20": 30.3
+    },
+    {
+      "name": "Tec-9 | Blue Titanium (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 150.5,
+      "bars": 423,
+      "eligible": true,
+      "families": 2,
+      "types": [
+        "均线合一 MA5/12/21",
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.07392607392607409,
+      "prior_r3": 0.07799999999999985,
+      "r7": 0.11481481481481493,
+      "ma5": 146.828,
+      "ma21": 138.15571428571428,
+      "atr14": 12.944999999999999,
+      "atr_pct": 0.08601328903654484,
+      "support10": 125.0,
+      "high20": 160.3
+    },
+    {
+      "name": "Tec-9 | Phoenix Chalk (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 67.78,
+      "bars": 423,
+      "eligible": true,
+      "families": 2,
+      "types": [
+        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21",
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.07094327697898573,
+      "prior_r3": 0.15072727272727282,
+      "r7": 0.19964601769911505,
+      "ma5": 64.91399999999999,
+      "ma21": 57.6704761904762,
+      "atr14": 6.064285714285715,
+      "atr_pct": 0.08947013446865912,
+      "support10": 55.0,
+      "high20": 73.0
+    },
+    {
+      "name": "3rd Commando Company | KSK",
+      "group": "agent",
+      "asof": "2026-11-22",
+      "price": 60.28,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.011803278688524599,
+      "prior_r3": -0.033280507131537296,
+      "r7": -0.04165341812400636,
+      "ma5": 60.827999999999996,
+      "ma21": 60.7252380952381,
+      "atr14": 1.296428571428572,
+      "atr_pct": 0.021506777893639216,
+      "support10": 59.0,
+      "high20": 63.1
+    },
+    {
+      "name": "AK-47 | Black Laminate (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 1150.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.10775246725839494,
+      "prior_r3": 0.2275047619047621,
+      "r7": 0.057733874157261944,
+      "ma5": 1323.152,
+      "ma21": 1202.3933333333337,
+      "atr14": 79.0,
+      "atr_pct": 0.06869565217391305,
+      "support10": 1050.0,
+      "high20": 1588.0
+    },
+    {
+      "name": "AK-47 | Elite Build (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 47.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.018379281537176273,
+      "prior_r3": 0.06636971046770612,
+      "r7": -0.001699235344095107,
+      "ma5": 47.205999999999996,
+      "ma21": 44.881904761904764,
+      "atr14": 2.508571428571429,
+      "atr_pct": 0.05337386018237083,
+      "support10": 42.0,
+      "high20": 51.68
+    },
+    {
+      "name": "AUG | Arctic Wolf (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 44.8,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.05064632337359609,
+      "prior_r3": 0.13985507246376816,
+      "r7": 0.008100810081008047,
+      "ma5": 44.598,
+      "ma21": 43.771428571428565,
+      "atr14": 1.9807142857142854,
+      "atr_pct": 0.04421237244897959,
+      "support10": 40.4,
+      "high20": 49.67
+    },
+    {
+      "name": "AUG | Carved Jade (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 280.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.11553784860557759,
+      "prior_r3": 0.014551333872271588,
+      "r7": 0.10847189231987331,
+      "ma5": 259.06,
+      "ma21": 254.1042857142857,
+      "atr14": 11.207857142857138,
+      "atr_pct": 0.04002806122448978,
+      "support10": 246.7,
+      "high20": 286.0
+    },
+    {
+      "name": "AUG | Syd Mead (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 115.98,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": -0.017118644067796618,
+      "prior_r3": -0.0405724042605089,
+      "r7": -0.09383545589499176,
+      "ma5": 116.28600000000002,
+      "ma21": 126.62857142857145,
+      "atr14": 2.7057142857142833,
+      "atr_pct": 0.023329145419160917,
+      "support10": 112.89,
+      "high20": 137.91
+    },
+    {
+      "name": "AUG | Torque (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 51.6,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.0019342359767892114,
+      "prior_r3": 0.055102040816326525,
+      "r7": 0.03739445114595896,
+      "ma5": 51.620000000000005,
+      "ma21": 49.920952380952386,
+      "atr14": 0.7707142857142851,
+      "atr_pct": 0.014936323366555914,
+      "support10": 48.6,
+      "high20": 52.0
+    },
+    {
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 192.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 12/26/9"
+      ],
+      "status": "scanned",
+      "r3": 0.13074204946996448,
+      "prior_r3": -0.02693409742120334,
+      "r7": 0.11627906976744184,
+      "ma5": 182.2,
+      "ma21": 171.14095238095237,
+      "atr14": 19.497857142857146,
+      "atr_pct": 0.1015513392857143,
+      "support10": 164.5,
+      "high20": 218.0
+    },
+    {
+      "name": "Desert Eagle | Naga (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 151.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.020270270270270174,
+      "prior_r3": 0.12977099236641232,
+      "r7": 0.0961887477313974,
+      "ma5": 150.37,
+      "ma21": 140.51809523809524,
+      "atr14": 13.548571428571432,
+      "atr_pct": 0.08972563859981081,
+      "support10": 129.5,
+      "high20": 178.0
+    },
+    {
+      "name": "Desert Eagle | Night (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 479.42,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.003181203867345772,
+      "prior_r3": -0.00812555424941741,
+      "r7": -0.013356382869255667,
+      "ma5": 480.54200000000003,
+      "ma21": 468.2190476190477,
+      "atr14": 8.37428571428571,
+      "atr_pct": 0.01746753517643342,
+      "support10": 479.42,
+      "high20": 500.0
+    },
+    {
+      "name": "Desert Eagle | Pilot (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 827.4,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.050000000000000044,
+      "prior_r3": -0.10444368678258886,
+      "r7": -0.10541680181641255,
+      "ma5": 803.08,
+      "ma21": 895.4333333333334,
+      "atr14": 23.59285714285715,
+      "atr_pct": 0.02851445146586554,
+      "support10": 788.0,
+      "high20": 959.3
+    },
+    {
+      "name": "Desert Eagle | Sputnik (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 61.29,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.07980972515856233,
+      "prior_r3": 0.09153846153846157,
+      "r7": 0.15554298642533926,
+      "ma5": 60.646,
+      "ma21": 53.096190476190465,
+      "atr14": 6.279285714285715,
+      "atr_pct": 0.10245204298067735,
+      "support10": 50.0,
+      "high20": 66.3
+    },
+    {
+      "name": "Dragomir | Sabre Footsoldier",
+      "group": "agent",
+      "asof": "2026-11-22",
+      "price": 36.57,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.015833333333333366,
+      "prior_r3": -0.026500811249323908,
+      "r7": -0.01640667025282405,
+      "ma5": 36.422,
+      "ma21": 36.98857142857143,
+      "atr14": 0.4414285714285704,
+      "atr_pct": 0.012070784015000557,
+      "support10": 35.5,
+      "high20": 38.59
+    },
+    {
+      "name": "Dual Berettas | Hemoglobin (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 77.28,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.005405405405405461,
+      "prior_r3": -0.016455696202531622,
+      "r7": -0.01904036557501909,
+      "ma5": 76.95599999999999,
+      "ma21": 76.60380952380953,
+      "atr14": 1.3957142857142852,
+      "atr_pct": 0.018060485063590648,
+      "support10": 74.8,
+      "high20": 79.0
+    },
+    {
+      "name": "Dual Berettas | Marina (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 147.19,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.003408548639989073,
+      "prior_r3": -0.010122140495310128,
+      "r7": -0.00948855989232833,
+      "ma5": 144.552,
+      "ma21": 148.0552380952381,
+      "atr14": 2.198571428571429,
+      "atr_pct": 0.014936961944231462,
+      "support10": 135.0,
+      "high20": 150.0
+    },
+    {
+      "name": "Dual Berettas | Panther (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 37.77,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.032249248428532384,
+      "prior_r3": -0.05889917695473246,
+      "r7": -0.1886143931256712,
+      "ma5": 36.722,
+      "ma21": 35.4147619047619,
+      "atr14": 4.979285714285715,
+      "atr_pct": 0.13183176368243882,
+      "support10": 31.2,
+      "high20": 60.0
+    },
+    {
+      "name": "Dual Berettas | Pyre (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 366.92,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 12/26/9"
+      ],
+      "status": "scanned",
+      "r3": 0.41112222136758736,
+      "prior_r3": -0.19378643184918765,
+      "r7": 0.0,
+      "ma5": 325.97,
+      "ma21": 350.8271428571428,
+      "atr14": 26.23928571428571,
+      "atr_pct": 0.07151227982744388,
+      "support10": 257.61,
+      "high20": 366.92
+    },
+    {
+      "name": "FAMAS | Rapid Eye Movement (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 74.89,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.024869791666666585,
+      "prior_r3": 0.010526315789473717,
+      "r7": -0.025884495317377687,
+      "ma5": 75.752,
+      "ma21": 75.25761904761904,
+      "atr14": 0.9749999999999994,
+      "atr_pct": 0.013019094672185864,
+      "support10": 74.89,
+      "high20": 78.0
+    },
+    {
+      "name": "FAMAS | Waters of Nephthys (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 684.12,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.025470085470085446,
+      "prior_r3": 0.06686930091185417,
+      "r7": -0.004916363636363608,
+      "ma5": 686.848,
+      "ma21": 682.1042857142859,
+      "atr14": 23.939285714285713,
+      "atr_pct": 0.03499281663200274,
+      "support10": 643.71,
+      "high20": 760.0
+    },
+    {
+      "name": "Five-SeveN | Boost Protocol (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 55.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.0185185185185186,
+      "prior_r3": 0.03053435114503822,
+      "r7": -0.007040982126737649,
+      "ma5": 55.08,
+      "ma21": 52.69904761904762,
+      "atr14": 3.8864285714285716,
+      "atr_pct": 0.07066233766233766,
+      "support10": 50.8,
+      "high20": 61.8
+    },
+    {
+      "name": "Five-SeveN | Case Hardened (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 183.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.06822810590631367,
+      "prior_r3": 0.07322404371584712,
+      "r7": 0.016666666666666607,
+      "ma5": 190.18,
+      "ma21": 184.41380952380953,
+      "atr14": 10.38928571428571,
+      "atr_pct": 0.05677205308352847,
+      "support10": 176.4,
+      "high20": 210.0
+    },
+    {
+      "name": "Five-SeveN | Fall Hazard (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 2021.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.0,
+      "prior_r3": 0.0,
+      "r7": 0.0,
+      "ma5": 2020.9,
+      "ma21": 2020.2380952380952,
+      "atr14": 1.3571428571428572,
+      "atr_pct": 0.0006715204637025518,
+      "support10": 2019.0,
+      "high20": 2022.0
+    },
+    {
+      "name": "Galil AR | Black Sand (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 83.9,
+      "bars": 420,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.002389486260454099,
+      "prior_r3": 0.009771986970684043,
+      "r7": -0.001071556137635321,
+      "ma5": 85.42999999999999,
+      "ma21": 83.29,
+      "atr14": 4.290714285714287,
+      "atr_pct": 0.05114081389409162,
+      "support10": 79.0,
+      "high20": 90.0
+    },
+    {
+      "name": "Galil AR | Crimson Tsunami (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 41.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.021479713603818618,
+      "prior_r3": 0.13951590970900174,
+      "r7": 0.09333333333333327,
+      "ma5": 41.56,
+      "ma21": 38.06285714285714,
+      "atr14": 3.366428571428571,
+      "atr_pct": 0.08210801393728222,
+      "support10": 35.0,
+      "high20": 45.0
+    },
+    {
+      "name": "Galil AR | Kami (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 36.5,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.09939759036144569,
+      "prior_r3": 0.03750000000000009,
+      "r7": 0.1282843894899537,
+      "ma5": 33.8,
+      "ma21": 30.62238095238095,
+      "atr14": 2.807857142857144,
+      "atr_pct": 0.07692759295499026,
+      "support10": 28.45,
+      "high20": 38.88
+    },
+    {
+      "name": "Galil AR | Orange DDPAT (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 712.49,
+      "bars": 421,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.565912087912088,
+      "prior_r3": -0.08559255612050076,
+      "r7": 0.4255502200880352,
+      "ma5": 612.2940000000001,
+      "ma21": 529.0833333333334,
+      "atr14": 28.622142857142858,
+      "atr_pct": 0.04017199238886561,
+      "support10": 452.0,
+      "high20": 759.4
+    },
+    {
+      "name": "Galil AR | Shattered (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 550.0,
+      "bars": 404,
+      "eligible": true,
+      "families": 1,
+      "types": [
         "单针承接"
       ],
       "status": "scanned",
@@ -457,243 +1104,121 @@
       "high20": 550.0
     },
     {
-      "name": "P2000 | Pulse (Factory New)",
+      "name": "Glock-18 | Bunsen Burner (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 46.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 42.49,
+      "bars": 423,
       "eligible": true,
-      "families": 2,
+      "families": 1,
       "types": [
-        "双金叉 5/12/4",
         "单针承接"
       ],
       "status": "scanned",
-      "r3": 0.0800657431321905,
-      "prior_r3": 0.09205128205128221,
-      "r7": 0.09549892831626572,
-      "ma5": 40.836,
-      "ma21": 37.33714285714286,
-      "atr14": 3.276428571428571,
-      "atr_pct": 0.07122670807453414,
-      "support10": 34.6,
-      "high20": 47.0
+      "r3": 0.14837837837837853,
+      "prior_r3": 0.1212121212121211,
+      "r7": 0.3885620915032679,
+      "ma5": 39.86,
+      "ma21": 32.522380952380956,
+      "atr14": 3.448571428571428,
+      "atr_pct": 0.0811619540732273,
+      "support10": 30.0,
+      "high20": 45.0
     },
     {
-      "name": "P2000 | Turf (Factory New)",
+      "name": "Glock-18 | Grinder (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 80.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 58.47,
+      "bars": 423,
       "eligible": true,
-      "families": 2,
+      "families": 1,
       "types": [
-        "双金叉 5/12/4",
-        "上影吞没"
+        "单针承接"
       ],
       "status": "scanned",
-      "r3": 0.015228426395939021,
-      "prior_r3": -0.03773354499938941,
-      "r7": -0.03614457831325302,
-      "ma5": 77.176,
-      "ma21": 83.34904761904761,
-      "atr14": 5.2078571428571445,
-      "atr_pct": 0.0650982142857143,
-      "support10": 73.0,
-      "high20": 96.4
+      "r3": 0.06309090909090909,
+      "prior_r3": 0.18305011830501172,
+      "r7": 0.19204892966360854,
+      "ma5": 56.464,
+      "ma21": 49.44619047619047,
+      "atr14": 6.650714285714287,
+      "atr_pct": 0.11374575484375384,
+      "support10": 44.52,
+      "high20": 63.87
     },
     {
-      "name": "P250 | Inferno (Factory New)",
+      "name": "Glock-18 | Groundwater (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 58.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 550.0,
+      "bars": 420,
       "eligible": true,
-      "families": 2,
+      "families": 1,
       "types": [
-        "双金叉 5/12/4",
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": 0.24197002141327606,
-      "prior_r3": 0.0021459227467810482,
-      "r7": 0.3004484304932735,
-      "ma5": 50.586,
-      "ma21": 43.56857142857143,
-      "atr14": 4.224285714285713,
-      "atr_pct": 0.07283251231527092,
-      "support10": 42.0,
-      "high20": 60.0
-    },
-    {
-      "name": "Tec-9 | Avalanche (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 68.87,
-      "bars": 422,
-      "eligible": true,
-      "families": 2,
-      "types": [
-        "双金叉 5/12/4",
         "均线合一 MA5/12/21"
       ],
       "status": "scanned",
-      "r3": -0.043472222222222134,
-      "prior_r3": 0.15384615384615397,
-      "r7": 0.09317460317460324,
-      "ma5": 66.554,
-      "ma21": 60.99238095238094,
-      "atr14": 7.74857142857143,
-      "atr_pct": 0.11251011221971002,
-      "support10": 57.8,
-      "high20": 77.66
+      "r3": 0.05769230769230771,
+      "prior_r3": -0.05368516833484982,
+      "r7": 0.0009099181073703999,
+      "ma5": 544.0,
+      "ma21": 514.0885714285714,
+      "atr14": 41.520714285714284,
+      "atr_pct": 0.07549220779220779,
+      "support10": 436.0,
+      "high20": 554.9
     },
     {
-      "name": "Tec-9 | Jambiya (Factory New)",
+      "name": "Glock-18 | Nuclear Garden (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 53.66,
-      "bars": 422,
-      "eligible": true,
-      "families": 2,
-      "types": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4",
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.15646551724137936,
-      "prior_r3": 0.03111111111111109,
-      "r7": 0.14170212765957446,
-      "ma5": 46.486,
-      "ma21": 43.44047619047619,
-      "atr14": 3.689285714285714,
-      "atr_pct": 0.068752995048187,
-      "support10": 40.0,
-      "high20": 53.66
-    },
-    {
-      "name": "Tec-9 | Phoenix Chalk (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 68.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 2,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21",
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": 0.09677419354838701,
-      "prior_r3": 0.09734513274336276,
-      "r7": 0.17241379310344818,
-      "ma5": 62.672000000000004,
-      "ma21": 56.728571428571435,
-      "atr14": 6.386428571428572,
-      "atr_pct": 0.09391806722689076,
-      "support10": 55.0,
-      "high20": 73.0
-    },
-    {
-      "name": "★ Hand Wraps | Constrictor (Minimal Wear)",
-      "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 419.5,
-      "bars": 422,
-      "eligible": true,
-      "families": 2,
-      "types": [
-        "双金叉 5/12/4",
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": 0.013285024154589431,
-      "prior_r3": -0.02358490566037741,
-      "r7": -0.016389598818260742,
-      "ma5": 413.29200000000003,
-      "ma21": 428.15333333333336,
-      "atr14": 10.491428571428571,
-      "atr_pct": 0.025009364890175377,
-      "support10": 403.0,
-      "high20": 460.0
-    },
-    {
-      "name": "★ Sport Gloves | Vice (Minimal Wear)",
-      "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 5899.48,
-      "bars": 422,
-      "eligible": true,
-      "families": 2,
-      "types": [
-        "双金叉 5/12/4",
-        "单针承接"
-      ],
-      "status": "scanned",
-      "r3": 0.019262300038527913,
-      "prior_r3": -0.10124378881987584,
-      "r7": -0.07531661442006277,
-      "ma5": 5913.29,
-      "ma21": 6372.117142857142,
-      "atr14": 204.52785714285716,
-      "atr_pct": 0.03466879405351949,
-      "support10": 5500.0,
-      "high20": 6742.48
-    },
-    {
-      "name": "3rd Commando Company | KSK",
-      "group": "agent",
-      "asof": "2026-11-21",
-      "price": 60.27,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 186.9,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
+        "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.027903225806451548,
-      "prior_r3": -0.014308426073131986,
-      "r7": -0.01840390879478815,
-      "ma5": 61.152,
-      "ma21": 60.75,
-      "atr14": 1.4028571428571435,
-      "atr_pct": 0.023276209438479235,
-      "support10": 59.0,
-      "high20": 63.1
+      "r3": -0.0005347593582887278,
+      "prior_r3": -0.05071323417432361,
+      "r7": -0.09051094890510947,
+      "ma5": 187.39799999999997,
+      "ma21": 212.43904761904764,
+      "atr14": 15.07214285714286,
+      "atr_pct": 0.08064281892532295,
+      "support10": 175.0,
+      "high20": 249.0
     },
     {
-      "name": "AK-47 | Leet Museo (Factory New)",
+      "name": "Glock-18 | Shinobu (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 2448.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 135.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 12/26/9"
+        "上影吞没"
       ],
       "status": "scanned",
-      "r3": -0.024701195219123506,
-      "prior_r3": -0.013752455795677854,
-      "r7": -0.05660377358490565,
-      "ma5": 2451.298,
-      "ma21": 2641.9295238095237,
-      "atr14": 120.09000000000002,
-      "atr_pct": 0.049056372549019615,
-      "support10": 2350.0,
-      "high20": 2979.5
+      "r3": 0.11570247933884303,
+      "prior_r3": -0.08333333333333337,
+      "r7": -0.01098901098901095,
+      "ma5": 126.018,
+      "ma21": 125.69238095238093,
+      "atr14": 15.990714285714285,
+      "atr_pct": 0.11844973544973544,
+      "support10": 118.0,
+      "high20": 186.5
     },
     {
-      "name": "AK-47 | X-Ray (Factory New)",
+      "name": "Glock-18 | Twilight Galaxy (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 8300.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 2221.5,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
@@ -701,200 +1226,619 @@
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.028046138532700993,
-      "prior_r3": 0.0035844400047009284,
-      "r7": -0.05142857142857138,
-      "ma5": 8387.9,
-      "ma21": 8978.907142857142,
-      "atr14": 258.4064285714286,
-      "atr_pct": 0.031133304647160073,
-      "support10": 7950.0,
-      "high20": 9939.5
+      "r3": 0.009772727272727266,
+      "prior_r3": -0.00878576255913499,
+      "r7": -0.04245689655172413,
+      "ma5": 2197.9,
+      "ma21": 2304.171904761905,
+      "atr14": 127.83571428571427,
+      "atr_pct": 0.05754477347995241,
+      "support10": 2060.0,
+      "high20": 2600.0
     },
     {
-      "name": "AUG | Arctic Wolf (Factory New)",
+      "name": "Glock-18 | Water Elemental (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 44.9,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 586.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "单针承接"
       ],
       "status": "scanned",
-      "r3": 0.08192771084337336,
-      "prior_r3": -0.06615661566156605,
-      "r7": -0.0022222222222222365,
-      "ma5": 43.936,
-      "ma21": 43.47142857142857,
-      "atr14": 2.1742857142857135,
-      "atr_pct": 0.04842507158765509,
-      "support10": 40.4,
-      "high20": 49.67
+      "r3": 0.12368168744007679,
+      "prior_r3": 0.057809330628803224,
+      "r7": 0.20581093872175815,
+      "ma5": 556.1940000000001,
+      "ma21": 442.75714285714287,
+      "atr14": 44.144285714285715,
+      "atr_pct": 0.07533154558751828,
+      "support10": 473.2,
+      "high20": 595.0
     },
     {
-      "name": "AUG | Carved Jade (Factory New)",
+      "name": "M4A1-S | Flashback (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 263.8,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 449.5,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 12/26/9",
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.05520000000000014,
-      "prior_r3": -0.010292953285827355,
-      "r7": 0.011154126260109809,
-      "ma5": 253.16,
-      "ma21": 252.1447619047619,
-      "atr14": 10.393571428571425,
-      "atr_pct": 0.03939943680277265,
-      "support10": 246.7,
-      "high20": 280.0
+      "r3": -0.022826086956521774,
+      "prior_r3": -0.06882591093117407,
+      "r7": -0.11428571428571432,
+      "ma5": 461.6,
+      "ma21": 531.4190476190475,
+      "atr14": 37.37142857142857,
+      "atr_pct": 0.08313999682186556,
+      "support10": 431.0,
+      "high20": 623.9
     },
     {
-      "name": "AUG | Eye of Zapems (Factory New)",
+      "name": "M4A1-S | Leaded Glass (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 34.3,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 220.38,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA7/14/21"
+        "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.028328611898017053,
-      "prior_r3": -0.013966480446927387,
-      "r7": -0.047222222222222276,
-      "ma5": 34.958000000000006,
-      "ma21": 34.94809523809523,
-      "atr14": 0.7157142857142854,
-      "atr_pct": 0.020866305705955844,
-      "support10": 34.0,
-      "high20": 36.6
+      "r3": 0.0705853777022103,
+      "prior_r3": 0.00906862745098036,
+      "r7": 0.04198581560283676,
+      "ma5": 209.28599999999997,
+      "ma21": 202.40809523809523,
+      "atr14": 20.176428571428577,
+      "atr_pct": 0.09155290213008702,
+      "support10": 188.0,
+      "high20": 259.9
     },
     {
-      "name": "AUG | Torque (Factory New)",
+      "name": "M4A4 | Hellfire (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 51.6,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 1386.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": -0.04109589041095896,
+      "prior_r3": 0.010769230769230864,
+      "r7": -0.07599999999999996,
+      "ma5": 1409.274,
+      "ma21": 1521.469523809524,
+      "atr14": 79.52714285714286,
+      "atr_pct": 0.057378890950319526,
+      "support10": 1299.0,
+      "high20": 1750.0
+    },
+    {
+      "name": "M4A4 | Jungle Tiger (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 665.5,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.11101836393989983,
+      "prior_r3": 0.0,
+      "r7": 0.11101836393989983,
+      "ma5": 612.3,
+      "ma21": 602.5238095238095,
+      "atr14": 6.214285714285714,
+      "atr_pct": 0.009337769668348182,
+      "support10": 599.0,
+      "high20": 665.5
+    },
+    {
+      "name": "M4A4 | Modern Hunter (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 4400.0,
+      "bars": 367,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.13183279742765275,
+      "prior_r3": 0.0,
+      "r7": 0.13183279742765275,
+      "ma5": 4195.0,
+      "ma21": 4005.404761904762,
+      "atr14": 36.607142857142854,
+      "atr_pct": 0.008319805194805194,
+      "support10": 3887.5,
+      "high20": 4400.0
+    },
+    {
+      "name": "M4A4 | Poseidon (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 6399.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": -0.00015624999999996891,
+      "prior_r3": -0.044704828718561074,
+      "r7": -0.06007638072855459,
+      "ma5": 6371.796,
+      "ma21": 6962.808095238095,
+      "atr14": 181.95928571428573,
+      "atr_pct": 0.028435581452459092,
+      "support10": 6200.0,
+      "high20": 7750.0
+    },
+    {
+      "name": "MAC-10 | Curse (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 59.99,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "单针承接"
       ],
       "status": "scanned",
       "r3": 0.0,
-      "prior_r3": 0.03739445114595896,
-      "r7": 0.03739445114595896,
-      "ma5": 51.022000000000006,
-      "ma21": 49.85857142857144,
-      "atr14": 1.086428571428571,
-      "atr_pct": 0.0210548172757475,
-      "support10": 48.6,
-      "high20": 52.0
+      "prior_r3": -0.007937820406813234,
+      "r7": -0.009575697540036288,
+      "ma5": 60.084,
+      "ma21": 60.941428571428574,
+      "atr14": 0.5271428571428568,
+      "atr_pct": 0.008787178815516865,
+      "support10": 54.99,
+      "high20": 64.61
     },
     {
-      "name": "AWP | Desert Hydra (Factory New)",
+      "name": "MAC-10 | Heat (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 6918.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 59.8,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 5/12/4"
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
       ],
       "status": "scanned",
-      "r3": 0.00552325581395352,
-      "prior_r3": -0.030985915492957705,
-      "r7": -0.03876615256356819,
-      "ma5": 6894.8,
-      "ma21": 7360.891428571429,
-      "atr14": 143.50857142857143,
-      "atr_pct": 0.020744228307107752,
-      "support10": 6650.0,
-      "high20": 7700.0
+      "r3": -0.04898218829516543,
+      "prior_r3": 0.10315789473684212,
+      "r7": 0.046735515490985424,
+      "ma5": 60.330000000000005,
+      "ma21": 58.03285714285715,
+      "atr14": 0.9357142857142863,
+      "atr_pct": 0.015647396082178702,
+      "support10": 56.98,
+      "high20": 63.0
     },
     {
-      "name": "AWP | Ice Coaled (Factory New)",
+      "name": "MAC-10 | Hot Snakes (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 153.5,
-      "bars": 401,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.01655629139072845,
-      "prior_r3": 0.01683501683501687,
-      "r7": 0.030201342281879207,
-      "ma5": 152.42000000000002,
-      "ma21": 153.9190476190476,
-      "atr14": 3.8721428571428556,
-      "atr_pct": 0.025225686365751503,
-      "support10": 145.0,
-      "high20": 160.0
-    },
-    {
-      "name": "CZ75-Auto | Green Plaid (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 99.98,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 1849.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 12/26/9"
       ],
       "status": "scanned",
-      "r3": 0.8284564740307243,
-      "prior_r3": -0.050364709968739096,
-      "r7": 0.6951508986096984,
-      "ma5": 63.3,
-      "ma21": 68.90476190476191,
-      "atr14": 4.529285714285715,
-      "atr_pct": 0.045301917526362416,
-      "support10": 52.68,
-      "high20": 99.98
+      "r3": 0.0,
+      "prior_r3": 0.0,
+      "r7": 0.0,
+      "ma5": 1849.0,
+      "ma21": 1860.452380952381,
+      "atr14": 1.8571428571428572,
+      "atr_pct": 0.0010044039249014912,
+      "support10": 1849.0,
+      "high20": 1876.5
     },
     {
-      "name": "CZ75-Auto | Syndicate (Factory New)",
+      "name": "MAG-7 | Heat (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 73.7,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 31.8,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.0545142366576048,
-      "prior_r3": -0.05541289363427482,
-      "r7": -0.009009009009009028,
-      "ma5": 71.17399999999999,
-      "ma21": 74.40666666666668,
-      "atr14": 0.8271428571428591,
-      "atr_pct": 0.011223105252956025,
-      "support10": 69.89,
-      "high20": 82.49
+      "r3": 0.00952380952380949,
+      "prior_r3": -0.015625,
+      "r7": -0.0031347962382444194,
+      "ma5": 31.78,
+      "ma21": 31.72666666666666,
+      "atr14": 0.34285714285714314,
+      "atr_pct": 0.010781671159029659,
+      "support10": 31.0,
+      "high20": 33.08
     },
     {
-      "name": "CZ75-Auto | Yellow Jacket (Factory New)",
+      "name": "MP5-SD | Phosphor (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 116.1,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 68.65,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.03023025851108918,
+      "prior_r3": 0.04271615849167776,
+      "r7": 0.050015295197308296,
+      "ma5": 69.774,
+      "ma21": 68.24238095238096,
+      "atr14": 2.558571428571426,
+      "atr_pct": 0.037269795026532056,
+      "support10": 65.0,
+      "high20": 73.85
+    },
+    {
+      "name": "MP7 | Abyssal Apparition (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 72.09,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.038799999999999946,
+      "prior_r3": -0.019607843137254943,
+      "r7": -0.04856803484228578,
+      "ma5": 73.93400000000001,
+      "ma21": 74.52476190476189,
+      "atr14": 1.1849999999999983,
+      "atr_pct": 0.016437786100707424,
+      "support10": 72.09,
+      "high20": 77.99
+    },
+    {
+      "name": "MP7 | Asterion (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 53.39,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.06316897701351121,
+      "prior_r3": 0.13980000000000015,
+      "r7": 0.026730769230769225,
+      "ma5": 53.632000000000005,
+      "ma21": 50.65571428571428,
+      "atr14": 4.128571428571428,
+      "atr_pct": 0.07732855269847215,
+      "support10": 49.8,
+      "high20": 63.5
+    },
+    {
+      "name": "MP7 | Cirrus (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 63.79,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": -0.015586419753086389,
+      "prior_r3": 0.025478714986548523,
+      "r7": -0.03201820940819433,
+      "ma5": 63.56400000000001,
+      "ma21": 67.2590476190476,
+      "atr14": 5.940714285714286,
+      "atr_pct": 0.09312924103643652,
+      "support10": 57.5,
+      "high20": 85.0
+    },
+    {
+      "name": "MP7 | Nemesis (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 139.4,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.02575423105224428,
+      "prior_r3": -0.0005883218120310563,
+      "r7": -0.0035739814152966343,
+      "ma5": 137.26,
+      "ma21": 135.6804761904762,
+      "atr14": 9.52428571428571,
+      "atr_pct": 0.06832342693174828,
+      "support10": 125.0,
+      "high20": 174.5
+    },
+    {
+      "name": "MP9 | Arctic Tri-Tone (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 30.29,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.009666666666666712,
+      "prior_r3": 0.034482758620689724,
+      "r7": 0.03732876712328759,
+      "ma5": 29.913999999999998,
+      "ma21": 28.774285714285714,
+      "atr14": 1.2400000000000002,
+      "atr_pct": 0.04093760316936283,
+      "support10": 28.0,
+      "high20": 30.69
+    },
+    {
+      "name": "MP9 | Storm (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 180.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.0027855153203342198,
+      "prior_r3": 0.0,
+      "r7": 0.0027855153203342198,
+      "ma5": 179.6,
+      "ma21": 176.18571428571428,
+      "atr14": 2.4285714285714284,
+      "atr_pct": 0.013492063492063491,
+      "support10": 179.0,
+      "high20": 180.0
+    },
+    {
+      "name": "P2000 | Granite Marbleized (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 67.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.021897810218978075,
+      "prior_r3": 0.22540250447227184,
+      "r7": -0.02898550724637683,
+      "ma5": 66.25,
+      "ma21": 62.91428571428572,
+      "atr14": 5.033571428571428,
+      "atr_pct": 0.07512793176972281,
+      "support10": 55.9,
+      "high20": 69.96
+    },
+    {
+      "name": "P2000 | Handgun (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 102.98,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.04251872848754812,
+      "prior_r3": -0.021980198019802,
+      "r7": 0.011591355599214204,
+      "ma5": 101.28400000000002,
+      "ma21": 101.61571428571428,
+      "atr14": 3.3978571428571414,
+      "atr_pct": 0.03299531115611906,
+      "support10": 97.0,
+      "high20": 112.0
+    },
+    {
+      "name": "P2000 | Obsidian (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 79.21,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.04567656765676564,
+      "prior_r3": -0.11299765807962536,
+      "r7": -0.07139507620164132,
+      "ma5": 78.81599999999999,
+      "ma21": 86.54952380952382,
+      "atr14": 1.5171428571428578,
+      "atr_pct": 0.019153425794001488,
+      "support10": 75.75,
+      "high20": 94.99
+    },
+    {
+      "name": "P2000 | Ocean Foam (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 549.5,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.018750000000000044,
+      "prior_r3": 0.02752293577981657,
+      "r7": 0.0009107468123861207,
+      "ma5": 555.5600000000001,
+      "ma21": 551.9799999999999,
+      "atr14": 10.43571428571428,
+      "atr_pct": 0.018991290783829443,
+      "support10": 540.0,
+      "high20": 575.0
+    },
+    {
+      "name": "P2000 | Pulse (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 46.6,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.16500000000000004,
+      "prior_r3": 0.10192837465564741,
+      "r7": 0.19487179487179485,
+      "ma5": 42.936,
+      "ma21": 38.09,
+      "atr14": 3.290714285714285,
+      "atr_pct": 0.07061618638871855,
+      "support10": 34.6,
+      "high20": 48.0
+    },
+    {
+      "name": "P2000 | Wicked Sick (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 62.9,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.039401343921808274,
+      "prior_r3": 0.07168576104746327,
+      "r7": 0.029459901800327204,
+      "ma5": 64.15599999999999,
+      "ma21": 62.18952380952381,
+      "atr14": 1.1314285714285712,
+      "atr_pct": 0.017987735634794454,
+      "support10": 59.84,
+      "high20": 66.0
+    },
+    {
+      "name": "P250 | Digital Architect (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 225.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 12/26/9"
+      ],
+      "status": "scanned",
+      "r3": 0.125,
+      "prior_r3": -0.11111111111111116,
+      "r7": -0.021611514545375465,
+      "ma5": 214.7,
+      "ma21": 225.28952380952376,
+      "atr14": 5.926428571428572,
+      "atr_pct": 0.02633968253968254,
+      "support10": 198.5,
+      "high20": 229.97
+    },
+    {
+      "name": "P250 | Muertos (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 123.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.07435279951836238,
+      "prior_r3": 0.10273858921161816,
+      "r7": -0.016000000000000014,
+      "ma5": 128.636,
+      "ma21": 122.3457142857143,
+      "atr14": 9.619285714285715,
+      "atr_pct": 0.07820557491289198,
+      "support10": 115.0,
+      "high20": 150.0
+    },
+    {
+      "name": "P250 | Wingshot (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 43.6,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.004566210045662045,
+      "prior_r3": 0.09226932668329169,
+      "r7": 0.07654320987654328,
+      "ma5": 43.739999999999995,
+      "ma21": 40.97428571428571,
+      "atr14": 1.3228571428571432,
+      "atr_pct": 0.030340760157273924,
+      "support10": 39.89,
+      "high20": 48.0
+    },
+    {
+      "name": "P90 | Fallout Warning (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 1888.0,
+      "bars": 420,
       "eligible": true,
       "families": 1,
       "types": [
@@ -904,1311 +1848,328 @@
       "r3": 0.0,
       "prior_r3": 0.0,
       "r7": 0.0,
-      "ma5": 115.772,
-      "ma21": 120.6690476190476,
-      "atr14": 4.824285714285712,
-      "atr_pct": 0.0415528485295927,
-      "support10": 114.74,
-      "high20": 148.42
+      "ma5": 1771.15,
+      "ma21": 1860.1785714285713,
+      "atr14": 69.55357142857143,
+      "atr_pct": 0.03683981537530266,
+      "support10": 1498.5,
+      "high20": 1888.0
     },
     {
-      "name": "Chem-Haz Specialist | SWAT",
-      "group": "agent",
-      "asof": "2026-11-21",
-      "price": 49.9,
-      "bars": 422,
+      "name": "PP-Bizon | Chemical Green (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 84.6,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "均线合一 MA5/12/21"
       ],
       "status": "scanned",
-      "r3": -0.036679536679536606,
-      "prior_r3": -0.018939393939393923,
-      "r7": -0.021568627450980427,
-      "ma5": 51.158,
-      "ma21": 50.97380952380953,
-      "atr14": 1.3242857142857132,
-      "atr_pct": 0.02653879186945317,
-      "support10": 48.0,
-      "high20": 53.0
+      "r3": 0.057499999999999885,
+      "prior_r3": 0.0,
+      "r7": 0.20874410630090012,
+      "ma5": 80.9,
+      "ma21": 77.37952380952382,
+      "atr14": 5.08142857142857,
+      "atr_pct": 0.060064167510976006,
+      "support10": 69.99,
+      "high20": 90.0
     },
     {
-      "name": "Desert Eagle | Hypnotic (Factory New)",
+      "name": "PP-Bizon | Embargo (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 723.5,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": -0.02097428958051417,
-      "prior_r3": 0.012328767123287676,
-      "r7": -0.07657945118059983,
-      "ma5": 723.1,
-      "ma21": 777.1319047619047,
-      "atr14": 32.99142857142857,
-      "atr_pct": 0.04559976305657024,
-      "support10": 699.0,
-      "high20": 879.5
-    },
-    {
-      "name": "Desert Eagle | Light Rail (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 102.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.0049261083743843415,
-      "prior_r3": 0.09139784946236551,
-      "r7": 0.0625,
-      "ma5": 98.394,
-      "ma21": 91.83142857142856,
-      "atr14": 10.077857142857145,
-      "atr_pct": 0.09880252100840338,
-      "support10": 85.0,
-      "high20": 117.5
-    },
-    {
-      "name": "Desert Eagle | Mecha Industries (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 385.5,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.10903337169159943,
-      "prior_r3": 0.17631133671742827,
-      "r7": 0.2238095238095239,
-      "ma5": 347.02,
-      "ma21": 243.2866666666667,
-      "atr14": 50.723571428571425,
-      "atr_pct": 0.13157865480822678,
-      "support10": 233.0,
-      "high20": 408.88
-    },
-    {
-      "name": "Desert Eagle | Night (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 480.44,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.0021185560586548524,
-      "prior_r3": -0.00915807454055284,
-      "r7": -0.016439085307183743,
-      "ma5": 481.33000000000004,
-      "ma21": 468.42285714285725,
-      "atr14": 8.444285714285712,
-      "atr_pct": 0.017576150433531165,
-      "support10": 421.41,
-      "high20": 500.0
-    },
-    {
-      "name": "Desert Eagle | Trigger Discipline (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 51.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": -0.03591682419659736,
-      "prior_r3": 0.3704663212435233,
-      "r7": 0.3421052631578947,
-      "ma5": 47.9,
-      "ma21": 37.55619047619048,
-      "atr14": 5.989285714285715,
-      "atr_pct": 0.11743697478991598,
-      "support10": 36.0,
-      "high20": 59.8
-    },
-    {
-      "name": "Dual Berettas | Hemoglobin (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 77.2,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.00783289817232391,
-      "prior_r3": -0.02767199796902775,
-      "r7": -0.007712082262210762,
-      "ma5": 77.03999999999999,
-      "ma21": 76.72190476190477,
-      "atr14": 1.518571428571428,
-      "atr_pct": 0.019670614359733524,
-      "support10": 74.8,
-      "high20": 79.76
-    },
-    {
-      "name": "Dual Berettas | Melondrama (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 74.34,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.0032180209171358554,
-      "prior_r3": -0.05210981189628883,
-      "r7": -0.046800871906654606,
-      "ma5": 75.292,
-      "ma21": 75.23333333333332,
-      "atr14": 1.7921428571428595,
-      "atr_pct": 0.02410738306622087,
-      "support10": 73.3,
-      "high20": 78.88
-    },
-    {
-      "name": "FAMAS | Hexane (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 47.8,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.06458797327394206,
-      "prior_r3": 0.020454545454545503,
-      "r7": 0.017021276595744705,
-      "ma5": 45.898,
-      "ma21": 45.600476190476186,
-      "atr14": 2.893571428571428,
-      "atr_pct": 0.060534967124925274,
-      "support10": 38.7,
-      "high20": 52.79
-    },
-    {
-      "name": "FAMAS | Macabre (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 65.34,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.1751798561151079,
-      "prior_r3": -0.001616089064463977,
-      "r7": 0.18800000000000017,
-      "ma5": 59.242000000000004,
-      "ma21": 54.97857142857143,
-      "atr14": 3.935714285714286,
-      "atr_pct": 0.060234378416196596,
-      "support10": 51.4,
-      "high20": 70.0
-    },
-    {
-      "name": "FAMAS | Rapid Eye Movement (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 74.99,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.001331735251032251,
-      "prior_r3": -0.02328303850156077,
-      "r7": -0.026103896103896185,
-      "ma5": 75.834,
-      "ma21": 75.35333333333332,
-      "atr14": 1.02,
-      "atr_pct": 0.013601813575143354,
-      "support10": 74.9,
-      "high20": 78.0
-    },
-    {
-      "name": "FAMAS | Roll Cage (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 769.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": -0.0012987012987012436,
-      "prior_r3": 0.00067578104694066,
-      "r7": -0.001285730983519251,
-      "ma5": 767.6,
-      "ma21": 780.1014285714285,
-      "atr14": 16.99571428571429,
-      "atr_pct": 0.022101058889095304,
-      "support10": 739.44,
-      "high20": 839.0
-    },
-    {
-      "name": "FAMAS | Valence (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 188.8,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.017789757412399076,
-      "prior_r3": 0.0010793308148946412,
-      "r7": 0.006933333333333458,
-      "ma5": 183.5,
-      "ma21": 178.14333333333337,
-      "atr14": 12.202857142857143,
-      "atr_pct": 0.06463377723970944,
-      "support10": 165.0,
-      "high20": 214.99
-    },
-    {
-      "name": "Five-SeveN | Case Hardened (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 183.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.10073710073710074,
-      "prior_r3": 0.13055555555555554,
-      "r7": -0.0027247956403270157,
-      "ma5": 189.98,
-      "ma21": 183.98285714285717,
-      "atr14": 10.629285714285713,
-      "atr_pct": 0.05808352849336455,
-      "support10": 176.4,
-      "high20": 210.0
-    },
-    {
-      "name": "Five-SeveN | Fall Hazard (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 2021.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": 0.0002474634991338487,
-      "prior_r3": -0.0002474022761009831,
-      "r7": 0.0,
-      "ma5": 2020.9,
-      "ma21": 2020.2857142857142,
-      "atr14": 1.6785714285714286,
-      "atr_pct": 0.0008305647840531562,
-      "support10": 2019.0,
-      "high20": 2022.0
-    },
-    {
-      "name": "Galil AR | Chromatic Aberration (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 113.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.05607476635514019,
-      "prior_r3": 0.01904761904761898,
-      "r7": 0.0282074613284804,
-      "ma5": 108.1,
-      "ma21": 105.40571428571431,
-      "atr14": 12.170714285714284,
-      "atr_pct": 0.10770543615676358,
-      "support10": 99.9,
-      "high20": 132.0
-    },
-    {
-      "name": "Galil AR | Crimson Tsunami (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 41.3,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.03278688524590179,
-      "prior_r3": 0.13866666666666672,
-      "r7": -0.007211538461538547,
-      "ma5": 40.936,
-      "ma21": 37.68666666666666,
-      "atr14": 3.7014285714285715,
-      "atr_pct": 0.08962296783120029,
-      "support10": 35.0,
-      "high20": 45.0
-    },
-    {
-      "name": "Galil AR | Kami (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 35.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.08024691358024705,
-      "prior_r3": 0.001545595054095683,
-      "r7": 0.06092755380418313,
-      "ma5": 32.2,
-      "ma21": 30.150952380952383,
-      "atr14": 2.8435714285714297,
-      "atr_pct": 0.0812448979591837,
-      "support10": 28.45,
-      "high20": 38.88
-    },
-    {
-      "name": "Galil AR | Orange DDPAT (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 713.89,
-      "bars": 420,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.5499468073557829,
-      "prior_r3": -0.078451380552221,
-      "r7": 0.4283513405362145,
-      "ma5": 562.954,
-      "ma21": 520.3885714285715,
-      "atr14": 28.52214285714286,
-      "atr_pct": 0.03995313403625609,
-      "support10": 452.0,
-      "high20": 759.4
-    },
-    {
-      "name": "Glock-18 | Clear Polymer (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 32.3,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": 0.09863945578231292,
-      "prior_r3": 0.13953488372093004,
-      "r7": 0.286852589641434,
-      "ma5": 28.360000000000003,
-      "ma21": 21.957619047619048,
-      "atr14": 3.0514285714285707,
-      "atr_pct": 0.09447147279964616,
-      "support10": 21.6,
-      "high20": 33.0
-    },
-    {
-      "name": "Glock-18 | Grinder (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 58.85,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": 0.08981481481481479,
-      "prior_r3": 0.10091743119266061,
-      "r7": 0.14050387596899228,
-      "ma5": 54.348,
-      "ma21": 48.62285714285714,
-      "atr14": 6.832857142857143,
-      "atr_pct": 0.1161063235829591,
-      "support10": 44.52,
-      "high20": 63.87
-    },
-    {
-      "name": "Glock-18 | Sacrifice (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 55.97,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": 0.0030465949820788207,
-      "prior_r3": 0.21834061135371186,
-      "r7": 0.17337526205450726,
-      "ma5": 53.186,
-      "ma21": 47.25619047619047,
-      "atr14": 5.025,
-      "atr_pct": 0.08978023941397179,
-      "support10": 41.0,
-      "high20": 71.0
-    },
-    {
-      "name": "Glock-18 | Warhawk (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 49.76,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": 0.031081641110650704,
-      "prior_r3": 0.17707317073170725,
-      "r7": 0.24743043369265472,
-      "ma5": 46.018,
-      "ma21": 40.82619047619047,
-      "atr14": 3.6750000000000003,
-      "atr_pct": 0.07385450160771705,
-      "support10": 37.3,
-      "high20": 49.76
-    },
-    {
-      "name": "Glock-18 | Water Elemental (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 578.98,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.08935257483677961,
-      "prior_r3": 0.09364582904646279,
-      "r7": 0.14765406648298285,
-      "ma5": 541.768,
-      "ma21": 428.56619047619046,
-      "atr14": 45.42857142857144,
-      "atr_pct": 0.07846311000133241,
-      "support10": 473.2,
-      "high20": 595.0
-    },
-    {
-      "name": "John 'Van Healen' Kask | SWAT",
-      "group": "agent",
-      "asof": "2026-11-21",
-      "price": 47.79,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.02469387755102037,
-      "prior_r3": -0.02390438247011961,
-      "r7": -0.049900596421471155,
-      "ma5": 48.098,
-      "ma21": 48.52190476190476,
-      "atr14": 1.2371428571428562,
-      "atr_pct": 0.025887065435088015,
-      "support10": 45.7,
-      "high20": 50.5
-    },
-    {
-      "name": "M4A1-S | Fizzy POP (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 65.89,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": -0.015097159940209326,
-      "prior_r3": 0.12436974789915967,
-      "r7": 0.031142410015649435,
-      "ma5": 63.758,
-      "ma21": 62.32619047619048,
-      "atr14": 5.512142857142858,
-      "atr_pct": 0.08365674392385579,
-      "support10": 57.5,
-      "high20": 74.0
-    },
-    {
-      "name": "M4A1-S | Glitched Paint (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 31.17,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.07556935817805388,
-      "prior_r3": -0.012606473594548584,
-      "r7": 0.03486055776892427,
-      "ma5": 29.392000000000003,
-      "ma21": 29.363333333333333,
-      "atr14": 1.678571428571429,
-      "atr_pct": 0.05385214721114626,
-      "support10": 27.8,
-      "high20": 32.99
-    },
-    {
-      "name": "M4A4 | Daybreak (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 3099.48,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": -0.005939704939063484,
-      "prior_r3": -0.02562500000000001,
-      "r7": -0.051555098593618065,
-      "ma5": 3050.796,
-      "ma21": 3250.845714285714,
-      "atr14": 176.03428571428572,
-      "atr_pct": 0.05679478032259789,
-      "support10": 2900.0,
-      "high20": 3750.0
-    },
-    {
-      "name": "M4A4 | Turbine (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 75.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "上影吞没"
-      ],
-      "status": "scanned",
-      "r3": -0.03213317847464181,
-      "prior_r3": -0.014122137404580126,
-      "r7": -0.08525429930479322,
-      "ma5": 72.836,
-      "ma21": 67.93428571428572,
-      "atr14": 6.907857142857142,
-      "atr_pct": 0.0921047619047619,
-      "support10": 69.0,
-      "high20": 92.0
-    },
-    {
-      "name": "MAC-10 | Heat (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 60.89,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.06862056862056876,
-      "prior_r3": -0.0026255907579206816,
-      "r7": 0.06581480833187459,
-      "ma5": 59.767999999999994,
-      "ma21": 57.88,
-      "atr14": 0.8678571428571432,
-      "atr_pct": 0.014252868169767502,
-      "support10": 56.98,
-      "high20": 63.0
-    },
-    {
-      "name": "MAG-7 | Counter Terrace (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 768.88,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 57.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 12/26/9"
       ],
       "status": "scanned",
-      "r3": 0.13320560058953568,
-      "prior_r3": -0.03690560681334276,
-      "r7": 0.08677154447412683,
-      "ma5": 714.802,
-      "ma21": 735.3323809523808,
-      "atr14": 20.982142857142858,
-      "atr_pct": 0.027289229602984678,
-      "support10": 678.5,
-      "high20": 776.99
-    },
-    {
-      "name": "MAG-7 | Prism Terrace (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 181.29,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.005540318156884383,
-      "prior_r3": -0.00273522975929974,
-      "r7": -0.008260393873085414,
-      "ma5": 180.436,
-      "ma21": 178.64761904761912,
-      "atr14": 4.213571428571427,
-      "atr_pct": 0.02324216133582342,
-      "support10": 166.99,
-      "high20": 183.4
-    },
-    {
-      "name": "MP9 | Arctic Tri-Tone (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 30.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.013856032443392952,
-      "prior_r3": 0.013356164383561575,
-      "r7": 0.03806228373702436,
-      "ma5": 29.636000000000003,
-      "ma21": 28.784285714285716,
-      "atr14": 1.2621428571428572,
-      "atr_pct": 0.04207142857142857,
-      "support10": 28.0,
-      "high20": 31.0
-    },
-    {
-      "name": "MP9 | Mount Fuji (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 79.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.05727923627684961,
-      "prior_r3": 0.06237322515212984,
-      "r7": -0.023485784919653918,
-      "ma5": 81.798,
-      "ma21": 78.5504761904762,
-      "atr14": 5.176428571428568,
-      "atr_pct": 0.06552441229656415,
-      "support10": 75.56,
-      "high20": 88.88
-    },
-    {
-      "name": "P2000 | Wicked Sick (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 62.8,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.04268292682926822,
-      "prior_r3": 0.07364975450081812,
-      "r7": 0.03153745072273306,
-      "ma5": 64.756,
-      "ma21": 62.23952380952381,
-      "atr14": 1.1321428571428567,
-      "atr_pct": 0.01802775250227479,
-      "support10": 59.75,
-      "high20": 66.0
-    },
-    {
-      "name": "P250 | Bengal Tiger (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 186.9,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9"
-      ],
-      "status": "scanned",
-      "r3": 0.007547169811320753,
-      "prior_r3": -0.0598073998986316,
-      "r7": -0.05271160669031938,
-      "ma5": 188.398,
-      "ma21": 211.20857142857147,
-      "atr14": 3.3157142857142867,
-      "atr_pct": 0.017740579377818547,
-      "support10": 185.0,
-      "high20": 247.9
-    },
-    {
-      "name": "P250 | Mehndi (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 155.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.03125,
-      "prior_r3": 0.0062893081761006275,
-      "r7": -0.03125,
-      "ma5": 157.9,
-      "ma21": 156.3095238095238,
-      "atr14": 7.160000000000003,
-      "atr_pct": 0.04619354838709679,
-      "support10": 135.0,
-      "high20": 165.0
-    },
-    {
-      "name": "P250 | Wingshot (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 43.6,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.009090909090909038,
-      "prior_r3": 0.08641975308641969,
-      "r7": 0.06367406684557197,
-      "ma5": 43.018,
-      "ma21": 40.50714285714286,
-      "atr14": 1.965714285714286,
-      "atr_pct": 0.04508519003931848,
-      "support10": 39.89,
-      "high20": 48.0
+      "r3": 0.2182090190211583,
+      "prior_r3": -0.09671814671814671,
+      "r7": 0.08571428571428563,
+      "ma5": 52.336,
+      "ma21": 55.38333333333333,
+      "atr14": 1.7964285714285713,
+      "atr_pct": 0.03151629072681704,
+      "support10": 46.79,
+      "high20": 60.87
     },
     {
       "name": "R8 Revolver | Phoenix Marker (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 39.9,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 40.4,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "status": "scanned",
-      "r3": 0.005037783375314797,
-      "prior_r3": -0.03170731707317065,
-      "r7": -0.045454545454545414,
-      "ma5": 40.372,
-      "ma21": 39.37142857142857,
-      "atr14": 1.9750000000000003,
-      "atr_pct": 0.04949874686716793,
+      "r3": -0.009318293281020185,
+      "prior_r3": -0.019711538461538503,
+      "r7": -0.014634146341463428,
+      "ma5": 40.132000000000005,
+      "ma21": 39.39095238095238,
+      "atr14": 1.9935714285714288,
+      "atr_pct": 0.04934582743988685,
       "support10": 39.6,
       "high20": 47.0
     },
     {
       "name": "Rezan the Redshirt | Sabre",
       "group": "agent",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 33.95,
-      "bars": 422,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 5/12/4"
+        "双金叉 12/26/9"
       ],
       "status": "scanned",
-      "r3": 0.035060975609756184,
-      "prior_r3": -0.05692926969522727,
-      "r7": -0.015942028985507117,
-      "ma5": 33.422000000000004,
-      "ma21": 34.184285714285714,
-      "atr14": 1.1321428571428573,
-      "atr_pct": 0.033347359562381655,
+      "r3": 0.017685851318944845,
+      "prior_r3": -0.015348288075560879,
+      "r7": -0.023864289821736606,
+      "ma5": 33.512,
+      "ma21": 34.12238095238096,
+      "atr14": 1.0750000000000004,
+      "atr_pct": 0.03166421207658322,
       "support10": 32.0,
-      "high20": 35.68
-    },
-    {
-      "name": "SCAR-20 | Emerald (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 144.5,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.03602401601067384,
-      "prior_r3": -0.023452768729641638,
-      "r7": -0.05863192182410426,
-      "ma5": 148.21999999999997,
-      "ma21": 144.80333333333334,
-      "atr14": 4.242142857142858,
-      "atr_pct": 0.029357390014829468,
-      "support10": 139.0,
-      "high20": 164.49
+      "high20": 35.5
     },
     {
       "name": "SCAR-20 | Enforcer (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 67.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 69.98,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "单针承接"
       ],
       "status": "scanned",
-      "r3": 0.3701431492842535,
-      "prior_r3": 0.06304347826086953,
-      "r7": 0.763157894736842,
-      "ma5": 60.160000000000004,
-      "ma21": 37.16,
-      "atr14": 13.092142857142857,
-      "atr_pct": 0.1954051172707889,
+      "r3": 0.2277192982456142,
+      "prior_r3": 0.05555555555555558,
+      "r7": 0.521304347826087,
+      "ma5": 61.75600000000001,
+      "ma21": 39.61761904761905,
+      "atr14": 13.655714285714286,
+      "atr_pct": 0.1951373861919732,
       "support10": 37.75,
       "high20": 85.0
     },
     {
-      "name": "SG 553 | Colony IV (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 239.5,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 4.175539688500152e-05,
-      "prior_r3": -0.001625812906453139,
-      "r7": -0.0016673614005835447,
-      "ma5": 238.792,
-      "ma21": 239.59666666666666,
-      "atr14": 4.749285714285711,
-      "atr_pct": 0.019830002982403803,
-      "support10": 234.99,
-      "high20": 267.0
-    },
-    {
-      "name": "SG 553 | Cyrex (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 127.18,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.006170886075949289,
-      "prior_r3": -0.0047244094488188,
-      "r7": -7.862253321799795e-05,
-      "ma5": 126.68800000000002,
-      "ma21": 125.47285714285715,
-      "atr14": 1.2271428571428575,
-      "atr_pct": 0.009648866623233665,
-      "support10": 122.0,
-      "high20": 128.5
-    },
-    {
-      "name": "SG 553 | Darkwing (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 32.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.08045977011494243,
-      "prior_r3": 0.30385912326714104,
-      "r7": 0.19402985074626855,
-      "ma5": 31.560000000000002,
-      "ma21": 27.06047619047619,
-      "atr14": 1.9642857142857142,
-      "atr_pct": 0.06138392857142857,
-      "support10": 24.9,
-      "high20": 39.0
-    },
-    {
       "name": "SG 553 | Hypnotic (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 315.0,
-      "bars": 422,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "status": "scanned",
       "r3": 0.0,
       "prior_r3": 0.0,
-      "r7": 0.0015898251192367763,
+      "r7": 0.0,
       "ma5": 315.0,
-      "ma21": 310.07238095238097,
-      "atr14": 2.3499999999999983,
-      "atr_pct": 0.007460317460317455,
+      "ma21": 310.27714285714285,
+      "atr14": 2.1857142857142833,
+      "atr_pct": 0.006938775510204074,
       "support10": 308.4,
       "high20": 315.0
     },
     {
-      "name": "SSG 08 | Detour (Factory New)",
+      "name": "Souvenir Glock-18 | Ramese's Reach (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 142.19,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 929.5,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.030362318840579716,
-      "prior_r3": -0.03157894736842104,
-      "r7": -0.0063591893780572395,
-      "ma5": 139.01799999999997,
-      "ma21": 140.3738095238095,
-      "atr14": 2.8635714285714307,
-      "atr_pct": 0.020139049360513615,
-      "support10": 132.0,
-      "high20": 170.0
-    },
-    {
-      "name": "Souvenir AK-47 | B the Monster (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 3555.0,
-      "bars": 355,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9"
-      ],
-      "status": "scanned",
-      "r3": 0.33345836459114775,
-      "prior_r3": 0.0,
-      "r7": 0.33345836459114775,
-      "ma5": 2843.8,
-      "ma21": 2989.3333333333335,
-      "atr14": 87.42857142857143,
-      "atr_pct": 0.024593128390596745,
-      "support10": 2666.0,
-      "high20": 3555.0
-    },
-    {
-      "name": "Souvenir AWP | Black Nile (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 169.4,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.14964370546318295,
-      "prior_r3": -0.017601173411560866,
-      "r7": 0.20999999999999996,
-      "ma5": 153.35,
-      "ma21": 146.1247619047619,
-      "atr14": 5.755,
-      "atr_pct": 0.0339728453364817,
-      "support10": 134.5,
-      "high20": 169.4
-    },
-    {
-      "name": "Souvenir Desert Eagle | Urban DDPAT (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 98.9,
-      "bars": 419,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.11123595505617989,
-      "prior_r3": -0.1001011122345804,
-      "r7": 0.0,
-      "ma5": 91.38,
-      "ma21": 96.66190476190478,
-      "atr14": 1.421428571428572,
-      "atr_pct": 0.014372381915354619,
-      "support10": 89.0,
-      "high20": 99.0
-    },
-    {
-      "name": "Souvenir MAC-10 | Gold Brick (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 333.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.04062499999999991,
-      "prior_r3": -0.11111111111111116,
-      "r7": -0.12252964426877466,
-      "ma5": 329.2,
-      "ma21": 373.6190476190476,
-      "atr14": 17.170714285714286,
-      "atr_pct": 0.05156370656370657,
-      "support10": 320.0,
-      "high20": 477.89
-    },
-    {
-      "name": "Souvenir MP7 | Anodized Navy (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 297.5,
-      "bars": 409,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9"
-      ],
-      "status": "scanned",
-      "r3": 1.1402877697841727,
-      "prior_r3": -0.20571428571428574,
-      "r7": 0.48750000000000004,
-      "ma5": 235.3,
-      "ma21": 264.35714285714283,
-      "atr14": 42.625,
-      "atr_pct": 0.14327731092436974,
-      "support10": 139.0,
-      "high20": 298.5
-    },
-    {
-      "name": "Souvenir MP9 | Hot Rod (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 997.3,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": -0.0006913896932835284,
-      "prior_r3": -0.0557384804617278,
-      "r7": -0.058706937234544676,
-      "ma5": 998.234,
-      "ma21": 1085.571904761905,
-      "atr14": 19.764285714285716,
-      "atr_pct": 0.01981779375743078,
-      "support10": 960.0,
-      "high20": 1151.9
-    },
-    {
-      "name": "Souvenir P90 | Storm (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 250.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
+        "单针承接"
       ],
       "status": "scanned",
       "r3": 0.0,
-      "prior_r3": 0.4326647564469914,
-      "r7": 0.404494382022472,
-      "ma5": 234.9,
-      "ma21": 195.21428571428572,
-      "atr14": 6.357142857142857,
-      "atr_pct": 0.025428571428571425,
-      "support10": 174.5,
-      "high20": 250.0
+      "prior_r3": 0.0,
+      "r7": 0.0,
+      "ma5": 929.5,
+      "ma21": 753.547619047619,
+      "atr14": 152.10714285714286,
+      "atr_pct": 0.16364404825943288,
+      "support10": 709.5,
+      "high20": 929.5
+    },
+    {
+      "name": "Souvenir MAC-10 | Nuclear Garden (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 247.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.0,
+      "prior_r3": -0.002020202020202033,
+      "r7": -0.002020202020202033,
+      "ma5": 247.0,
+      "ma21": 248.57142857142858,
+      "atr14": 1.3928571428571428,
+      "atr_pct": 0.005639097744360902,
+      "support10": 246.5,
+      "high20": 266.0
+    },
+    {
+      "name": "Souvenir P90 | Scorched (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 120.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.26315789473684204,
+      "prior_r3": 0.0,
+      "r7": 0.26315789473684204,
+      "ma5": 100.0,
+      "ma21": 96.19047619047619,
+      "atr14": 25.0,
+      "atr_pct": 0.20833333333333334,
+      "support10": 95.0,
+      "high20": 120.0
     },
     {
       "name": "Souvenir SG 553 | Gator Mesh (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 104.96,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 104.95,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21"
+        "均线合一 MA7/14/21"
       ],
       "status": "scanned",
-      "r3": -0.025260029717682153,
-      "prior_r3": -0.00046412327114075946,
-      "r7": -0.02607404658068113,
-      "ma5": 106.48200000000001,
-      "ma21": 103.42095238095239,
-      "atr14": 7.300714285714288,
-      "atr_pct": 0.06955711019163766,
+      "r3": -0.02007469654528471,
+      "prior_r3": -0.005386329866270523,
+      "r7": -0.025805253875429313,
+      "ma5": 105.93599999999999,
+      "ma21": 103.27952380952381,
+      "atr14": 5.314285714285716,
+      "atr_pct": 0.050636357449125445,
       "support10": 104.93,
       "high20": 107.92
     },
     {
-      "name": "Souvenir Sawed-Off | Rust Coat (Factory New)",
+      "name": "Souvenir SSG 08 | Blue Spruce (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 140.4,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 265.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA7/14/21"
+        "双金叉 12/26/9"
       ],
       "status": "scanned",
-      "r3": 0.0,
-      "prior_r3": -0.0035486160397445454,
-      "r7": 0.0,
-      "ma5": 140.5,
-      "ma21": 140.47142857142862,
-      "atr14": 0.07142857142857142,
-      "atr_pct": 0.0005087505087505087,
-      "support10": 140.4,
-      "high20": 140.9
+      "r3": 2.3544303797468356,
+      "prior_r3": 0.0,
+      "r7": 2.3544303797468356,
+      "ma5": 116.2,
+      "ma21": 96.80952380952381,
+      "atr14": 181.14285714285714,
+      "atr_pct": 0.6835579514824798,
+      "support10": 79.0,
+      "high20": 267.0
     },
     {
       "name": "Souvenir Tec-9 | Toxic (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 305.46,
-      "bars": 422,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "status": "scanned",
       "r3": -0.001666830081380688,
-      "prior_r3": 0.064058424621805,
+      "prior_r3": 0.0,
       "r7": 0.06228482003129887,
-      "ma5": 305.766,
-      "ma21": 291.997142857143,
-      "atr14": 2.9628571428571484,
-      "atr_pct": 0.009699656723817025,
+      "ma5": 305.66400000000004,
+      "ma21": 292.0142857142858,
+      "atr14": 1.3521428571428618,
+      "atr_pct": 0.004426579117209657,
       "support10": 287.55,
       "high20": 305.97
     },
     {
       "name": "Souvenir UMP-45 | Blaze (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 190.0,
-      "bars": 422,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "status": "scanned",
       "r3": 0.0,
-      "prior_r3": 0.09832938320134099,
-      "r7": 0.10157699443413737,
-      "ma5": 192.0,
-      "ma21": 181.17142857142858,
-      "atr14": 4.159999999999998,
-      "atr_pct": 0.021894736842105255,
+      "prior_r3": -0.09090909090909094,
+      "r7": 0.09832938320134099,
+      "ma5": 190.0,
+      "ma21": 181.44285714285715,
+      "atr14": 4.154999999999999,
+      "atr_pct": 0.021868421052631575,
       "support10": 172.48,
       "high20": 209.0
     },
     {
+      "name": "Souvenir UMP-45 | Late Night Transit (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 40.2,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.25664270084401397,
+      "prior_r3": -0.02765957446808509,
+      "r7": 0.22262773722627727,
+      "ma5": 33.67999999999999,
+      "ma21": 32.71142857142858,
+      "atr14": 1.612142857142857,
+      "atr_pct": 0.040103056147832265,
+      "support10": 28.86,
+      "high20": 40.29
+    },
+    {
       "name": "Souvenir XM1014 | Bone Machine (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 149.5,
-      "bars": 422,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
@@ -2216,197 +2177,330 @@
       ],
       "status": "scanned",
       "r3": -0.0033333333333332993,
-      "prior_r3": 0.006711409395973256,
-      "r7": 0.0006693440428380271,
-      "ma5": 150.2,
-      "ma21": 146.64761904761906,
+      "prior_r3": -0.013157894736842146,
+      "r7": 0.003355704697986628,
+      "ma5": 149.7,
+      "ma21": 147.33809523809526,
       "atr14": 0.625,
       "atr_pct": 0.004180602006688963,
       "support10": 148.9,
       "high20": 152.0
     },
     {
-      "name": "Tec-9 | Orange Murano (Factory New)",
+      "name": "Tec-9 | Bamboozle (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 139.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": 0.2192982456140351,
-      "prior_r3": -0.1517857142857143,
-      "r7": 0.1120000000000001,
-      "ma5": 120.85999999999999,
-      "ma21": 118.03857142857144,
-      "atr14": 11.742142857142856,
-      "atr_pct": 0.08447584789311408,
-      "support10": 110.0,
-      "high20": 141.5
-    },
-    {
-      "name": "Tec-9 | Safety Net (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 59.9,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.04617834394904452,
-      "prior_r3": 0.1115044247787611,
-      "r7": 0.05290912286869398,
-      "ma5": 60.39,
-      "ma21": 56.69904761904762,
-      "atr14": 4.424285714285714,
-      "atr_pct": 0.07386119723348439,
-      "support10": 53.44,
-      "high20": 65.8
-    },
-    {
-      "name": "UMP-45 | Blaze (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 98.56,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": 0.07130434782608708,
-      "prior_r3": -0.1785714285714286,
-      "r7": 0.06321467098166123,
-      "ma5": 96.884,
-      "ma21": 96.69714285714285,
-      "atr14": 4.332142857142857,
-      "atr_pct": 0.04395437152133581,
-      "support10": 89.0,
-      "high20": 113.0
-    },
-    {
-      "name": "USP-S | Ancient Visions (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 210.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.12317327766179542,
-      "prior_r3": 0.04814004376367609,
-      "r7": -0.0825688073394496,
-      "ma5": 223.898,
-      "ma21": 223.23523809523812,
-      "atr14": 9.012142857142857,
-      "atr_pct": 0.042914965986394556,
-      "support10": 204.0,
-      "high20": 250.0
-    },
-    {
-      "name": "USP-S | Cyrex (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 171.4,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 5/12/4"
-      ],
-      "status": "scanned",
-      "r3": -0.0603070175438597,
-      "prior_r3": 0.030566698683541338,
-      "r7": -0.06338797814207642,
-      "ma5": 174.534,
-      "ma21": 188.13952380952384,
-      "atr14": 14.387142857142857,
-      "atr_pct": 0.0839389898316386,
-      "support10": 160.8,
-      "high20": 217.0
-    },
-    {
-      "name": "USP-S | Guardian (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 61.8,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 48.3,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "单针承接"
       ],
       "status": "scanned",
-      "r3": 0.17289808312772825,
-      "prior_r3": 0.4360861270100844,
-      "r7": 0.6839237057220706,
-      "ma5": 53.366,
-      "ma21": 36.5747619047619,
-      "atr14": 5.744999999999999,
-      "atr_pct": 0.09296116504854368,
-      "support10": 33.6,
-      "high20": 64.5
+      "r3": 0.2713872071597787,
+      "prior_r3": 0.12097964001180284,
+      "r7": 0.3999999999999999,
+      "ma5": 42.874,
+      "ma21": 35.26333333333333,
+      "atr14": 3.2014285714285715,
+      "atr_pct": 0.06628216503992902,
+      "support10": 32.85,
+      "high20": 48.9
     },
     {
-      "name": "USP-S | Printstream (Factory New)",
+      "name": "Tec-9 | Flash Out (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 496.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 31.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21"
+        "单针承接"
       ],
       "status": "scanned",
-      "r3": -0.015873015873015928,
-      "prior_r3": -0.00591715976331364,
-      "r7": -0.006012024048096198,
-      "ma5": 503.1139999999999,
-      "ma21": 501.707619047619,
-      "atr14": 9.612142857142853,
-      "atr_pct": 0.019379320276497688,
-      "support10": 490.0,
-      "high20": 529.0
+      "r3": 0.35371179039301315,
+      "prior_r3": 0.0338600451467268,
+      "r7": 0.27572016460905346,
+      "ma5": 26.558,
+      "ma21": 20.946190476190473,
+      "atr14": 3.6535714285714285,
+      "atr_pct": 0.11785714285714285,
+      "support10": 19.9,
+      "high20": 34.0
     },
     {
-      "name": "USP-S | Royal Blue (Factory New)",
+      "name": "Tec-9 | Jambiya (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 398.91,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 55.66,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.2368888888888887,
+      "prior_r3": 0.02505694760820054,
+      "r7": 0.2368888888888887,
+      "ma5": 48.844,
+      "ma21": 44.567142857142855,
+      "atr14": 3.7107142857142854,
+      "atr_pct": 0.06666752220111903,
+      "support10": 40.0,
+      "high20": 55.66
+    },
+    {
+      "name": "Tec-9 | Mummy's Rot (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 55.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.0009767092411719913,
-      "prior_r3": -0.0005006257822277593,
-      "r7": -0.0027249999999999774,
-      "ma5": 393.20200000000006,
-      "ma21": 429.16190476190474,
-      "atr14": 11.975714285714279,
-      "atr_pct": 0.030021093193237265,
+      "r3": 0.061776061776061875,
+      "prior_r3": -0.038782705511226645,
+      "r7": -0.017857142857142905,
+      "ma5": 52.998000000000005,
+      "ma21": 53.18714285714285,
+      "atr14": 4.239285714285715,
+      "atr_pct": 0.07707792207792209,
+      "support10": 48.49,
+      "high20": 70.9
+    },
+    {
+      "name": "Tec-9 | Re-Entry (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 44.29,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": -0.01577777777777778,
+      "prior_r3": 0.09223300970873782,
+      "r7": 0.018160919540229914,
+      "ma5": 45.396,
+      "ma21": 43.62809523809523,
+      "atr14": 5.819285714285712,
+      "atr_pct": 0.13139051059574874,
+      "support10": 38.9,
+      "high20": 55.9
+    },
+    {
+      "name": "Tec-9 | Terrace (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 699.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.1777193691872221,
+      "prior_r3": -0.1829407634806789,
+      "r7": -0.042177094466825604,
+      "ma5": 648.296,
+      "ma21": 669.5,
+      "atr14": 62.91785714285714,
+      "atr_pct": 0.09001124054772122,
+      "support10": 588.69,
+      "high20": 739.9
+    },
+    {
+      "name": "UMP-45 | Blaze (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 98.56,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": 0.0006091370558376497,
+      "prior_r3": -0.014014014014014031,
+      "r7": -0.12,
+      "ma5": 97.284,
+      "ma21": 96.71428571428571,
+      "atr14": 4.303571428571429,
+      "atr_pct": 0.04366448283858998,
+      "support10": 89.0,
+      "high20": 113.0
+    },
+    {
+      "name": "UMP-45 | Delusion (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 35.66,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.0,
+      "prior_r3": -0.0002803476310626607,
+      "r7": -0.002796420581655523,
+      "ma5": 35.66,
+      "ma21": 34.19904761904761,
+      "atr14": 1.7221428571428568,
+      "atr_pct": 0.04829340597708516,
+      "support10": 29.89,
+      "high20": 36.34
+    },
+    {
+      "name": "UMP-45 | Primal Saber (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 98.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21"
+      ],
+      "status": "scanned",
+      "r3": 0.10734463276836159,
+      "prior_r3": 0.0,
+      "r7": 0.13294797687861282,
+      "ma5": 90.4,
+      "ma21": 88.35714285714286,
+      "atr14": 4.764999999999998,
+      "atr_pct": 0.048622448979591816,
+      "support10": 86.39,
+      "high20": 98.96
+    },
+    {
+      "name": "USP-S | Flashback (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 42.7,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.29393939393939394,
+      "prior_r3": 0.284046692607004,
+      "r7": 0.6423076923076925,
+      "ma5": 38.2,
+      "ma21": 24.673333333333332,
+      "atr14": 6.4728571428571415,
+      "atr_pct": 0.1515891602542656,
+      "support10": 23.0,
+      "high20": 48.0
+    },
+    {
+      "name": "USP-S | Guardian (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 62.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "单针承接"
+      ],
+      "status": "scanned",
+      "r3": 0.04219196503614042,
+      "prior_r3": 0.6529591553209224,
+      "r7": 0.6898337421640774,
+      "ma5": 58.791999999999994,
+      "ma21": 38.29904761904762,
+      "atr14": 5.952142857142858,
+      "atr_pct": 0.09600230414746545,
+      "support10": 33.6,
+      "high20": 65.0
+    },
+    {
+      "name": "USP-S | Printstream (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 494.0,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.03042198233562321,
+      "prior_r3": -0.0048828125,
+      "r7": -0.02564102564102566,
+      "ma5": 500.6,
+      "ma21": 500.25523809523804,
+      "atr14": 9.504999999999995,
+      "atr_pct": 0.0192408906882591,
+      "support10": 490.0,
+      "high20": 529.0
+    },
+    {
+      "name": "USP-S | Purple DDPAT (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 154.88,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 5/12/4"
+      ],
+      "status": "scanned",
+      "r3": 0.009845471735019817,
+      "prior_r3": -0.0008469055374592527,
+      "r7": -0.02283911671924288,
+      "ma5": 153.098,
+      "ma21": 157.20714285714283,
+      "atr14": 10.751428571428571,
+      "atr_pct": 0.06941779811097992,
+      "support10": 143.0,
+      "high20": 183.33
+    },
+    {
+      "name": "USP-S | Royal Blue (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 398.91,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "双金叉 12/26/9"
+      ],
+      "status": "scanned",
+      "r3": 0.002538326212616404,
+      "prior_r3": -0.04735682819383269,
+      "r7": -0.0014768460575719233,
+      "ma5": 393.00200000000007,
+      "ma21": 425.80047619047616,
+      "atr14": 11.757857142857139,
+      "atr_pct": 0.02947496212894422,
       "support10": 364.99,
       "high20": 488.8
     },
     {
       "name": "XM1014 | Grassland (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
+      "asof": "2026-11-22",
       "price": 1187.99,
-      "bars": 386,
+      "bars": 387,
       "eligible": true,
       "families": 1,
       "types": [
@@ -2417,298 +2511,233 @@
       "r3": 1.6399777777777778,
       "prior_r3": 0.0,
       "r7": 1.6399777777777778,
-      "ma5": 597.598,
-      "ma21": 485.14238095238096,
+      "ma5": 745.1959999999999,
+      "ma21": 520.2847619047619,
       "atr14": 52.71357142857143,
       "atr_pct": 0.04437206662393743,
       "support10": 450.0,
       "high20": 1187.99
     },
     {
-      "name": "XM1014 | Tranquility (Factory New)",
+      "name": "XM1014 | Red Leather (Factory New)",
       "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 120.26,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 330.0,
+      "bars": 421,
       "eligible": true,
       "families": 1,
       "types": [
-        "均线合一 MA5/12/21"
+        "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.025208721731377115,
-      "prior_r3": 0.07287590225236995,
-      "r7": 0.09836514750205505,
-      "ma5": 120.42999999999999,
-      "ma21": 114.26047619047623,
-      "atr14": 4.44,
-      "atr_pct": 0.03692000665225345,
+      "r3": -0.032229684154960636,
+      "prior_r3": -0.022054605942411376,
+      "r7": -0.054441260744985676,
+      "ma5": 334.796,
+      "ma21": 362.0942857142857,
+      "atr14": 5.767857142857143,
+      "atr_pct": 0.01747835497835498,
+      "support10": 327.64,
+      "high20": 399.0
+    },
+    {
+      "name": "XM1014 | Tranquility (Factory New)",
+      "group": "gun_FN",
+      "asof": "2026-11-22",
+      "price": 119.75,
+      "bars": 423,
+      "eligible": true,
+      "families": 1,
+      "types": [
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
+      ],
+      "status": "scanned",
+      "r3": -0.012615435356200577,
+      "prior_r3": 0.05470040873119397,
+      "r7": 0.041394903904687474,
+      "ma5": 121.08600000000001,
+      "ma21": 114.26809523809527,
+      "atr14": 4.4335714285714305,
+      "atr_pct": 0.037023560990158084,
       "support10": 107.0,
       "high20": 139.9
     },
     {
-      "name": "Zeus x27 | Charged Up (Factory New)",
-      "group": "gun_FN",
-      "asof": "2026-11-21",
-      "price": 67.3,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA7/14/21"
-      ],
-      "status": "scanned",
-      "r3": -0.024496303812146625,
-      "prior_r3": -0.008764367816091911,
-      "r7": -0.024637681159420333,
-      "ma5": 67.998,
-      "ma21": 66.19571428571429,
-      "atr14": 1.582857142857142,
-      "atr_pct": 0.023519422627892157,
-      "support10": 66.0,
-      "high20": 70.69
-    },
-    {
-      "name": "★ Bloodhound Gloves | Bronzed (Field-Tested)",
+      "name": "★ Bloodhound Gloves | Guerrilla (Minimal Wear)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 804.5,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "双金叉 12/26/9"
-      ],
-      "status": "scanned",
-      "r3": 0.022236340533672072,
-      "prior_r3": -0.05465465465465469,
-      "r7": -0.030722891566265065,
-      "ma5": 801.7,
-      "ma21": 898.3452380952381,
-      "atr14": 46.171428571428564,
-      "atr_pct": 0.05739145875876764,
-      "support10": 759.0,
-      "high20": 1029.5
-    },
-    {
-      "name": "★ Broken Fang Gloves | Needle Point (Field-Tested)",
-      "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 242.5,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 968.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.0020661157024792765,
-      "prior_r3": -0.022182714453109265,
-      "r7": -0.030775379696243,
-      "ma5": 243.1,
-      "ma21": 249.23666666666662,
-      "atr14": 2.982142857142853,
-      "atr_pct": 0.012297496318114859,
-      "support10": 230.0,
-      "high20": 256.7
+      "r3": -0.052865375771748324,
+      "prior_r3": 0.023053053053053052,
+      "r7": -0.08345484500160971,
+      "ma5": 975.906,
+      "ma21": 1072.1566666666665,
+      "atr14": 51.596428571428575,
+      "atr_pct": 0.05330209563164109,
+      "support10": 929.5,
+      "high20": 1248.8
     },
     {
-      "name": "★ Driver Gloves | Diamondback (Field-Tested)",
+      "name": "★ Moto Gloves | Cool Mint (Field-Tested)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 1879.5,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 5150.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.02893309222423146,
-      "prior_r3": -0.039454094292804,
-      "r7": -0.07299630086313191,
-      "ma5": 1891.5,
-      "ma21": 2063.714285714286,
-      "atr14": 117.96428571428571,
-      "atr_pct": 0.0627636529472124,
-      "support10": 1730.0,
-      "high20": 2397.0
+      "r3": -0.01904575056333435,
+      "prior_r3": -1.904761904758523e-06,
+      "r7": -0.08501376921026915,
+      "ma5": 5191.798,
+      "ma21": 5474.402857142857,
+      "atr14": 303.3364285714286,
+      "atr_pct": 0.05890027739251041,
+      "support10": 4771.0,
+      "high20": 5977.0
     },
     {
-      "name": "★ Hand Wraps | Giraffe (Minimal Wear)",
+      "name": "★ Moto Gloves | Eclipse (Field-Tested)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 353.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 1999.5,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "单针承接"
+        "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.029154518950437414,
-      "prior_r3": 0.020894100839335517,
-      "r7": 0.05065777724864562,
-      "ma5": 349.982,
-      "ma21": 349.65619047619043,
-      "atr14": 7.205,
-      "atr_pct": 0.020410764872521248,
-      "support10": 329.5,
-      "high20": 365.0
-    },
-    {
-      "name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
-      "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 818.99,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": 0.001822629969419065,
-      "prior_r3": 0.06862745098039214,
-      "r7": 0.07761842105263161,
-      "ma5": 809.174,
-      "ma21": 754.1247619047618,
-      "atr14": 35.15714285714285,
-      "atr_pct": 0.042927438500034006,
-      "support10": 730.0,
-      "high20": 844.88
+      "r3": -0.02936893203883495,
+      "prior_r3": -0.05504587155963303,
+      "r7": -0.16268844221105527,
+      "ma5": 2017.8,
+      "ma21": 2304.5133333333333,
+      "atr14": 140.0178571428571,
+      "atr_pct": 0.07002643518022361,
+      "support10": 1880.0,
+      "high20": 2688.0
     },
     {
       "name": "★ Moto Gloves | Transport (Field-Tested)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 205.49,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 205.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 5/12/4"
+        "双金叉 12/26/9"
       ],
       "status": "scanned",
-      "r3": -0.002475728155339807,
-      "prior_r3": 0.014828316665845609,
-      "r7": 0.009828492800628919,
-      "ma5": 204.598,
-      "ma21": 206.7485714285714,
-      "atr14": 5.91357142857143,
-      "atr_pct": 0.028777903686658377,
+      "r3": -0.016786570743405282,
+      "prior_r3": 0.02210892690818178,
+      "r7": 0.00990196561406953,
+      "ma5": 204.898,
+      "ma21": 206.60571428571424,
+      "atr14": 5.1278571428571444,
+      "atr_pct": 0.025013937282229972,
       "support10": 198.0,
-      "high20": 216.49
+      "high20": 214.98
     },
     {
-      "name": "★ Specialist Gloves | Buckshot (Minimal Wear)",
+      "name": "★ Specialist Gloves | Buckshot (Field-Tested)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 340.0,
-      "bars": 422,
-      "eligible": true,
-      "families": 1,
-      "types": [
-        "均线合一 MA5/12/21"
-      ],
-      "status": "scanned",
-      "r3": -0.02017291066282423,
-      "prior_r3": 0.038922155688622784,
-      "r7": -0.005847953216374324,
-      "ma5": 342.498,
-      "ma21": 341.87,
-      "atr14": 7.177142857142859,
-      "atr_pct": 0.021109243697478998,
-      "support10": 325.0,
-      "high20": 355.0
-    },
-    {
-      "name": "★ Specialist Gloves | Lt. Commander (Field-Tested)",
-      "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 488.47,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 229.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.007154639175257715,
-      "prior_r3": -0.01018388130370007,
-      "r7": -0.02305999999999997,
-      "ma5": 483.89400000000006,
-      "ma21": 499.6319047619047,
-      "atr14": 11.748571428571429,
-      "atr_pct": 0.024051776830862546,
-      "support10": 478.88,
-      "high20": 520.0
+      "r3": -0.004347826086956497,
+      "prior_r3": -0.019189765458422214,
+      "r7": -0.03375527426160341,
+      "ma5": 227.356,
+      "ma21": 235.25238095238092,
+      "atr14": 5.535714285714286,
+      "atr_pct": 0.02417342482844666,
+      "support10": 218.0,
+      "high20": 244.9
     },
     {
-      "name": "★ Sport Gloves | Bronze Morph (Minimal Wear)",
+      "name": "★ Specialist Gloves | Marble Fade (Field-Tested)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 730.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 700.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
         "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.006896551724137945,
-      "prior_r3": -0.008709681829990323,
-      "r7": 0.0013854785388003332,
-      "ma5": 724.378,
-      "ma21": 730.6271428571429,
-      "atr14": 8.221428571428564,
-      "atr_pct": 0.011262230919765156,
-      "support10": 715.99,
-      "high20": 755.0
+      "r3": -0.002849002849002802,
+      "prior_r3": -0.019553072625698276,
+      "r7": -0.018232819074333828,
+      "ma5": 700.696,
+      "ma21": 714.4042857142857,
+      "atr14": 8.730000000000002,
+      "atr_pct": 0.012471428571428574,
+      "support10": 690.0,
+      "high20": 737.73
     },
     {
-      "name": "★ Sport Gloves | Superconductor (Field-Tested)",
+      "name": "★ Sport Gloves | Nocts (Field-Tested)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 7495.0,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 2900.0,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 12/26/9"
+        "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": -0.01640419947506566,
-      "prior_r3": -0.02295166046929098,
-      "r7": -0.025863043752331283,
-      "ma5": 7561.0,
-      "ma21": 8155.091428571428,
-      "atr14": 157.965,
-      "atr_pct": 0.02107605070046698,
-      "support10": 7390.0,
-      "high20": 9100.0
+      "r3": -0.017322236981213823,
+      "prior_r3": 0.0003796610169490844,
+      "r7": -0.021262234222072185,
+      "ma5": 2920.814,
+      "ma21": 3046.855238095238,
+      "atr14": 46.05928571428571,
+      "atr_pct": 0.015882512315270932,
+      "support10": 2860.45,
+      "high20": 3249.5
     },
     {
-      "name": "★ Sport Gloves | Vice (Field-Tested)",
+      "name": "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)",
       "group": "gloves_MW_FT",
-      "asof": "2026-11-21",
-      "price": 1999.5,
-      "bars": 422,
+      "asof": "2026-11-22",
+      "price": 1514.48,
+      "bars": 423,
       "eligible": true,
       "families": 1,
       "types": [
-        "双金叉 12/26/9"
+        "双金叉 5/12/4"
       ],
       "status": "scanned",
-      "r3": 0.0038154525829610098,
-      "prior_r3": -0.011464019851116558,
-      "r7": -0.010638297872340385,
-      "ma5": 1993.5580000000002,
-      "ma21": 2091.679047619047,
-      "atr14": 35.29571428571426,
-      "atr_pct": 0.017652270210409732,
-      "support10": 1949.49,
-      "high20": 2281.0
+      "r3": -0.010143790849673207,
+      "prior_r3": -0.037735849056603765,
+      "r7": -0.066288532675709,
+      "ma5": 1530.7759999999998,
+      "ma21": 1654.4657142857145,
+      "atr14": 33.56214285714287,
+      "atr_pct": 0.022160835968215404,
+      "support10": 1490.0,
+      "high20": 1765.0
     }
   ],
   "demand_rank": [
@@ -7477,10 +7506,8 @@
       "蓄势证据分": "52.496910735450655",
       "提前蓄势分": "56.82349222660569",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -7608,10 +7635,8 @@
       "蓄势证据分": "40.473755556341104",
       "提前蓄势分": "45.650508383084244",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -7741,7 +7766,6 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "匹配状态": "exact_unique",
@@ -7787,7 +7811,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4"
+        "双金叉 12/26/9"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -7961,7 +7985,6 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "匹配状态": "exact_unique",
@@ -8091,8 +8114,10 @@
       "蓄势证据分": "26.590270920794566",
       "提前蓄势分": "31.382077666311602",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -8392,8 +8417,10 @@
       "蓄势证据分": "25.889352860926024",
       "提前蓄势分": "28.686243253897125",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -8480,7 +8507,6 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "匹配状态": "exact_unique",
@@ -8653,8 +8679,10 @@
       "蓄势证据分": "18.9787124939459",
       "提前蓄势分": "23.009675964897724",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -8782,8 +8810,10 @@
       "蓄势证据分": "20.252864630125835",
       "提前蓄势分": "24.97865222906764",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -9301,8 +9331,10 @@
       "蓄势证据分": "17.122779665107753",
       "提前蓄势分": "18.498610547255367",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -9473,8 +9505,10 @@
       "蓄势证据分": "58.61449273676304",
       "提前蓄势分": "71.06310992094784",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -10122,7 +10156,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4"
+        "单针承接"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -10208,8 +10242,10 @@
       "蓄势证据分": "40.39307007023536",
       "提前蓄势分": "43.83605406376097",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -10466,10 +10502,8 @@
       "蓄势证据分": "7.192304719086458",
       "提前蓄势分": "10.941578502646664",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA7/14/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -11027,11 +11061,8 @@
       "蓄势证据分": "34.6234301355132",
       "提前蓄势分": "37.65983950785359",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -11116,8 +11147,10 @@
       "蓄势证据分": "26.018087884869747",
       "提前蓄势分": "31.08017246410492",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "单针承接"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -11460,8 +11493,11 @@
       "蓄势证据分": "47.15398110445929",
       "提前蓄势分": "50.996280741095354",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 2,
+      "传统买点": [
+        "双金叉 5/12/4",
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -11761,10 +11797,8 @@
       "蓄势证据分": "31.229712353325812",
       "提前蓄势分": "38.11884606286934",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "单针承接"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -12107,10 +12141,8 @@
       "蓄势证据分": "37.064646334919665",
       "提前蓄势分": "39.09786083779384",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -12326,11 +12358,8 @@
       "蓄势证据分": "26.33446160612952",
       "提前蓄势分": "19.740231111100265",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -12888,8 +12917,10 @@
       "蓄势证据分": "33.04036422182183",
       "提前蓄势分": "32.89381668553267",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -13060,8 +13091,11 @@
       "蓄势证据分": "42.49114290844745",
       "提前蓄势分": "48.26891223939769",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 2,
+      "传统买点": [
+        "双金叉 5/12/4",
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -13877,10 +13911,8 @@
       "蓄势证据分": "20.98502088394264",
       "提前蓄势分": "23.333733752248058",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -14137,10 +14169,8 @@
       "蓄势证据分": "16.86716046173912",
       "提前蓄势分": "19.351111350050388",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -14440,10 +14470,8 @@
       "蓄势证据分": "38.95864244755157",
       "提前蓄势分": "46.03664926135455",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -14571,10 +14599,8 @@
       "蓄势证据分": "30.38383178737071",
       "提前蓄势分": "32.85236514177576",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "上影吞没"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -14745,8 +14771,11 @@
       "蓄势证据分": "35.531460480289475",
       "提前蓄势分": "38.78685252134766",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 2,
+      "传统买点": [
+        "均线合一 MA5/12/21",
+        "单针承接"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -14831,8 +14860,10 @@
       "蓄势证据分": "46.43196866581459",
       "提前蓄势分": "50.31528626948387",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -15433,10 +15464,8 @@
       "蓄势证据分": "12.108090153457692",
       "提前蓄势分": "13.156907111541827",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -15607,10 +15636,8 @@
       "蓄势证据分": "31.6422535684402",
       "提前蓄势分": "35.140205502032586",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -15652,10 +15679,8 @@
       "蓄势证据分": "25.32566466724218",
       "提前蓄势分": "29.61255521840699",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -15998,10 +16023,8 @@
       "蓄势证据分": "37.05017432271083",
       "提前蓄势分": "40.615490407296974",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -16043,10 +16066,8 @@
       "蓄势证据分": "17.446255212312618",
       "提前蓄势分": "18.31531200538487",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -16088,8 +16109,10 @@
       "蓄势证据分": "18.893037612618357",
       "提前蓄势分": "19.511715462528457",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -16647,10 +16670,8 @@
       "蓄势证据分": "33.6376082597889",
       "提前蓄势分": "31.80451473806847",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -17251,8 +17272,10 @@
       "蓄势证据分": "56.86983479004055",
       "提前蓄势分": "51.72013169011898",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -17294,10 +17317,9 @@
       "蓄势证据分": "48.47959212642288",
       "提前蓄势分": "51.37749743728199",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
+      "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4",
-        "上影吞没"
+        "双金叉 12/26/9"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -17469,8 +17491,10 @@
       "蓄势证据分": "34.799851950535604",
       "提前蓄势分": "36.806171490165326",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -17770,8 +17794,10 @@
       "蓄势证据分": "44.638741538632104",
       "提前蓄势分": "50.654699494437494",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18415,10 +18441,8 @@
       "蓄势证据分": "25.573008010652842",
       "提前蓄势分": "30.589758505718862",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA7/14/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18460,10 +18484,8 @@
       "蓄势证据分": "19.738679350487658",
       "提前蓄势分": "19.11530514431329",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18677,10 +18699,8 @@
       "蓄势证据分": "37.45244417555441",
       "提前蓄势分": "40.22037017257951",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18722,10 +18742,8 @@
       "蓄势证据分": "23.687496714206432",
       "提前蓄势分": "26.30971520205386",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA7/14/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18769,7 +18787,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21"
+        "均线合一 MA7/14/21"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -18855,10 +18873,8 @@
       "蓄势证据分": "44.810300282346425",
       "提前蓄势分": "46.70361422723096",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18900,10 +18916,8 @@
       "蓄势证据分": "19.625976113286022",
       "提前蓄势分": "21.357963003259233",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -18988,8 +19002,10 @@
       "蓄势证据分": "14.583612727253692",
       "提前蓄势分": "19.48789992175046",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -20149,8 +20165,11 @@
       "蓄势证据分": "18.32823668313459",
       "提前蓄势分": "20.859026191520446",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 12/26/9",
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -20235,8 +20254,10 @@
       "蓄势证据分": "27.763423676923445",
       "提前蓄势分": "25.517691802631013",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA7/14/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -20837,10 +20858,8 @@
       "蓄势证据分": "16.000435120548943",
       "提前蓄势分": "19.264480343035842",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA7/14/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -20925,8 +20944,10 @@
       "蓄势证据分": "24.907478671381075",
       "提前蓄势分": "21.8437176534974",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -21054,8 +21075,10 @@
       "蓄势证据分": "18.793202789242105",
       "提前蓄势分": "15.14696090268395",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -21398,8 +21421,10 @@
       "蓄势证据分": "13.129285117704246",
       "提前蓄势分": "18.795248772244896",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -21484,10 +21509,8 @@
       "蓄势证据分": "41.55658030881506",
       "提前蓄势分": "40.878745529330004",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "上影吞没"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -21572,10 +21595,8 @@
       "蓄势证据分": "42.26857871850537",
       "提前蓄势分": "47.73792739309896",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -22004,8 +22025,10 @@
       "蓄势证据分": "32.63570212891288",
       "提前蓄势分": "35.098247237407215",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -22735,11 +22758,8 @@
       "蓄势证据分": "37.30929861268028",
       "提前蓄势分": "44.20904190598758",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
-      "传统买点": [
-        "双金叉 5/12/4",
-        "上影吞没"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -22826,7 +22846,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "上影吞没"
+        "单针承接"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -22955,11 +22975,8 @@
       "蓄势证据分": "39.643916440903766",
       "提前蓄势分": "46.249687843096865",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -23259,10 +23276,8 @@
       "蓄势证据分": "21.721742038159086",
       "提前蓄势分": "14.606766352924783",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -23347,9 +23362,8 @@
       "蓄势证据分": "34.404134201898174",
       "提前蓄势分": "30.619598220576766",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
+      "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4",
         "单针承接"
       ],
       "匹配状态": "exact_unique",
@@ -23522,10 +23536,8 @@
       "蓄势证据分": "32.690629636709595",
       "提前蓄势分": "39.423920862280966",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -23739,8 +23751,10 @@
       "蓄势证据分": "35.541348076284024",
       "提前蓄势分": "31.123964167762814",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -23782,8 +23796,10 @@
       "蓄势证据分": "23.920810198929267",
       "提前蓄势分": "24.991778219142947",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "上影吞没"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -23911,10 +23927,8 @@
       "蓄势证据分": "38.22428560474976",
       "提前蓄势分": "38.73901978947473",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -24171,8 +24185,10 @@
       "蓄势证据分": "43.67123979095929",
       "提前蓄势分": "52.42715376148502",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -24343,10 +24359,9 @@
       "蓄势证据分": "36.82415765577327",
       "提前蓄势分": "42.93610843403023",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
+      "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4",
-        "上影吞没"
+        "均线合一 MA5/12/21"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -24389,10 +24404,8 @@
       "蓄势证据分": "33.90375576024504",
       "提前蓄势分": "40.61419228570567",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -25296,7 +25309,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21"
+        "均线合一 MA7/14/21"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -25640,8 +25653,10 @@
       "蓄势证据分": "35.03517108321315",
       "提前蓄势分": "32.374308445014904",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "单针承接"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -26027,10 +26042,8 @@
       "蓄势证据分": "34.892415082193295",
       "提前蓄势分": "37.02973470377694",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -26115,8 +26128,10 @@
       "蓄势证据分": "45.862852545489915",
       "提前蓄势分": "47.497787551689854",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -26201,10 +26216,8 @@
       "蓄势证据分": "40.10729088777151",
       "提前蓄势分": "29.605413373400275",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -26418,8 +26431,10 @@
       "蓄势证据分": "31.1258253815302",
       "提前蓄势分": "32.682704058467365",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -26547,11 +26562,8 @@
       "蓄势证据分": "48.532196640215616",
       "提前蓄势分": "38.095287472248955",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
-      "传统买点": [
-        "双金叉 5/12/4",
-        "上影吞没"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -28058,8 +28070,10 @@
       "蓄势证据分": "27.561767562352095",
       "提前蓄势分": "29.041297732869133",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "单针承接"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -28746,8 +28760,10 @@
       "蓄势证据分": "22.498223166409225",
       "提前蓄势分": "28.169026951509657",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -29092,7 +29108,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4"
+        "双金叉 12/26/9"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -29522,8 +29538,10 @@
       "蓄势证据分": "35.56695906371526",
       "提前蓄势分": "38.43171258834576",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -29782,11 +29800,8 @@
       "蓄势证据分": "38.91551885123933",
       "提前蓄势分": "43.83864960466305",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
-      "传统买点": [
-        "双金叉 5/12/4",
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -30129,10 +30144,8 @@
       "蓄势证据分": "25.146813926554103",
       "提前蓄势分": "26.852412877946577",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 12/26/9"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -30260,11 +30273,8 @@
       "蓄势证据分": "12.037319173400306",
       "提前蓄势分": "13.970440400162289",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
-      "传统买点": [
-        "双金叉 5/12/4",
-        "单针承接"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -30650,10 +30660,8 @@
       "蓄势证据分": "24.983529772813878",
       "提前蓄势分": "26.246351005518097",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -31125,10 +31133,8 @@
       "蓄势证据分": "36.906979476652765",
       "提前蓄势分": "41.91860050231874",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -31557,10 +31563,8 @@
       "蓄势证据分": "37.17906713052922",
       "提前蓄势分": "45.83436873941286",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": 2,
+      "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4",
         "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
@@ -31951,8 +31955,10 @@
       "蓄势证据分": "39.36736821921958",
       "提前蓄势分": "36.85717272424486",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -32643,7 +32649,7 @@
       "传统买点": [
         "均线合一 MA5/12/21",
         "均线合一 MA7/14/21",
-        "上影吞没"
+        "单针承接"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -32858,8 +32864,10 @@
       "蓄势证据分": "20.05036964598872",
       "提前蓄势分": "23.769528687344653",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -32944,8 +32952,10 @@
       "蓄势证据分": "25.352077100843395",
       "提前蓄势分": "26.084531208002353",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -33460,8 +33470,10 @@
       "蓄势证据分": "27.211576421347694",
       "提前蓄势分": "30.139463651932616",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -33546,11 +33558,8 @@
       "蓄势证据分": "35.57893817463715",
       "提前蓄势分": "37.6252126374637",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 2,
-      "传统买点": [
-        "双金叉 5/12/4",
-        "上影吞没"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -33592,8 +33601,10 @@
       "蓄势证据分": "39.61422518658189",
       "提前蓄势分": "41.24513906240591",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -35101,7 +35112,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4"
+        "均线合一 MA5/12/21"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -35189,7 +35200,6 @@
       "蓄势形态": null,
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "匹配状态": "unmapped_or_ambiguous",
@@ -35362,8 +35372,10 @@
       "蓄势证据分": null,
       "提前蓄势分": null,
       "蓄势形态": null,
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -35491,8 +35503,10 @@
       "蓄势证据分": "32.20443911882305",
       "提前蓄势分": "31.17874072635623",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "单针承接"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -35663,8 +35677,10 @@
       "蓄势证据分": null,
       "提前蓄势分": null,
       "蓄势形态": null,
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 12/26/9"
+      ],
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -35708,7 +35724,6 @@
       "蓄势形态": null,
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "匹配状态": "unmapped_or_ambiguous",
@@ -36010,8 +36025,10 @@
       "蓄势证据分": null,
       "提前蓄势分": null,
       "蓄势形态": null,
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "均线合一 MA5/12/21"
+      ],
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -36440,10 +36457,8 @@
       "蓄势证据分": "46.52682415505045",
       "提前蓄势分": "34.48600782851984",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -36743,11 +36758,8 @@
       "蓄势证据分": "41.22776225169862",
       "提前蓄势分": "49.61463774919358",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21",
-        "均线合一 MA7/14/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -36789,8 +36801,10 @@
       "蓄势证据分": null,
       "提前蓄势分": null,
       "蓄势形态": null,
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "单针承接"
+      ],
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -37264,7 +37278,8 @@
       "蓄势形态": null,
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21"
+        "均线合一 MA5/12/21",
+        "均线合一 MA7/14/21"
       ],
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -37479,10 +37494,8 @@
       "蓄势证据分": "27.789417866162115",
       "提前蓄势分": "35.506232879876734",
       "蓄势形态": "蓄势观察代理",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -37610,10 +37623,8 @@
       "蓄势证据分": null,
       "提前蓄势分": null,
       "蓄势形态": null,
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA5/12/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -37872,7 +37883,7 @@
       "蓄势形态": null,
       "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 5/12/4"
+        "双金叉 12/26/9"
       ],
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -37958,8 +37969,10 @@
       "蓄势证据分": "35.75503537379103",
       "提前蓄势分": "39.87644999927165",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -38947,10 +38960,8 @@
       "蓄势证据分": "34.45969311745641",
       "提前蓄势分": "33.453654139115656",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -41488,8 +41499,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "双金叉 12/26/9",
-        "双金叉 5/12/4"
+        "均线合一 MA5/12/21"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -41618,10 +41628,8 @@
       "蓄势证据分": "34.86507204396783",
       "提前蓄势分": "36.74526194830071",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "均线合一 MA7/14/21"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -41663,8 +41671,10 @@
       "蓄势证据分": "12.187679335868399",
       "提前蓄势分": "18.938414869320976",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": null,
-      "传统买点": null,
+      "传统买点家族数": 1,
+      "传统买点": [
+        "双金叉 5/12/4"
+      ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -41794,7 +41804,7 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "单针承接"
+        "均线合一 MA5/12/21"
       ],
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
@@ -41925,7 +41935,6 @@
       "蓄势形态": "局部形态，链条未完整",
       "传统买点家族数": 1,
       "传统买点": [
-        "均线合一 MA5/12/21",
         "均线合一 MA7/14/21"
       ],
       "匹配状态": "exact_unique",
@@ -42313,10 +42322,8 @@
       "蓄势证据分": null,
       "提前蓄势分": null,
       "蓄势形态": null,
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "unmapped_or_ambiguous",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -42530,10 +42537,8 @@
       "蓄势证据分": "43.101216143573915",
       "提前蓄势分": "41.29907093405357",
       "蓄势形态": "局部形态，链条未完整",
-      "传统买点家族数": 1,
-      "传统买点": [
-        "双金叉 5/12/4"
-      ],
+      "传统买点家族数": null,
+      "传统买点": null,
       "匹配状态": "exact_unique",
       "综合说明": "各证据分列，不增加原评分，不构成买入指令"
     },
@@ -42827,343 +42832,41 @@
       "ready": false,
       "reasons": [
         "等待本时段报价发布",
-        "报价超时或时间异常"
+        "报价超时或时间异常",
+        "等待昨日完整日K蓄势评分发布"
       ],
-      "checked_at": "2026-11-22T18:50:03.998533+08:00",
-      "expected_quote_after": "2026-11-22T15:17:00+08:00",
+      "checked_at": "2026-11-23T00:43:34.777280+08:00",
+      "expected_quote_after": "2026-11-22T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
-      "expected_daily_asof": "2026-11-21",
+      "expected_daily_asof": "2026-11-22",
       "coil_asof": "2026-11-21",
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "8b289b045b163c0469b19b079d4d59c2a2066c6e",
+      "fable_sha": "9dd68a397005f30de1881e5bc42e6d0327a846b3",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-11-22T18:50:15.078274+08:00",
-    "asof": "2026-11-21",
-    "status": "research_only",
-    "data_status": "available",
+    "generated_at": "2026-11-23T00:43:41.693316+08:00",
+    "asof": "2026-11-22",
+    "status": "data_unavailable",
+    "data_status": "unavailable",
     "validated": false,
     "live_buy_allowed": false,
     "market": {
       "state": "弱势震荡",
       "permission": "数据等待，关闭新入场",
-      "coverage": 1047,
-      "asof": "2026-11-21",
-      "median_r3": -0.021841461118433436,
-      "prior_median_r3": -0.004477611940298498,
-      "breadth3": 0.1489971346704871,
-      "median_r7": -0.04055102832751267,
+      "coverage": 1050,
+      "asof": "2026-11-22",
+      "median_r3": -0.012494724053354445,
+      "prior_median_r3": -0.0022849742733972445,
+      "breadth3": 0.16380952380952382,
+      "median_r7": -0.029355926353353712,
       "basis": "排刀且满足传统扫描历史/价格条件的样本；非全市场指数；不要求7日中位数为正",
       "technical_permission": "仅观察"
     },
     "monitor_rows": 815,
-    "scored_rows": 628,
+    "scored_rows": 0,
     "research_ready": 0,
-    "top5": [
-      {
-        "name": "Galil AR | Vandal (Factory New)",
-        "cn": "加利尔AR | 破坏者 (崭新出厂)",
-        "potential": 75.05,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
-        "sector": {
-          "name": "Galil AR",
-          "samples": 22,
-          "state": "弱势",
-          "median_r3": -0.04666227191510092,
-          "breadth3": 0.13636363636363635
-        },
-        "follower_count": 0,
-        "quote": 54.61,
-        "quote_at": "2026-10-30T15:22:09+08:00",
-        "daily_asof": "2026-11-21",
-        "demand_batch": "2026-10-30",
-        "support": 61.0,
-        "invalidation_price": 59.15,
-        "entry_ceiling": 66.41,
-        "potential_components": {
-          "build": 25.804,
-          "tier": 11.576,
-          "wash": 6.172,
-          "activation": 15,
-          "relative": 6.503,
-          "risk": 10
-        },
-        "entry_components": {
-          "position": 3.14,
-          "volatility": 10.59,
-          "pattern": 0.0,
-          "demand": null
-        },
-        "entry_observed_max": 100,
-        "legacy_multifactor": "63.624944619477596",
-        "coil_sequence": "73.36280113405327",
-        "reasons": [
-          "前期参与代理 25.8分",
-          "持续放量 15.0分",
-          "量价台阶 11.6分"
-        ],
-        "triggers": [
-          "挂牌价在61.0至66.41区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
-        ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "挂牌价失守10日支撑",
-          "无传统日K买点",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
-        ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
-        "live_buy_allowed": false,
-        "potential_rank": 1
-      },
-      {
-        "name": "MAC-10 | Tatter (Factory New)",
-        "cn": "MAC-10 | 烧尽 (崭新出厂)",
-        "potential": 67.87,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
-        "sector": {
-          "name": "MAC-10",
-          "samples": 26,
-          "state": "弱势",
-          "median_r3": -0.014572351453465748,
-          "breadth3": 0.15384615384615385
-        },
-        "follower_count": 0,
-        "quote": 55.27,
-        "quote_at": "2026-10-30T15:14:35+08:00",
-        "daily_asof": "2026-11-21",
-        "demand_batch": "2026-10-30",
-        "support": 54.0,
-        "invalidation_price": 53.52,
-        "entry_ceiling": 56.05,
-        "potential_components": {
-          "build": 25.639,
-          "tier": 15,
-          "wash": 10.753,
-          "activation": 0,
-          "relative": 6.482,
-          "risk": 10
-        },
-        "entry_components": {
-          "position": 31.08,
-          "volatility": 17.13,
-          "pattern": 0.0,
-          "demand": null
-        },
-        "entry_observed_max": 100,
-        "legacy_multifactor": "50.520489529535396",
-        "coil_sequence": "61.60904355188224",
-        "reasons": [
-          "前期参与代理 25.6分",
-          "量价台阶 15.0分",
-          "洗盘代理 10.8分"
-        ],
-        "triggers": [
-          "挂牌价在54.0至56.05区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
-        ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "无传统日K买点",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
-        ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
-        "live_buy_allowed": false,
-        "potential_rank": 2
-      },
-      {
-        "name": "USP-S | Road Rash (Factory New)",
-        "cn": "USP消音版 | 公路杀手 (崭新出厂)",
-        "potential": 66.13,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
-        "sector": {
-          "name": "USP-S",
-          "samples": 31,
-          "state": "弱势",
-          "median_r3": -0.0506229598928295,
-          "breadth3": 0.0967741935483871
-        },
-        "follower_count": 0,
-        "quote": 730.0,
-        "quote_at": "2026-10-30T15:20:35+08:00",
-        "daily_asof": "2026-11-21",
-        "demand_batch": "2026-10-30",
-        "support": 748.5,
-        "invalidation_price": 736.27,
-        "entry_ceiling": 791.42,
-        "potential_components": {
-          "build": 23.624,
-          "tier": 7.351,
-          "wash": 9.286,
-          "activation": 10.297,
-          "relative": 5.575,
-          "risk": 10
-        },
-        "entry_components": {
-          "position": 14.51,
-          "volatility": 14.67,
-          "pattern": 0.0,
-          "demand": null
-        },
-        "entry_observed_max": 100,
-        "legacy_multifactor": "59.93367009160515",
-        "coil_sequence": "66.69098001687055",
-        "reasons": [
-          "前期参与代理 23.6分",
-          "持续放量 10.3分",
-          "风险质量 10.0分"
-        ],
-        "triggers": [
-          "挂牌价在748.5至791.42区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
-        ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "挂牌价失守10日支撑",
-          "无传统日K买点",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
-        ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
-        "live_buy_allowed": false,
-        "potential_rank": 3
-      },
-      {
-        "name": "P2000 | Pathfinder (Factory New)",
-        "cn": "P2000 | 寻路者 (崭新出厂)",
-        "potential": 65.8,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
-        "sector": {
-          "name": "P2000",
-          "samples": 23,
-          "state": "弱势",
-          "median_r3": -0.053843297437801696,
-          "breadth3": 0.17391304347826086
-        },
-        "follower_count": 1,
-        "quote": 73.78,
-        "quote_at": "2026-10-30T15:16:16+08:00",
-        "daily_asof": "2026-11-21",
-        "demand_batch": "2026-10-30",
-        "support": 70.0,
-        "invalidation_price": 68.26,
-        "entry_ceiling": 98.02,
-        "potential_components": {
-          "build": 28.655,
-          "tier": 3.339,
-          "wash": 12.481,
-          "activation": 2.917,
-          "relative": 10,
-          "risk": 8.404
-        },
-        "entry_components": {
-          "position": 33.97,
-          "volatility": 13.57,
-          "pattern": 0.0,
-          "demand": null
-        },
-        "entry_observed_max": 100,
-        "legacy_multifactor": "47.33335267527783",
-        "coil_sequence": "46.784595563152855",
-        "reasons": [
-          "前期参与代理 28.7分",
-          "洗盘代理 12.5分",
-          "相对强度 10.0分"
-        ],
-        "triggers": [
-          "挂牌价在70.0至98.02区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
-        ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "无传统日K买点",
-          "可比求购厚度下降超过20%"
-        ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
-        "live_buy_allowed": false,
-        "potential_rank": 4
-      },
-      {
-        "name": "USP-S | 27 (Factory New)",
-        "cn": "USP消音版 | 27 (崭新出厂)",
-        "potential": 64.59,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
-        "sector": {
-          "name": "USP-S",
-          "samples": 31,
-          "state": "弱势",
-          "median_r3": -0.0506229598928295,
-          "breadth3": 0.0967741935483871
-        },
-        "follower_count": 1,
-        "quote": 26.99,
-        "quote_at": "2026-10-30T15:20:38+08:00",
-        "daily_asof": "2026-11-21",
-        "demand_batch": "2026-10-30",
-        "support": 30.0,
-        "invalidation_price": 28.58,
-        "entry_ceiling": 37.35,
-        "potential_components": {
-          "build": 20.212,
-          "tier": 12.335,
-          "wash": 3.861,
-          "activation": 8.179,
-          "relative": 10,
-          "risk": 10
-        },
-        "entry_components": {
-          "position": 10.93,
-          "volatility": 7.54,
-          "pattern": 0.0,
-          "demand": null
-        },
-        "entry_observed_max": 100,
-        "legacy_multifactor": "71.79674661503121",
-        "coil_sequence": "53.41693021825358",
-        "reasons": [
-          "前期参与代理 20.2分",
-          "量价台阶 12.3分",
-          "相对强度 10.0分"
-        ],
-        "triggers": [
-          "挂牌价在30.0至37.35区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
-        ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "挂牌价失守10日支撑",
-          "无传统日K买点"
-        ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
-        "live_buy_allowed": false,
-        "potential_rank": 5
-      }
-    ],
+    "top5": [],
     "entry_top5": []
   }
 }
