@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-16",
+  "asof": "2026-11-23",
   "status": "observational_only",
   "fee": "sell 1%; buy 0; no slippage",
   "entry": "process: next day open; decision potential: published quote",
@@ -58,56 +58,56 @@
       "pool_day_equal_mean": -0.010795557938263697
     },
     {
-      "n": 54,
-      "mean": -0.03922031986638198,
-      "median": -0.05248861585720399,
-      "win_rate": 0.24074074074074073,
+      "n": 75,
+      "mean": -0.03430355810801239,
+      "median": -0.05975155279503119,
+      "win_rate": 0.25333333333333335,
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
+      "expected": 78,
+      "coverage": 0.9615384615384616,
+      "signal_days": 26,
+      "pool_day_equal_mean": -0.022510065855070673
+    },
+    {
+      "n": 54,
+      "mean": -0.07214234571453089,
+      "median": -0.0718394142569207,
+      "win_rate": 0.14814814814814814,
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
       "expected": 57,
       "coverage": 0.9473684210526315,
       "signal_days": 19,
-      "pool_day_equal_mean": -0.0172426940754662
+      "pool_day_equal_mean": -0.01521070694542483
     },
     {
-      "n": 33,
-      "mean": -0.07049711863128309,
-      "median": -0.0993788732394365,
-      "win_rate": 0.12121212121212122,
-      "version": "leader-process-score-v1",
-      "top": 3,
-      "horizon": 14,
-      "expected": 36,
-      "coverage": 0.9166666666666666,
-      "signal_days": 12,
-      "pool_day_equal_mean": -0.02866344421492165
-    },
-    {
-      "n": 90,
-      "mean": -0.03453780083497884,
-      "median": -0.04500620962543428,
-      "win_rate": 0.2,
+      "n": 125,
+      "mean": -0.03182316291038531,
+      "median": -0.05260193548387104,
+      "win_rate": 0.216,
       "version": "leader-process-score-v1",
       "top": 5,
       "horizon": 7,
-      "expected": 95,
-      "coverage": 0.9473684210526315,
-      "signal_days": 19,
-      "pool_day_equal_mean": -0.0172426940754662
+      "expected": 130,
+      "coverage": 0.9615384615384616,
+      "signal_days": 26,
+      "pool_day_equal_mean": -0.022510065855070673
     },
     {
-      "n": 55,
-      "mean": -0.04989559175156025,
-      "median": -0.07533216014078314,
-      "win_rate": 0.12727272727272726,
+      "n": 90,
+      "mean": -0.04722603478715491,
+      "median": -0.07106761157182195,
+      "win_rate": 0.14444444444444443,
       "version": "leader-process-score-v1",
       "top": 5,
       "horizon": 14,
-      "expected": 60,
-      "coverage": 0.9166666666666666,
-      "signal_days": 12,
-      "pool_day_equal_mean": -0.02866344421492165
+      "expected": 95,
+      "coverage": 0.9473684210526315,
+      "signal_days": 19,
+      "pool_day_equal_mean": -0.01521070694542483
     }
   ],
   "details": [
@@ -2573,7 +2573,7 @@
       "top": 3,
       "horizon": 14,
       "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
-      "net": null
+      "net": -0.040023722033583065
     },
     {
       "signal": "2026-10-31",
@@ -2581,7 +2581,7 @@
       "top": 3,
       "horizon": 14,
       "name": "Desert Eagle | Conspiracy (Factory New)",
-      "net": null
+      "net": 0.2814569536423841
     },
     {
       "signal": "2026-10-31",
@@ -2589,7 +2589,7 @@
       "top": 3,
       "horizon": 14,
       "name": "MP7 | Cirrus (Factory New)",
-      "net": null
+      "net": 0.091169091821375
     },
     {
       "signal": "2026-10-31",
@@ -2637,7 +2637,7 @@
       "top": 5,
       "horizon": 14,
       "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
-      "net": null
+      "net": -0.040023722033583065
     },
     {
       "signal": "2026-10-31",
@@ -2645,7 +2645,7 @@
       "top": 5,
       "horizon": 14,
       "name": "Desert Eagle | Conspiracy (Factory New)",
-      "net": null
+      "net": 0.2814569536423841
     },
     {
       "signal": "2026-10-31",
@@ -2653,7 +2653,7 @@
       "top": 5,
       "horizon": 14,
       "name": "MP7 | Cirrus (Factory New)",
-      "net": null
+      "net": 0.091169091821375
     },
     {
       "signal": "2026-10-31",
@@ -2661,7 +2661,7 @@
       "top": 5,
       "horizon": 14,
       "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
-      "net": null
+      "net": -0.09434977578475334
     },
     {
       "signal": "2026-10-31",
@@ -2669,7 +2669,7 @@
       "top": 5,
       "horizon": 14,
       "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
-      "net": null
+      "net": -0.04359122069243637
     },
     {
       "signal": "2026-11-01",
@@ -2694,6 +2694,30 @@
       "horizon": 7,
       "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
       "net": -0.00504795557799087
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.06856338028169018
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
+      "net": -0.07204968944099377
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": -0.10045431600201915
     },
     {
       "signal": "2026-11-01",
@@ -2736,6 +2760,46 @@
       "net": -0.059148936170212774
     },
     {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.06856338028169018
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
+      "net": -0.07204968944099377
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": -0.10045431600201915
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Chameleon (Factory New)",
+      "net": -0.04479526737037465
+    },
+    {
+      "signal": "2026-11-01",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "P90 | Asiimov (Factory New)",
+      "net": -0.047212765957446834
+    },
+    {
       "signal": "2026-11-02",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -2758,6 +2822,30 @@
       "horizon": 7,
       "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
       "net": -0.002687578888317499
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
+      "net": -0.0626415094339623
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.06962499999999994
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": -0.0419802720770418
     },
     {
       "signal": "2026-11-02",
@@ -2800,6 +2888,46 @@
       "net": -0.11371428571428566
     },
     {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
+      "net": -0.0626415094339623
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.06962499999999994
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": -0.0419802720770418
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.11915384615384594
+    },
+    {
+      "signal": "2026-11-02",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "G3SG1 | Stinger (Factory New)",
+      "net": -0.14200000000000002
+    },
+    {
       "signal": "2026-11-03",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -2822,6 +2950,30 @@
       "horizon": 7,
       "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
       "net": 0.02948997817027199
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "G3SG1 | Stinger (Factory New)",
+      "net": -0.16674999999999995
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.1307480688440168
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.04909704306410001
     },
     {
       "signal": "2026-11-03",
@@ -2864,6 +3016,46 @@
       "net": -0.025720000000000076
     },
     {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "G3SG1 | Stinger (Factory New)",
+      "net": -0.16674999999999995
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.1307480688440168
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.04909704306410001
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.09638346727898961
+    },
+    {
+      "signal": "2026-11-03",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Field-Tested)",
+      "net": -0.010059999999999958
+    },
+    {
       "signal": "2026-11-04",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -2886,6 +3078,30 @@
       "horizon": 7,
       "name": "P90 | Trigon (Minimal Wear)",
       "net": 0.008052941176470485
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "G3SG1 | Stinger (Factory New)",
+      "net": -0.17590559824368823
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "M4A4 | Red DDPAT (Factory New)",
+      "net": -0.24405253453093367
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.06546911764705887
     },
     {
       "signal": "2026-11-04",
@@ -2928,6 +3144,46 @@
       "net": -0.07158986175115212
     },
     {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "G3SG1 | Stinger (Factory New)",
+      "net": -0.17590559824368823
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "M4A4 | Red DDPAT (Factory New)",
+      "net": -0.24405253453093367
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.06546911764705887
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.13520588235294118
+    },
+    {
+      "signal": "2026-11-04",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": -0.0670276497695853
+    },
+    {
       "signal": "2026-11-05",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -2950,6 +3206,30 @@
       "horizon": 7,
       "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
       "net": -0.04522567891937679
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "net": 0.12987930469006237
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "M4A4 | Red DDPAT (Factory New)",
+      "net": -0.316356043956044
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.07048006777427396
     },
     {
       "signal": "2026-11-05",
@@ -2992,6 +3272,46 @@
       "net": 0.04160499259911199
     },
     {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Desert Eagle | Conspiracy (Factory New)",
+      "net": 0.12987930469006237
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "M4A4 | Red DDPAT (Factory New)",
+      "net": -0.316356043956044
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.07048006777427396
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "net": -0.09418425115800311
+    },
+    {
+      "signal": "2026-11-05",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "AUG | Carved Jade (Factory New)",
+      "net": -0.00790094811377362
+    },
+    {
       "signal": "2026-11-06",
       "version": "leader-process-score-v1",
       "top": 3,
@@ -3014,6 +3334,30 @@
       "horizon": 7,
       "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
       "net": -0.02946629213483143
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "MP7 | Ocean Foam (Factory New)",
+      "net": -0.3057142857142857
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "net": 0.07483275862068961
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.16670921348314605
     },
     {
       "signal": "2026-11-06",
@@ -3056,12 +3400,52 @@
       "net": 0.08870967741935476
     },
     {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "MP7 | Ocean Foam (Factory New)",
+      "net": -0.3057142857142857
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "net": 0.07483275862068961
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.16670921348314605
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Glock-18 | Water Elemental (Factory New)",
+      "net": 0.8688031793602189
+    },
+    {
+      "signal": "2026-11-06",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "FAMAS | Valence (Factory New)",
+      "net": 0.09625806451612906
+    },
+    {
       "signal": "2026-11-07",
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
       "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
-      "net": null
+      "net": -0.05220375722543347
     },
     {
       "signal": "2026-11-07",
@@ -3069,13 +3453,37 @@
       "top": 3,
       "horizon": 7,
       "name": "Glock-18 | Water Elemental (Factory New)",
-      "net": null
+      "net": 0.4276857566765577
     },
     {
       "signal": "2026-11-07",
       "version": "leader-process-score-v1",
       "top": 3,
       "horizon": 7,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": -0.051830985915493066
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
+      "name": "Glock-18 | Water Elemental (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 14,
       "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
       "net": null
     },
@@ -3085,7 +3493,7 @@
       "top": 5,
       "horizon": 7,
       "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
-      "net": null
+      "net": -0.05220375722543347
     },
     {
       "signal": "2026-11-07",
@@ -3093,7 +3501,7 @@
       "top": 5,
       "horizon": 7,
       "name": "Glock-18 | Water Elemental (Factory New)",
-      "net": null
+      "net": 0.4276857566765577
     },
     {
       "signal": "2026-11-07",
@@ -3101,7 +3509,7 @@
       "top": 5,
       "horizon": 7,
       "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
-      "net": null
+      "net": -0.051830985915493066
     },
     {
       "signal": "2026-11-07",
@@ -3109,7 +3517,7 @@
       "top": 5,
       "horizon": 7,
       "name": "M4A4 | Red DDPAT (Factory New)",
-      "net": null
+      "net": -0.2191995731056563
     },
     {
       "signal": "2026-11-07",
@@ -3117,6 +3525,494 @@
       "top": 5,
       "horizon": 7,
       "name": "MP9 | Sand Scale (Factory New)",
+      "net": -0.08187671232876714
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "Glock-18 | Water Elemental (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "M4A4 | Red DDPAT (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-07",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 14,
+      "name": "MP9 | Sand Scale (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Glock-18 | Wraiths (Factory New)",
+      "net": 0.09112903225806446
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Galil AR | Firefight (Factory New)",
+      "net": -0.09608695652173915
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "FAMAS | Valence (Factory New)",
+      "net": -0.0427254328760962
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Glock-18 | Wraiths (Factory New)",
+      "net": 0.09112903225806446
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Galil AR | Firefight (Factory New)",
+      "net": -0.09608695652173915
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Valence (Factory New)",
+      "net": -0.0427254328760962
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.07030000000000003
+    },
+    {
+      "signal": "2026-11-08",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "USP-S | 27 (Factory New)",
+      "net": 0.038214285714285756
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.06890160183066363
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Desert Eagle | Heat Treated (Factory New)",
+      "net": 0.12397014925373129
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "USP-S | 27 (Factory New)",
+      "net": 0.09386315789473687
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hydra Gloves | Mangrove (Minimal Wear)",
+      "net": -0.06890160183066363
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Heat Treated (Factory New)",
+      "net": 0.12397014925373129
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "USP-S | 27 (Factory New)",
+      "net": 0.09386315789473687
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.11256696125084964
+    },
+    {
+      "signal": "2026-11-09",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "FAMAS | Bad Trip (Factory New)",
+      "net": -0.05260193548387104
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "net": 0.1298728085252665
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+      "net": 0.02041973490427096
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.052106824925815975
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "net": 0.1298728085252665
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+      "net": 0.02041973490427096
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.052106824925815975
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Heat Treated (Factory New)",
+      "net": -0.008498770491803254
+    },
+    {
+      "signal": "2026-11-10",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MP9 | Rose Iron (Factory New)",
+      "net": 0.4025000000000001
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "M4A1-S | Cyrex (Factory New)",
+      "net": -0.1182273881814665
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.1021984732824428
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.07901304347826088
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "M4A1-S | Cyrex (Factory New)",
+      "net": -0.1182273881814665
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.1021984732824428
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "P90 | Trigon (Minimal Wear)",
+      "net": -0.07901304347826088
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Convoy (Minimal Wear)",
+      "net": -0.07279629124625031
+    },
+    {
+      "signal": "2026-11-11",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "net": 0.13644578313253009
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AWP | Neo-Noir (Factory New)",
+      "net": -0.08689320388349508
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+      "net": -0.1328122970339901
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.20280898876404496
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AWP | Neo-Noir (Factory New)",
+      "net": -0.08689320388349508
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+      "net": -0.1328122970339901
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Hand Wraps | Spruce DDPAT (Minimal Wear)",
+      "net": -0.20280898876404496
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "net": -0.0892576419213974
+    },
+    {
+      "signal": "2026-11-12",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AUG | Carved Jade (Factory New)",
+      "net": -0.07602459016393437
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "MAC-10 | Disco Tech (Factory New)",
+      "net": -0.060207142857142903
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+      "net": -0.08830686149936473
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Boom! (Minimal Wear)",
+      "net": -0.10748726655348051
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "MAC-10 | Disco Tech (Factory New)",
+      "net": -0.060207142857142903
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+      "net": -0.08830686149936473
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Moto Gloves | Boom! (Minimal Wear)",
+      "net": -0.10748726655348051
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": -0.1173848439821693
+    },
+    {
+      "signal": "2026-11-13",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "★ Specialist Gloves | Foundation (Minimal Wear)",
+      "net": -0.09127645220588232
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "AK-47 | Frontside Misty (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 3,
+      "horizon": 7,
+      "name": "Five-SeveN | Triumvirate (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AK-47 | Frontside Misty (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Desert Eagle | Code Red (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "Five-SeveN | Triumvirate (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "AK-47 | Legion of Anubis (Factory New)",
+      "net": null
+    },
+    {
+      "signal": "2026-11-14",
+      "version": "leader-process-score-v1",
+      "top": 5,
+      "horizon": 7,
+      "name": "CZ75-Auto | Tread Plate (Factory New)",
       "net": null
     }
   ],
