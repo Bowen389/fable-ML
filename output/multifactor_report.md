@@ -1,3 +1,35 @@
+<!-- unified-system:start -->
+## 综合决策（主结论）
+
+市场：下跌加速；权限：数据等待，关闭新入场；研究入场满足 0 件。尚未通过买入验证。
+
+| 商品 | 潜力 | 入场 | 状态 |
+|---|---:|---:|---|
+| AWP  /  *嘣* (崭新出厂) | 89.17 | 缺失 | 等待条件 |
+| USP消音版  /  公路杀手 (崭新出厂) | 68.61 | 缺失 | 等待条件 |
+| P2000  /  海之泡沫 (崭新出厂) | 66.8 | 缺失 | 等待条件 |
+| P250  /  二西莫夫 (略有磨损) | 66.44 | 缺失 | 等待条件 |
+| M4A4  /  死寂空间 (崭新出厂) | 64.87 | 缺失 | 等待条件 |
+
+[综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)
+
+### 底层证据与覆盖
+
+汇总时间：2026-11-24T21:27:16.635705+08:00。原版规则、传统四类买点、蓄势、求购与Whale分别展示，不因叠加证据自动提高买入资格。
+
+| 模块 | 状态 | 数据日期／说明 |
+|---|---|---|
+| 四类传统买点全扫 | ok | 2026-11-23 |
+| 全池报价与在售 | stale | 2026-10-30T15:29:33.904667+08:00 |
+| 求购与大户求购排行 | stale | 2026-10-30 |
+| CSQAQ Whale辅助 | partial | 2026-11-24T00:21:20+00:00 |
+| 蓄势评分 | ok | 2026-11-23 |
+| 原版规则与ML | available | 2026-11-23 |
+
+[查看全部模块总报告](https://github.com/Bowen389/fable-ML/blob/main/output/system_latest.md) · [815件监控与附加信号](https://github.com/Bowen389/fable-ML/blob/main/output/unified_monitor.csv) · [传统四类命中明细](https://github.com/Bowen389/fable-ML/blob/main/output/traditional_hits.csv)
+Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。
+<!-- unified-system:end -->
+
 # 市场与板块条件下的多因子评分研究
 
 截至2026-11-23；716/773件数据，639件每日评分。
