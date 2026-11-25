@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-23",
-  "generated_at": "2026-11-24T20:32:32.557389+08:00",
+  "asof": "2026-11-24",
+  "generated_at": "2026-11-25T19:20:08.937025+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -20,11 +20,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -56,11 +56,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Frosty (Minimal Wear)",
+      "name": "★ Specialist Gloves | Pillow Punchers (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Pillow Punchers (Field-Tested)",
+      "name": "★ Sport Gloves | Frosty (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -68,11 +68,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Red Racer (Minimal Wear)",
+      "name": "AK-47 | Aphrodite (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "AK-47 | Aphrodite (Factory New)",
+      "name": "★ Sport Gloves | Red Racer (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -144,11 +144,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -232,11 +232,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "M4A1-S | Electrum (Factory New)",
+      "name": "Tec-9 | Sultan (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "Tec-9 | Sultan (Factory New)",
+      "name": "M4A1-S | Electrum (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     }
   ],
@@ -475,10 +475,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 643,
-  "historical_rows": 946760,
+  "daily_rows": 645,
+  "historical_rows": 947476,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-23",
+  "expected_completed_date": "2026-11-24",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
