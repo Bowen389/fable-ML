@@ -19,7 +19,10 @@ def merge_system_section(text,root):
             'Whale实采不可用不等于无大户活动；悠悠挂单排行不等于Steam持仓。各模块更新时间分别标注。',END]
     d=x.get('decision',{})
     if d:
-        market=d.get('market',{});brief=[f'市场：{s(market.get("state"))}；权限：{s(market.get("permission"))}；研究入场满足 {d.get("research_ready",0)} 件。尚未通过买入验证。','','| 商品 | 潜力 | 入场 | 状态 |','|---|---:|---:|---|']
+        market=d.get('market',{});brief=[f'市场：{s(market.get("state"))}；权限：{s(market.get("permission"))}；研究入场满足 {d.get("research_ready",0)} 件。尚未通过买入验证。']
+        rb=d.get('rebound') or {}
+        if rb.get('confirmed'):brief.append(f'**反弹追认：已确认（{s(rb.get("reason"))}）**——报价/上限/形态/门槛等限制按反弹模式放宽。')
+        brief+=['','| 商品 | 潜力 | 入场 | 状态 |','|---|---:|---:|---|']
         for r in d.get('top5',[]):brief.append('| '+' | '.join(s(r.get(k)) for k in ('cn','potential','entry','state'))+' |')
         brief+=['','[综合决策主报告](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.md) · [全部商品决策](https://github.com/Bowen389/fable-ML/blob/main/output/decision_latest.csv)','','### 底层证据与覆盖']
         lines=lines[:2]+['']+brief+lines[2:]

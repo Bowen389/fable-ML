@@ -40,4 +40,17 @@ class UnifiedTests(unittest.TestCase):
             p=Path(root)/'output';p.mkdir();(p/'system_latest.json').write_text(json.dumps({'generated_at':'date','modules':{'whale':{'status':'not_configured','reason':'missing'}}}))
             a=merge_system_section('# Old report\n<!-- daily-coil:start -->keep<!-- daily-coil:end -->',root);b=merge_system_section(a,root)
             self.assertEqual(a,b);self.assertIn('keep',b);self.assertEqual(b.count('<!-- unified-system:start -->'),1);self.assertIn('not_configured',b)
+
+    def test_report_merge_shows_rebound_banner_when_confirmed(self):
+        with tempfile.TemporaryDirectory() as root:
+            p=Path(root)/'output';p.mkdir()
+            data={'generated_at':'date','modules':{},'decision':{'market':{'state':'止跌蓄势','permission':'研究放行（反弹追认）'},'research_ready':162,
+                   'rebound':{'confirmed':True,'reason':'广度45%回升，提前追认反弹'},'top5':[]}}
+            (p/'system_latest.json').write_text(json.dumps(data,ensure_ascii=False))
+            out=merge_system_section('# Old report',root)
+            self.assertIn('反弹追认：已确认',out);self.assertIn('广度45%回升，提前追认反弹',out)
+            # 未确认时不显示横幅
+            data['decision']['rebound']={'confirmed':False,'reason':'未进入反弹追认条件'}
+            (p/'system_latest.json').write_text(json.dumps(data,ensure_ascii=False))
+            self.assertNotIn('反弹追认：已确认',merge_system_section('# Old report',root))
 if __name__=='__main__':unittest.main()

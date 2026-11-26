@@ -8,6 +8,7 @@ from pathlib import Path
 import urllib.request
 from integrations.traditional import signal_types,family_count
 from decision_engine import candle_features,build as build_decisions,render as render_decisions
+import token_watch
 ROOT=Path(__file__).resolve().parent
 STATE_LIMITS=ROOT/'state/whale_monitor/data/scan_limits.json'
 TZ=timezone(timedelta(hours=8))
@@ -131,6 +132,12 @@ def table(headers,rows):return '\n'.join(['| '+' | '.join(headers)+' |','|'+'---
 
 def render(x):
     m=x['modules'];lines=['# CS2 一体化总报告','',f'生成时间：{x["generated_at"]}','', '**原版规则、四类传统买点、蓄势分、求购与Whale分列展示；不自动下单。**','',table(['模块','状态','数据日期／覆盖'],[[k,v.get('status'),v.get('asof') or v.get('batch') or v.get('generated_at') or v.get('reason') or v.get('error')] for k,v in m.items()])]
+    tw=m.get('token_watch') or {}
+    if tw:
+        lines+=['','## 凭证有效期提醒（报价/求购 token 约每 10 天需更新一次）','**token 是否到期以"最近成功采集时间"判断；系统主动提醒，不依赖人记。** 更新凭据后需重新触发对应采集。']
+        lines+=[table(['数据源','状态','距今','说明'],[[token_watch.SOURCES[s]['label'],v['status'],v['age_days'] if v['age_days'] is not None else '缺失',v['reminder']] for s,v in tw.get('sources',{}).items()])]
+        if tw.get('alerts'):lines+=['','**⚠️ 到期/临期提醒：**','']+[f'- {a}' for a in tw['alerts']]
+        else:lines+=['全部数据源在有效期内，暂无提醒。']
     t=m['traditional'];lines+=['','## 四类传统买点（全量扫描）',f'数据日 {t.get("asof","缺失")}；研究池 {t.get("pool","缺失")} 件；实际扫描 {t.get("scanned","缺失")} 件；命中 {t.get("hits","缺失")} 件。双金叉、均线合一、上影吞没、单针承接；参数组合不重复算独立家族。']
     if t.get('status')=='stale':lines+=['**上游日K未更新，以下为旧日期结果。**']
     lines+=[table(['商品','日K价','家族数','形态'],[[r['name'],r['price'],r['families'],'＋'.join(r['types'])] for r in x['traditional_hits'][:30]]),'完整扫描与命中：output/traditional_pool.csv、output/traditional_hits.csv；全量结果未合并到单一Glock样本。',
@@ -149,7 +156,7 @@ def render(x):
         lines+=(['告警：']+[f'- {a}' for a in c['alerts'][:8]]) if c.get('alerts') else ['无覆盖度告警。']
         lines+=['标的级新鲜度（前 10）：',table(['标的','鲸鱼数','最近事件','滞后天数'],[[r['item'],r['whales'],str(r['latest_event'])[:16],r['age_days']] for r in c.get('items',[])[:10]])]
     lines+=['','## 原版ML与规则扫描',f'原版规则候选 {len(x["original_hits"])} 条；数据日期 {m["original"].get("asof","缺失")}。',table(['规则','商品','价格'],[[r.get('规则'),r.get('饰品'),r.get('价格')] for r in x['original_hits'][:20]]),'原规则状态和资格保持独立，详见 output/latest.md、output/process_score_report.md、output/multifactor_report.md。',
-            '','## 使用口径','- 悠悠user_id与Steam ID是不同身份，不能合并为同一人；挂单金额、真实成交、持仓与CD事件不可互换。','- 商品只做精确、唯一的名称/磨损匹配；未映射保留为空，不按相似名称强配。','- 数据失败、过期与零事件区分；Whale不参与加分或否决。','- 新研究费用卖出1%、无滑点；原版历史统计仍以其报告单独标注为准。']
+            '','## 使用口径','- 悠悠user_id与Steam ID是不同身份，不能合并为同一人；挂单金额、真实成交、持仓与CD事件不可互换。','- 商品只做精确、唯一的名称/磨损匹配；未映射保留为空，不按相似名称强配。','- 数据失败、过期与零事件区分；求购只作加分项、不是入场必要条件，缺失或过期时加分留空但不阻断入场。','- Whale（索塔）仅作加分与观察信息，不是入场必要条件，其缺失、过期或报错都不参与放行或否决。','- 新研究费用卖出1%、无滑点；原版历史统计仍以其报告单独标注为准。']
     return '\n'.join(lines)+'\n'
 
 def main():
@@ -206,6 +213,12 @@ def main():
                            'max_run_seconds':int(os.environ.get('WHALE_MAX_RUN_SECONDS',1500)),
                            'updated_at':now().isoformat()})
     except Exception as exc:modules['coverage']={'status':'error','reason':type(exc).__name__}
+    # 报价/求购 token 约 10 天需更新一次；系统监控各源最近成功采集时间并主动提醒，不依赖人记。
+    # Whale（索塔）只作加分与观察信息，绝不参与入场放行或否决。
+    try:
+        modules['token_watch']=token_watch.watch(modules.get('quotes'),modules.get('demand'),modules.get('whale'),bool(os.getenv('CSQAQ_TOKEN','').strip()),now())
+        dump(out/'token_watch.json',modules['token_watch'])
+    except Exception as exc:modules['token_watch']={'status':'error','reason':type(exc).__name__}
     coil=readjson(out/'daily_coil_candidates.json',{});modules['coil']={'status':coil.get('status','missing'),'asof':coil.get('asof'),'daily_rows':coil.get('daily_rows')}
     originals=readrows(out/'screen_latest.csv') if (out/'screen_latest.csv').exists() else []
     latest=(out/'latest.md').read_text() if (out/'latest.md').exists() else ''
