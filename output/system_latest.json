@@ -1,21 +1,27 @@
 {
   "pipeline": {
-    "ready": false,
-    "reasons": [
-      "等待本时段报价发布",
-      "报价超时或时间异常"
+    "ready": true,
+    "reasons": [],
+    "notes": [
+      "上游悠悠报价过期，SteamDT兜底报价可用，报价维度按兜底满足"
     ],
-    "checked_at": "2026-11-26T22:48:17.395451+08:00",
+    "checked_at": "2026-11-26T23:23:33.311566+08:00",
     "expected_quote_after": "2026-11-26T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-11-25",
     "coil_asof": "2026-11-25",
+    "steamdt_fallback": {
+      "available": true,
+      "probed": 7,
+      "fresh": 5,
+      "reason": ""
+    },
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "a941fdb11cd60568049d8292eb5197aedd33b475",
+    "fable_sha": "d432c5bc077f82cd2f4fd24a0ac997d38a11de91",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-11-26T22:48:25.287449+08:00",
+  "generated_at": "2026-11-26T23:23:44.388776+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -104,6 +110,15 @@
       ],
       "formula": "vendored exact buy-cs families; unfinished day excluded"
     },
+    "quotes_steamdt_fallback": {
+      "checked": 815,
+      "stale": 815,
+      "overlaid": 0,
+      "steamdt_miss": 0,
+      "kept_fresh": 0,
+      "no_key": false,
+      "error": "SteamDT 批量价格失败: 当前接口请求已达到上限。详细规则请参阅接口文档。"
+    },
     "quotes": {
       "generated_at": "2026-10-30T15:29:33.904667+08:00",
       "monitor_items": 815,
@@ -117,7 +132,7 @@
       ],
       "status": "stale",
       "rows": 815,
-      "age_hours": 655.3141968761112
+      "age_hours": 655.9028238413889
     },
     "demand": {
       "status": "stale",
@@ -131,7 +146,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-11-25T22:09:33+00:00",
-      "age_hours": 16.647790672777777,
+      "age_hours": 17.23641890777778,
       "scan": {
         "processed": 80,
         "selected": 80,
@@ -155,16 +170,16 @@
       "basis": "仅相对上次成功扫描新增CD_RECOVER；首扫默认建基线，非真实买入认定"
     },
     "coverage": {
-      "generated_at": "2026-11-26T22:48:25.049032+08:00",
+      "generated_at": "2026-11-26T23:23:44.110966+08:00",
       "status": "degraded",
       "watch_list": {
         "monitored_goods": 30,
         "extra_goods": 66,
         "total_goods": 96,
-        "top30_snapshot_age_days": 0.7,
+        "top30_snapshot_age_days": 0.72,
         "top30_snapshot_generated_at": "2026-11-25T22:06:00.433470+00:00",
         "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
-        "extra_goods_age_days": 8.95,
+        "extra_goods_age_days": 8.97,
         "has_whitelist": true
       },
       "pool": {
@@ -172,7 +187,7 @@
         "scanned_whales": 825,
         "newest_scan": "2026-11-25T22:09:33+00:00",
         "oldest_scan": "2026-11-14T18:26:31+00:00",
-        "median_scan_age_days": 5.76,
+        "median_scan_age_days": 5.79,
         "max_whales_per_round": 80,
         "estimated_rotation_days": 10.82
       },
@@ -182,156 +197,156 @@
           "good_id": "16283",
           "whales": 223,
           "latest_event": "2026-11-25T16:40:39+08:00",
-          "age_days": 1.26
+          "age_days": 1.28
         },
         {
           "item": "千瓦武器箱",
           "good_id": "19521",
           "whales": 220,
           "latest_event": "2026-11-26T02:44:49+08:00",
-          "age_days": 0.84
+          "age_days": 0.86
         },
         {
           "item": "手套武器箱",
           "good_id": "1182",
           "whales": 213,
           "latest_event": "2026-11-25T16:26:20+08:00",
-          "age_days": 1.27
+          "age_days": 1.29
         },
         {
           "item": "梦魇武器箱",
           "good_id": "14675",
           "whales": 203,
           "latest_event": "2026-11-19T17:05:10+08:00",
-          "age_days": 7.24
+          "age_days": 7.26
         },
         {
           "item": "USP消音版 | 次时代 (崭新出厂)",
           "good_id": "6543",
           "whales": 195,
           "latest_event": "2026-11-22T16:21:43+08:00",
-          "age_days": 4.27
+          "age_days": 4.29
         },
         {
           "item": "封装的创世终端机",
           "good_id": "23870",
           "whales": 165,
           "latest_event": "2026-11-19T15:57:07+08:00",
-          "age_days": 7.29
+          "age_days": 7.31
         },
         {
           "item": "AK-47 | 抽象派 1337 (久经沙场)",
           "good_id": "13575",
           "whales": 152,
           "latest_event": "2026-11-25T16:26:20+08:00",
-          "age_days": 1.27
+          "age_days": 1.29
         },
         {
           "item": "格洛克18型 | 核子花园 (崭新出厂)",
           "good_id": "9618",
           "whales": 145,
           "latest_event": "2026-11-22T16:14:08+08:00",
-          "age_days": 4.27
+          "age_days": 4.3
         },
         {
           "item": "法玛斯 | 机械工业 (崭新出厂)",
           "good_id": "769",
           "whales": 135,
           "latest_event": "2026-11-20T23:02:50+08:00",
-          "age_days": 5.99
+          "age_days": 6.01
         },
         {
           "item": "AWP | 冥界之河 (崭新出厂)",
           "good_id": "9563",
           "whales": 118,
           "latest_event": "2026-11-23T08:04:15+08:00",
-          "age_days": 3.61
+          "age_days": 3.64
         },
         {
           "item": "M4A1消音版 | 闪回 (崭新出厂)",
           "good_id": "1238",
           "whales": 117,
           "latest_event": "2026-11-20T23:02:50+08:00",
-          "age_days": 5.99
+          "age_days": 6.01
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
           "good_id": "1295",
           "whales": 112,
           "latest_event": "2026-11-22T18:27:35+08:00",
-          "age_days": 4.18
+          "age_days": 4.21
         },
         {
           "item": "AK-47 | 抽象派 1337 (略有磨损)",
           "good_id": "13363",
           "whales": 111,
           "latest_event": "2026-11-24T13:48:14+08:00",
-          "age_days": 2.38
+          "age_days": 2.4
         },
         {
           "item": "AWP | 复古流行 (崭新出厂)",
           "good_id": "13463",
           "whales": 107,
           "latest_event": "2026-11-23T17:13:03+08:00",
-          "age_days": 3.23
+          "age_days": 3.26
         },
         {
           "item": "M4A4 | 合纵 (久经沙场)",
           "good_id": "13366",
           "whales": 106,
           "latest_event": "2026-11-25T14:34:42+08:00",
-          "age_days": 1.34
+          "age_days": 1.37
         },
         {
           "item": "封装的毁灭之手终端机",
           "good_id": "25098",
           "whales": 106,
           "latest_event": "2026-11-18T16:46:08+08:00",
-          "age_days": 8.25
+          "age_days": 8.28
         },
         {
           "item": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
           "good_id": "12884",
           "whales": 106,
           "latest_event": "2026-11-21T19:24:45+08:00",
-          "age_days": 5.14
+          "age_days": 5.17
         },
         {
           "item": "沙漠之鹰 | 午夜风暴 (崭新出厂)",
           "good_id": "582",
           "whales": 106,
           "latest_event": "2026-11-16T13:19:43+08:00",
-          "age_days": 10.39
+          "age_days": 10.42
         },
         {
           "item": "MP7 | 渐变之色 (崭新出厂)",
           "good_id": "9583",
           "whales": 103,
           "latest_event": "2026-11-19T17:33:15+08:00",
-          "age_days": 7.22
+          "age_days": 7.24
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (久经沙场)",
           "good_id": "1296",
           "whales": 101,
           "latest_event": "2026-11-23T17:48:45+08:00",
-          "age_days": 3.21
+          "age_days": 3.23
         }
       ],
       "item_count": 8164,
       "alerts": [
-        "监控白名单已 8.95 天没更新。",
+        "监控白名单已 8.97 天没更新。",
         "鲸鱼池 866 只、每轮 80 只，轮转周期约 10.82 天；单只鲸鱼的“最近”可能已经过去这么久。",
-        "标的 梦魇武器箱 最近一次事件在 7.24 天前（203 只鲸鱼有记录）。",
-        "标的 封装的创世终端机 最近一次事件在 7.29 天前（165 只鲸鱼有记录）。",
-        "标的 封装的毁灭之手终端机 最近一次事件在 8.25 天前（106 只鲸鱼有记录）。",
-        "标的 沙漠之鹰 | 午夜风暴 (崭新出厂) 最近一次事件在 10.39 天前（106 只鲸鱼有记录）。",
-        "标的 MP7 | 渐变之色 (崭新出厂) 最近一次事件在 7.22 天前（103 只鲸鱼有记录）。"
+        "标的 梦魇武器箱 最近一次事件在 7.26 天前（203 只鲸鱼有记录）。",
+        "标的 封装的创世终端机 最近一次事件在 7.31 天前（165 只鲸鱼有记录）。",
+        "标的 封装的毁灭之手终端机 最近一次事件在 8.28 天前（106 只鲸鱼有记录）。",
+        "标的 沙漠之鹰 | 午夜风暴 (崭新出厂) 最近一次事件在 10.42 天前（106 只鲸鱼有记录）。",
+        "标的 MP7 | 渐变之色 (崭新出厂) 最近一次事件在 7.24 天前（103 只鲸鱼有记录）。"
       ],
       "basis": "只读本地状态；CD_RECOVER 为回库事件，不是成交确认。"
     },
     "token_watch": {
-      "generated_at": "2026-11-26T22:48:25.268036+08:00",
+      "generated_at": "2026-11-26T23:23:44.379599+08:00",
       "ttl_days": 10,
       "remind_days": 7,
       "sources": {
@@ -378,25 +393,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "d4652de7a95ee40e8af2da8879719bfceaf9d7524fadcbb3430d1220fd0286ef",
       "bytes": 71290245,
-      "fetched_at": "2026-11-26T22:48:19.418235+08:00"
+      "fetched_at": "2026-11-26T23:23:36.957666+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-11-26T22:48:19.819144+08:00"
+      "fetched_at": "2026-11-26T23:23:37.204962+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-11-26T22:48:19.854860+08:00"
+      "fetched_at": "2026-11-26T23:23:37.231150+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-11-26T22:48:20.886649+08:00"
+      "fetched_at": "2026-11-26T23:23:38.351270+08:00"
     }
   },
   "traditional_hits": [
@@ -46663,22 +46678,28 @@
   "purchase_list_requests": 0,
   "decision": {
     "pipeline": {
-      "ready": false,
-      "reasons": [
-        "等待本时段报价发布",
-        "报价超时或时间异常"
+      "ready": true,
+      "reasons": [],
+      "notes": [
+        "上游悠悠报价过期，SteamDT兜底报价可用，报价维度按兜底满足"
       ],
-      "checked_at": "2026-11-26T22:48:17.395451+08:00",
+      "checked_at": "2026-11-26T23:23:33.311566+08:00",
       "expected_quote_after": "2026-11-26T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
       "expected_daily_asof": "2026-11-25",
       "coil_asof": "2026-11-25",
+      "steamdt_fallback": {
+        "available": true,
+        "probed": 7,
+        "fresh": 5,
+        "reason": ""
+      },
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "a941fdb11cd60568049d8292eb5197aedd33b475",
+      "fable_sha": "d432c5bc077f82cd2f4fd24a0ac997d38a11de91",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-11-26T22:48:25.291461+08:00",
+    "generated_at": "2026-11-26T23:23:44.393785+08:00",
     "asof": "2026-11-25",
     "status": "research_only",
     "data_status": "available",
@@ -46755,7 +46776,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
@@ -46814,7 +46834,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
@@ -46873,7 +46892,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
@@ -46932,7 +46950,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
           "无传统日K买点：反弹追认模式按动量放宽"
@@ -46992,7 +47009,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
@@ -47053,7 +47069,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
           "无传统日K买点：反弹追认模式按动量放宽"
@@ -47113,7 +47128,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
           "无传统日K买点：反弹追认模式按动量放宽"
@@ -47173,7 +47187,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
           "无传统日K买点：反弹追认模式按动量放宽"
@@ -47233,7 +47246,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
           "无传统日K买点：反弹追认模式按动量放宽"
@@ -47293,7 +47305,6 @@
         ],
         "blockers": [],
         "data_notes": [
-          "上游时序未就绪：反弹追认模式按日K继续判定",
           "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
           "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
           "无传统日K买点：反弹追认模式按动量放宽"
