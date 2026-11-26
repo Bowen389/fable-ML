@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-11-26T22:48:25.268036+08:00",
+  "ttl_days": 10,
+  "remind_days": 7,
+  "sources": {
+    "quotes": {
+      "label": "报价/在售（悠悠）",
+      "status": "expired",
+      "age_days": 27.3,
+      "last_success": "2026-10-30T15:29:33.904667+08:00",
+      "reminder": "报价/在售（悠悠）：距上次成功采集已 27.3 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 报价采集凭据 并重新采集。"
+    },
+    "demand": {
+      "label": "求购与大户求购排行",
+      "status": "expired",
+      "age_days": 28.0,
+      "last_success": "2026-10-30",
+      "reminder": "求购与大户求购排行：距上次成功采集已 28.0 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 求购采集凭据 并重新采集。"
+    },
+    "whale": {
+      "label": "CSQAQ Whale（索塔）",
+      "status": "ok",
+      "age_days": 0.7,
+      "last_success": "2026-11-25T22:09:33+00:00",
+      "reminder": "CSQAQ Whale（索塔）：0.7 天前成功采集，在 10 天有效期内。"
+    }
+  },
+  "alerts": [
+    "报价/在售（悠悠）：距上次成功采集已 27.3 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 报价采集凭据 并重新采集。",
+    "求购与大户求购排行：距上次成功采集已 28.0 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 求购采集凭据 并重新采集。"
+  ],
+  "all_ok": false
+}

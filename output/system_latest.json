@@ -5,17 +5,17 @@
       "等待本时段报价发布",
       "报价超时或时间异常"
     ],
-    "checked_at": "2026-11-26T20:00:22.481790+08:00",
-    "expected_quote_after": "2026-11-26T15:17:00+08:00",
+    "checked_at": "2026-11-26T22:48:17.395451+08:00",
+    "expected_quote_after": "2026-11-26T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-11-25",
     "coil_asof": "2026-11-25",
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "c1c98791c68c0e2e15d3167683fd0b5621d1b96f",
+    "fable_sha": "a941fdb11cd60568049d8292eb5197aedd33b475",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-11-26T20:00:31.483541+08:00",
+  "generated_at": "2026-11-26T22:48:25.287449+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -117,7 +117,7 @@
       ],
       "status": "stale",
       "rows": 815,
-      "age_hours": 652.5159045780556
+      "age_hours": 655.3141968761112
     },
     "demand": {
       "status": "stale",
@@ -131,7 +131,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-11-25T22:09:33+00:00",
-      "age_hours": 13.849499513888889,
+      "age_hours": 16.647790672777777,
       "scan": {
         "processed": 80,
         "selected": 80,
@@ -155,16 +155,16 @@
       "basis": "仅相对上次成功扫描新增CD_RECOVER；首扫默认建基线，非真实买入认定"
     },
     "coverage": {
-      "generated_at": "2026-11-26T20:00:31.201257+08:00",
+      "generated_at": "2026-11-26T22:48:25.049032+08:00",
       "status": "degraded",
       "watch_list": {
         "monitored_goods": 30,
         "extra_goods": 66,
         "total_goods": 96,
-        "top30_snapshot_age_days": 0.58,
+        "top30_snapshot_age_days": 0.7,
         "top30_snapshot_generated_at": "2026-11-25T22:06:00.433470+00:00",
         "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
-        "extra_goods_age_days": 8.83,
+        "extra_goods_age_days": 8.95,
         "has_whitelist": true
       },
       "pool": {
@@ -172,7 +172,7 @@
         "scanned_whales": 825,
         "newest_scan": "2026-11-25T22:09:33+00:00",
         "oldest_scan": "2026-11-14T18:26:31+00:00",
-        "median_scan_age_days": 5.64,
+        "median_scan_age_days": 5.76,
         "max_whales_per_round": 80,
         "estimated_rotation_days": 10.82
       },
@@ -182,153 +182,186 @@
           "good_id": "16283",
           "whales": 223,
           "latest_event": "2026-11-25T16:40:39+08:00",
-          "age_days": 1.14
+          "age_days": 1.26
         },
         {
           "item": "千瓦武器箱",
           "good_id": "19521",
           "whales": 220,
           "latest_event": "2026-11-26T02:44:49+08:00",
-          "age_days": 0.72
+          "age_days": 0.84
         },
         {
           "item": "手套武器箱",
           "good_id": "1182",
           "whales": 213,
           "latest_event": "2026-11-25T16:26:20+08:00",
-          "age_days": 1.15
+          "age_days": 1.27
         },
         {
           "item": "梦魇武器箱",
           "good_id": "14675",
           "whales": 203,
           "latest_event": "2026-11-19T17:05:10+08:00",
-          "age_days": 7.12
+          "age_days": 7.24
         },
         {
           "item": "USP消音版 | 次时代 (崭新出厂)",
           "good_id": "6543",
           "whales": 195,
           "latest_event": "2026-11-22T16:21:43+08:00",
-          "age_days": 4.15
+          "age_days": 4.27
         },
         {
           "item": "封装的创世终端机",
           "good_id": "23870",
           "whales": 165,
           "latest_event": "2026-11-19T15:57:07+08:00",
-          "age_days": 7.17
+          "age_days": 7.29
         },
         {
           "item": "AK-47 | 抽象派 1337 (久经沙场)",
           "good_id": "13575",
           "whales": 152,
           "latest_event": "2026-11-25T16:26:20+08:00",
-          "age_days": 1.15
+          "age_days": 1.27
         },
         {
           "item": "格洛克18型 | 核子花园 (崭新出厂)",
           "good_id": "9618",
           "whales": 145,
           "latest_event": "2026-11-22T16:14:08+08:00",
-          "age_days": 4.16
+          "age_days": 4.27
         },
         {
           "item": "法玛斯 | 机械工业 (崭新出厂)",
           "good_id": "769",
           "whales": 135,
           "latest_event": "2026-11-20T23:02:50+08:00",
-          "age_days": 5.87
+          "age_days": 5.99
         },
         {
           "item": "AWP | 冥界之河 (崭新出厂)",
           "good_id": "9563",
           "whales": 118,
           "latest_event": "2026-11-23T08:04:15+08:00",
-          "age_days": 3.5
+          "age_days": 3.61
         },
         {
           "item": "M4A1消音版 | 闪回 (崭新出厂)",
           "good_id": "1238",
           "whales": 117,
           "latest_event": "2026-11-20T23:02:50+08:00",
-          "age_days": 5.87
+          "age_days": 5.99
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
           "good_id": "1295",
           "whales": 112,
           "latest_event": "2026-11-22T18:27:35+08:00",
-          "age_days": 4.06
+          "age_days": 4.18
         },
         {
           "item": "AK-47 | 抽象派 1337 (略有磨损)",
           "good_id": "13363",
           "whales": 111,
           "latest_event": "2026-11-24T13:48:14+08:00",
-          "age_days": 2.26
+          "age_days": 2.38
         },
         {
           "item": "AWP | 复古流行 (崭新出厂)",
           "good_id": "13463",
           "whales": 107,
           "latest_event": "2026-11-23T17:13:03+08:00",
-          "age_days": 3.12
+          "age_days": 3.23
         },
         {
           "item": "M4A4 | 合纵 (久经沙场)",
           "good_id": "13366",
           "whales": 106,
           "latest_event": "2026-11-25T14:34:42+08:00",
-          "age_days": 1.23
+          "age_days": 1.34
         },
         {
           "item": "封装的毁灭之手终端机",
           "good_id": "25098",
           "whales": 106,
           "latest_event": "2026-11-18T16:46:08+08:00",
-          "age_days": 8.13
+          "age_days": 8.25
         },
         {
           "item": "沙漠之鹰 | 午夜凶匪 (崭新出厂)",
           "good_id": "12884",
           "whales": 106,
           "latest_event": "2026-11-21T19:24:45+08:00",
-          "age_days": 5.02
+          "age_days": 5.14
         },
         {
           "item": "沙漠之鹰 | 午夜风暴 (崭新出厂)",
           "good_id": "582",
           "whales": 106,
           "latest_event": "2026-11-16T13:19:43+08:00",
-          "age_days": 10.28
+          "age_days": 10.39
         },
         {
           "item": "MP7 | 渐变之色 (崭新出厂)",
           "good_id": "9583",
           "whales": 103,
           "latest_event": "2026-11-19T17:33:15+08:00",
-          "age_days": 7.1
+          "age_days": 7.22
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (久经沙场)",
           "good_id": "1296",
           "whales": 101,
           "latest_event": "2026-11-23T17:48:45+08:00",
-          "age_days": 3.09
+          "age_days": 3.21
         }
       ],
       "item_count": 8164,
       "alerts": [
-        "监控白名单已 8.83 天没更新。",
+        "监控白名单已 8.95 天没更新。",
         "鲸鱼池 866 只、每轮 80 只，轮转周期约 10.82 天；单只鲸鱼的“最近”可能已经过去这么久。",
-        "标的 梦魇武器箱 最近一次事件在 7.12 天前（203 只鲸鱼有记录）。",
-        "标的 封装的创世终端机 最近一次事件在 7.17 天前（165 只鲸鱼有记录）。",
-        "标的 封装的毁灭之手终端机 最近一次事件在 8.13 天前（106 只鲸鱼有记录）。",
-        "标的 沙漠之鹰 | 午夜风暴 (崭新出厂) 最近一次事件在 10.28 天前（106 只鲸鱼有记录）。",
-        "标的 MP7 | 渐变之色 (崭新出厂) 最近一次事件在 7.1 天前（103 只鲸鱼有记录）。"
+        "标的 梦魇武器箱 最近一次事件在 7.24 天前（203 只鲸鱼有记录）。",
+        "标的 封装的创世终端机 最近一次事件在 7.29 天前（165 只鲸鱼有记录）。",
+        "标的 封装的毁灭之手终端机 最近一次事件在 8.25 天前（106 只鲸鱼有记录）。",
+        "标的 沙漠之鹰 | 午夜风暴 (崭新出厂) 最近一次事件在 10.39 天前（106 只鲸鱼有记录）。",
+        "标的 MP7 | 渐变之色 (崭新出厂) 最近一次事件在 7.22 天前（103 只鲸鱼有记录）。"
       ],
       "basis": "只读本地状态；CD_RECOVER 为回库事件，不是成交确认。"
+    },
+    "token_watch": {
+      "generated_at": "2026-11-26T22:48:25.268036+08:00",
+      "ttl_days": 10,
+      "remind_days": 7,
+      "sources": {
+        "quotes": {
+          "label": "报价/在售（悠悠）",
+          "status": "expired",
+          "age_days": 27.3,
+          "last_success": "2026-10-30T15:29:33.904667+08:00",
+          "reminder": "报价/在售（悠悠）：距上次成功采集已 27.3 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 报价采集凭据 并重新采集。"
+        },
+        "demand": {
+          "label": "求购与大户求购排行",
+          "status": "expired",
+          "age_days": 28.0,
+          "last_success": "2026-10-30",
+          "reminder": "求购与大户求购排行：距上次成功采集已 28.0 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 求购采集凭据 并重新采集。"
+        },
+        "whale": {
+          "label": "CSQAQ Whale（索塔）",
+          "status": "ok",
+          "age_days": 0.7,
+          "last_success": "2026-11-25T22:09:33+00:00",
+          "reminder": "CSQAQ Whale（索塔）：0.7 天前成功采集，在 10 天有效期内。"
+        }
+      },
+      "alerts": [
+        "报价/在售（悠悠）：距上次成功采集已 27.3 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 报价采集凭据 并重新采集。",
+        "求购与大户求购排行：距上次成功采集已 28.0 天，超过 10 天有效期，token 很可能已失效——请更新 YP_RAW_HEADERS / 求购采集凭据 并重新采集。"
+      ],
+      "all_ok": false
     },
     "coil": {
       "status": "ok",
@@ -345,25 +378,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "d4652de7a95ee40e8af2da8879719bfceaf9d7524fadcbb3430d1220fd0286ef",
       "bytes": 71290245,
-      "fetched_at": "2026-11-26T20:00:24.659147+08:00"
+      "fetched_at": "2026-11-26T22:48:19.418235+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-11-26T20:00:24.842144+08:00"
+      "fetched_at": "2026-11-26T22:48:19.819144+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-11-26T20:00:24.891971+08:00"
+      "fetched_at": "2026-11-26T22:48:19.854860+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-11-26T20:00:26.060507+08:00"
+      "fetched_at": "2026-11-26T22:48:20.886649+08:00"
     }
   },
   "traditional_hits": [
@@ -46635,17 +46668,17 @@
         "等待本时段报价发布",
         "报价超时或时间异常"
       ],
-      "checked_at": "2026-11-26T20:00:22.481790+08:00",
-      "expected_quote_after": "2026-11-26T15:17:00+08:00",
+      "checked_at": "2026-11-26T22:48:17.395451+08:00",
+      "expected_quote_after": "2026-11-26T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
       "expected_daily_asof": "2026-11-25",
       "coil_asof": "2026-11-25",
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "c1c98791c68c0e2e15d3167683fd0b5621d1b96f",
+      "fable_sha": "a941fdb11cd60568049d8292eb5197aedd33b475",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-11-26T20:00:31.488429+08:00",
+    "generated_at": "2026-11-26T22:48:25.291461+08:00",
     "asof": "2026-11-25",
     "status": "research_only",
     "data_status": "available",
@@ -46653,89 +46686,31 @@
     "live_buy_allowed": false,
     "market": {
       "state": "止跌蓄势",
-      "permission": "数据等待，关闭新入场",
+      "permission": "研究放行（反弹追认）",
       "coverage": 1039,
       "asof": "2026-11-25",
       "median_r3": 0.0,
       "prior_median_r3": -0.03414045684679823,
       "breadth3": 0.39268527430221367,
       "median_r7": -0.0331387685934853,
-      "basis": "排刀且满足传统扫描历史/价格条件的样本；非全市场指数；不要求7日中位数为正",
-      "technical_permission": "仅研究试探"
+      "basis": "排刀且满足传统扫描历史/价格条件的样本；非全市场指数；不要求7日中位数为正"
+    },
+    "rebound": {
+      "confirmed": true,
+      "mode": "rebound",
+      "reason": "3日中位动量+0.00%接近转正、短端优于7日（-3.31%），广度39%回升，提前追认反弹"
     },
     "monitor_rows": 815,
     "scored_rows": 621,
-    "research_ready": 0,
+    "research_ready": 168,
     "top5": [
-      {
-        "name": "P2000 | Ocean Foam (Factory New)",
-        "cn": "P2000 | 海之泡沫 (崭新出厂)",
-        "potential": 72.21,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
-        "sector": {
-          "name": "P2000",
-          "samples": 23,
-          "state": "修复",
-          "median_r3": 0.0,
-          "breadth3": 0.4782608695652174
-        },
-        "follower_count": 0,
-        "quote": 574.0,
-        "quote_at": "2026-10-30T15:16:12+08:00",
-        "daily_asof": "2026-11-25",
-        "demand_batch": "2026-10-30",
-        "support": 500.0,
-        "invalidation_price": 493.3,
-        "entry_ceiling": 554.2,
-        "potential_components": {
-          "build": 29.322,
-          "tier": 6.396,
-          "wash": 16.05,
-          "activation": 5.0,
-          "relative": 6.054,
-          "risk": 9.388
-        },
-        "entry_components": {
-          "position": 0,
-          "volatility": 15.93,
-          "pattern": 0.0,
-          "demand": null
-        },
-        "entry_observed_max": 100,
-        "legacy_multifactor": "62.96886071685326",
-        "coil_sequence": "65.04851772252336",
-        "reasons": [
-          "前期参与代理 29.3分",
-          "洗盘代理 16.1分",
-          "风险质量 9.4分"
-        ],
-        "triggers": [
-          "挂牌价在500.0至554.2区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
-        ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "价格超过入场观察上限，等待回踩",
-          "无传统日K买点",
-          "可比求购厚度下降超过20%",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
-        ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
-        "live_buy_allowed": false,
-        "potential_rank": 1
-      },
       {
         "name": "FAMAS | Meltdown (Factory New)",
         "cn": "法玛斯 | 熔化 (崭新出厂)",
-        "potential": 68.76,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
+        "potential": 100.34,
+        "entry": 51.76,
+        "state": "入场证据不足",
+        "market_permission": "研究放行（反弹追认）",
         "sector": {
           "name": "FAMAS",
           "samples": 23,
@@ -46744,7 +46719,7 @@
           "breadth3": 0.5652173913043478
         },
         "follower_count": 0,
-        "quote": 330.0,
+        "quote": 506.5,
         "quote_at": "2026-10-30T15:26:04+08:00",
         "daily_asof": "2026-11-25",
         "demand_batch": "2026-10-30",
@@ -46757,15 +46732,16 @@
           "wash": 2.088,
           "activation": 6.761,
           "relative": 10,
-          "risk": 6.284
+          "risk": 6.284,
+          "rebound_momentum": 31.58
         },
         "entry_components": {
-          "position": 22.57,
+          "position": 35,
           "volatility": 6.76,
           "pattern": 10.0,
           "demand": null
         },
-        "entry_observed_max": 100,
+        "entry_observed_max": 90,
         "legacy_multifactor": "38.33889157667691",
         "coil_sequence": "44.03627507183927",
         "reasons": [
@@ -46775,28 +46751,84 @@
         ],
         "triggers": [
           "挂牌价在332.64至422.96区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
         ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "挂牌价失守10日支撑",
-          "可比求购厚度下降超过20%",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
+        "live_buy_allowed": false,
+        "potential_rank": 1
+      },
+      {
+        "name": "USP-S | Blueprint (Factory New)",
+        "cn": "USP消音版 | 蓝图 (崭新出厂)",
+        "potential": 95.77,
+        "entry": 58.08,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
+        "sector": {
+          "name": "USP-S",
+          "samples": 31,
+          "state": "修复",
+          "median_r3": 0.037242937853107394,
+          "breadth3": 0.6129032258064516
+        },
+        "follower_count": 0,
+        "quote": 625.0,
+        "quote_at": "2026-10-30T15:20:35+08:00",
+        "daily_asof": "2026-11-25",
+        "demand_batch": "2026-10-30",
+        "support": 447.21,
+        "invalidation_price": 434.23,
+        "entry_ceiling": 522.11,
+        "potential_components": {
+          "build": 28.651,
+          "tier": 2.431,
+          "wash": 0.99,
+          "activation": 15,
+          "relative": 10,
+          "risk": 7.901,
+          "rebound_momentum": 30.8
+        },
+        "entry_components": {
+          "position": 35,
+          "volatility": 13.08,
+          "pattern": 10.0,
+          "demand": null
+        },
+        "entry_observed_max": 90,
+        "legacy_multifactor": "42.65654191897765",
+        "coil_sequence": "46.22327700718297",
+        "reasons": [
+          "前期参与代理 28.7分",
+          "持续放量 15.0分",
+          "相对强度 10.0分"
+        ],
+        "triggers": [
+          "挂牌价在447.21至522.11区间并止跌确认",
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
+        ],
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
+        ],
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
         "live_buy_allowed": false,
         "potential_rank": 2
       },
       {
         "name": "M4A4 | Hellish (Factory New)",
         "cn": "M4A4 | 炼狱之火 (崭新出厂)",
-        "potential": 67.16,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
+        "potential": 91.07,
+        "entry": 66.82,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
         "sector": {
           "name": "M4A4",
           "samples": 38,
@@ -46805,7 +46837,7 @@
           "breadth3": 0.6842105263157895
         },
         "follower_count": 0,
-        "quote": 803.0,
+        "quote": 895.0,
         "quote_at": "2026-10-30T15:14:25+08:00",
         "daily_asof": "2026-11-25",
         "demand_batch": "2026-10-30",
@@ -46818,15 +46850,16 @@
           "wash": 2.747,
           "activation": 7.526,
           "relative": 8.963,
-          "risk": 10
+          "risk": 10,
+          "rebound_momentum": 23.91
         },
         "entry_components": {
-          "position": 29.93,
+          "position": 35,
           "volatility": 11.82,
           "pattern": 20.0,
           "demand": null
         },
-        "entry_observed_max": 100,
+        "entry_observed_max": 90,
         "legacy_multifactor": "68.16733695142749",
         "coil_sequence": "59.34093802176417",
         "reasons": [
@@ -46836,27 +46869,25 @@
         ],
         "triggers": [
           "挂牌价在739.99至844.54区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
         ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "可比求购厚度下降超过20%",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
         "live_buy_allowed": false,
         "potential_rank": 3
       },
       {
         "name": "USP-S | Pathfinder (Factory New)",
         "cn": "USP消音版 | 寻路者 (崭新出厂)",
-        "potential": 66.77,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
+        "potential": 90.97,
+        "entry": 63.0,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
         "sector": {
           "name": "USP-S",
           "samples": 31,
@@ -46865,7 +46896,7 @@
           "breadth3": 0.6129032258064516
         },
         "follower_count": 0,
-        "quote": 172.5,
+        "quote": 190.0,
         "quote_at": "2026-10-30T15:20:35+08:00",
         "daily_asof": "2026-11-25",
         "demand_batch": "2026-10-30",
@@ -46878,15 +46909,16 @@
           "wash": 0,
           "activation": 10.0,
           "relative": 7.439,
-          "risk": 9.198
+          "risk": 9.198,
+          "rebound_momentum": 24.2
         },
         "entry_components": {
-          "position": 34.94,
+          "position": 35,
           "volatility": 8.0,
-          "pattern": 0.0,
+          "pattern": 20.0,
           "demand": null
         },
-        "entry_observed_max": 100,
+        "entry_observed_max": 90,
         "legacy_multifactor": "48.84346627571638",
         "coil_sequence": "56.94066983788505",
         "reasons": [
@@ -46896,27 +46928,26 @@
         ],
         "triggers": [
           "挂牌价在158.9至181.99区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
         ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "无传统日K买点",
-          "同板块暂无其他提前蓄势分≥60的接力观察品"
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
+          "无传统日K买点：反弹追认模式按动量放宽"
         ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
         "live_buy_allowed": false,
         "potential_rank": 4
       },
       {
         "name": "M4A4 | X-Ray (Factory New)",
         "cn": "M4A4 | X 射线 (崭新出厂)",
-        "potential": 65.8,
-        "entry": null,
-        "state": "等待条件",
-        "market_permission": "数据等待，关闭新入场",
+        "potential": 89.02,
+        "entry": 53.41,
+        "state": "入场证据不足",
+        "market_permission": "研究放行（反弹追认）",
         "sector": {
           "name": "M4A4",
           "samples": 38,
@@ -46925,7 +46956,7 @@
           "breadth3": 0.6842105263157895
         },
         "follower_count": 1,
-        "quote": 621.5,
+        "quote": 688.99,
         "quote_at": "2026-10-30T15:14:25+08:00",
         "daily_asof": "2026-11-25",
         "demand_batch": "2026-10-30",
@@ -46938,15 +46969,16 @@
           "wash": 2.922,
           "activation": 6.453,
           "relative": 6.818,
-          "risk": 10
+          "risk": 10,
+          "rebound_momentum": 23.22
         },
         "entry_components": {
-          "position": 31.49,
+          "position": 35,
           "volatility": 8.41,
           "pattern": 10.0,
           "demand": null
         },
-        "entry_observed_max": 100,
+        "entry_observed_max": 90,
         "legacy_multifactor": "62.434833378666745",
         "coil_sequence": "56.52173126029967",
         "reasons": [
@@ -46956,20 +46988,320 @@
         ],
         "triggers": [
           "挂牌价在588.0至668.42区间并止跌确认",
-          "传统日K至少1类买点；有效求购未明显恶化"
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
         ],
-        "blockers": [
-          "上游时序未就绪：等待本时段报价发布；报价超时或时间异常",
-          "报价缺失或超过6小时",
-          "求购缺失或批次超过1天",
-          "可比求购厚度下降超过20%"
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场"
         ],
-        "data_notes": [],
-        "whale": "仅辅助，不计分、不因覆盖缺失扣分",
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
         "live_buy_allowed": false,
         "potential_rank": 5
       }
     ],
-    "entry_top5": []
+    "entry_top5": [
+      {
+        "name": "CZ75-Auto | Syndicate (Factory New)",
+        "cn": "CZ75自动型 | 辛迪加 (崭新出厂)",
+        "potential": 64.4,
+        "entry": 72.46,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
+        "sector": {
+          "name": "CZ75-Auto",
+          "samples": 18,
+          "state": "弱势",
+          "median_r3": -0.01091269841269843,
+          "breadth3": 0.2777777777777778
+        },
+        "follower_count": 0,
+        "quote": 80.0,
+        "quote_at": "",
+        "daily_asof": "2026-11-25",
+        "demand_batch": "2026-10-30",
+        "support": 69.89,
+        "invalidation_price": 69.28,
+        "entry_ceiling": 75.25,
+        "potential_components": {
+          "build": 0,
+          "tier": 8.531,
+          "wash": 6.307,
+          "activation": 7.917,
+          "relative": 10,
+          "risk": 10,
+          "rebound_momentum": 21.64
+        },
+        "entry_components": {
+          "position": 35,
+          "volatility": 17.46,
+          "pattern": 20.0,
+          "demand": null
+        },
+        "entry_observed_max": 90,
+        "legacy_multifactor": "72.11514218992512",
+        "coil_sequence": "44.19410539037864",
+        "reasons": [
+          "相对强度 10.0分",
+          "风险质量 10.0分",
+          "量价台阶 8.5分"
+        ],
+        "triggers": [
+          "挂牌价在69.89至75.25区间并止跌确认",
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
+        ],
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
+          "无传统日K买点：反弹追认模式按动量放宽"
+        ],
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
+        "live_buy_allowed": false,
+        "potential_rank": 167
+      },
+      {
+        "name": "Dual Berettas | Cobra Strike (Factory New)",
+        "cn": "双持贝瑞塔 | 毒蛇袭击 (崭新出厂)",
+        "potential": 61.06,
+        "entry": 71.32,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
+        "sector": {
+          "name": "Dual Berettas",
+          "samples": 17,
+          "state": "修复",
+          "median_r3": 0.0,
+          "breadth3": 0.35294117647058826
+        },
+        "follower_count": 0,
+        "quote": 438.5,
+        "quote_at": "2026-10-30T15:23:19+08:00",
+        "daily_asof": "2026-11-25",
+        "demand_batch": "2026-10-30",
+        "support": 374.0,
+        "invalidation_price": 369.15,
+        "entry_ceiling": 408.45,
+        "potential_components": {
+          "build": 0.376,
+          "tier": 0,
+          "wash": 7.545,
+          "activation": 10.0,
+          "relative": 10,
+          "risk": 9.365,
+          "rebound_momentum": 23.77
+        },
+        "entry_components": {
+          "position": 35,
+          "volatility": 16.32,
+          "pattern": 20.0,
+          "demand": null
+        },
+        "entry_observed_max": 90,
+        "legacy_multifactor": null,
+        "coil_sequence": "36.96704229459257",
+        "reasons": [
+          "持续放量 10.0分",
+          "相对强度 10.0分",
+          "风险质量 9.4分"
+        ],
+        "triggers": [
+          "挂牌价在374.0至408.45区间并止跌确认",
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
+        ],
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
+          "无传统日K买点：反弹追认模式按动量放宽"
+        ],
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
+        "live_buy_allowed": false,
+        "potential_rank": 205
+      },
+      {
+        "name": "★ Sport Gloves | Violet Beadwork (Minimal Wear)",
+        "cn": "运动手套（★） | 紫罗兰珠绣 (略有磨损)",
+        "potential": 64.93,
+        "entry": 70.23,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
+        "sector": {
+          "name": "★ Sport Gloves",
+          "samples": 20,
+          "state": "弱势",
+          "median_r3": -0.03728214537933816,
+          "breadth3": 0.3
+        },
+        "follower_count": 0,
+        "quote": 3333.0,
+        "quote_at": "2026-10-30T15:28:25+08:00",
+        "daily_asof": "2026-11-25",
+        "demand_batch": "2026-10-30",
+        "support": 2700.0,
+        "invalidation_price": 2652.3,
+        "entry_ceiling": 2963.96,
+        "potential_components": {
+          "build": 7.645,
+          "tier": 0,
+          "wash": 7.135,
+          "activation": 5.519,
+          "relative": 10,
+          "risk": 10,
+          "rebound_momentum": 24.63
+        },
+        "entry_components": {
+          "position": 35,
+          "volatility": 15.23,
+          "pattern": 20.0,
+          "demand": null
+        },
+        "entry_observed_max": 90,
+        "legacy_multifactor": null,
+        "coil_sequence": "37.25779165470239",
+        "reasons": [
+          "相对强度 10.0分",
+          "风险质量 10.0分",
+          "前期参与代理 7.6分"
+        ],
+        "triggers": [
+          "挂牌价在2700.0至2963.96区间并止跌确认",
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
+        ],
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
+          "无传统日K买点：反弹追认模式按动量放宽"
+        ],
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
+        "live_buy_allowed": false,
+        "potential_rank": 160
+      },
+      {
+        "name": "AWP | Fade (Factory New)",
+        "cn": "AWP | 渐变之色 (崭新出厂)",
+        "potential": 52.34,
+        "entry": 68.28,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
+        "sector": {
+          "name": "AWP",
+          "samples": 39,
+          "state": "修复",
+          "median_r3": 0.02146464646464641,
+          "breadth3": 0.5897435897435898
+        },
+        "follower_count": 0,
+        "quote": 2950.0,
+        "quote_at": "2026-10-30T15:13:39+08:00",
+        "daily_asof": "2026-11-25",
+        "demand_batch": "2026-10-30",
+        "support": 2599.5,
+        "invalidation_price": 2540.0,
+        "entry_ceiling": 2856.4,
+        "potential_components": {
+          "build": 6.164,
+          "tier": 0,
+          "wash": 0.144,
+          "activation": 5.534,
+          "relative": 7.583,
+          "risk": 10,
+          "rebound_momentum": 22.92
+        },
+        "entry_components": {
+          "position": 35,
+          "volatility": 13.28,
+          "pattern": 20.0,
+          "demand": null
+        },
+        "entry_observed_max": 90,
+        "legacy_multifactor": "56.196798278674684",
+        "coil_sequence": "19.667793808870584",
+        "reasons": [
+          "风险质量 10.0分",
+          "相对强度 7.6分",
+          "前期参与代理 6.2分"
+        ],
+        "triggers": [
+          "挂牌价在2599.5至2856.4区间并止跌确认",
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
+        ],
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
+          "无传统日K买点：反弹追认模式按动量放宽"
+        ],
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
+        "live_buy_allowed": false,
+        "potential_rank": 281
+      },
+      {
+        "name": "M4A4 | Poseidon (Factory New)",
+        "cn": "M4A4 | 波塞冬 (崭新出厂)",
+        "potential": 66.65,
+        "entry": 67.89,
+        "state": "研究条件满足，仅模拟试探",
+        "market_permission": "研究放行（反弹追认）",
+        "sector": {
+          "name": "M4A4",
+          "samples": 38,
+          "state": "修复",
+          "median_r3": 0.08311594271601197,
+          "breadth3": 0.6842105263157895
+        },
+        "follower_count": 1,
+        "quote": 7985.0,
+        "quote_at": "2026-10-30T15:14:25+08:00",
+        "daily_asof": "2026-11-25",
+        "demand_batch": "2026-10-30",
+        "support": 5800.0,
+        "invalidation_price": 5629.75,
+        "entry_ceiling": 6894.55,
+        "potential_components": {
+          "build": 3.018,
+          "tier": 0,
+          "wash": 1.557,
+          "activation": 15,
+          "relative": 10,
+          "risk": 8.748,
+          "rebound_momentum": 28.33
+        },
+        "entry_components": {
+          "position": 35,
+          "volatility": 12.89,
+          "pattern": 20.0,
+          "demand": null
+        },
+        "entry_observed_max": 90,
+        "legacy_multifactor": "51.020081672219796",
+        "coil_sequence": "30.656058950415122",
+        "reasons": [
+          "持续放量 15.0分",
+          "相对强度 10.0分",
+          "风险质量 8.7分"
+        ],
+        "triggers": [
+          "挂牌价在5800.0至6894.55区间并止跌确认",
+          "传统日K至少1类买点（求购为加分项，不构成触发条件）"
+        ],
+        "blockers": [],
+        "data_notes": [
+          "上游时序未就绪：反弹追认模式按日K继续判定",
+          "报价缺失或过期：反弹追认模式以日K收盘价为参考价",
+          "求购信息缺失或批次过期：仅加分项留空，不阻断入场",
+          "无传统日K买点：反弹追认模式按动量放宽"
+        ],
+        "whale": "仅辅助加分信息，非必要条件，不因覆盖缺失扣分",
+        "live_buy_allowed": false,
+        "potential_rank": 142
+      }
+    ]
   }
 }
