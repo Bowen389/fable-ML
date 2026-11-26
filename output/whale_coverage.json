@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:23:44.110966+08:00",
+  "generated_at": "2026-11-26T23:24:55.172240+08:00",
   "status": "degraded",
   "watch_list": {
     "monitored_goods": 30,
@@ -8,7 +8,7 @@
     "top30_snapshot_age_days": 0.72,
     "top30_snapshot_generated_at": "2026-11-25T22:06:00.433470+00:00",
     "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
-    "extra_goods_age_days": 8.97,
+    "extra_goods_age_days": 8.98,
     "has_whitelist": true
   },
   "pool": {
@@ -82,7 +82,7 @@
       "good_id": "769",
       "whales": 135,
       "latest_event": "2026-11-20T23:02:50+08:00",
-      "age_days": 6.01
+      "age_days": 6.02
     },
     {
       "item": "AWP | 冥界之河 (崭新出厂)",
@@ -96,7 +96,7 @@
       "good_id": "1238",
       "whales": 117,
       "latest_event": "2026-11-20T23:02:50+08:00",
-      "age_days": 6.01
+      "age_days": 6.02
     },
     {
       "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
@@ -164,7 +164,7 @@
   ],
   "item_count": 8164,
   "alerts": [
-    "监控白名单已 8.97 天没更新。",
+    "监控白名单已 8.98 天没更新。",
     "鲸鱼池 866 只、每轮 80 只，轮转周期约 10.82 天；单只鲸鱼的“最近”可能已经过去这么久。",
     "标的 梦魇武器箱 最近一次事件在 7.26 天前（203 只鲸鱼有记录）。",
     "标的 封装的创世终端机 最近一次事件在 7.31 天前（165 只鲸鱼有记录）。",

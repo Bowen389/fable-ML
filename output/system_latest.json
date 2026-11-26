@@ -5,7 +5,7 @@
     "notes": [
       "上游悠悠报价过期，SteamDT兜底报价可用，报价维度按兜底满足"
     ],
-    "checked_at": "2026-11-26T23:23:33.311566+08:00",
+    "checked_at": "2026-11-26T23:24:45.458462+08:00",
     "expected_quote_after": "2026-11-26T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-11-25",
@@ -17,11 +17,11 @@
       "reason": ""
     },
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "d432c5bc077f82cd2f4fd24a0ac997d38a11de91",
+    "fable_sha": "dfbad6a848179ef16083133553a162d36d2caea2",
     "quote_run_id": "41018408665"
   },
   "version": "unified-system-v1",
-  "generated_at": "2026-11-26T23:23:44.388776+08:00",
+  "generated_at": "2026-11-26T23:24:55.502502+08:00",
   "status": "partial",
   "modules": {
     "traditional": {
@@ -132,7 +132,7 @@
       ],
       "status": "stale",
       "rows": 815,
-      "age_hours": 655.9028238413889
+      "age_hours": 655.9225601827777
     },
     "demand": {
       "status": "stale",
@@ -146,7 +146,7 @@
     "whale": {
       "status": "partial",
       "generated_at": "2026-11-25T22:09:33+00:00",
-      "age_hours": 17.23641890777778,
+      "age_hours": 17.2561580275,
       "scan": {
         "processed": 80,
         "selected": 80,
@@ -170,7 +170,7 @@
       "basis": "仅相对上次成功扫描新增CD_RECOVER；首扫默认建基线，非真实买入认定"
     },
     "coverage": {
-      "generated_at": "2026-11-26T23:23:44.110966+08:00",
+      "generated_at": "2026-11-26T23:24:55.172240+08:00",
       "status": "degraded",
       "watch_list": {
         "monitored_goods": 30,
@@ -179,7 +179,7 @@
         "top30_snapshot_age_days": 0.72,
         "top30_snapshot_generated_at": "2026-11-25T22:06:00.433470+00:00",
         "extra_goods_updated_at": "2026-11-18T00:00:00+08:00",
-        "extra_goods_age_days": 8.97,
+        "extra_goods_age_days": 8.98,
         "has_whitelist": true
       },
       "pool": {
@@ -253,7 +253,7 @@
           "good_id": "769",
           "whales": 135,
           "latest_event": "2026-11-20T23:02:50+08:00",
-          "age_days": 6.01
+          "age_days": 6.02
         },
         {
           "item": "AWP | 冥界之河 (崭新出厂)",
@@ -267,7 +267,7 @@
           "good_id": "1238",
           "whales": 117,
           "latest_event": "2026-11-20T23:02:50+08:00",
-          "age_days": 6.01
+          "age_days": 6.02
         },
         {
           "item": "M4A4 | 喧嚣杀戮 (崭新出厂)",
@@ -335,7 +335,7 @@
       ],
       "item_count": 8164,
       "alerts": [
-        "监控白名单已 8.97 天没更新。",
+        "监控白名单已 8.98 天没更新。",
         "鲸鱼池 866 只、每轮 80 只，轮转周期约 10.82 天；单只鲸鱼的“最近”可能已经过去这么久。",
         "标的 梦魇武器箱 最近一次事件在 7.26 天前（203 只鲸鱼有记录）。",
         "标的 封装的创世终端机 最近一次事件在 7.31 天前（165 只鲸鱼有记录）。",
@@ -346,7 +346,7 @@
       "basis": "只读本地状态；CD_RECOVER 为回库事件，不是成交确认。"
     },
     "token_watch": {
-      "generated_at": "2026-11-26T23:23:44.379599+08:00",
+      "generated_at": "2026-11-26T23:24:55.489872+08:00",
       "ttl_days": 10,
       "remind_days": 7,
       "sources": {
@@ -393,25 +393,25 @@
       "url": "https://raw.githubusercontent.com/huvan9527-a11y/buy-cs/main/data/steamdt_daily_1y_raw.csv",
       "sha256": "d4652de7a95ee40e8af2da8879719bfceaf9d7524fadcbb3430d1220fd0286ef",
       "bytes": 71290245,
-      "fetched_at": "2026-11-26T23:23:36.957666+08:00"
+      "fetched_at": "2026-11-26T23:24:47.696379+08:00"
     },
     "quotes": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_scores_latest.csv",
       "sha256": "b9e0f52d60769f1be264cc29f2d703db218f91ea14bcfb286423728fc27ef160",
       "bytes": 617973,
-      "fetched_at": "2026-11-26T23:23:37.204962+08:00"
+      "fetched_at": "2026-11-26T23:24:47.745079+08:00"
     },
     "quote_meta": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/intraday_latest.json",
       "sha256": "d75904ced996618517fce725d6c4d086df66139f1524cae473f191c2f6eb3167",
       "bytes": 3368,
-      "fetched_at": "2026-11-26T23:23:37.231150+08:00"
+      "fetched_at": "2026-11-26T23:24:47.772971+08:00"
     },
     "demand": {
       "url": "https://raw.githubusercontent.com/Bowen389/up/a4219bf383cfb727c96ca11b8744d85d831a3241/data/yyyp.db",
       "sha256": "fc274034f7c5aeecf92b1f0854511a752af88ff5d5bb0c2d84864283044c9832",
       "bytes": 46362624,
-      "fetched_at": "2026-11-26T23:23:38.351270+08:00"
+      "fetched_at": "2026-11-26T23:24:47.984633+08:00"
     }
   },
   "traditional_hits": [
@@ -46683,7 +46683,7 @@
       "notes": [
         "上游悠悠报价过期，SteamDT兜底报价可用，报价维度按兜底满足"
       ],
-      "checked_at": "2026-11-26T23:23:33.311566+08:00",
+      "checked_at": "2026-11-26T23:24:45.458462+08:00",
       "expected_quote_after": "2026-11-26T21:17:00+08:00",
       "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
       "expected_daily_asof": "2026-11-25",
@@ -46695,11 +46695,11 @@
         "reason": ""
       },
       "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-      "fable_sha": "d432c5bc077f82cd2f4fd24a0ac997d38a11de91",
+      "fable_sha": "dfbad6a848179ef16083133553a162d36d2caea2",
       "quote_run_id": "41018408665"
     },
     "version": "decision-v1",
-    "generated_at": "2026-11-26T23:23:44.393785+08:00",
+    "generated_at": "2026-11-26T23:24:55.508648+08:00",
     "asof": "2026-11-25",
     "status": "research_only",
     "data_status": "available",

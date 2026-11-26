@@ -5,7 +5,7 @@
     "notes": [
       "上游悠悠报价过期，SteamDT兜底报价可用，报价维度按兜底满足"
     ],
-    "checked_at": "2026-11-26T23:23:33.311566+08:00",
+    "checked_at": "2026-11-26T23:24:45.458462+08:00",
     "expected_quote_after": "2026-11-26T21:17:00+08:00",
     "quote_generated_at": "2026-10-30T15:29:33.904667+08:00",
     "expected_daily_asof": "2026-11-25",
@@ -17,11 +17,11 @@
       "reason": ""
     },
     "upstream_sha": "a4219bf383cfb727c96ca11b8744d85d831a3241",
-    "fable_sha": "d432c5bc077f82cd2f4fd24a0ac997d38a11de91",
+    "fable_sha": "dfbad6a848179ef16083133553a162d36d2caea2",
     "quote_run_id": "41018408665"
   },
   "version": "decision-v1",
-  "generated_at": "2026-11-26T23:23:44.393785+08:00",
+  "generated_at": "2026-11-26T23:24:55.508648+08:00",
   "asof": "2026-11-25",
   "status": "research_only",
   "data_status": "available",
