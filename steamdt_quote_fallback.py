@@ -79,8 +79,8 @@ def _ts_to_iso(ts):
 
 
 def fetch_steamdt_prices(names, api_key=None, chunk=100):
-    """批量拉取 SteamDT 价格。返回 dict: name -> {sell_price, sell_count, bidding_price,
-    bidding_count, update_time_iso, platform}；未取到/无悠悠平台记为 None 项。"""
+    """批量拉取 SteamDT 价格。返回 dict: name -> {sell_price, sell_count, ...}。
+    对限流做重试+退避；单批最终失败则跳过该批(不中断后续批次)，用已成功批的结果。"""
     api_key = api_key or _api_key()
     if not api_key:
         return {}, 'STEAMDT_API_KEY 为空：请在仓库 Settings → Secrets 添加'
@@ -88,9 +88,18 @@ def fetch_steamdt_prices(names, api_key=None, chunk=100):
     names = [n for n in names if n]
     for i in range(0, len(names), chunk):
         batch = names[i:i + chunk]
-        js, err = _post(PRICE_BATCH_PATH, {'marketHashNames': batch}, api_key)
-        if err or not js or not js.get('success'):
-            return out, f'SteamDT 批量价格失败: {err or (js or {}).get("errorMsg") if js else "无响应"}'
+        js = None
+        for attempt in range(4):
+            js, err = _post(PRICE_BATCH_PATH, {'marketHashNames': batch}, api_key)
+            msg = (js or {}).get('errorMsg', '') if js else ''
+            # 仅业务级限流(success=false 且消息含上限/限)做退避重试；HTTP 错误 _post 内部已重试，直接跳过该批。
+            rate_limited = js is not None and not js.get('success') and ('上限' in msg or '限' in msg)
+            if not rate_limited:
+                break
+            time.sleep(20 * (attempt + 1))  # 退避重试限流
+        if not js or not js.get('success'):
+            # 该批最终失败：跳过，保留已成功批的结果，不中断整体
+            continue
         for item in (js.get('data') or []):
             if not isinstance(item, dict):
                 continue
@@ -106,6 +115,7 @@ def fetch_steamdt_prices(names, api_key=None, chunk=100):
                 'update_time_iso': _ts_to_iso(rec.get('updateTime')),
                 'platform': rec.get('platform'),
             }
+        time.sleep(1)  # 批间小延迟，降低触发限流
     return out, ''
 
 

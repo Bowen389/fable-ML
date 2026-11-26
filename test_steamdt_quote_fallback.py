@@ -132,6 +132,30 @@ class TestOverlay(unittest.TestCase):
         self.assertIn('error', stats)
         self.assertEqual(new_rows[0]['实时挂牌价'], 100.0)  # 失败不覆盖
 
+    def test_rate_limit_retries_then_succeeds(self):
+        # 首次限流、重试后成功：应完成覆盖
+        rows = [_stale_row()]
+        rate_limited = {'success': False, 'data': None, 'errorMsg': '当前接口请求已达到上限'}
+        success = _steamdt_payload(['AK-47 | X-Ray (Field-Tested)'])
+        side = [(rate_limited, ''), (success, '')]
+        with patch.object(fb, '_post', side_effect=side), \
+             patch.object(fb.time, 'sleep', return_value=None), \
+             patch.dict('os.environ', {'STEAMDT_API_KEY': 'KEY'}, clear=False):
+            new_rows, stats = fb.overlay_stale_quotes(rows, api_key='KEY', now=NOW)
+        self.assertEqual(stats['overlaid'], 1)
+        self.assertEqual(new_rows[0]['实时挂牌价'], 123.0)
+
+    def test_rate_limit_exhausted_skips_batch(self):
+        # 持续限流：跳过该批，保留原值不覆盖
+        rows = [_stale_row()]
+        rate_limited = {'success': False, 'data': None, 'errorMsg': '当前接口请求已达到上限'}
+        with patch.object(fb, '_post', return_value=(rate_limited, '')), \
+             patch.object(fb.time, 'sleep', return_value=None), \
+             patch.dict('os.environ', {'STEAMDT_API_KEY': 'KEY'}, clear=False):
+            new_rows, stats = fb.overlay_stale_quotes(rows, api_key='KEY', now=NOW)
+        self.assertEqual(stats['overlaid'], 0)
+        self.assertEqual(new_rows[0]['实时挂牌价'], 100.0)  # 保留原值
+
 
 if __name__ == '__main__':
     unittest.main()
