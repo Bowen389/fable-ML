@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-24",
-  "generated_at": "2026-11-25T19:20:08.937025+08:00",
+  "asof": "2026-11-25",
+  "generated_at": "2026-11-26T18:55:22.388983+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -9,7 +9,7 @@
   "price_basis": "youpin daily OHLC",
   "volume_basis": "all-platform proxy",
   "items_requested": 773,
-  "items_loaded": 716,
+  "items_loaded": 717,
   "failures": [
     {
       "name": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
@@ -76,11 +76,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
+      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+      "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -92,11 +92,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Big Swell (Field-Tested)",
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "name": "★ Specialist Gloves | Big Swell (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -108,11 +108,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+      "name": "Glock-18 | Fully Tuned (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "Glock-18 | Fully Tuned (Factory New)",
+      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -205,10 +205,6 @@
     },
     {
       "name": "CZ75-Auto | Hydraulics (Factory New)",
-      "error": "ValueError: Less than 300 valid history rows"
-    },
-    {
-      "name": "SG 553 | Barricade (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -475,10 +471,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 645,
-  "historical_rows": 947476,
+  "daily_rows": 642,
+  "historical_rows": 948492,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-24",
+  "expected_completed_date": "2026-11-25",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
