@@ -15,19 +15,47 @@ def expected_quote_slot(current):
 
 _QUOTE_REASONS=('等待本时段报价发布','报价超时或时间异常','报价时间缺失','报价没有有效数据')
 
-def _sample_names(quote,limit=6):
-    """从上游报价文件里提取若干 marketHashName 用于 SteamDT 可用性探测。"""
-    for key in ('monitor_items','monitor_universe','report_rows','score_rows','price_rows'):
-        v=quote.get(key)
-        if isinstance(v,list):
-            names=[]
-            for r in v:
-                if isinstance(r,dict):
-                    n=r.get('name') or r.get('marketHashName')
-                    if n and n not in names:names.append(n)
+# 热门饰品兜底样本：SteamDT 价格接口需要 Steam 官方英文 marketHashName；
+# 这些是各平台长期在售的常见款，用于可用性探测(不要求在监控池内)。
+POPULAR_NAMES=['AK-47 | Redline (Field-Tested)','M4A4 | Hyper Beast (Field-Tested)',
+               'Desert Eagle | Light Rail (Field-Tested)','USP-S | Kill Confirmed (Field-Tested)',
+               'AWP | Asiimov (Field-Tested)','Glock-18 | Fade (Field-Tested)']
+
+def _names_from_csv(text,limit=8):
+    """从 fable-ML 发布的 unified_monitor.csv 提取 name 列(标准英文 marketHashName)。"""
+    if not text:return []
+    names=[]
+    for line in text.splitlines():
+        line=line.strip()
+        if not line or line.lower().startswith('name'):continue
+        # name 是首列，按首个逗号切
+        head=line.split(',',1)[0].strip()
+        if head and head not in names:names.append(head)
+        if len(names)>=limit:break
+    return names
+
+def _sample_names(quote,csv_text=None,limit=8):
+    """汇总多源样本名用于 SteamDT 可用性探测：CSV(主) > 报价JSON(次) > 热门兜底。"""
+    names=[]
+    if csv_text:
+        names=_names_from_csv(csv_text,limit)
+    if len(names)<3:
+        for key in ('unmapped_research_scores','monitor_universe','report_rows','score_rows'):
+            v=quote.get(key)
+            if isinstance(v,list):
+                for r in v:
+                    if isinstance(r,dict):
+                        n=r.get('name') or r.get('marketHashName')
+                        if n and n not in names:names.append(n)
+                    elif isinstance(r,str) and r not in names:
+                        names.append(r)
                     if len(names)>=limit:break
-            if names:return names
-    return []
+            if len(names)>=limit:break
+    if len(names)<3:
+        for n in POPULAR_NAMES:
+            if n not in names:names.append(n)
+            if len(names)>=limit:break
+    return names[:limit]
 
 def steamdt_quote_available(api_key,names,current):
     """探测 SteamDT 是否能提供悠悠有品在售价。返回 dict(available,probed,fresh,reason)。
@@ -85,8 +113,13 @@ def inspect():
     quote=fetch('https://raw.githubusercontent.com/Bowen389/up/'+up+'/data/intraday_latest.json')
     head=fetch('https://api.github.com/repos/Bowen389/fable-ML/git/ref/heads/main')['object']['sha']
     coil=fetch('https://raw.githubusercontent.com/Bowen389/fable-ML/'+head+'/output/daily_coil_candidates.json')
+    # 从 fable-ML 已发布的 unified_monitor.csv 取真实英文 marketHashName 作为 SteamDT 探测样本
+    try:
+        csv_text=fetch('https://raw.githubusercontent.com/Bowen389/fable-ML/'+head+'/output/unified_monitor.csv')
+    except Exception:
+        csv_text=''
     current=datetime.now(TZ)
-    steamdt=steamdt_quote_available(os.environ.get('STEAMDT_API_KEY','').strip(),_sample_names(quote),current)
+    steamdt=steamdt_quote_available(os.environ.get('STEAMDT_API_KEY','').strip(),_sample_names(quote,csv_text),current)
     result=assess(current,quote,coil,steamdt);result.update(upstream_sha=up,fable_sha=head,quote_run_id=quote.get('run_id'))
     return result
 def main():

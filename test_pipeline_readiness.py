@@ -77,13 +77,27 @@ class SteamDTFallbackTests(unittest.TestCase):
         self.assertFalse(r['available'])
         self.assertIn('样本',r['reason'])
 
-    def test_sample_names_extraction(self):
-        quote={'monitor_items':[{'name':'AK-47 | Redline (Field-Tested)'},{'name':'M4A4 | 合纵'}]}
-        names=_sample_names(quote,limit=2)
-        self.assertEqual(names,['AK-47 | Redline (Field-Tested)','M4A4 | 合纵'])
+    def test_sample_names_from_csv(self):
+        csv='name,商品,yyyp_id\nAK-47 | Redline (Field-Tested),AK,1\nM4A4 | Hyper Beast (Field-Tested),M4,2\nDesert Eagle | Light Rail (Field-Tested),DE,3\n'
+        names=_sample_names({},csv_text=csv,limit=5)
+        self.assertEqual(names,['AK-47 | Redline (Field-Tested)','M4A4 | Hyper Beast (Field-Tested)','Desert Eagle | Light Rail (Field-Tested)'])
 
-    def test_sample_names_empty(self):
-        self.assertEqual(_sample_names({},limit=3),[])
+    def test_sample_names_from_quote_json(self):
+        quote={'unmapped_research_scores':[{'name':'AK-47 | Redline (Field-Tested)'},{'name':'M4A4 | Hyper Beast (Field-Tested)'},{'name':'AWP | Asiimov (Field-Tested)'}]}
+        names=_sample_names(quote,csv_text=None,limit=5)
+        self.assertIn('AK-47 | Redline (Field-Tested)',names)
+        self.assertIn('M4A4 | Hyper Beast (Field-Tested)',names)
+
+    def test_sample_names_popular_fallback(self):
+        # 无任何可用源时回退到热门饰品
+        names=_sample_names({},csv_text='',limit=3)
+        self.assertGreaterEqual(len(names),3)
+        self.assertIn('AK-47 | Redline (Field-Tested)',names)
+
+    def test_sample_names_csv_skips_header(self):
+        csv='name,商品\nAWP | Asiimov (Field-Tested),AWP\nAK-47 | Redline (Field-Tested),AK\nM4A4 | Hyper Beast (Field-Tested),M4\n'
+        names=_sample_names({},csv_text=csv,limit=5)
+        self.assertEqual(names[0],'AWP | Asiimov (Field-Tested)')  # 跳过表头 name
 
 if __name__=='__main__':
     unittest.main()
