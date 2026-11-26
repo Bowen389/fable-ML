@@ -192,6 +192,14 @@ def main():
         if 'quotes' in modules:raise ValueError('Quote source unavailable')
         monitor=readrows(paths['quotes']);meta=readjson(paths['quote_meta'],{}) if 'quote_meta' not in modules else {}
         if not monitor or 'yyyp_id' not in monitor[0]:raise ValueError('Quote CSV schema')
+        # 临时兜底：悠悠报价缺失/超6小时过期时，用 SteamDT 价格接口(悠悠有品平台)覆盖在售价/在售数，
+        # 让决策引擎照常运行。仅覆盖报价字段，求购/日K/评分不动；覆盖行标注来源，token 恢复后可回退。
+        try:
+            from steamdt_quote_fallback import overlay_stale_quotes as _sd_overlay
+            monitor,_sd_stats=_sd_overlay(monitor,now=now())
+            modules['quotes_steamdt_fallback']=_sd_stats
+        except Exception as _exc:
+            modules['quotes_steamdt_fallback']={'status':'error','reason':type(_exc).__name__}
         modules['quotes']={k:v for k,v in meta.items() if k in ('status','generated_at','price_rows','price_missing_rows','monitor_items','score_dates','demand_batches')}
         modules['quotes'].setdefault('status','partial');modules['quotes']['rows']=len(monitor)
         if meta.get('generated_at'):
