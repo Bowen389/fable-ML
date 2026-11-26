@@ -55,6 +55,7 @@ jobs:
       - name: Build full report
         env:
           CSQAQ_TOKEN: ${{ secrets.CSQAQ_TOKEN }}
+          STEAMDT_API_KEY: ${{ secrets.STEAMDT_API_KEY }}
           COLLECT: ${{ github.event.inputs.collect_whale }}
           EVENT: ${{ github.event_name }}
           CRON: ${{ github.event.schedule }}
