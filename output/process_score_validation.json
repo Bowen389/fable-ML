@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-25",
-  "generated_at": "2026-11-26T18:55:22.388983+08:00",
+  "asof": "2026-11-26",
+  "generated_at": "2026-11-27T18:56:07.203161+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -76,19 +76,19 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
-      "error": "ValueError: Less than 300 valid history rows"
-    },
-    {
       "name": "★ Specialist Gloves | Blackbook (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+      "name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
       "name": "AWP | Queen's Gambit (Factory New)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -108,11 +108,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "Glock-18 | Fully Tuned (Factory New)",
+      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
+      "name": "Glock-18 | Fully Tuned (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -228,11 +228,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "Tec-9 | Sultan (Factory New)",
+      "name": "M4A1-S | Electrum (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "M4A1-S | Electrum (Factory New)",
+      "name": "Tec-9 | Sultan (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     }
   ],
@@ -471,10 +471,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 642,
-  "historical_rows": 948492,
+  "daily_rows": 649,
+  "historical_rows": 949209,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-25",
+  "expected_completed_date": "2026-11-26",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [

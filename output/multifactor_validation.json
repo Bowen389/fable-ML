@@ -1,18 +1,18 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-11-26T18:57:05.620324+08:00",
-  "asof": "2026-11-25",
+  "generated_at": "2026-11-27T18:57:48.691087+08:00",
+  "asof": "2026-11-26",
   "items_requested": 773,
   "items_loaded": 717,
-  "rows": 948492,
-  "daily_rows": 640,
+  "rows": 949209,
+  "daily_rows": 645,
   "scoring_pool_status_counts": {
-    "可评分": 640,
+    "可评分": 645,
     "历史不足": 56,
-    "量能条件不足": 44,
+    "量能条件不足": 38,
     "研究品类排除": 43,
-    "平价或数据条件不满足": 2,
-    "低于价格门槛": 31
+    "平价或数据条件不满足": 4,
+    "低于价格门槛": 30
   },
   "failures": [
     {
@@ -188,11 +188,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "P90 | Deathgaze (Factory New)",
+      "name": "P250 | Kintsugi (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "P250 | Kintsugi (Factory New)",
+      "name": "P90 | Deathgaze (Factory New)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -244,8 +244,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-02-28",
-  "validation_start": "2026-08-27",
+  "calibration_start": "2026-03-01",
+  "validation_start": "2026-08-28",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -337,8 +337,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-07-27",
-  "rolling_signal_end": "2026-10-25",
+  "rolling_signal_start": "2026-07-28",
+  "rolling_signal_end": "2026-10-26",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {
