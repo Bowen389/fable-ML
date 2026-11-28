@@ -1,17 +1,17 @@
 {
   "version": "regime-multifactor-v1",
-  "generated_at": "2026-11-27T18:57:48.691087+08:00",
-  "asof": "2026-11-26",
+  "generated_at": "2026-11-28T18:29:49.025297+08:00",
+  "asof": "2026-11-27",
   "items_requested": 773,
   "items_loaded": 717,
-  "rows": 949209,
-  "daily_rows": 645,
+  "rows": 949926,
+  "daily_rows": 633,
   "scoring_pool_status_counts": {
-    "可评分": 645,
+    "可评分": 633,
+    "量能条件不足": 49,
     "历史不足": 56,
-    "量能条件不足": 38,
     "研究品类排除": 43,
-    "平价或数据条件不满足": 4,
+    "平价或数据条件不满足": 5,
     "低于价格门槛": 30
   },
   "failures": [
@@ -148,11 +148,11 @@
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
+      "name": "★ Driver Gloves | Plum Quill (Field-Tested)",
       "error": "Less than 300 valid history rows"
     },
     {
@@ -244,8 +244,8 @@
   "daily_mode": true,
   "validation_asof": "2026-10-22",
   "parameter_search_runs": 0,
-  "calibration_start": "2026-03-01",
-  "validation_start": "2026-08-28",
+  "calibration_start": "2026-03-02",
+  "validation_start": "2026-08-29",
   "profiles": {
     "环境适配": {
       "熊市": [
@@ -337,8 +337,8 @@
     "I3": "强势缩量回踩",
     "I4": "过程结构再启动"
   },
-  "rolling_signal_start": "2026-07-28",
-  "rolling_signal_end": "2026-10-26",
+  "rolling_signal_start": "2026-07-29",
+  "rolling_signal_end": "2026-10-27",
   "total_search_combinations_including_rolling": 0,
   "results": [
     {

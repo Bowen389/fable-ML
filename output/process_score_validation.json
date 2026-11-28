@@ -1,7 +1,7 @@
 {
   "version": "leader-process-score-v1",
-  "asof": "2026-11-26",
-  "generated_at": "2026-11-27T18:56:07.203161+08:00",
+  "asof": "2026-11-27",
+  "generated_at": "2026-11-28T18:27:10.920212+08:00",
   "training_runs": 0,
   "validation_asof": "2026-10-22",
   "daily_mode": true,
@@ -20,11 +20,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "name": "★ Sport Gloves | Occult (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Minimal Wear)",
+      "name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -36,11 +36,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Blackbook (Minimal Wear)",
+      "name": "★ Sport Gloves | Occult (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Occult (Field-Tested)",
+      "name": "★ Specialist Gloves | Blackbook (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -48,11 +48,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "name": "★ Specialist Gloves | Big Swell (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Specialist Gloves | Big Swell (Minimal Wear)",
+      "name": "★ Driver Gloves | Garden (Minimal Wear)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -84,15 +84,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "AWP | Queen's Gambit (Factory New)",
-      "error": "ValueError: Less than 300 valid history rows"
-    },
-    {
       "name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "★ Sport Gloves | Frosty (Field-Tested)",
+      "name": "AWP | Queen's Gambit (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -101,6 +97,10 @@
     },
     {
       "name": "★ Driver Gloves | Garden (Field-Tested)",
+      "error": "ValueError: Less than 300 valid history rows"
+    },
+    {
+      "name": "★ Sport Gloves | Frosty (Field-Tested)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -184,11 +184,11 @@
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "P250 | Kintsugi (Factory New)",
+      "name": "P90 | Deathgaze (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
-      "name": "P90 | Deathgaze (Factory New)",
+      "name": "P250 | Kintsugi (Factory New)",
       "error": "ValueError: Less than 300 valid history rows"
     },
     {
@@ -471,10 +471,10 @@
     "validation_asof": "2026-10-22"
   },
   "evidence_score_bands": [],
-  "daily_rows": 649,
-  "historical_rows": 949209,
+  "daily_rows": 638,
+  "historical_rows": 949926,
   "earliest_price_date": "2023-01-18",
-  "expected_completed_date": "2026-11-26",
+  "expected_completed_date": "2026-11-27",
   "data_stale": false,
   "target": "次日收盘代理入场；第7至30自然日净收盘收益先达到+20%再达到-10%；完整31日真实报价窗口",
   "limitations": [
